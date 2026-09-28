@@ -75,7 +75,7 @@ function setLang(l) {
 }
 
 function render() {
-  let stories = currentLang === 'fi' ? STORIES_FI.filter(s => s.headline_fi && s.headline_fi !== s.headline) : STORIES_EN;
+  let stories = currentLang === 'fi' ? STORIES_FI : STORIES_EN;
   const box = document.getElementById('stories');
   if (!stories.length) { box.innerHTML = '<p class="sub">Ei uutisia saatavilla.</p>'; return; }
   box.innerHTML = stories.map(s => {
