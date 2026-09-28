@@ -1,420 +1,105 @@
 [
   {
-    "headline": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
-    "headline_fi": "Taylor Swiftistä tuli MTV VMA:n historian palkituin artisti 31 voitolla",
-    "link": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
-    "source": "France 24",
-    "pub": "2026-09-28 02:07"
+    "headline": "India: LPU suspends classes after violent protests over alleged campus rape",
+    "headline_fi": "Intia: LPU keskeyttää oppitunnit väitettyyn kampusraiskaukseen liittyvien väkivaltaisten mielenosoitusten jälkeen",
+    "link": "https://www.dw.com/en/india-lpu-suspends-classes-after-violent-protests-over-alleged-campus-rape/live-79454038?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
   },
   {
-    "headline": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
-    "headline_fi": "Etiopia syyttää Sudanin Eritreaa tigray-kapinallisten tukemisesta yhteenottojen keskellä",
-    "link": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
-    "source": "France 24",
-    "pub": "2026-09-27 23:27"
+    "headline": "Venezuelans demand opposition leader Machado's return",
+    "headline_fi": "Venezuelalaiset vaativat oppositiojohtaja Machadon paluuta",
+    "link": "https://www.dw.com/en/venezuelans-demand-opposition-leader-machado-s-return/a-79454054?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
   },
   {
-    "headline": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
-    "headline_fi": "Trump odottaa Iranin neuvotteluja ensi viikolla hylättyään seitsemän päivän aselepoehdotuksen",
-    "link": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
-    "source": "France 24",
-    "pub": "2026-09-27 22:10"
-  },
-  {
-    "headline": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
-    "headline_fi": "Venäjän hyökkäyksissä kuoli kahdeksan Ukrainassa Moskovan lupattua jatkaa sotaa",
-    "link": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
-    "source": "France 24",
-    "pub": "2026-09-27 21:55"
-  },
-  {
-    "headline": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
-    "headline_fi": "Israel peruutti hollantilaisten diplomaattien valtakirjat Länsirannalla siirtokuntatavaroiden kiellon vuoksi",
-    "link": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
-    "source": "France 24",
-    "pub": "2026-09-27 21:47"
-  },
-  {
-    "headline": "Watch: mass Madrid protests over Maricarmen eviction and housing crisis",
-    "headline_fi": "Katso: Madridin joukkomielenosoituksia Maricarmenin häätöstä ja asuntokriisistä",
-    "link": "https://www.euronews.com/video/2026/09/27/watch-mass-madrid-protests-over-maricarmen-eviction-and-housing-crisis",
-    "source": "Euronews",
-    "pub": "2026-09-27 21:02"
-  },
-  {
-    "headline": "Northern Ireland: 2,000 protesters block disputed Portadown march",
-    "headline_fi": "Pohjois-Irlanti: 2 000 mielenosoittajaa esti kiistanalaisen Portadown-marssin",
-    "link": "https://www.euronews.com/video/2026/09/27/northern-ireland-2000-protesters-block-disputed-portadown-march",
-    "source": "Euronews",
-    "pub": "2026-09-27 19:45"
-  },
-  {
-    "headline": "Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction",
-    "headline_fi": "Sánchez lupasi hyväksyä asuntoasetuksen tiistaina Maricarmenin häädystä koetellessa raivoissaan",
-    "link": "https://www.euronews.com/2026/09/27/sanchez-vows-to-pass-housing-decree-on-tuesday-amid-outrage-over-maricarmen-eviction",
-    "source": "Euronews",
-    "pub": "2026-09-27 19:38"
-  },
-  {
-    "headline": "France's far right gains ground in indirect Senate elections",
-    "headline_fi": "Ranskan äärioikeisto nousi epäsuorissa senaatin vaaleissa",
-    "link": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
-    "source": "France 24",
-    "pub": "2026-09-27 19:34"
-  },
-  {
-    "headline": "How neutral should Switzerland be? Voters deliver decisive verdict",
-    "headline_fi": "Kuinka neutraali Sveitsin pitäisi olla?Äänestäjät tekevät ratkaisevan päätöksen",
-    "link": "https://www.euronews.com/2026/09/27/how-neutral-should-switzerland-be-voters-deliver-decisive-verdict",
-    "source": "Euronews",
-    "pub": "2026-09-27 18:59"
-  },
-  {
-    "headline": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
-    "headline_fi": "Serbian presidentti Aleksandar Vucic eroaa ja pyrkii pääministeriksi lokakuun vaaleissa",
-    "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
-    "source": "France 24",
-    "pub": "2026-09-27 18:17"
-  },
-  {
-    "headline": "Latest news bulletin | September 27th, 2026 – Evening",
-    "headline_fi": "Uusin uutistiedote |27.9.2026 – ilta",
-    "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-09-27 18:00"
-  },
-  {
-    "headline": "Netanyahu battles October 7 warnings revelations with defiant UN speech",
-    "headline_fi": "Netanyahu taistelee 7. lokakuuta varoituspaljastuksia vastaan ​​uhmakkaalla YK-puheella",
-    "link": "https://www.euronews.com/2026/09/27/netanyahu-battles-october-7-warnings-revelations-with-defiant-un-speech",
-    "source": "Euronews",
-    "pub": "2026-09-27 17:41"
-  },
-  {
-    "headline": "Iran claims seizure of an underwater US drone in Hormuz, US denies the claim",
-    "headline_fi": "Iran väittää takavarikoneensa vedenalaisen yhdysvaltalaisen dronin Hormuzissa, Yhdysvallat kiistää väitteen",
-    "link": "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz",
-    "source": "Euronews",
-    "pub": "2026-09-27 17:01"
-  },
-  {
-    "headline": "Serbia's politicians return to TV debates ahead of parliamentary election",
-    "headline_fi": "Serbian poliitikot palaavat tv-keskusteluun ennen parlamenttivaaleja",
-    "link": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election",
-    "source": "Euronews",
-    "pub": "2026-09-27 16:58"
-  },
-  {
-    "headline": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
-    "headline_fi": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
-    "link": "https://www.euronews.com/video/2026/09/27/seven-killed-dozens-hurt-in-saudi-airstrike-on-yemen-market",
-    "source": "Euronews",
-    "pub": "2026-09-27 16:30"
-  },
-  {
-    "headline": "Collateral damage: How Cognac is paying the price for Europe’s trade wars",
-    "headline_fi": "Collateral damage: How Cognac is paying the price for Europe’s trade wars",
-    "link": "https://www.euronews.com/2026/09/27/cognac-pays-the-price-for-europes-trade-wars",
-    "source": "Euronews",
-    "pub": "2026-09-27 16:16"
-  },
-  {
-    "headline": "Ireland team to wear black armbands as players vote to go ahead with Israel game",
-    "headline_fi": "Ireland team to wear black armbands as players vote to go ahead with Israel game",
-    "link": "https://www.euronews.com/2026/09/27/ireland-team-to-wear-black-armbands-as-players-vote-to-go-ahead-with-israel-game",
-    "source": "Euronews",
-    "pub": "2026-09-27 15:06"
-  },
-  {
-    "headline": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
-    "headline_fi": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
-    "link": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
-    "source": "France 24",
-    "pub": "2026-09-27 14:55"
-  },
-  {
-    "headline": "Etna erupts again: chaos at Catania airport, risk of higher air fares",
-    "headline_fi": "Etna erupts again: chaos at Catania airport, risk of higher air fares",
-    "link": "https://www.euronews.com/2026/09/27/etna-erupts-again-chaos-at-catania-airport-risk-of-higher-air-fares",
-    "source": "Euronews",
-    "pub": "2026-09-27 14:39"
-  },
-  {
-    "headline": "How Russia recruits Belarusians for war in Ukraine: Methods and consequences",
-    "headline_fi": "How Russia recruits Belarusians for war in Ukraine: Methods and consequences",
-    "link": "https://www.euronews.com/2026/09/27/how-russia-recruits-belarusians-for-war-in-ukraine-methods-and-consequences",
-    "source": "Euronews",
-    "pub": "2026-09-27 14:30"
-  },
-  {
-    "headline": "South Africa shootings leave 27 killed",
-    "headline_fi": "South Africa shootings leave 27 killed",
-    "link": "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-    "source": "France 24",
-    "pub": "2026-09-27 13:56"
-  },
-  {
-    "headline": "First Protestant march in Catholic area in nearly 30 years",
-    "headline_fi": "First Protestant march in Catholic area in nearly 30 years",
-    "link": "https://www.france24.com/en/first-protestant-march-in-catholic-area-in-nearly-30-years",
-    "source": "France 24",
-    "pub": "2026-09-27 13:54"
-  },
-  {
-    "headline": "Femicides on the rise in South Africa",
-    "headline_fi": "Femicides on the rise in South Africa",
-    "link": "https://www.france24.com/en/femicides-on-the-rise-in-south-africa",
-    "source": "France 24",
-    "pub": "2026-09-27 13:51"
-  },
-  {
-    "headline": "Major incident at UK airbase used by US",
-    "headline_fi": "Major incident at UK airbase used by US",
-    "link": "https://www.france24.com/en/major-incident-at-uk-airbase-used-by-us",
-    "source": "France 24",
-    "pub": "2026-09-27 13:49"
-  },
-  {
-    "headline": "EU tells countries to curb energy demand as gas prices face winter squeeze",
-    "headline_fi": "EU tells countries to curb energy demand as gas prices face winter squeeze",
-    "link": "https://www.euronews.com/2026/09/27/eu-tells-countries-to-curb-energy-demand-as-gas-prices-face-winter-squeeze",
-    "source": "Euronews",
-    "pub": "2026-09-27 13:33"
-  },
-  {
-    "headline": "Protesters camp in Madrid in demonstration against Spain' housing crisis",
-    "headline_fi": "Protesters camp in Madrid in demonstration against Spain' housing crisis",
-    "link": "https://www.euronews.com/2026/09/27/protesters-camp-in-madrid-in-demonstration-against-spain-housing-crisis",
-    "source": "Euronews",
-    "pub": "2026-09-27 13:21"
-  },
-  {
-    "headline": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
-    "headline_fi": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
-    "link": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
-    "source": "France 24",
-    "pub": "2026-09-27 12:34"
-  },
-  {
-    "headline": "'A theft from citizens': Spain hits 1,000 days without a new budget",
-    "headline_fi": "'A theft from citizens': Spain hits 1,000 days without a new budget",
-    "link": "https://www.euronews.com/2026/09/27/a-theft-from-citizens-spain-hits-1000-days-without-a-new-budget",
-    "source": "Euronews",
-    "pub": "2026-09-27 12:29"
-  },
-  {
-    "headline": "Latest news bulletin | September 27th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | September 27th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-09-27 12:00"
-  },
-  {
-    "headline": "Housing crisis fuels Madrid protest",
-    "headline_fi": "Housing crisis fuels Madrid protest",
-    "link": "https://www.france24.com/en/housing-crisis-fuels-madrid-protest",
-    "source": "France 24",
-    "pub": "2026-09-27 11:17"
-  },
-  {
-    "headline": "UK: Several arrested as bomb disposal team examines vehicles",
-    "headline_fi": "UK: Several arrested as bomb disposal team examines vehicles",
-    "link": "https://www.france24.com/en/uk-several-arrested-as-bomb-disposal-team-examines-vehicles",
-    "source": "France 24",
-    "pub": "2026-09-27 11:07"
-  },
-  {
-    "headline": "Azerbaijan agrees multi-billion-dollar deals with investment giants",
-    "headline_fi": "Azerbaijan agrees multi-billion-dollar deals with investment giants",
-    "link": "https://www.euronews.com/2026/09/27/azerbaijan-agrees-multi-billion-dollar-deals-with-investment-giants",
-    "source": "Euronews",
-    "pub": "2026-09-27 10:38"
-  },
-  {
-    "headline": "Five arrested near US air base as police probe possible Iran link",
-    "headline_fi": "Five arrested near US air base as police probe possible Iran link",
-    "link": "https://www.euronews.com/2026/09/27/police-declare-major-incident-near-raf-base-in-uk-as-men-arrested-on-suspected-explosives-",
-    "source": "Euronews",
-    "pub": "2026-09-27 10:19"
-  },
-  {
-    "headline": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
-    "headline_fi": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
-    "link": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
-    "source": "France 24",
-    "pub": "2026-09-27 10:05"
-  },
-  {
-    "headline": "Poland fears Ukraine war could spill over",
-    "headline_fi": "Poland fears Ukraine war could spill over",
-    "link": "https://www.france24.com/en/poland-fears-ukraine-war-could-spill-over",
-    "source": "France 24",
-    "pub": "2026-09-27 10:01"
-  },
-  {
-    "headline": "Two mass shootings in South Africa leave at least 27 dead",
-    "headline_fi": "Two mass shootings in South Africa leave at least 27 dead",
-    "link": "https://www.euronews.com/2026/09/27/two-mass-shootings-in-south-africa-leave-at-least-27-dead",
-    "source": "Euronews",
-    "pub": "2026-09-27 09:25"
-  },
-  {
-    "headline": "Russian foreign minister rejects Berlin's call to abandon 'dangerous' escalation",
-    "headline_fi": "Russian foreign minister rejects Berlin's call to abandon 'dangerous' escalation",
-    "link": "https://www.euronews.com/2026/09/27/russian-foreign-minister-rejects-berlins-call-to-abandon-dangerous-escalation",
-    "source": "Euronews",
-    "pub": "2026-09-27 08:22"
-  },
-  {
-    "headline": "Russia's finance ministry raises taxes to bolster Putin's military budget",
-    "headline_fi": "Russia's finance ministry raises taxes to bolster Putin's military budget",
-    "link": "https://www.euronews.com/2026/09/27/russias-finance-ministry-raises-taxes-to-bolster-putins-military-budget",
-    "source": "Euronews",
-    "pub": "2026-09-27 07:30"
-  },
-  {
-    "headline": "Latest news bulletin | September 27th, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | September 27th, 2026 – Morning",
-    "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-09-27 07:00"
-  },
-  {
-    "headline": "Azerbaijan marks its Remembrance Day looking forward to a future of peace",
-    "headline_fi": "Azerbaijan marks its Remembrance Day looking forward to a future of peace",
-    "link": "https://www.euronews.com/2026/09/26/azerbaijan-marks-its-remembrance-day-looking-forward-to-a-future-of-peace",
-    "source": "Euronews",
-    "pub": "2026-09-26 21:48"
-  },
-  {
-    "headline": "Latest news bulletin | September 26th, 2026 – Evening",
-    "headline_fi": "Latest news bulletin | September 26th, 2026 – Evening",
-    "link": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-09-26 18:00"
-  },
-  {
-    "headline": "\"Respectable women in long skirts\": Tajani under fire in memes and international media",
-    "headline_fi": "\"Respectable women in long skirts\": Tajani under fire in memes and international media",
-    "link": "https://www.euronews.com/2026/09/26/serious-women-in-long-skirts-tajani-under-fire-in-memes-and-international-media",
-    "source": "Euronews",
-    "pub": "2026-09-26 17:27"
-  },
-  {
-    "headline": "US president Donald Trump rejects Iranian plan to reopen Strait of Hormuz",
-    "headline_fi": "US president Donald Trump rejects Iranian plan to reopen Strait of Hormuz",
-    "link": "https://www.euronews.com/2026/09/26/trump-reportedly-rejects-iranian-plan-to-reopen-strait-of-hormuz",
-    "source": "Euronews",
-    "pub": "2026-09-26 16:10"
-  },
-  {
-    "headline": "Six dead after explosion causes building to collapse in central Athens",
-    "headline_fi": "Six dead after explosion causes building to collapse in central Athens",
-    "link": "https://www.euronews.com/2026/09/26/six-dead-after-explosion-causes-building-to-collapse-in-central-athens",
-    "source": "Euronews",
-    "pub": "2026-09-26 14:59"
-  },
-  {
-    "headline": "Thousands of protesters take to the streets in Madrid over Ceuta migrant crisis",
-    "headline_fi": "Thousands of protesters take to the streets in Madrid over Ceuta migrant crisis",
-    "link": "https://www.euronews.com/2026/09/26/thousands-of-protesters-take-to-the-streets-in-madrid-over-ceuta-migrant-crisis",
-    "source": "Euronews",
-    "pub": "2026-09-26 12:21"
+    "headline": "Germany news: Berlin's Left files complaint against Dobrindt",
+    "headline_fi": "Saksan uutiset: Berliinin vasemmisto valittaa Dobrindtista",
+    "link": "https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
   },
   {
     "headline": "Ukraine, South Korea relations sour over North Korean POWs",
-    "headline_fi": "Ukraine, South Korea relations sour over North Korean POWs",
+    "headline_fi": "Ukrainan ja Etelä-Korean suhteet ovat kireät Pohjois-Korean sotavankien takia",
     "link": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Israel strips Dutch diplomats of status in West Bank",
-    "headline_fi": "Israel strips Dutch diplomats of status in West Bank",
+    "headline_fi": "Israel poistaa hollantilaisdiplomaateilta aseman Länsirannalla",
     "link": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Serbian President Aleksandar Vucic announces resignation",
-    "headline_fi": "Serbian President Aleksandar Vucic announces resignation",
+    "headline_fi": "Serbian presidentti Aleksandar Vucic ilmoitti eroavansa",
     "link": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
-    "headline_fi": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
+    "headline_fi": "Jemen: Huthit raportoivat Saudi-Arabian tappavista iskuista Taizin markkinoilla",
     "link": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "UK: 5 arrested after 'major incident' near Fairford air base",
-    "headline_fi": "UK: 5 arrested after 'major incident' near Fairford air base",
+    "headline_fi": "Yhdistynyt kuningaskunta: 5 pidätettiin \"suuren välikohtauksen\" jälkeen lähellä Fairfordin lentotukikohtaa",
     "link": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Northern Ireland: Pro-UK march to go through Catholic area",
-    "headline_fi": "Northern Ireland: Pro-UK march to go through Catholic area",
+    "headline_fi": "Pohjois-Irlanti: Yhdistyneen kuningaskunnan kannattajat marssivat katolisen alueen läpi",
     "link": "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Iran sticks to Hormuz plan after Trump rejects it",
-    "headline_fi": "Iran sticks to Hormuz plan after Trump rejects it",
+    "headline_fi": "Iran pitää kiinni Hormuzin suunnitelmasta Trumpin hylättyä sen",
     "link": "https://www.dw.com/en/iran-sticks-to-hormuz-plan-after-trump-rejects-it/a-79447432?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "No public mentions of Taiwan at official Xi and Trump meeting",
-    "headline_fi": "No public mentions of Taiwan at official Xi and Trump meeting",
+    "headline_fi": "Taiwanista ei mainita julkisesti virallisessa Xin ja Trumpin tapaamisessa",
     "link": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "China sends two giant pandas off to Atlanta zoo after Xi-Trump summit",
-    "headline_fi": "China sends two giant pandas off to Atlanta zoo after Xi-Trump summit",
+    "headline_fi": "Kiina lähettää kaksi jättipandaa Atlantan eläintarhaan Xi-Trumpin huippukokouksen jälkeen",
     "link": "https://www.dw.com/en/china-sends-two-giant-pandas-off-to-atlanta-zoo-after-xi-trump-summit/a-79447128?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
-    "headline": "Gunmen kill 27 people in two mass shootings in South Africa",
-    "headline_fi": "Gunmen kill 27 people in two mass shootings in South Africa",
-    "link": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
-    "headline": "Spain: Thousands protest in Madrid against housing crisis",
-    "headline_fi": "Spain: Thousands protest in Madrid against housing crisis",
-    "link": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
     "headline": "Backlash over data centers tests Europe's AI ambitions",
-    "headline_fi": "Backlash over data centers tests Europe's AI ambitions",
+    "headline_fi": "Palvelin palvelinkeskuksiin testaa Euroopan AI-tavoitteet",
     "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Russia expected to intensify hybrid war on Europe",
-    "headline_fi": "Russia expected to intensify hybrid war on Europe",
+    "headline_fi": "Venäjän odotetaan tehostavan hybridisotaa Eurooppaa vastaan",
     "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
   {
     "headline": "Russian students: Propaganda in school prepares them to die",
-    "headline_fi": "Russian students: Propaganda in school prepares them to die",
+    "headline_fi": "Venäläiset opiskelijat: Propaganda koulussa valmistaa heitä kuolemaan",
     "link": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
@@ -761,5 +446,313 @@
     "link": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
+  },
+  {
+    "headline": "Serbia's President Aleksandar Vučić resigns to run for prime minister in snap elections",
+    "headline_fi": "Serbia's President Aleksandar Vučić resigns to run for prime minister in snap elections",
+    "link": "https://www.euronews.com/2026/09/28/serbias-president-aleksandar-vucic-resigns-to-run-for-prime-minister-in-snap-elections",
+    "source": "Euronews",
+    "pub": "2026-09-28 10:09"
+  },
+  {
+    "headline": "UK counter-terrorism police probe Iran link to suspected bomb plot at RAF base",
+    "headline_fi": "UK counter-terrorism police probe Iran link to suspected bomb plot at RAF base",
+    "link": "https://www.euronews.com/2026/09/28/uk-counter-terrorism-police-probe-iran-link-to-suspected-bomb-plot-at-raf-base",
+    "source": "Euronews",
+    "pub": "2026-09-28 09:44"
+  },
+  {
+    "headline": "Bangkok streets turn to canals as days of heavy rain bring citywide flooding",
+    "headline_fi": "Bangkok streets turn to canals as days of heavy rain bring citywide flooding",
+    "link": "https://www.euronews.com/video/2026/09/28/bangkok-streets-turn-to-canals-as-days-of-heavy-rain-bring-citywide-flooding",
+    "source": "Euronews",
+    "pub": "2026-09-28 09:16"
+  },
+  {
+    "headline": "Death toll in South Africa bar shooting rises to 18, police say",
+    "headline_fi": "Death toll in South Africa bar shooting rises to 18, police say",
+    "link": "https://www.euronews.com/2026/09/28/death-toll-in-south-africa-bar-shooting-rises-to-18-police-say",
+    "source": "Euronews",
+    "pub": "2026-09-28 09:04"
+  },
+  {
+    "headline": "Why is the EU looking for associate members? Ask the Euronews AI chatbot",
+    "headline_fi": "Why is the EU looking for associate members? Ask the Euronews AI chatbot",
+    "link": "https://www.euronews.com/2026/09/28/why-is-the-eu-looking-for-associate-members-ask-the-euronews-ai-chatbot",
+    "source": "Euronews",
+    "pub": "2026-09-28 09:00"
+  },
+  {
+    "headline": "Ukraine funding gap looms over Brussels defence talks",
+    "headline_fi": "Ukraine funding gap looms over Brussels defence talks",
+    "link": "https://www.euronews.com/2026/09/28/ukraine-funding-gap-looms-over-brussels-defence-talks",
+    "source": "Euronews",
+    "pub": "2026-09-28 08:30"
+  },
+  {
+    "headline": "Ukraine says Russian drones kill 14, hit Kyiv and Odesa infrastructure",
+    "headline_fi": "Ukraine says Russian drones kill 14, hit Kyiv and Odesa infrastructure",
+    "link": "https://www.euronews.com/video/2026/09/28/ukraine-says-russian-drones-kill-14-hit-kyiv-and-odesa-infrastructure",
+    "source": "Euronews",
+    "pub": "2026-09-28 08:30"
+  },
+  {
+    "headline": "Europe Today: EU ministers meet on Ukraine aid as Trump rejects Iran's Hormuz deal",
+    "headline_fi": "Europe Today: EU ministers meet on Ukraine aid as Trump rejects Iran's Hormuz deal",
+    "link": "https://www.euronews.com/2026/09/28/europe-today-eu-ministers-meet-on-ukraine-aid-as-trump-rejects-irans-hormuz-deal",
+    "source": "Euronews",
+    "pub": "2026-09-28 08:00"
+  },
+  {
+    "headline": "Oil prices jump after Trump rejects Iran’s truce offer",
+    "headline_fi": "Oil prices jump after Trump rejects Iran’s truce offer",
+    "link": "https://www.euronews.com/2026/09/28/oil-prices-jump-after-trump-rejects-irans-truce-offer",
+    "source": "Euronews",
+    "pub": "2026-09-28 07:46"
+  },
+  {
+    "headline": "Leo building on Francis' legacy while reincorporating 'more traditional elements of papal activity'",
+    "headline_fi": "Leo building on Francis' legacy while reincorporating 'more traditional elements of papal activity'",
+    "link": "https://www.france24.com/en/leo-building-on-francis-legacy-while-reincorporating-more-traditional-elements-of-papal-activity",
+    "source": "France 24",
+    "pub": "2026-09-28 07:17"
+  },
+  {
+    "headline": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
+    "headline_fi": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
+    "link": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news",
+    "source": "Euronews",
+    "pub": "2026-09-28 07:16"
+  },
+  {
+    "headline": "‘A gold mine’: How old EV batteries could help prevent Europe from wasting solar and wind energy",
+    "headline_fi": "‘A gold mine’: How old EV batteries could help prevent Europe from wasting solar and wind energy",
+    "link": "https://www.euronews.com/2026/09/28/a-gold-mine-how-old-ev-batteries-could-help-prevent-europe-from-wasting-solar-and-wind-ene",
+    "source": "Euronews",
+    "pub": "2026-09-28 07:02"
+  },
+  {
+    "headline": "Latest news bulletin | September 28th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | September 28th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/09/28/latest-news-bulletin-september-28th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-09-28 07:00"
+  },
+  {
+    "headline": "Trump to dine with Anthropic CEO Dario Amodei at the White House despite months of open conflict",
+    "headline_fi": "Trump to dine with Anthropic CEO Dario Amodei at the White House despite months of open conflict",
+    "link": "https://www.euronews.com/2026/09/28/trump-to-dine-with-anthropic-ceo-dario-amodei-at-the-white-house-despite-months-of-open-co",
+    "source": "Euronews",
+    "pub": "2026-09-28 06:27"
+  },
+  {
+    "headline": "Seoul seeks apology after Ukraine 'breached' confidentiality agreement over transfer of North Korean POWs",
+    "headline_fi": "Seoul seeks apology after Ukraine 'breached' confidentiality agreement over transfer of North Korean POWs",
+    "link": "https://www.euronews.com/2026/09/28/seoul-seeks-apology-after-ukraine-breached-confidentiality-agreement-over-transfer-of-nort",
+    "source": "Euronews",
+    "pub": "2026-09-28 05:49"
+  },
+  {
+    "headline": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
+    "headline_fi": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
+    "link": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
+    "source": "France 24",
+    "pub": "2026-09-28 02:07"
+  },
+  {
+    "headline": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+    "headline_fi": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+    "link": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+    "source": "France 24",
+    "pub": "2026-09-27 23:27"
+  },
+  {
+    "headline": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+    "headline_fi": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+    "link": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+    "source": "France 24",
+    "pub": "2026-09-27 22:10"
+  },
+  {
+    "headline": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+    "headline_fi": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+    "link": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+    "source": "France 24",
+    "pub": "2026-09-27 21:55"
+  },
+  {
+    "headline": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
+    "headline_fi": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
+    "link": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
+    "source": "France 24",
+    "pub": "2026-09-27 21:47"
+  },
+  {
+    "headline": "Watch: mass Madrid protests over Maricarmen eviction and housing crisis",
+    "headline_fi": "Watch: mass Madrid protests over Maricarmen eviction and housing crisis",
+    "link": "https://www.euronews.com/video/2026/09/27/watch-mass-madrid-protests-over-maricarmen-eviction-and-housing-crisis",
+    "source": "Euronews",
+    "pub": "2026-09-27 21:02"
+  },
+  {
+    "headline": "Northern Ireland: 2,000 protesters block disputed Portadown march",
+    "headline_fi": "Northern Ireland: 2,000 protesters block disputed Portadown march",
+    "link": "https://www.euronews.com/video/2026/09/27/northern-ireland-2000-protesters-block-disputed-portadown-march",
+    "source": "Euronews",
+    "pub": "2026-09-27 19:45"
+  },
+  {
+    "headline": "Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction",
+    "headline_fi": "Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction",
+    "link": "https://www.euronews.com/2026/09/27/sanchez-vows-to-pass-housing-decree-on-tuesday-amid-outrage-over-maricarmen-eviction",
+    "source": "Euronews",
+    "pub": "2026-09-27 19:38"
+  },
+  {
+    "headline": "France’s far-right National Rally gains ground in Senate, forms group for first time",
+    "headline_fi": "France’s far-right National Rally gains ground in Senate, forms group for first time",
+    "link": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
+    "source": "France 24",
+    "pub": "2026-09-27 19:34"
+  },
+  {
+    "headline": "How neutral should Switzerland be? Voters deliver decisive verdict",
+    "headline_fi": "How neutral should Switzerland be? Voters deliver decisive verdict",
+    "link": "https://www.euronews.com/2026/09/27/how-neutral-should-switzerland-be-voters-deliver-decisive-verdict",
+    "source": "Euronews",
+    "pub": "2026-09-27 18:59"
+  },
+  {
+    "headline": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+    "headline_fi": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+    "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
+    "source": "France 24",
+    "pub": "2026-09-27 18:17"
+  },
+  {
+    "headline": "Latest news bulletin | September 27th, 2026 – Evening",
+    "headline_fi": "Latest news bulletin | September 27th, 2026 – Evening",
+    "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-09-27 18:00"
+  },
+  {
+    "headline": "Netanyahu battles October 7 warnings revelations with defiant UN speech",
+    "headline_fi": "Netanyahu battles October 7 warnings revelations with defiant UN speech",
+    "link": "https://www.euronews.com/2026/09/27/netanyahu-battles-october-7-warnings-revelations-with-defiant-un-speech",
+    "source": "Euronews",
+    "pub": "2026-09-27 17:41"
+  },
+  {
+    "headline": "Iran claims seizure of an underwater US drone in Hormuz, US denies the claim",
+    "headline_fi": "Iran claims seizure of an underwater US drone in Hormuz, US denies the claim",
+    "link": "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz",
+    "source": "Euronews",
+    "pub": "2026-09-27 17:01"
+  },
+  {
+    "headline": "Serbia's politicians return to TV debates ahead of parliamentary election",
+    "headline_fi": "Serbia's politicians return to TV debates ahead of parliamentary election",
+    "link": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election",
+    "source": "Euronews",
+    "pub": "2026-09-27 16:58"
+  },
+  {
+    "headline": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
+    "headline_fi": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
+    "link": "https://www.euronews.com/video/2026/09/27/seven-killed-dozens-hurt-in-saudi-airstrike-on-yemen-market",
+    "source": "Euronews",
+    "pub": "2026-09-27 16:30"
+  },
+  {
+    "headline": "Collateral damage: How Cognac is paying the price for Europe’s trade wars",
+    "headline_fi": "Collateral damage: How Cognac is paying the price for Europe’s trade wars",
+    "link": "https://www.euronews.com/2026/09/27/cognac-pays-the-price-for-europes-trade-wars",
+    "source": "Euronews",
+    "pub": "2026-09-27 16:16"
+  },
+  {
+    "headline": "Ireland team to wear black armbands as players vote to go ahead with Israel game",
+    "headline_fi": "Ireland team to wear black armbands as players vote to go ahead with Israel game",
+    "link": "https://www.euronews.com/2026/09/27/ireland-team-to-wear-black-armbands-as-players-vote-to-go-ahead-with-israel-game",
+    "source": "Euronews",
+    "pub": "2026-09-27 15:06"
+  },
+  {
+    "headline": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
+    "headline_fi": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
+    "link": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
+    "source": "France 24",
+    "pub": "2026-09-27 14:55"
+  },
+  {
+    "headline": "Etna erupts again: chaos at Catania airport, risk of higher air fares",
+    "headline_fi": "Etna erupts again: chaos at Catania airport, risk of higher air fares",
+    "link": "https://www.euronews.com/2026/09/27/etna-erupts-again-chaos-at-catania-airport-risk-of-higher-air-fares",
+    "source": "Euronews",
+    "pub": "2026-09-27 14:39"
+  },
+  {
+    "headline": "How Russia recruits Belarusians for war in Ukraine: Methods and consequences",
+    "headline_fi": "How Russia recruits Belarusians for war in Ukraine: Methods and consequences",
+    "link": "https://www.euronews.com/2026/09/27/how-russia-recruits-belarusians-for-war-in-ukraine-methods-and-consequences",
+    "source": "Euronews",
+    "pub": "2026-09-27 14:30"
+  },
+  {
+    "headline": "South Africa shootings leave 27 killed",
+    "headline_fi": "South Africa shootings leave 27 killed",
+    "link": "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+    "source": "France 24",
+    "pub": "2026-09-27 13:56"
+  },
+  {
+    "headline": "First Protestant march in Catholic area in nearly 30 years",
+    "headline_fi": "First Protestant march in Catholic area in nearly 30 years",
+    "link": "https://www.france24.com/en/first-protestant-march-in-catholic-area-in-nearly-30-years",
+    "source": "France 24",
+    "pub": "2026-09-27 13:54"
+  },
+  {
+    "headline": "Femicides on the rise in South Africa",
+    "headline_fi": "Femicides on the rise in South Africa",
+    "link": "https://www.france24.com/en/femicides-on-the-rise-in-south-africa",
+    "source": "France 24",
+    "pub": "2026-09-27 13:51"
+  },
+  {
+    "headline": "Major incident at UK airbase used by US",
+    "headline_fi": "Major incident at UK airbase used by US",
+    "link": "https://www.france24.com/en/major-incident-at-uk-airbase-used-by-us",
+    "source": "France 24",
+    "pub": "2026-09-27 13:49"
+  },
+  {
+    "headline": "EU tells countries to curb energy demand as gas prices face winter squeeze",
+    "headline_fi": "EU tells countries to curb energy demand as gas prices face winter squeeze",
+    "link": "https://www.euronews.com/2026/09/27/eu-tells-countries-to-curb-energy-demand-as-gas-prices-face-winter-squeeze",
+    "source": "Euronews",
+    "pub": "2026-09-27 13:33"
+  },
+  {
+    "headline": "Protesters camp in Madrid in demonstration against Spain' housing crisis",
+    "headline_fi": "Protesters camp in Madrid in demonstration against Spain' housing crisis",
+    "link": "https://www.euronews.com/2026/09/27/protesters-camp-in-madrid-in-demonstration-against-spain-housing-crisis",
+    "source": "Euronews",
+    "pub": "2026-09-27 13:21"
+  },
+  {
+    "headline": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
+    "headline_fi": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
+    "link": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
+    "source": "France 24",
+    "pub": "2026-09-27 12:34"
+  },
+  {
+    "headline": "'A theft from citizens': Spain hits 1,000 days without a new budget",
+    "headline_fi": "'A theft from citizens': Spain hits 1,000 days without a new budget",
+    "link": "https://www.euronews.com/2026/09/27/a-theft-from-citizens-spain-hits-1000-days-without-a-new-budget",
+    "source": "Euronews",
+    "pub": "2026-09-27 12:29"
   }
 ]
