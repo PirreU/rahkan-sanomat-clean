@@ -4,7 +4,6 @@ import json
 import os
 import time
 from email.utils import parsedate_to_datetime
-from deep_translator import GoogleTranslator
 from datetime import datetime
 
 DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
@@ -51,19 +50,17 @@ def main():
         })
     
     stories_fi = []
-    translator = GoogleTranslator(source='auto', target='fi')
+    from translatepy import Translator
+    translator = Translator()
     
-    # Revert to Google Translate as fallback
-    translator = GoogleTranslator(source='auto', target='fi')
-    
-    # Try OpenAI translation for the first 15 stories
+    # Translate top 20 stories to Finnish
     for i, s in enumerate(stories):
         s_fi = s.copy()
-        if i < 15:
+        if i < 20:
             try:
-                translated = translator.translate(s["headline"])
-                if translated:
-                    s_fi["headline_fi"] = translated
+                result = translator.translate(s["headline"], 'fi')
+                if result and result.result:
+                    s_fi["headline_fi"] = result.result
                 else:
                     s_fi["headline_fi"] = s["headline"]
             except Exception as e:

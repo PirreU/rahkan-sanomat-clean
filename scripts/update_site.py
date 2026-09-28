@@ -20,7 +20,7 @@ stories_fi.sort(key=lambda x: x.get("pub", ""), reverse=True)
 new_template = re.sub(r'const STORIES_EN = \[.*?\];', f'const STORIES_EN = {json.dumps(stories_en, ensure_ascii=False)};', template, flags=re.DOTALL)
 new_template = re.sub(r'const STORIES_FI = \[.*?\];', f'const STORIES_FI = {json.dumps(stories_fi, ensure_ascii=False)};', new_template, flags=re.DOTALL)
 
-output_path = os.path.join(BASE_DIR, "site", "index.html")
+output_path = os.path.join(BASE_DIR, "index.html")
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(new_template)
