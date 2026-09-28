@@ -23,36 +23,45 @@ def main():
     for source, url in FEEDS.items():
         try:
             d = feedparser.parse(url)
-            print(f"Fetched {len(d.entries)} entries from {source}")
             for entry in d.entries:
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
                 link = entry.get("link", "#")
                 
-                pub = entry.get("published", entry.get("updated", ""))
-                if not pub and hasattr(entry, "published_parsed") and entry.published_parsed:
-                    pub = time.strftime("%Y-%m-%d %H:%M:%S", entry.published_parsed)
-                elif not pub:
+                pub_parsed = entry.get("published_parsed", entry.get("updated_parsed", None))
+                if pub_parsed:
+                    pub = time.strftime("%Y-%m-%d %H:%M:%S", pub_parsed)
+                    timestamp = time.mktime(pub_parsed)
+                else:
                     pub = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                    timestamp = time.time()
                 
                 combined_text = (title + " " + summary).lower()
-                # Include all or match keywords (let's keep keyword filter or loosen if needed)
                 if not KEYWORDS or any(kw in combined_text for kw in KEYWORDS):
                     matches.append({
                         "title": title,
                         "summary": summary,
                         "link": link,
                         "source": source,
-                        "published": pub or "Recent"
+                        "published": pub,
+                        "timestamp": timestamp
                     })
         except Exception as e:
             print(f"Error parsing {source}: {e}")
             
+    # Sort by timestamp descending so newest are first
+    matches.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
+
     with open(OUT_MATCHES, "w", encoding="utf-8") as f:
         for m in matches:
             f.write(json.dumps(m, ensure_ascii=False) + "\n")
             
-    print(f"Collected {len(matches)} matching articles.")
+    # Also update stories.json directly with sorted matches
+    stories_path = os.path.join(DATA_DIR, "stories.json")
+    stories = [{"headline": m["title"], "summary": m["summary"], "link": m["link"], "source": m["source"], "pub": m["published"], "timestamp": m["timestamp"]} for m in matches]
+    json.dump(stories, open(stories_path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+            
+    print(f"Collected and sorted {len(matches)} articles by true timestamp.")
 
 if __name__ == "__main__":
     main()
