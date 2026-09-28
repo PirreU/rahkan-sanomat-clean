@@ -195,9 +195,12 @@ function logout() {
   window.location.href = './login.html';
 }
 
-let currentLang = 'fi'; // Default to Finnish
+// Load language preference from localStorage or default to Finnish
+let currentLang = localStorage.getItem('rs_lang') || 'fi';
+
 function setLang(l) {
   currentLang = l;
+  localStorage.setItem('rs_lang', l);
   document.getElementById('btn-en').classList.toggle('active', l === 'en');
   document.getElementById('btn-fi').classList.toggle('active', l === 'fi');
   render();
@@ -260,6 +263,7 @@ async function loadStories() {
   render();
 }
 
+// Initialize with saved language preference
 loadStories();
 </script>
 </body>
