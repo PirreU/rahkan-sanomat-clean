@@ -4,24 +4,150 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rahkan Sanomat</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root { --bg:#0d1117; --panel:#161b22; --border:#30363d; --text:#e6edf3; --dim:#8b949e; --accent:#58a6ff; --green:#3fb950; }
+:root {
+  --bg: #090d16;
+  --panel: #111827;
+  --panel-hover: #1f2937;
+  --border: #1e293b;
+  --text: #f3f4f6;
+  --dim: #9ca3af;
+  --accent: #38bdf8;
+  --accent-glow: rgba(56, 189, 248, 0.15);
+  --green: #34d399;
+  --badge-bg: #1e293b;
+}
 * { box-sizing:border-box; margin:0; padding:0; }
-body { background:var(--bg); color:var(--text); font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; line-height:1.6; }
-.wrap { max-width:860px; margin:0 auto; padding:32px 20px; }
-header { border-bottom:1px solid var(--border); padding-bottom:20px; margin-bottom:24px; text-align:center; }
-h1 { font-size:32px; letter-spacing:1px; }
+body { background:var(--bg); color:var(--text); font-family:'Inter', sans-serif; line-height:1.6; padding-bottom: 60px; }
+.wrap { max-width:900px; margin:0 auto; padding:40px 20px; }
+
+header { 
+  border-bottom:1px solid var(--border); 
+  padding-bottom:24px; 
+  margin-bottom:32px; 
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h1 { font-size:28px; font-weight:700; letter-spacing:-0.5px; }
 h1 span { color:var(--accent); }
-.story { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:18px; margin-bottom:16px; }
-.story h2 { font-size:16px; margin-bottom:6px; }
-.story h2 a { color:var(--text); text-decoration:none; }
-.story h2 a:hover { color:var(--accent); text-decoration:underline; }
-.meta { color:var(--dim); font-size:12px; margin-bottom:10px; }
-.visitor-box { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:18px; margin-top:32px; margin-bottom:16px; display:none; }
-.visitor-box h3 { font-size:14px; margin-bottom:8px; color:var(--accent); }
-.visitor-list { font-size:12px; color:var(--dim); list-style-type:none; }
-.visitor-list li { padding:4px 0; border-bottom:1px dashed var(--border); }
-footer { border-top:1px solid var(--border); margin-top:32px; padding-top:14px; color:var(--dim); font-size:12px; }
+
+.controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+button {
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.lang-btn {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 13px;
+}
+.lang-btn.active {
+  background: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+  box-shadow: 0 0 15px var(--accent-glow);
+  font-weight: 600;
+}
+.lang-btn:hover:not(.active) {
+  background: var(--panel-hover);
+  border-color: #475569;
+}
+
+.logout-btn {
+  background: transparent;
+  color: #f87171;
+  border: 1px solid rgba(248, 113, 113, 0.2);
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+}
+.logout-btn:hover {
+  background: rgba(248, 113, 113, 0.1);
+}
+
+.search-bar {
+  width: 100%;
+  padding: 12px 16px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 14px;
+  font-family: 'Inter', sans-serif;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.search-bar:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+#stories {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.story { 
+  background: var(--panel); 
+  border: 1px solid var(--border); 
+  border-radius: 10px; 
+  padding: 20px; 
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.story:hover {
+  transform: translateY(-2px);
+  border-color: #334155;
+  box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+}
+.story h2 { font-size: 17px; font-weight: 600; margin-bottom: 8px; line-height: 1.4; }
+.story h2 a { color: var(--text); text-decoration: none; transition: color 0.15s; }
+.story h2 a:hover { color: var(--accent); }
+
+.meta { 
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  color: var(--dim); 
+  font-size: 12px; 
+  font-family: 'JetBrains Mono', monospace;
+}
+.source-badge {
+  background: var(--badge-bg);
+  padding: 2px 8px;
+  border-radius: 4px;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.visitor-box { background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:20px; margin-top:32px; display:none; }
+.visitor-box h3 { font-size:15px; margin-bottom:12px; color:var(--accent); font-weight: 600; }
+.visitor-list { font-size:12px; color:var(--dim); list-style-type:none; font-family: 'JetBrains Mono', monospace; }
+.visitor-list li { padding:6px 0; border-bottom:1px dashed var(--border); }
+
+footer { border-top:1px solid var(--border); margin-top:40px; padding-top:20px; color:var(--dim); font-size:13px; text-align: center; }
+
+.sub { color: var(--dim); text-align: center; padding: 40px 0; font-size: 15px; }
 </style>
 </head>
 <body>
@@ -32,17 +158,20 @@ if (!localStorage.getItem('rs_auth')) {
 </script>
 <div class="wrap">
 <header>
-  <h1>Rahkan <span>Sanomat</span></h1>
-  <div style="margin-top:14px; display:flex; justify-content:space-between; align-items:center;">
-    <div>
-      <button id="btn-en" onclick="setLang('en')" style="background:var(--panel);color:var(--text);border:1px solid var(--border);padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;margin-right:8px;">English</button>
-      <button id="btn-fi" onclick="setLang('fi')" style="background:var(--accent);color:#000;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;font-weight:bold;">Suomi</button>
+  <div class="header-top">
+    <h1>Rahkan <span>Sanomat</span></h1>
+    <div class="controls">
+      <div>
+        <button id="btn-en" class="lang-btn" onclick="setLang('en')">EN</button>
+        <button id="btn-fi" class="lang-btn active" onclick="setLang('fi')">FI</button>
+      </div>
+      <button class="logout-btn" onclick="logout()">Sign Out</button>
     </div>
-    <button onclick="logout()" style="background:var(--panel);color:#f85149;border:1px solid var(--border);padding:6px 12px;border-radius:4px;cursor:pointer;font-size:12px;">Sign Out</button>
   </div>
+  <input type="text" id="search-input" class="search-bar" placeholder="Hae uutisista / Search stories..." oninput="render()">
 </header>
 
-<div id="stories"><p class="sub">Ladataan uutisia…</p></div>
+<div id="stories"><p class="sub">Ladataan uutisia… / Loading stories...</p></div>
 
 <div class="visitor-box">
   <h3>Visitor Sign-in Log (Admin Only)</h3>
@@ -50,7 +179,7 @@ if (!localStorage.getItem('rs_auth')) {
 </div>
 
 <footer>
-  Rahkan Sanomat · Multi-perspective European news
+  Rahkan Sanomat &middot; Multi-perspective European news aggregator
 </footer>
 </div>
 
@@ -67,22 +196,43 @@ function logout() {
 let currentLang = 'fi'; // Default to Finnish
 function setLang(l) {
   currentLang = l;
-  document.getElementById('btn-en').style.background = l === 'en' ? 'var(--accent)' : 'var(--panel)';
-  document.getElementById('btn-en').style.color = l === 'en' ? '#000' : 'var(--text)';
-  document.getElementById('btn-fi').style.background = l === 'fi' ? 'var(--accent)' : 'var(--panel)';
-  document.getElementById('btn-fi').style.color = l === 'fi' ? '#000' : 'var(--text)';
+  document.getElementById('btn-en').classList.toggle('active', l === 'en');
+  document.getElementById('btn-fi').classList.toggle('active', l === 'fi');
   render();
 }
 
 function render() {
   let stories = currentLang === 'fi' ? STORIES_FI : STORIES_EN;
+  const query = document.getElementById('search-input').value.toLowerCase().trim();
+  
+  if (query) {
+    stories = stories.filter(s => {
+      const headline = (currentLang === 'fi' && s.headline_fi ? s.headline_fi : s.headline).toLowerCase();
+      const source = (s.source || '').toLowerCase();
+      return headline.includes(query) || source.includes(query);
+    });
+  }
+
   const box = document.getElementById('stories');
-  if (!stories.length) { box.innerHTML = '<p class="sub">Ei uutisia saatavilla.</p>'; return; }
+  if (!stories.length) { 
+    box.innerHTML = `<p class="sub">${currentLang === 'fi' ? 'Ei uutisia saatavilla.' : 'No stories found.'}</p>`; 
+    return; 
+  }
+
   box.innerHTML = stories.map(s => {
     const headline = currentLang === 'fi' && s.headline_fi ? s.headline_fi : s.headline;
     const link = s.link || '#';
     const source = s.source || 'Source';
-    return `<div class="story"><h2><a href="${link}" target="_blank" rel="noopener">${headline}</a></h2><div class="meta">${source} · Julkaistu: ${s.pub || 'Tuntematon'}</div></div>`;
+    const pub = s.pub || 'Recent';
+    return `
+      <div class="story">
+        <h2><a href="${link}" target="_blank" rel="noopener">${headline}</a></h2>
+        <div class="meta">
+          <span class="source-badge">${source}</span>
+          <span>&bull;</span>
+          <span>${pub}</span>
+        </div>
+      </div>`;
   }).join('');
 
   const vBox = document.querySelector('.visitor-box');
