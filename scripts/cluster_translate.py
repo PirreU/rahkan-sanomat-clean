@@ -53,7 +53,10 @@ def main():
     stories_fi = []
     translator = GoogleTranslator(source='auto', target='fi')
     
-    # Only translate top 15 stories to avoid rate limits and timeouts
+    # Revert to Google Translate as fallback
+    translator = GoogleTranslator(source='auto', target='fi')
+    
+    # Try OpenAI translation for the first 15 stories
     for i, s in enumerate(stories):
         s_fi = s.copy()
         if i < 15:
