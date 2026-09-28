@@ -8,7 +8,9 @@ import datetime
 FEEDS = {
     "Deutsche Welle": "https://rss.dw.com/rdf/rss-en-all",
     "France 24": "https://www.france24.com/en/rss",
-    "Euronews": "https://www.euronews.com/rss?format=rss"
+    "Euronews": "https://www.euronews.com/rss?format=rss",
+    "Politico Europe": "https://www.politico.eu/feed/",
+    "Eurotopics": "https://www.eurotopics.net/export/en/rss.xml"
 }
 
 KEYWORDS = ['riot', 'protest', 'eu commission', 'age verification', 'politics', 'political', 'strike', 'regulation', 'digital', 'police', 'demonstration', 'parliament', 'law', 'court', 'election', 'migrant', 'immigration', 'asylum', 'refugee', 'maahanmuutto', 'turvapaikka', 'trump', 'tariff', 'war', 'russia', 'ukraine', 'israel', 'gaza', 'energy', 'economy']
@@ -23,6 +25,7 @@ def main():
     for source, url in FEEDS.items():
         try:
             d = feedparser.parse(url)
+            print(f"Fetched {len(d.entries)} entries from {source}")
             for entry in d.entries:
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
@@ -49,14 +52,12 @@ def main():
         except Exception as e:
             print(f"Error parsing {source}: {e}")
             
-    # Sort by timestamp descending so newest are first
     matches.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
 
     with open(OUT_MATCHES, "w", encoding="utf-8") as f:
         for m in matches:
             f.write(json.dumps(m, ensure_ascii=False) + "\n")
             
-    # Also update stories.json directly with sorted matches
     stories_path = os.path.join(DATA_DIR, "stories.json")
     stories = [{"headline": m["title"], "summary": m["summary"], "link": m["link"], "source": m["source"], "pub": m["published"], "timestamp": m["timestamp"]} for m in matches]
     json.dump(stories, open(stories_path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
