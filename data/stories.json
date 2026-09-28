@@ -1,5 +1,12 @@
 [
   {
+    "headline": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
+    "headline_fi": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
+    "link": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
+    "source": "France 24",
+    "pub": "2026-09-28 02:07"
+  },
+  {
     "headline": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
     "headline_fi": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
     "link": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
@@ -245,13 +252,6 @@
     "pub": "2026-09-27 10:01"
   },
   {
-    "headline": "Russian strikes kill four in Ukraine",
-    "headline_fi": "Russian strikes kill four in Ukraine",
-    "link": "https://www.france24.com/en/russian-strikes-kill-four-in-ukraine",
-    "source": "France 24",
-    "pub": "2026-09-27 09:53"
-  },
-  {
     "headline": "Two mass shootings in South Africa leave at least 27 dead",
     "headline_fi": "Two mass shootings in South Africa leave at least 27 dead",
     "link": "https://www.euronews.com/2026/09/27/two-mass-shootings-in-south-africa-leave-at-least-27-dead",
@@ -320,6 +320,13 @@
     "link": "https://www.euronews.com/2026/09/26/thousands-of-protesters-take-to-the-streets-in-madrid-over-ceuta-migrant-crisis",
     "source": "Euronews",
     "pub": "2026-09-26 12:21"
+  },
+  {
+    "headline": "Ukraine, South Korea relations sour over North Korean POWs",
+    "headline_fi": "Ukraine, South Korea relations sour over North Korean POWs",
+    "link": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "Recent"
   },
   {
     "headline": "Israel strips Dutch diplomats of status in West Bank",
@@ -654,13 +661,6 @@
     "headline": "How climate change worsened Nepal's deadly mountain collapse",
     "headline_fi": "How climate change worsened Nepal's deadly mountain collapse",
     "link": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "Recent"
-  },
-  {
-    "headline": "UK: Village votes to 'secede' in asylum center plan protest",
-    "headline_fi": "UK: Village votes to 'secede' in asylum center plan protest",
-    "link": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "Recent"
   },
