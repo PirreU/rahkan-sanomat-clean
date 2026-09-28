@@ -17,10 +17,12 @@ def main():
     fi_path = os.path.join(BASE_DIR, "data", "stories_fi.json")
     if os.path.exists(sp):
         stories = json.load(open(sp, encoding="utf-8"))
-        for s in stories:
+        for i, s in enumerate(stories):
             en_title = s.get("headline", "")
-            s["headline_fi"] = translate_text(en_title, "fi")
-            time.sleep(1.0)
+            if i < 15:
+                s["headline_fi"] = translate_text(en_title, "fi")
+            else:
+                s["headline_fi"] = en_title
         json.dump(stories, open(fi_path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
         print("Successfully generated translated stories_fi.json")
 
