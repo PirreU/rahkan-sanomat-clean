@@ -20,7 +20,7 @@ jobs:
           node-version: 24
       - name: Install dependencies
         run: |
-          pip install translate feedparser deep-translator
+          pip install translatepy feedparser deep-translator
 
       - name: Run pipeline and translation
         run: |
