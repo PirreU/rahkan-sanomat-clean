@@ -165,7 +165,7 @@ if (!localStorage.getItem('rs_auth')) {
     <div class="controls">
       <div>
         <button id="btn-en" class="lang-btn" onclick="setLang('en')">EN</button>
-        <button id="btn-fi" class="lang-btn active" onclick="setLang('fi')">FI</button>
+        <button id="btn-fi" class="lang-btn" onclick="setLang('fi')">FI</button>
       </div>
       <button class="logout-btn" onclick="logout()">Sign Out</button>
     </div>
@@ -195,7 +195,6 @@ function logout() {
   window.location.href = './login.html';
 }
 
-// Load language preference from localStorage or default to Finnish
 let currentLang = localStorage.getItem('rs_lang') || 'fi';
 
 function setLang(l) {
@@ -207,6 +206,10 @@ function setLang(l) {
 }
 
 function render() {
+  // Sync button states on render
+  document.getElementById('btn-en').classList.toggle('active', currentLang === 'en');
+  document.getElementById('btn-fi').classList.toggle('active', currentLang === 'fi');
+
   let stories = currentLang === 'fi' ? STORIES_FI : STORIES_EN;
   const query = document.getElementById('search-input').value.toLowerCase().trim();
   
@@ -263,7 +266,6 @@ async function loadStories() {
   render();
 }
 
-// Initialize with saved language preference
 loadStories();
 </script>
 </body>
