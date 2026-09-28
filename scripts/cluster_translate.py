@@ -53,19 +53,26 @@ def main():
     stories_fi = []
     translator = GoogleTranslator(source='auto', target='fi')
     
-    for s in stories:
+    # Only translate top 15 stories to avoid rate limits and timeouts
+    for i, s in enumerate(stories):
         s_fi = s.copy()
-        try:
-            translated = translator.translate(s["headline"])
-            if translated:
-                s_fi["headline_fi"] = translated
-        except Exception as e:
-            print(f"Translation failed: {e}")
+        if i < 15:
+            try:
+                translated = translator.translate(s["headline"])
+                if translated:
+                    s_fi["headline_fi"] = translated
+                else:
+                    s_fi["headline_fi"] = s["headline"]
+            except Exception as e:
+                print(f"Translation failed: {e}")
+                s_fi["headline_fi"] = s["headline"]
+            time.sleep(1.0)
+        else:
+            s_fi["headline_fi"] = s["headline"]
         
         s.pop("_dt", None)
         s_fi.pop("_dt", None)
         stories_fi.append(s_fi)
-        time.sleep(0.1)
 
     for s in stories:
         s.pop("_dt", None)

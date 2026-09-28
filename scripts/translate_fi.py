@@ -19,7 +19,7 @@ def main():
         for s in stories:
             en_title = s.get("headline", "")
             s["headline_fi"] = translate_text(en_title, "fi")
-            time.sleep(0.05)
+            time.sleep(2.0)
         json.dump(stories, open(fi_path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
         print("Successfully generated translated stories_fi.json")
 
