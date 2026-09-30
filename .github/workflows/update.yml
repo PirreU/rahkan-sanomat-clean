@@ -11,11 +11,8 @@ permissions:
   id-token: write
 
 jobs:
-  update-feed:
+  update:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -42,6 +39,16 @@ jobs:
           git commit -m "Auto-update news feed data [skip ci]" || exit 0
           git pull --rebase origin main || true
           git push
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
