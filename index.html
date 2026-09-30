@@ -258,8 +258,14 @@ async function loadStories() {
       fetch('./data/stories.json?t=' + Date.now()),
       fetch('./data/stories_fi.json?t=' + Date.now())
     ]);
-    if (resEn.ok) STORIES_EN = await resEn.json();
-    if (resFi.ok) STORIES_FI = await resFi.json();
+    if (resEn.ok) {
+      STORIES_EN = await resEn.json();
+      console.log("Loaded EN stories:", STORIES_EN.length);
+    }
+    if (resFi.ok) {
+      STORIES_FI = await resFi.json();
+      console.log("Loaded FI stories:", STORIES_FI.length);
+    }
   } catch (e) {
     console.error("Failed to fetch stories data:", e);
   }
