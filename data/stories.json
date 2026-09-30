@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Poll shows French far-right leader Marine Le Pen widening lead ahead of 2027 presidential vote",
+    "summary": "Marine Le Pen, France's far-right National Rally party candidate, widened her lead in the second round of the 2027 presidential elections against both centre-right Édouard Philippe and hard-left Jean-Luc Mélenchon, according to a new poll released Monday.",
+    "link": "https://www.france24.com/en/france/20260928-poll-shows-french-far-right-leader-marine-le-pen-widening-lead-ahead-of-2027-presidential-vote",
+    "source": "France 24",
+    "pub": "2026-09-28 15:28:40",
+    "timestamp": 1790598520.0
+  },
+  {
+    "headline": "Pope Leo urges concessions to end war in Ukraine",
+    "summary": "The pontiff addressed challenges facing Europe in a speech near the French-German border.",
+    "link": "https://www.politico.eu/article/pope-leo-urges-concessions-to-end-war-in-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-09-28 15:26:58",
+    "timestamp": 1790598418.0
+  },
+  {
+    "headline": "Ukraine cuts budget hole by $7bn but still needs allies to bridge gap",
+    "summary": "Kyiv is turning to international partners to help cover its wartime spending needs, with Brussels set to bring together donor countries and financial institutions on Tuesday.",
+    "link": "https://www.euronews.com/2026/09/28/ukraine-cuts-budget-hole-by-7bn-but-still-needs-allies-to-bridge-gap",
+    "source": "Euronews",
+    "pub": "2026-09-28 15:11:23",
+    "timestamp": 1790597483.0
+  },
+  {
+    "headline": "Healey admits money ‘simply not there’ but vows to back British businesses",
+    "summary": "U.K. chancellor warns Labour not to expect Blair-era public services spending blitz.",
+    "link": "https://www.politico.eu/article/healey-admits-money-simply-not-there-but-vows-to-back-british-businesses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-09-28 15:06:18",
+    "timestamp": 1790597178.0
+  },
+  {
+    "headline": "French prosecutors seek two-year sentence for Rachida Dati in Renault graft case",
+    "summary": "French prosecutors have sought a two-year prison sentence for former culture minister Rachida Dati, to be served at home with an electronic tag, in a corruption case involving charges of lobbying for Renault-Nissan when she was a European lawmaker. The high-profile case centres on a contract signed in 2009 between Dati, who previously served as justice minister, and fugitive businessman Carlos Ghosn, then head of Renault-Nissan.",
+    "link": "https://www.france24.com/en/france/20260928-french-prosecutors-seek-two-year-sentence-for-ex-minister-dati-in-graft-case",
+    "source": "France 24",
+    "pub": "2026-09-28 15:02:07",
+    "timestamp": 1790596927.0
+  },
+  {
+    "headline": "Tigray rebels push into Afar as Ethiopia blames neighbours",
+    "summary": "The TPLF advanced toward Afdeera after taking Erebti, with at least 150,000 people feared displaced in Afar alone. The offensive targets the Djibouti corridor, through which almost all of Ethiopia's international trade flows, giving the rebels potential leverage over the federal government.",
+    "link": "https://www.euronews.com/2026/09/28/tigray-rebels-push-into-afar-as-ethiopia-blames-neighbours",
+    "source": "Euronews",
+    "pub": "2026-09-28 14:46:10",
+    "timestamp": 1790595970.0
+  },
+  {
+    "headline": "Great Black Hope: Pursuit of belonging 'becomes a kind of cancer that eats them from the inside out'",
+    "summary": "Eve Irvine is pleased to welcome award-winning author Rob Franklin, joining us to discuss Great Black Hope, his acclaimed debut novel exploring race, class, respectability and belonging. Franklin wanted to write about the worlds he had spent years observing since childhood: including how class and race shape even our most intimate relationships.  At its centre is David Smith, a young Black man from a Southern bourgeois family. His education, manners and connections give him access, but he is constantly aware of the possibility of being cast out. That tension led him to think about respectability politics and the psychological cost of constantly performing an acceptable version of oneself.",
+    "link": "https://www.france24.com/en/great-black-hope-pursuit-of-belonging-becomes-a-kind-of-cancer-that-eats-them-from-the-inside-out",
+    "source": "France 24",
+    "pub": "2026-09-28 14:37:47",
+    "timestamp": 1790595467.0
+  },
+  {
+    "headline": "Madrid protesters vow to maintain pressure on Sánchez government against rising cost of housing",
+    "summary": "The demonstrators set up around 100 tents in the capital's busy Puerta del Sol square after tens of thousands took to the streets on Saturday to demand action to lower housing costs and protect tenants.",
+    "link": "https://www.euronews.com/2026/09/28/madrid-protesters-vow-to-maintain-pressure-on-sanchez-government-against-rising-cost-of-ho",
+    "source": "Euronews",
+    "pub": "2026-09-28 14:34:18",
+    "timestamp": 1790595258.0
+  },
+  {
     "headline": "Le Pen hails 'victory' as French far right secures record 14 seats in Senate",
     "summary": "France's far-right National Rally (RN) party and its allies emerged from polls with a record 14 seats in the right-wing dominated Senate on Sunday, effectively quadrupling its number in the 348-seat chamber just months before a presidential election.",
     "link": "https://www.france24.com/en/video/20260928-le-pen-hails-victory-as-french-far-right-secures-record-14-seats-in-senate",
@@ -40,9 +104,9 @@
     "timestamp": 1790592495.0
   },
   {
-    "headline": "US and China name goods for possible tariff cuts – what it means for Europe",
+    "headline": "US and China list $30bn worth of goods for tariff cuts, what it could mean for Europe",
     "summary": "Washington has published lists of goods the US and China could tax at lower rates under their “30-for-30” framework, covering about $30bn (€26.3bn) in annual trade each way. No rates or start date have been set, but US pork, dairy and whiskey on Beijing’s list could squeeze European exports.",
-    "link": "https://www.euronews.com/2026/09/28/us-and-china-name-goods-for-possible-tariff-cuts-what-it-means-for-europe",
+    "link": "https://www.euronews.com/2026/09/28/us-and-china-name-goods-for-possible-tariff-cuts-what-it-could-mean-for-europe",
     "source": "Euronews",
     "pub": "2026-09-28 13:48:10",
     "timestamp": 1790592490.0
@@ -344,46 +408,6 @@
     "timestamp": 1790574393.0
   },
   {
-    "headline": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
-    "summary": "The United States is required by law to supply Taiwan, which has a democratically elected president and legislature, with weapons for its defence under the 1979 Taiwan Relations Act.",
-    "link": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news",
-    "source": "Euronews",
-    "pub": "2026-09-28 08:16:34",
-    "timestamp": 1790572594.0
-  },
-  {
-    "headline": "‘A gold mine’: How old EV batteries could help prevent Europe from wasting solar and wind energy",
-    "summary": "Repurposing retired EV batteries could lower Europeans’ energy bills and prevent wind and solar farms from being switched off.",
-    "link": "https://www.euronews.com/2026/09/28/a-gold-mine-how-old-ev-batteries-could-help-prevent-europe-from-wasting-solar-and-wind-ene",
-    "source": "Euronews",
-    "pub": "2026-09-28 08:02:27",
-    "timestamp": 1790571747.0
-  },
-  {
-    "headline": "Latest news bulletin | September 28th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/28/latest-news-bulletin-september-28th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-09-28 08:00:33",
-    "timestamp": 1790571633.0
-  },
-  {
-    "headline": "Trump to dine with Anthropic CEO Dario Amodei at the White House despite months of open conflict",
-    "summary": "Trump had previously lashed at Amodei over his repeated calls to slow down the pace of development of advanced AI models over concerns of superintelligence, stressing that Washington must not lose its edge over Beijing.",
-    "link": "https://www.euronews.com/2026/09/28/trump-to-dine-with-anthropic-ceo-dario-amodei-at-the-white-house-despite-months-of-open-co",
-    "source": "Euronews",
-    "pub": "2026-09-28 07:27:48",
-    "timestamp": 1790569668.0
-  },
-  {
-    "headline": "Seoul seeks apology after Ukraine 'breached' confidentiality agreement over transfer of North Korean POWs",
-    "summary": "North Korean soldiers were among the foreign contingent conscripted to fight alongside Russian troops on various frontlines in the war on Ukraine, after the Kremlin sought assistance from its close allies to bolster its deployments amid struggles with domestic conscription.",
-    "link": "https://www.euronews.com/2026/09/28/seoul-seeks-apology-after-ukraine-breached-confidentiality-agreement-over-transfer-of-nort",
-    "source": "Euronews",
-    "pub": "2026-09-28 06:49:15",
-    "timestamp": 1790567355.0
-  },
-  {
     "headline": "Ukraine, South Korea relations sour over North Korean POWs",
     "summary": "South Korea has accused Ukraine of breaching a confidentiality agreement over the transfer of North Korean prisoners of war — and of denying the deal's existence. Seoul has demanded an apology.",
     "link": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-rdf",
@@ -400,14 +424,6 @@
     "timestamp": 1790561255.0
   },
   {
-    "headline": "Putin is testing NATO on Norway’s remote Arctic islands",
-    "summary": "Russia’s rising hybrid activity on Svalbard is sparking fears that Moscow could spark an incident that tests NATO’s Article 5 mutual defense clause.",
-    "link": "https://www.politico.eu/article/russia-vladimir-putin-is-testing-nato-on-norways-remote-arctic-islands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-09-28 05:00:00",
-    "timestamp": 1790560800.0
-  },
-  {
     "headline": "Israel strips Dutch diplomats of status in West Bank",
     "summary": "The move by the Israeli Foreign Ministry is a response to Dutch sanctions targeting goods from illegal Israeli settlements in the occupied West Bank. The Dutch Foreign Ministry is yet to comment.",
     "link": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
@@ -422,30 +438,6 @@
     "source": "France 24",
     "pub": "2026-09-28 02:27:29",
     "timestamp": 1790551649.0
-  },
-  {
-    "headline": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
-    "summary": "US President Donald Trump on Sunday said he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump raised the possibility of renewed air strikes on Iran but also said he anticipated further negotiations.",
-    "link": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
-    "source": "France 24",
-    "pub": "2026-09-28 01:10:44",
-    "timestamp": 1790547044.0
-  },
-  {
-    "headline": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
-    "summary": "Russian strikes killed eight people across Ukraine on Sunday, authorities said, a day after Moscow vowed to continue the war. Ukraine's President Volodymyr Zelensky said Russia had launched about 3,900 drones, aerial bombs and missiles over the past week. Kyiv accused Moscow of deliberately targeting civilians as winter approaches.",
-    "link": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
-    "source": "France 24",
-    "pub": "2026-09-28 00:55:28",
-    "timestamp": 1790546128.0
-  },
-  {
-    "headline": "Israel revokes Dutch diplomats' West Bank credentials over settlement goods ban",
-    "summary": "Israel will revoke the diplomatic accreditation of Dutch officials based in the occupied West Bank after the Netherlands began enforcing a ban on goods from Israeli settlements, Foreign Minister Gideon Saar said Sunday. The officials have seven days to surrender their Israeli-issued diplomatic papers, he added.",
-    "link": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
-    "source": "France 24",
-    "pub": "2026-09-28 00:47:40",
-    "timestamp": 1790545660.0
   },
   {
     "headline": "Serbian President Aleksandar Vucic announces resignation",
