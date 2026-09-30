@@ -5,11 +5,14 @@ on:
     - cron: '0 * * * *' # Every hour
   workflow_dispatch: {} # Allow manual trigger
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -36,3 +39,21 @@ jobs:
           git commit -m "Auto-update news feed data [skip ci]" || exit 0
           git pull --rebase origin main || true
           git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build / Stage site files
+        run: |
+          mkdir -p _site
+          cp index.html login.html .nojekyll timestamp.txt _site/ 2>/dev/null || true
+          cp -r data _site/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
