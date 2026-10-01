@@ -12,6 +12,11 @@ MATCHES = os.path.join(DATA_DIR, "rss_matches.jsonl")
 def parse_pub_dt(p_str):
     if not p_str:
         return datetime.min
+    for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d %H:%M", "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S"):
+        try:
+            return datetime.strptime(p_str, fmt)
+        except:
+            pass
     try:
         dt = parsedate_to_datetime(p_str)
         return dt.replace(tzinfo=None)
