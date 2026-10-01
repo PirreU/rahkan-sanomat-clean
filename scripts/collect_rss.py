@@ -44,8 +44,8 @@ def main():
                     pub = helsinki_dt.strftime("%Y-%m-%d %H:%M:%S")
                     timestamp = time.time()
                 
-                # if not KEYWORDS or any(kw in combined_text for kw in KEYWORDS):
-                if True:
+                combined_text = (title + ' ' + summary).lower()
+                if not KEYWORDS or any(kw in combined_text for kw in KEYWORDS):
                     matches.append({
                         "title": title,
                         "summary": summary,
