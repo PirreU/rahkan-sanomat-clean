@@ -2,13 +2,15 @@
 # WorldWire pipeline: collect RSS -> merge -> cluster -> translate top stories -> done
 # NO_PRE_TRANSLATE=1 : skip mass title translation (rate-limit friendly)
 set -e
-cd "$(dirname "$0")/.."
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+DATA_DIR="$ROOT_DIR/data"
+mkdir -p "$DATA_DIR"
 
 echo "=== $(date -Is) pipeline start ==="
 python3 scripts/collect_rss.py
-python3 - <<'EOF'
+DATA_DIR="$DATA_DIR" python3 - <<'EOF'
 import json, os
-DATA = os.path.expanduser("~/multiperspective-news/data")
+DATA = os.environ["DATA_DIR"]
 rss = os.path.join(DATA, "rss_matches.jsonl")
 combined = os.path.join(DATA, "combined_matches.jsonl")
 rows = []
@@ -21,5 +23,5 @@ with open(combined, "w", encoding="utf-8") as f:
 print(f"combined: {len(rows)}")
 EOF
 export NO_PRE_TRANSLATE=1
-python3 scripts/cluster_translate.py --translate
+DATA_DIR="$DATA_DIR" python3 scripts/cluster_translate.py --translate
 echo "=== $(date -Is) pipeline done ==="

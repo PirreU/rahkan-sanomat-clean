@@ -4,7 +4,11 @@ import json
 import os
 import time
 import datetime
+from pathlib import Path
 from zoneinfo import ZoneInfo
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = REPO_ROOT / "data"
 
 FEEDS = {
     "Deutsche Welle": "https://rss.dw.com/rdf/rss-en-all",
@@ -16,8 +20,7 @@ FEEDS = {
 
 KEYWORDS = ['riot', 'protest', 'eu commission', 'age verification', 'politics', 'political', 'strike', 'regulation', 'digital', 'police', 'demonstration', 'parliament', 'law', 'court', 'election', 'migrant', 'immigration', 'asylum', 'refugee', 'maahanmuutto', 'turvapaikka', 'trump', 'tariff', 'war', 'russia', 'ukraine', 'israel', 'gaza', 'energy', 'economy', 'environment', 'health', 'technology', 'science', 'culture', 'sports', 'entertainment', 'business', 'finance', 'education', 'security', 'defense', 'diplomacy', 'human rights', 'humanitarian', 'crime', 'corruption', 'terror', 'attack', 'incident', 'disaster', 'accident', 'disinformation', 'fake news', 'media', 'journalism', 'art', 'music', 'film', 'literature', 'society', 'community', 'government', 'policy', 'reform', 'innovation', 'infrastructure', 'transportation', 'agriculture', 'trade', 'industry', 'manufacturing', 'tourism', 'environmental', 'sustainability', 'global warming', 'pollution', 'waste', 'recycling', 'renewable energy', 'nuclear', 'fossil fuels', 'oil', 'gas', 'coal', 'electricity', 'water', 'food', 'agriculture', 'farming', 'fisheries', 'forestry', 'biodiversity', 'ecosystem', 'wildlife', 'conservation', 'protection', 'endangered species']
 
-DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
-OUT_MATCHES = os.path.join(DATA_DIR, "rss_matches.jsonl")
+OUT_MATCHES = DATA_DIR / "rss_matches.jsonl"
 HELSINKI_TZ = ZoneInfo("Europe/Helsinki")
 
 def main():

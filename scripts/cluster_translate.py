@@ -5,9 +5,11 @@ import os
 import time
 from email.utils import parsedate_to_datetime
 from datetime import datetime
+from pathlib import Path
 
-DATA_DIR = os.path.expanduser("~/multiperspective-news/data")
-MATCHES = os.path.join(DATA_DIR, "rss_matches.jsonl")
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = REPO_ROOT / "data"
+MATCHES = DATA_DIR / "rss_matches.jsonl"
 
 def parse_pub_dt(p_str):
     if not p_str:
@@ -82,11 +84,11 @@ def main():
     for s in stories:
         s.pop("_dt", None)
 
-    os.makedirs(DATA_DIR, exist_ok=True)
-    with open(os.path.join(DATA_DIR, "stories.json"), "w", encoding="utf-8") as f:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    with open(DATA_DIR / "stories.json", "w", encoding="utf-8") as f:
         json.dump(stories, f, ensure_ascii=False, indent=2)
-        
-    with open(os.path.join(DATA_DIR, "stories_fi.json"), "w", encoding="utf-8") as f:
+
+    with open(DATA_DIR / "stories_fi.json", "w", encoding="utf-8") as f:
         json.dump(stories_fi, f, ensure_ascii=False, indent=2)
         
     print("Pipeline completed successfully.")
