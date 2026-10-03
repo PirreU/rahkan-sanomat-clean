@@ -39,7 +39,23 @@ header {
   gap: 12px;
 }
 h1 { font-size:24px; font-weight:700; letter-spacing:-0.5px; }
-h1 span { color:var(--accent); }
+h1 { display:flex; align-items:center; gap:12px; font-size:24px; font-weight:700; }
+.brand-mark {
+  display:grid;
+  place-items:center;
+  width:40px;
+  height:40px;
+  flex:none;
+  border:1px solid var(--accent);
+  border-radius:4px;
+  color:var(--accent);
+  font-family:'JetBrains Mono', monospace;
+  font-size:15px;
+  font-weight:500;
+  letter-spacing:0;
+}
+.brand-name { letter-spacing:0; }
+.brand-name span { color:var(--accent); }
 
 .controls {
   display: flex;
@@ -161,7 +177,10 @@ if (!localStorage.getItem('rs_auth')) {
 <div class="wrap">
 <header>
   <div class="header-top">
-    <h1>Rahkan <span>Sanomat</span></h1>
+    <h1>
+      <span class="brand-mark" aria-hidden="true">RS</span>
+      <span class="brand-name">Rahkan <span>Sanomat</span></span>
+    </h1>
     <div class="controls">
       <div>
         <button id="btn-en" class="lang-btn" onclick="setLang('en')">EN</button>
