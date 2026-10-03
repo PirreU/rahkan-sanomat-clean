@@ -1,140 +1,280 @@
 [
   {
+    "headline": "On German Unity Day, Steinmeier laments 'bitter setbacks'",
+    "headline_fi": "Saksan yhtenäisyyden päivänä Steinmeier valittaa \"katkerista takaiskuista\"",
+    "link": "https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 13:56"
+  },
+  {
+    "headline": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation",
+    "headline_fi": "Intia-uutiset: Torakka Janta -puolue ilmoittaa Delhi-marssin 10. lokakuuta, vaatii vaalijohtajan eroa",
+    "link": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 13:13"
+  },
+  {
+    "headline": "China opens anti-dumping probe into EU days before Beijing trade talks",
+    "headline_fi": "Kiina aloittaa EU:n polkumyynnin vastaisen tutkinnan muutamaa päivää ennen Pekingin kauppaneuvotteluja",
+    "link": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
+    "source": "Euronews",
+    "pub": "2026-10-03 13:09"
+  },
+  {
+    "headline": "Russia hits major Kyiv bridge, logistics hub in latest attack",
+    "headline_fi": "Venäjä iskee viimeisimmässä hyökkäyksessä suureen Kiovan siltaan, logistiikkakeskukseen",
+    "link": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-03 13:04"
+  },
+  {
+    "headline": "Latest news bulletin | October 3rd, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |3. lokakuuta 2026 – keskipäivä",
+    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-10-03 13:00"
+  },
+  {
+    "headline": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
+    "headline_fi": "Flavio Bolsonaro: Isän, poikien ja pyhän ideologian nimessä",
+    "link": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
+    "source": "France 24",
+    "pub": "2026-10-03 12:48"
+  },
+  {
+    "headline": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
+    "headline_fi": "Yhdistyneet arabiemiirikunnat: FlyDubain perämies hyökkäsi kapteenin kimppuun kirveellä \"terroristissa\"",
+    "link": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
+    "source": "Euronews",
+    "pub": "2026-10-03 12:27"
+  },
+  {
+    "headline": "Barricades & the blame game: the French school protests",
+    "headline_fi": "Barrikadit ja syyttelypeli: ranskalainen koulu protestoi",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
+    "source": "France 24",
+    "pub": "2026-10-03 12:25"
+  },
+  {
+    "headline": "Widdecombe murder suspect charged with planning terror act on Nigel Farage",
+    "headline_fi": "Widdecomben murhasta epäiltyä syytetään terroriteon suunnittelusta Nigel Faragea vastaan",
+    "link": "https://www.politico.eu/article/anne-widdecombe-murder-suspect-charged-with-planning-terror-act-on-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-03 12:03"
+  },
+  {
+    "headline": "Russia strikes another major bridge in Kyiv, says mayor",
+    "headline_fi": "Venäjä iskee uudelle suurelle sillalle Kiovassa, pormestari sanoo",
+    "link": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 11:36"
+  },
+  {
+    "headline": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
+    "headline_fi": "Flydubai-perämies yritti \"terrori-iskua\", Yhdistyneet arabiemiirikunnat sanoo",
+    "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 11:17"
+  },
+  {
+    "headline": "Morocco's first female head of government: Symbol or real reform?",
+    "headline_fi": "Marokon ensimmäinen naispuolinen hallituksen päämies: symboli vai todellinen uudistus?",
+    "link": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 11:10"
+  },
+  {
+    "headline": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
+    "headline_fi": "Etiopian tigray-kapinalliset hylkäsivät alueellisen pääkaupungin Mekellen hallitusta tukevien joukkojen etenemisen myötä",
+    "link": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
+    "source": "France 24",
+    "pub": "2026-10-03 10:58"
+  },
+  {
+    "headline": "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
+    "headline_fi": "Espanjaa kohtaa asuntoprotestoi yli 50 kaupungissa sen jälkeen, kun parlamentti hylkäsi vuokralaisten suojelun",
+    "link": "https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec",
+    "source": "Euronews",
+    "pub": "2026-10-03 10:34"
+  },
+  {
+    "headline": "🔴 UAE investigators say Flydubai co-pilot was planning 'terrorist act'",
+    "headline_fi": "🔴 Yhdistyneiden arabiemiirikuntien tutkijat sanovat, että Flydubain perämies suunnitteli \"terroritekoa\"",
+    "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+    "source": "France 24",
+    "pub": "2026-10-03 10:14"
+  },
+  {
+    "headline": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
+    "headline_fi": "Latvialaiset äänestävät parlamenttivaaleissa huolissaan elinkustannusten noususta ja Venäjästä",
+    "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
+    "source": "Euronews",
+    "pub": "2026-10-03 10:00"
+  },
+  {
+    "headline": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
+    "headline_fi": "Sodan, separatismin ja EU-tavoitteiden muovaama Bosnia-Hertsegovina",
+    "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 09:51"
+  },
+  {
+    "headline": "Second Kyiv bridge hit in two days as Russia targets Dnipro crossings",
+    "headline_fi": "Toinen Kiovan silta osui kahdessa päivässä, kun Venäjä tavoitti Dnipron risteyksiä",
+    "link": "https://www.euronews.com/2026/10/03/second-kyiv-bridge-hit-in-two-days-as-russia-targets-dnipro-crossings",
+    "source": "Euronews",
+    "pub": "2026-10-03 09:46"
+  },
+  {
+    "headline": "Russia strikes another major bridge across Kyiv's Dnipro river",
+    "headline_fi": "Venäjä iskee uudelle suurelle sillalle Kiovan Dnipro-joen yli",
+    "link": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+    "source": "France 24",
+    "pub": "2026-10-03 09:40"
+  },
+  {
+    "headline": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
+    "headline_fi": "Arabiemiirikuntien tutkijat sanovat, että Omani Flydubai -perämies suunnitteli \"terrori-iskua\".",
+    "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+    "source": "France 24",
+    "pub": "2026-10-03 09:17"
+  },
+  {
+    "headline": "Latvia votes in parliamentary election amid rising costs",
+    "headline_fi": "Latvia votes in parliamentary election amid rising costs",
+    "link": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-03 09:06"
+  },
+  {
     "headline": "‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills",
-    "headline_fi": "\"Se on antanut mielenterveydelleni valtavan sysäyksen\": Miksi kaikkien pitäisi hioa bushcraft-taitojaan",
+    "headline_fi": "‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills",
     "link": "https://www.euronews.com/2026/10/03/its-given-my-mental-health-a-massive-boost-why-everyone-should-hone-their-bushcraft-skills",
     "source": "Euronews",
     "pub": "2026-10-03 08:02"
   },
   {
     "headline": "House prices keep rising across Europe: Which countries saw the biggest increases and why?",
-    "headline_fi": "Asuntojen hinnat jatkavat nousuaan kaikkialla Euroopassa: missä maissa nousu oli suurin ja miksi?",
+    "headline_fi": "House prices keep rising across Europe: Which countries saw the biggest increases and why?",
     "link": "https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "Latest news bulletin | October 3rd, 2026 – Morning",
-    "headline_fi": "Uusin uutistiedote |3. lokakuuta 2026 – Aamu",
+    "headline_fi": "Latest news bulletin | October 3rd, 2026 – Morning",
     "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’",
-    "headline_fi": "Ruoasta johdetuista pakenemisesta elämän matkaan: miten luksusmatkailu on kehittynyt ja \"ei näytä yhdeltä suunnalta\"",
+    "headline_fi": "From food-led escapes to trip of a lifetime hotels: How luxury travel has evolved and ‘doesn’t look one way’",
     "link": "https://www.euronews.com/2026/10/03/food-led-escapes-and-trip-of-a-lifetime-hotels-how-luxury-travel-has-evolved-and-doesnt-lo",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
     "headline": "Russia leads world in cat ownership — yet has 2.8 million strays",
-    "headline_fi": "Venäjä on kissojen omistajuudessa maailman kärjessä – kuitenkin 2,8 miljoonaa kulkuria",
+    "headline_fi": "Russia leads world in cat ownership — yet has 2.8 million strays",
     "link": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
     "source": "Euronews",
     "pub": "2026-10-03 08:00"
   },
   {
-    "headline": "Co-pilot on Flydubai flight was banned from flying by Oman",
-    "headline_fi": "Oman kielsi lentokiellon Flydubai-lennon perämieheltä",
-    "link": "https://www.dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-03 06:52"
-  },
-  {
     "headline": "US, Australia suspend consular services in Brazil",
-    "headline_fi": "Yhdysvallat ja Australia keskeyttävät konsulipalvelut Brasiliassa",
+    "headline_fi": "US, Australia suspend consular services in Brazil",
     "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 05:24"
   },
   {
     "headline": "Latvian PM faces bittersweet victory in election backdropped by Russia",
-    "headline_fi": "Latvian pääministeri kohtaa katkeransuloisen voiton Venäjän taustalla olevissa vaaleissa",
+    "headline_fi": "Latvian PM faces bittersweet victory in election backdropped by Russia",
     "link": "https://www.politico.eu/article/latvia-prime-minister-andris-kulbergs-faces-bittersweet-victory-election-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-03 05:00"
   },
   {
     "headline": "Christa Pike unconscious after failed execution — attorneys",
-    "headline_fi": "Christa Pike tajuton epäonnistuneen teloituksen jälkeen – asianajajat",
+    "headline_fi": "Christa Pike unconscious after failed execution — attorneys",
     "link": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 01:52"
   },
   {
     "headline": "North Korea fires ballistic missile into sea, Seoul says",
-    "headline_fi": "Pohjois-Korea ampui ballistisen ohjuksen mereen, Soul sanoo",
+    "headline_fi": "North Korea fires ballistic missile into sea, Seoul says",
     "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-03 01:06"
   },
   {
     "headline": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
-    "headline_fi": "Ranskan tiedotusvälineet vastaavat M. Le Penin \"Kevlar-puku\" -kommentteihin tutkintayksikköä vastaan",
+    "headline_fi": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
     "link": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
     "source": "France 24",
     "pub": "2026-10-03 00:37"
   },
   {
     "headline": "Ethiopian army pushes back Tigrayan rebels",
-    "headline_fi": "Etiopian armeija työnsi takaisin Tigrayan-kapinallisia",
+    "headline_fi": "Ethiopian army pushes back Tigrayan rebels",
     "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
     "source": "France 24",
     "pub": "2026-10-02 23:46"
   },
   {
     "headline": "Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach",
-    "headline_fi": "Jännitys kasvaa Ceutassa: kahta siirtolaislasta puukotettiin ja bakteerien saastuttama ranta",
+    "headline_fi": "Tension rises in Ceuta: two migrant children stabbed and bacteria-contaminated beach",
     "link": "https://www.euronews.com/2026/10/02/tension-rises-in-ceuta-two-migrant-children-stabbed-and-bacteria-contaminated-beach",
     "source": "Euronews",
     "pub": "2026-10-02 23:40"
   },
   {
     "headline": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
-    "headline_fi": "Yhdysvallat keskeytti konsulipalvelut Brasiliassa, kun Lula ja Bolsonaro taistelevat vaaleista",
+    "headline_fi": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
     "link": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
     "source": "Euronews",
     "pub": "2026-10-02 23:40"
   },
   {
     "headline": "UK: Man charged with planning to attack Nigel Farage",
-    "headline_fi": "UK: Miestä syytetään Nigel Farageen hyökkäämisen suunnittelusta",
+    "headline_fi": "UK: Man charged with planning to attack Nigel Farage",
     "link": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 23:38"
   },
   {
     "headline": "Sánchez begins reflection on early election as protesters call for general strike",
-    "headline_fi": "Sánchez alkaa pohtia ennenaikaisia ​​vaaleja, kun mielenosoittajat vaativat yleislakkoa",
+    "headline_fi": "Sánchez begins reflection on early election as protesters call for general strike",
     "link": "https://www.euronews.com/2026/10/02/sanchez-begins-reflection-on-early-election-as-protesters-call-for-general-strike",
     "source": "Euronews",
     "pub": "2026-10-02 22:46"
   },
   {
     "headline": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
-    "headline_fi": "20 vuotta paennut ugandalainen sotapäällikkö Kony on edelleen \"aktiivinen\" Herran vastarintaarmeijassa",
+    "headline_fi": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
     "link": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
     "source": "France 24",
     "pub": "2026-10-02 22:31"
   },
   {
     "headline": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
-    "headline_fi": "Venäjä \"revittää Kiovaa\", pormestari sanoo, kun lakot halvaansivat liikenteen",
+    "headline_fi": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
     "link": "https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic",
     "source": "Euronews",
     "pub": "2026-10-02 22:30"
   },
   {
     "headline": "New York governor condemns handling of Cornell rape case",
-    "headline_fi": "New Yorkin kuvernööri tuomitsee Cornellin raiskaustapauksen käsittelyn",
+    "headline_fi": "New York governor condemns handling of Cornell rape case",
     "link": "https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 22:09"
   },
   {
     "headline": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
-    "headline_fi": "Ranskan levottomuudet: Olemmeko todistamassa uutta \"keltaisten liivien\" liikettä?",
+    "headline_fi": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement",
     "source": "France 24",
     "pub": "2026-10-02 21:54"
@@ -217,13 +357,6 @@
     "pub": "2026-10-02 18:53"
   },
   {
-    "headline": "Iran accused of blocking SIM cards, digital access to silence dissent",
-    "headline_fi": "Iran accused of blocking SIM cards, digital access to silence dissent",
-    "link": "https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:19"
-  },
-  {
     "headline": "Brazil: The craze for candidate merch ahead of elections",
     "headline_fi": "Brazil: The craze for candidate merch ahead of elections",
     "link": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
@@ -250,13 +383,6 @@
     "link": "https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro",
     "source": "France 24",
     "pub": "2026-10-02 18:06"
-  },
-  {
-    "headline": "Europe to release diesel reserves after Trump request",
-    "headline_fi": "Europe to release diesel reserves after Trump request",
-    "link": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:02"
   },
   {
     "headline": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
@@ -315,13 +441,6 @@
     "pub": "2026-10-02 17:27"
   },
   {
-    "headline": "Argentina launches cash-for-citizenship scheme",
-    "headline_fi": "Argentina launches cash-for-citizenship scheme",
-    "link": "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 17:26"
-  },
-  {
     "headline": "G7 agrees to release oil reserves after U.S. push",
     "headline_fi": "G7 agrees to release oil reserves after U.S. push",
     "link": "https://www.politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -371,32 +490,11 @@
     "pub": "2026-10-02 16:48"
   },
   {
-    "headline": "'Apocalyptic scenes' as France school protests escalate",
-    "headline_fi": "'Apocalyptic scenes' as France school protests escalate",
-    "link": "https://www.france24.com/en/video/20261002-apocalyptic-scenes-as-france-school-protests-escalate",
-    "source": "France 24",
-    "pub": "2026-10-02 16:42"
-  },
-  {
-    "headline": "Students and police clash as France struggles to quell school protests",
-    "headline_fi": "Students and police clash as France struggles to quell school protests",
-    "link": "https://www.france24.com/en/video/20261002-students-and-police-clash-as-france-struggles-to-quell-school-protests",
-    "source": "France 24",
-    "pub": "2026-10-02 16:40"
-  },
-  {
     "headline": "Iconic London hotel Dukes is set to reopen in mid-2027",
     "headline_fi": "Iconic London hotel Dukes is set to reopen in mid-2027",
     "link": "https://www.euronews.com/2026/10/02/iconic-london-hotel-dukes-is-set-to-reopen-in-mid-2027",
     "source": "Euronews",
     "pub": "2026-10-02 16:39"
-  },
-  {
-    "headline": "North and South Korea trade accusations over landmines that injured three soldiers",
-    "headline_fi": "North and South Korea trade accusations over landmines that injured three soldiers",
-    "link": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 16:30"
   },
   {
     "headline": "EU farmers face falling produce prices as fuel and fertiliser costs rise",
@@ -441,32 +539,11 @@
     "pub": "2026-10-02 15:57"
   },
   {
-    "headline": "France school protests 'rapidly becoming out of control'",
-    "headline_fi": "France school protests 'rapidly becoming out of control'",
-    "link": "https://www.france24.com/en/video/20261002-france-school-protests-rapidly-becoming-out-of-control",
-    "source": "France 24",
-    "pub": "2026-10-02 15:55"
-  },
-  {
-    "headline": "Spain housing protests rage ahead of key government vote",
-    "headline_fi": "Spain housing protests rage ahead of key government vote",
-    "link": "https://www.france24.com/en/video/20261002-spain-housing-protests-rage-ahead-of-key-government-vote",
-    "source": "France 24",
-    "pub": "2026-10-02 15:54"
-  },
-  {
     "headline": "AI decodes 217-year-old Napoleonic letter in 6 hours",
     "headline_fi": "AI decodes 217-year-old Napoleonic letter in 6 hours",
     "link": "https://www.euronews.com/2026/10/02/ai-decodes-217-year-old-napoleonic-letter-in-6-hours",
     "source": "Euronews",
     "pub": "2026-10-02 15:49"
-  },
-  {
-    "headline": "Paraguay, a tax and political haven for Brazil's far right",
-    "headline_fi": "Paraguay, a tax and political haven for Brazil's far right",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20261002-paraguay-a-tax-and-political-haven-for-brazil-s-far-right",
-    "source": "France 24",
-    "pub": "2026-10-02 15:48"
   },
   {
     "headline": "Andy Burnham is rethinking the UK’s ties with the EU. What are his options?",
@@ -504,25 +581,11 @@
     "pub": "2026-10-02 14:39"
   },
   {
-    "headline": "What's real and what's fake? How AI is impacting Brazil's election race",
-    "headline_fi": "What's real and what's fake? How AI is impacting Brazil's election race",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
-    "source": "France 24",
-    "pub": "2026-10-02 14:34"
-  },
-  {
     "headline": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
     "headline_fi": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
     "link": "https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-02 14:17"
-  },
-  {
-    "headline": "G7 members will release 100 million barrels of diesel after US threatens export ban",
-    "headline_fi": "G7 members will release 100 million barrels of diesel after US threatens export ban",
-    "link": "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks",
-    "source": "France 24",
-    "pub": "2026-10-02 14:15"
   },
   {
     "headline": "Video shows bear slamming into car in northern Japan",
@@ -544,34 +607,6 @@
     "link": "https://www.politico.eu/article/g7-to-hold-emergency-talks-over-possible-diesel-release/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-02 14:01"
-  },
-  {
-    "headline": "Feijóo: In Ceuta, it’s up to Europe to clean up the Spanish government’s mess",
-    "headline_fi": "Feijóo: In Ceuta, it’s up to Europe to clean up the Spanish government’s mess",
-    "link": "https://www.politico.eu/article/in-ceuta-its-up-to-europe-to-clean-up-the-spanish-governments-mess/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-02 13:51"
-  },
-  {
-    "headline": "DiscoverEU applications now open: Thousands of free travel passes for young Europeans up for grabs",
-    "headline_fi": "DiscoverEU applications now open: Thousands of free travel passes for young Europeans up for grabs",
-    "link": "https://www.euronews.com/2026/10/02/discovereu-applications-now-open-thousands-of-free-travel-passes-for-young-europeans-up-fo",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:32"
-  },
-  {
-    "headline": "Fact check: What's going on with Spain's 'Maricarmen' housing protests?",
-    "headline_fi": "Fact check: What's going on with Spain's 'Maricarmen' housing protests?",
-    "link": "https://www.euronews.com/2026/10/02/fact-check-whats-going-on-with-spains-maricarmen-housing-protests",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:30"
-  },
-  {
-    "headline": "Schools closed, services slowed and flights cancelled: strikes hit Portugal",
-    "headline_fi": "Schools closed, services slowed and flights cancelled: strikes hit Portugal",
-    "link": "https://www.euronews.com/2026/10/02/schools-closed-services-slowed-and-flights-cancelled-strikes-hit-portugal",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:29"
   },
   {
     "headline": "Debate: Presidential election: which path will Brazil take?",
@@ -614,41 +649,6 @@
     "link": "https://www.eurotopics.net/en/364985/us-convicted-murderer-survives-execution?pk_campaign=rss-en&pk_kwd=2026-10-02",
     "source": "Eurotopics",
     "pub": "2026-10-02 13:29"
-  },
-  {
-    "headline": "Could the future of AI data centres be in space? Google wants to find out",
-    "headline_fi": "Could the future of AI data centres be in space? Google wants to find out",
-    "link": "https://www.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:19"
-  },
-  {
-    "headline": "European diesel reserves cover 10 days of the world's demands, expert says",
-    "headline_fi": "European diesel reserves cover 10 days of the world's demands, expert says",
-    "link": "https://www.euronews.com/video/2026/10/02/european-diesel-reserves-cover-10-days-of-the-worlds-demands-expert-says",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:12"
-  },
-  {
-    "headline": "EU adds €130 million to drone funding in border security push",
-    "headline_fi": "EU adds €130 million to drone funding in border security push",
-    "link": "https://www.euronews.com/2026/10/02/eu-adds-130-million-to-drone-funding-in-border-security-push",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:10"
-  },
-  {
-    "headline": "Hundreds of high schools in France close as new protests against conditions erupt",
-    "headline_fi": "Hundreds of high schools in France close as new protests against conditions erupt",
-    "link": "https://www.euronews.com/2026/10/02/hundreds-of-high-schools-in-france-close-as-new-protests-against-conditions-erupt",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:02"
-  },
-  {
-    "headline": "Latest news bulletin | October 2nd, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 2nd, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-02 13:00"
   },
   {
     "headline": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
@@ -1160,13 +1160,6 @@
     "link": "https://www.dw.com/en/how-belarusians-still-find-hope-in-a-silenced-country/a-79127285?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-09 16:43"
-  },
-  {
-    "headline": "LIV Golf in financial turmoil: What's next for the sport?",
-    "headline_fi": "LIV Golf in financial turmoil: What's next for the sport?",
-    "link": "https://www.dw.com/en/liv-golf-in-financial-turmoil-what-s-next-for-the-sport/a-79199569?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-09 14:16"
   },
   {
     "headline": "Conspiracy theories can provide answers but not peace",
