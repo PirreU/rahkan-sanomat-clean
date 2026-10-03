@@ -9,15 +9,15 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #090d16;
-  --panel: #111827;
-  --panel-hover: #1f2937;
-  --border: #1e293b;
+  --bg: #000000;
+  --panel: #0b1422;
+  --panel-hover: #10223a;
+  --border: #1b3558;
   --text: #f3f4f6;
-  --dim: #9ca3af;
-  --accent: #38bdf8;
-  --accent-glow: rgba(56, 189, 248, 0.15);
-  --badge-bg: #1e293b;
+  --dim: #a4afbf;
+  --accent: #4b8fe2;
+  --accent-glow: rgba(75, 143, 226, 0.2);
+  --badge-bg: #0c2038;
 }
 * { box-sizing:border-box; margin:0; padding:0; }
 body { background:var(--bg); color:var(--text); font-family:'Inter', sans-serif; line-height:1.6; padding-bottom: 60px; }
@@ -38,24 +38,13 @@ header {
   flex-wrap: wrap;
   gap: 12px;
 }
-h1 { font-size:24px; font-weight:700; letter-spacing:-0.5px; }
-h1 { display:flex; align-items:center; gap:12px; font-size:24px; font-weight:700; }
-.brand-mark {
-  display:grid;
-  place-items:center;
-  width:40px;
-  height:40px;
+.brand-logo {
+  display:block;
+  width:112px;
+  height:112px;
   flex:none;
-  border:1px solid var(--accent);
-  border-radius:4px;
-  color:var(--accent);
-  font-family:'JetBrains Mono', monospace;
-  font-size:15px;
-  font-weight:500;
-  letter-spacing:0;
+  object-fit:contain;
 }
-.brand-name { letter-spacing:0; }
-.brand-name span { color:var(--accent); }
 
 .controls {
   display: flex;
@@ -80,7 +69,7 @@ button {
 }
 .lang-btn.active {
   background: var(--accent);
-  color: #000;
+  color: #fff;
   border-color: var(--accent);
   box-shadow: 0 0 15px var(--accent-glow);
   font-weight: 600;
@@ -177,10 +166,7 @@ if (!localStorage.getItem('rs_auth')) {
 <div class="wrap">
 <header>
   <div class="header-top">
-    <h1>
-      <span class="brand-mark" aria-hidden="true">RS</span>
-      <span class="brand-name">Rahkan <span>Sanomat</span></span>
-    </h1>
+    <img class="brand-logo" src="./assets/RS.png" alt="Rahkan Sanomat">
     <div class="controls">
       <div>
         <button id="btn-en" class="lang-btn" onclick="setLang('en')">EN</button>
