@@ -1,5 +1,68 @@
 [
   {
+    "headline": "Trump says he will speak to Putin over reported plague death in Russia",
+    "headline_fi": "Trump says he will speak to Putin over reported plague death in Russia",
+    "link": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
+    "source": "France 24",
+    "pub": "2026-10-07 01:51"
+  },
+  {
+    "headline": "Latvia moves to expel Russian journalist who used to work for BBC",
+    "headline_fi": "Latvia moves to expel Russian journalist who used to work for BBC",
+    "link": "https://www.politico.eu/article/latvia-moves-expel-russian-journalist-leonid-ragozin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 01:18"
+  },
+  {
+    "headline": "Read the charter for the White House’s ‘Super Intelligence Force’",
+    "headline_fi": "Read the charter for the White House’s ‘Super Intelligence Force’",
+    "link": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-07 00:51"
+  },
+  {
+    "headline": "Armed Man shot outside Sweden's Royal Palace in Stockholm",
+    "headline_fi": "Armed Man shot outside Sweden's Royal Palace in Stockholm",
+    "link": "https://www.euronews.com/2026/10/06/armed-man-shot-outside-swedens-royal-palace-in-stockholm",
+    "source": "Euronews",
+    "pub": "2026-10-07 00:36"
+  },
+  {
+    "headline": "Kenya reports first-ever Ebola death",
+    "headline_fi": "Kenya reports first-ever Ebola death",
+    "link": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death",
+    "source": "France 24",
+    "pub": "2026-10-07 00:28"
+  },
+  {
+    "headline": "French policeman charged after firing tear gas grenade at high school student",
+    "headline_fi": "French policeman charged after firing tear gas grenade at high school student",
+    "link": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student",
+    "source": "France 24",
+    "pub": "2026-10-07 00:04"
+  },
+  {
+    "headline": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
+    "headline_fi": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
+    "link": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
+    "source": "France 24",
+    "pub": "2026-10-06 23:58"
+  },
+  {
+    "headline": "How much does France spend on education?",
+    "headline_fi": "How much does France spend on education?",
+    "link": "https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education",
+    "source": "France 24",
+    "pub": "2026-10-06 23:29"
+  },
+  {
+    "headline": "Greens promise ‘campaign mode’ and continuity under new leaders",
+    "headline_fi": "Greens promise ‘campaign mode’ and continuity under new leaders",
+    "link": "https://www.politico.eu/article/greens-terry-reintke-nicu-stefanuta-new-leadership-european-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 23:22"
+  },
+  {
     "headline": "Judo: Japan crowns two new world champions in Baku",
     "headline_fi": "Judo: Japan crowns two new world champions in Baku",
     "link": "https://www.euronews.com/2026/10/06/judo-japan-crowns-two-new-world-champions-in-baku",
@@ -168,13 +231,6 @@
     "pub": "2026-10-06 18:13"
   },
   {
-    "headline": "'We were naive' about Hamas, Israeli ex-hostage Shoshan Haran says",
-    "headline_fi": "'We were naive' about Hamas, Israeli ex-hostage Shoshan Haran says",
-    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261006-we-were-naive-about-hamas-israeli-ex-hostage-shoshan-haran-says",
-    "source": "France 24",
-    "pub": "2026-10-06 18:01"
-  },
-  {
     "headline": "One student killed, eight wounded in Istanbul school stabbing attack",
     "headline_fi": "One student killed, eight wounded in Istanbul school stabbing attack",
     "link": "https://www.euronews.com/2026/10/06/one-student-killed-eight-wounded-in-istanbul-school-stabbing-attack",
@@ -187,13 +243,6 @@
     "link": "https://www.euronews.com/2026/10/06/book-weighing-over-200kg-illustrated-by-dali-and-cocteau-stolen-in-auvergne",
     "source": "Euronews",
     "pub": "2026-10-06 17:51"
-  },
-  {
-    "headline": "French students looking for protests 'to become a major movement'",
-    "headline_fi": "French students looking for protests 'to become a major movement'",
-    "link": "https://www.france24.com/en/video/20261006-french-students-looking-for-protests-to-become-a-major-movement",
-    "source": "France 24",
-    "pub": "2026-10-06 17:49"
   },
   {
     "headline": "EU-China trade tensions: Five things to know as Brussels and Beijing face crunch talks",
@@ -217,8 +266,8 @@
     "pub": "2026-10-06 17:34"
   },
   {
-    "headline": "Third day of national action by secondary school pupils and students in France",
-    "headline_fi": "Third day of national action by secondary school pupils and students in France",
+    "headline": "French riot police use tear gas on third day of national student protests",
+    "headline_fi": "French riot police use tear gas on third day of national student protests",
     "link": "https://www.euronews.com/2026/10/06/third-day-of-national-action-by-secondary-school-pupils-and-students-in-france",
     "source": "Euronews",
     "pub": "2026-10-06 17:30"
@@ -229,20 +278,6 @@
     "link": "https://www.euronews.com/2026/10/06/lithuania-takes-further-step-towards-lifting-nuclear-weapons-ban",
     "source": "Euronews",
     "pub": "2026-10-06 17:23"
-  },
-  {
-    "headline": "🔴 Live: French PM denies 'police repression', suspends classes as clashes erupt at student protests",
-    "headline_fi": "🔴 Live: French PM denies 'police repression', suspends classes as clashes erupt at student protests",
-    "link": "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
-    "source": "France 24",
-    "pub": "2026-10-06 17:21"
-  },
-  {
-    "headline": "'Busification': Inside Ukraine’s controversial recruitment practices",
-    "headline_fi": "'Busification': Inside Ukraine’s controversial recruitment practices",
-    "link": "https://www.france24.com/en/europe/20261006-busification-inside-ukraine-s-controversial-recruitment-practices",
-    "source": "France 24",
-    "pub": "2026-10-06 17:19"
   },
   {
     "headline": "New EU members face 15-year probation period after joining the bloc",
@@ -273,20 +308,6 @@
     "pub": "2026-10-06 17:17"
   },
   {
-    "headline": "Ethiopia 'fears Tigray conflict could get out of control'",
-    "headline_fi": "Ethiopia 'fears Tigray conflict could get out of control'",
-    "link": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
-    "source": "France 24",
-    "pub": "2026-10-06 17:11"
-  },
-  {
-    "headline": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region",
-    "headline_fi": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region",
-    "link": "https://www.france24.com/en/video/20261006-ukrainian-drones-kill-two-hit-fuel-hub-in-one-of-biggest-attacks-on-moscow-region",
-    "source": "France 24",
-    "pub": "2026-10-06 17:07"
-  },
-  {
     "headline": "Metsola to take action after MEP Rima Hassan removes Israeli flag",
     "headline_fi": "Metsola to take action after MEP Rima Hassan removes Israeli flag",
     "link": "https://www.euronews.com/2026/10/06/metsola-to-take-action-after-mep-rima-hassan-removes-israeli-flag",
@@ -299,13 +320,6 @@
     "link": "https://www.euronews.com/2026/10/06/eu-commission-throws-down-the-gauntlet-to-member-states-on-reforming-the-bloc",
     "source": "Euronews",
     "pub": "2026-10-06 17:07"
-  },
-  {
-    "headline": "India opposition parties rally for election chief’s exit over voter list changes",
-    "headline_fi": "India opposition parties rally for election chief’s exit over voter list changes",
-    "link": "https://www.france24.com/en/video/20261006-india-opposition-parties-rally-for-election-chief-s-exit-over-voter-list-changes",
-    "source": "France 24",
-    "pub": "2026-10-06 17:06"
   },
   {
     "headline": "Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections",
@@ -392,13 +406,6 @@
     "pub": "2026-10-06 16:06"
   },
   {
-    "headline": "Police arrest another British man in RAF Fairford investigation",
-    "headline_fi": "Police arrest another British man in RAF Fairford investigation",
-    "link": "https://www.politico.eu/article/police-arrest-another-british-man-in-raf-fairford-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-06 16:02"
-  },
-  {
     "headline": "From desalination to irrigation: How countries are adapting to water scarcity",
     "headline_fi": "From desalination to irrigation: How countries are adapting to water scarcity",
     "link": "https://www.euronews.com/2026/10/06/from-desalination-to-irrigation-how-countries-are-adapting-to-water-scarcity",
@@ -420,25 +427,11 @@
     "pub": "2026-10-06 15:57"
   },
   {
-    "headline": "EU Parliament spat as MEP challenges Metsola’s claims over Israeli flag",
-    "headline_fi": "EU Parliament spat as MEP challenges Metsola’s claims over Israeli flag",
-    "link": "https://www.politico.eu/article/eu-parliament-spat-as-mep-rima-hassan-challenges-roberta-metsola-claims-over-israeli-flag/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-06 15:51"
-  },
-  {
     "headline": "Brunello Cucinelli transforms a historic Tashkent madrasah into a runway",
     "headline_fi": "Brunello Cucinelli transforms a historic Tashkent madrasah into a runway",
     "link": "https://www.euronews.com/2026/10/06/brunello-cucinelli-transforms-a-historic-tashkent-madrasah-into-a-runway",
     "source": "Euronews",
     "pub": "2026-10-06 15:15"
-  },
-  {
-    "headline": "France’s Le Pen unveils economic platform brimming with eye-watering cuts — but few new ideas",
-    "headline_fi": "France’s Le Pen unveils economic platform brimming with eye-watering cuts — but few new ideas",
-    "link": "https://www.politico.eu/article/le-pen-unveils-economic-platform-stuffed-with-eye-watering-cuts-but-few-new-ideas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-06 15:09"
   },
   {
     "headline": "Trump defers diesel tax for truckers as fuel costs bite weeks before US midterms",
@@ -663,13 +656,6 @@
     "link": "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns",
     "source": "Euronews",
     "pub": "2026-10-06 11:06"
-  },
-  {
-    "headline": "Turkey and Pakistan to send troops to Saudi Arabia under defence pact",
-    "headline_fi": "Turkey and Pakistan to send troops to Saudi Arabia under defence pact",
-    "link": "https://www.euronews.com/2026/10/06/turkey-and-pakistan-to-send-troops-to-saudi-arabia-under-defence-pact",
-    "source": "Euronews",
-    "pub": "2026-10-06 11:05"
   },
   {
     "headline": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
