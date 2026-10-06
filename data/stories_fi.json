@@ -1,140 +1,385 @@
 [
   {
+    "headline": "Sánchez able 'to convert' housing weakness 'into strenght', expert says",
+    "headline_fi": "Sánchez kykeni \"muuntamaan\" asumisen heikkouden \"vahvuudeksi\", asiantuntija sanoo",
+    "link": "https://www.euronews.com/video/2026/10/06/sanchez-able-to-convert-housing-weakness-into-strenght-expert-says",
+    "source": "Euronews",
+    "pub": "2026-10-06 10:25"
+  },
+  {
+    "headline": "Tear gas and water cannon in Pristina as protesters clash with police",
+    "headline_fi": "Kyynelkaasu ja vesitykki Pristinassa, kun mielenosoittajat ottivat yhteen poliisin kanssa",
+    "link": "https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police",
+    "source": "Euronews",
+    "pub": "2026-10-06 10:23"
+  },
+  {
+    "headline": "Drones hit two ships off coast of Bulgaria, sinking one, as government calls emergency meeting",
+    "headline_fi": "Droonit osuivat kahteen laivaan Bulgarian rannikolla ja upposivat yhden, kun hallitus kutsuu hätäkokouksen",
+    "link": "https://www.euronews.com/2026/10/06/drones-hit-two-ships-off-coast-of-bulgaria-as-government-calls-emergency-meeting",
+    "source": "Euronews",
+    "pub": "2026-10-06 10:22"
+  },
+  {
+    "headline": "Canada: Quebec separatists return to power, promise new independence referendum",
+    "headline_fi": "Kanada: Quebecin separatistit palaavat valtaan, lupaavat uutta itsenäisyysäänestystä",
+    "link": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 09:57"
+  },
+  {
+    "headline": "Germany's far-right AfD bids to take helm of state parliament in Saxony-Anhalt",
+    "headline_fi": "Saksan äärioikeistolainen AfD pyrkii saamaan Sachsen-Anhaltin osavaltion parlamentin johtoon",
+    "link": "https://www.euronews.com/2026/10/06/germanys-far-right-afd-bids-to-take-helm-of-state-parliament-in-saxony-anhalt",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:45"
+  },
+  {
+    "headline": "Fuel in Italy, tax cuts expire: diesel prices rise as hauliers threaten strikes",
+    "headline_fi": "Polttoaine Italiassa, veronalennukset umpeutuvat: dieselin hinnat nousevat rahdinkuljettajien lakolla",
+    "link": "https://www.euronews.com/2026/10/06/fuel-in-italy-tax-cuts-expire-diesel-prices-rise-as-hauliers-threaten-strikes",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:45"
+  },
+  {
+    "headline": "Housing protest turns violent in Barcelona with fires and arrests",
+    "headline_fi": "Asuntoprotestit muuttuvat väkivaltaisiksi Barcelonassa tulipalojen ja pidätysten myötä",
+    "link": "https://www.euronews.com/video/2026/10/06/housing-protest-turns-violent-in-barcelona-with-fires-and-arrests",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:43"
+  },
+  {
+    "headline": "Barcelona housing protest erupts into clashes as barricades burn",
+    "headline_fi": "Barcelonan asuntojen mielenosoitus puhkeaa yhteenotoksiksi barrikadejen palaessa",
+    "link": "https://www.euronews.com/2026/10/06/barcelona-housing-protest-erupts-into-clashes-as-barricades-burn",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:36"
+  },
+  {
+    "headline": "With Pedro Sánchez at the helm, Spain’s socialist stronghold is cracking",
+    "headline_fi": "Pedro Sánchezin johdolla Espanjan sosialistinen tukikohta halkeilee",
+    "link": "https://www.euronews.com/2026/10/06/with-pedro-sanchez-at-the-helm-spains-socialist-stronghold-is-cracking",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:35"
+  },
+  {
+    "headline": "Joana Vasconcelos blends art and haute couture in exhibition for Valentino Garavani",
+    "headline_fi": "Joana Vasconcelos yhdistää taidetta ja haute couturea Valentino Garavanin näyttelyssä",
+    "link": "https://www.euronews.com/2026/10/06/joana-vasconcelos-blends-art-and-haute-couture-in-exhibition-for-valentino-garavani",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:24"
+  },
+  {
+    "headline": "Germany news: Saxony-Anhalt parliament sits after AfD win",
+    "headline_fi": "Saksan uutiset: Saksi-Anhaltin parlamentti kokoontuu AfD:n voiton jälkeen",
+    "link": "https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 09:21"
+  },
+  {
+    "headline": "Ukraine hits Moscow with one of its largest drone attacks in two years",
+    "headline_fi": "Ukraina iskee Moskovaan yhdellä suurimmista drone-iskuistaan ​​kahteen vuoteen",
+    "link": "https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say",
+    "source": "France 24",
+    "pub": "2026-10-06 09:11"
+  },
+  {
+    "headline": "Kosovo police use tear gas on protesters demanding curbs on war crimes court",
+    "headline_fi": "Kosovon poliisi käyttää kyynelkaasua mielenosoittajiin, jotka vaativat sotarikostuomioistuimen hillitsemistä",
+    "link": "https://www.euronews.com/2026/10/06/kosovo-police-use-tear-gas-on-protesters-demanding-curbs-on-war-crimes-court",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:08"
+  },
+  {
+    "headline": "Europe Today: Sánchez calls snap election in Spain as French students protest again",
+    "headline_fi": "Europe Today: Sánchez julkaisi ennenaikaiset vaalit Espanjassa, koska ranskalaiset opiskelijat osoittavat jälleen mieltään",
+    "link": "https://www.euronews.com/2026/10/06/europe-today-sanchez-calls-snap-election-in-spain-as-french-students-protest-again",
+    "source": "Euronews",
+    "pub": "2026-10-06 09:03"
+  },
+  {
+    "headline": "Ronaldo’s next chapter: What lies ahead after Portugal’s Nations League progress?",
+    "headline_fi": "Ronaldon seuraava luku: Mitä on edessä Portugalin Kansakuntien liigan edistymisen jälkeen?",
+    "link": "https://www.euronews.com/2026/10/06/ronaldos-next-chapter-what-lies-ahead-after-portugals-nations-league-progress",
+    "source": "Euronews",
+    "pub": "2026-10-06 08:14"
+  },
+  {
+    "headline": "Could teenage fitness shape your mental health decades later? New research suggests it might",
+    "headline_fi": "Voisiko teinien kunto muokata mielenterveyttäsi vuosikymmeniä myöhemmin?Uusi tutkimus viittaa siihen, että voi",
+    "link": "https://www.euronews.com/2026/10/06/could-teenage-fitness-shape-your-mental-health-decades-later-new-research-suggests-it-migh",
+    "source": "Euronews",
+    "pub": "2026-10-06 08:10"
+  },
+  {
+    "headline": "India news: Opposition leaders set to march to Election Commission",
+    "headline_fi": "Intian uutiset: Oppositiojohtajat marssivat vaalilautakuntaan",
+    "link": "https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 08:02"
+  },
+  {
+    "headline": "Latest news bulletin | October 6th, 2026 – Morning",
+    "headline_fi": "Uusin uutistiedote |6. lokakuuta 2026 – Aamu",
+    "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-10-06 08:00"
+  },
+  {
+    "headline": "EU mulls tougher restrictions on Russian diplomats as hybrid threats intensify",
+    "headline_fi": "EU harkitsee tiukempia rajoituksia venäläisille diplomaateille hybridiuhkien voimistuessa",
+    "link": "https://www.euronews.com/2026/10/06/eu-mulls-tougher-restrictions-on-russian-diplomats-as-hybrid-threats-intensify",
+    "source": "Euronews",
+    "pub": "2026-10-06 08:00"
+  },
+  {
+    "headline": "Quebec separatists vow independence referendum after winning local elections but falling short of majority",
+    "headline_fi": "Quebecin separatistit vannovat itsenäisyysäänestyksen voitettuaan paikallisvaalit mutta jääneet enemmistön alle",
+    "link": "https://www.euronews.com/2026/10/06/quebec-separatists-vow-independence-referendum-after-winning-local-elections-but-falling-s",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:37"
+  },
+  {
+    "headline": "Fake NATO deaths, Epstein claims and drones: how Russia targets elections in the Baltics",
+    "headline_fi": "Fake NATO deaths, Epstein claims and drones: how Russia targets elections in the Baltics",
+    "link": "https://www.euronews.com/2026/10/06/fake-nato-deaths-epstein-claims-and-drones-how-russia-targets-elections-in-the-baltics",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:20"
+  },
+  {
+    "headline": "Police braces for nationwide day of protests across French high schools demanding reforms and more resources",
+    "headline_fi": "Police braces for nationwide day of protests across French high schools demanding reforms and more resources",
+    "link": "https://www.euronews.com/2026/10/06/police-braces-for-nationwide-day-of-protests-across-french-high-schools-demanding-reforms-",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:15"
+  },
+  {
+    "headline": "Musical residencies: Business is booming, but who pays the most for pop stars playing in Europe?",
+    "headline_fi": "Musical residencies: Business is booming, but who pays the most for pop stars playing in Europe?",
+    "link": "https://www.euronews.com/2026/10/06/musical-residencies-business-is-booming-but-who-pays-the-bill",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:14"
+  },
+  {
+    "headline": "Climate damage already ‘locked in’ – but these 10 insights show our future is still being decided",
+    "headline_fi": "Climate damage already ‘locked in’ – but these 10 insights show our future is still being decided",
+    "link": "https://www.euronews.com/2026/10/06/climate-damage-already-locked-in-but-these-10-insights-show-our-future-is-still-being-deci",
+    "source": "Euronews",
+    "pub": "2026-10-06 07:14"
+  },
+  {
+    "headline": "How Spain’s snap election could blow up Brussels",
+    "headline_fi": "How Spain’s snap election could blow up Brussels",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-spains-snap-election-could-blow-up-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 07:05"
+  },
+  {
+    "headline": "Trump says US moved their B-1 bombers from RAF Fairford airbase after additional threats were made",
+    "headline_fi": "Trump says US moved their B-1 bombers from RAF Fairford airbase after additional threats were made",
+    "link": "https://www.euronews.com/2026/10/06/trump-says-us-moved-their-b-1-bombers-from-raf-fairford-airbase-after-additional-threats-w",
+    "source": "Euronews",
+    "pub": "2026-10-06 06:54"
+  },
+  {
+    "headline": "Der erste Machtbeweis der AfD in Magdeburg",
+    "headline_fi": "Der erste Machtbeweis der AfD in Magdeburg",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/der-erste-machtbeweis-der-afd-in-magdeburg/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 06:30"
+  },
+  {
+    "headline": "Trump targets tax-free diesel as Republicans approach midterms",
+    "headline_fi": "Trump targets tax-free diesel as Republicans approach midterms",
+    "link": "https://www.france24.com/en/americas/20261006-trump-targets-tax-free-diesel-as-republicans-approach-midterms",
+    "source": "France 24",
+    "pub": "2026-10-06 06:08"
+  },
+  {
+    "headline": "Trump says taxpayers will no longer fund ads touting administration",
+    "headline_fi": "Trump says taxpayers will no longer fund ads touting administration",
+    "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-ads-touting-administration/a-79557317?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 05:32"
+  },
+  {
+    "headline": "Live: Tens of thousands expected at Paris protests as unions join students",
+    "headline_fi": "Live: Tens of thousands expected at Paris protests as unions join students",
+    "link": "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
+    "source": "France 24",
+    "pub": "2026-10-06 05:31"
+  },
+  {
+    "headline": "Spanish election threatens to blow up Brussels’ political balance",
+    "headline_fi": "Spanish election threatens to blow up Brussels’ political balance",
+    "link": "https://www.politico.eu/article/spanish-election-threatens-brussels-political-balance-pedro-sanchez-socialists-european-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 05:18"
+  },
+  {
+    "headline": "France’s debt troubles stir memories of the euro crisis",
+    "headline_fi": "France’s debt troubles stir memories of the euro crisis",
+    "link": "https://www.politico.eu/article/france-debt-trouble-memories-euro-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 05:00"
+  },
+  {
+    "headline": "France’s Mélenchon doubles down on student protests despite violent clashes",
+    "headline_fi": "France’s Mélenchon doubles down on student protests despite violent clashes",
+    "link": "https://www.politico.eu/article/france-jean-luc-melenchon-doubles-down-student-protests-despite-violent-clashes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-06 05:00"
+  },
+  {
+    "headline": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
+    "headline_fi": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
+    "link": "https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-06 04:35"
+  },
+  {
+    "headline": "Trump approves firing-squad execution of Fort Hood shooter Nidal Hasan",
+    "headline_fi": "Trump approves firing-squad execution of Fort Hood shooter Nidal Hasan",
+    "link": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
+    "source": "France 24",
+    "pub": "2026-10-06 04:31"
+  },
+  {
     "headline": "Switching on brain cells: the Nobel-winning science of optogenetics",
-    "headline_fi": "Aivosolujen kytkeminen päälle: Nobel-palkittu optogenetiikan tiede",
+    "headline_fi": "Switching on brain cells: the Nobel-winning science of optogenetics",
     "link": "https://www.france24.com/en/switching-on-brain-cells-the-nobel-winning-science-of-optogenetics",
     "source": "France 24",
     "pub": "2026-10-06 00:56"
   },
   {
     "headline": "Quebec votes as separatist surge poses test for Canada PM",
-    "headline_fi": "Quebec äänesti separatistien nousuna Kanadan pääministerille",
+    "headline_fi": "Quebec votes as separatist surge poses test for Canada PM",
     "link": "https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm",
     "source": "France 24",
     "pub": "2026-10-06 00:36"
   },
   {
     "headline": "Romanian president signs law regulating bear population cull",
-    "headline_fi": "Romanian presidentti allekirjoitti lain karhupopulaatiosta",
+    "headline_fi": "Romanian president signs law regulating bear population cull",
     "link": "https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull",
     "source": "Euronews",
     "pub": "2026-10-06 00:32"
   },
   {
     "headline": "New York declares statewide disaster emergency as measles cases rise",
-    "headline_fi": "New York julisti osavaltion laajuisen katastrofihätätilan tuhkarokkotapausten lisääntyessä",
+    "headline_fi": "New York declares statewide disaster emergency as measles cases rise",
     "link": "https://www.france24.com/en/americas/20261005-new-york-declares-statewide-disaster-emergency-as-measles-cases-rise",
     "source": "France 24",
     "pub": "2026-10-06 00:23"
   },
   {
     "headline": "ICC unseals Taliban leaders' warrants over persecuting women",
-    "headline_fi": "Kansainvälinen rikostuomioistuin purkaa Taleban-johtajien käskyt naisten vainoamisesta",
+    "headline_fi": "ICC unseals Taliban leaders' warrants over persecuting women",
     "link": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 00:07"
   },
   {
     "headline": "Euro falls to 17-month low against the USD on French debt concerns",
-    "headline_fi": "Euro putoaa 17 kuukauden alimmilleen dollaria vastaan ​​Ranskan velkahuolien vuoksi",
+    "headline_fi": "Euro falls to 17-month low against the USD on French debt concerns",
     "link": "https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns",
     "source": "France 24",
     "pub": "2026-10-05 23:51"
   },
   {
     "headline": "Concerns of US interference weigh on Brazil vote",
-    "headline_fi": "Huoli USA:n sekaantumisesta painaa Brasilian äänestystä",
+    "headline_fi": "Concerns of US interference weigh on Brazil vote",
     "link": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
     "source": "France 24",
     "pub": "2026-10-05 23:37"
   },
   {
     "headline": "Ethiopia again demands access to the Red Sea",
-    "headline_fi": "Etiopia vaatii jälleen pääsyä Punaisellemerelle",
+    "headline_fi": "Ethiopia again demands access to the Red Sea",
     "link": "https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea",
     "source": "France 24",
     "pub": "2026-10-05 23:28"
   },
   {
     "headline": "Diplomat is Romania’s fourth prime ministerial candidate in five months",
-    "headline_fi": "Diplomaatti on Romanian neljäs pääministeriehdokas viiteen kuukauteen",
+    "headline_fi": "Diplomat is Romania’s fourth prime ministerial candidate in five months",
     "link": "https://www.politico.eu/article/diplomat-is-romania-fourth-prime-ministerial-candidate-in-5-months/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 23:12"
   },
   {
     "headline": "‘France has fallen’: Far-right figures fuel Islamophobic claims with false student protest videos",
-    "headline_fi": "\"Ranska on kaatunut\": Äärioikeistolaiset hahmot ruokkivat islamofobisia väitteitä väärillä opiskelijoiden protestivideoilla",
+    "headline_fi": "‘France has fallen’: Far-right figures fuel Islamophobic claims with false student protest videos",
     "link": "https://www.france24.com/en/france-has-fallen-far-right-figures-fuel-islamophobic-claims-with-false-student-protest-videos-1",
     "source": "France 24",
     "pub": "2026-10-05 23:10"
   },
   {
     "headline": "'We are effectively maiming young people' - expert questions France's response to student protests",
-    "headline_fi": "\"Sammaamme tehokkaasti nuoria\" - asiantuntija kyseenalaistaa Ranskan vastauksen opiskelijoiden mielenosoituksiin",
+    "headline_fi": "'We are effectively maiming young people' - expert questions France's response to student protests",
     "link": "https://www.france24.com/en/we-are-effectively-maiming-young-people-expert-questions-france-s-response-to-student-protests",
     "source": "France 24",
     "pub": "2026-10-05 23:08"
   },
   {
     "headline": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
-    "headline_fi": "Sanchez valitsi \"parhaan hetken vaikeuksien meressä\" vaatiakseen ennenaikaisia ​​vaaleja, analyytikko sanoo",
+    "headline_fi": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
     "link": "https://www.france24.com/en/sanchez-chose-best-moment-in-a-sea-of-troubles-to-call-for-snap-election-analyst-says",
     "source": "France 24",
     "pub": "2026-10-05 22:31"
   },
   {
     "headline": "Judo: Abe Siblings Strike Gold Again at the World Championships in Baku",
-    "headline_fi": "Judo: Abe Siblings iskee jälleen kultaa Bakun MM-kisoissa",
+    "headline_fi": "Judo: Abe Siblings Strike Gold Again at the World Championships in Baku",
     "link": "https://www.euronews.com/2026/10/05/judo-abe-siblings-strike-gold-again-at-the-world-championships-in-baku",
     "source": "Euronews",
     "pub": "2026-10-05 22:27"
   },
   {
     "headline": "Australia's migrant policy offers lessons for EU and US",
-    "headline_fi": "Australian siirtolaispolitiikka tarjoaa opetusta EU:lle ja Yhdysvalloille",
+    "headline_fi": "Australia's migrant policy offers lessons for EU and US",
     "link": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 22:26"
   },
   {
     "headline": "Russian officials say 'situation under control' after plague reports",
-    "headline_fi": "Venäjän viranomaiset sanovat, että tilanne on hallinnassa ruttoraporttien jälkeen",
+    "headline_fi": "Russian officials say 'situation under control' after plague reports",
     "link": "https://www.france24.com/en/russian-officials-say-situation-under-control-after-plague-reports",
     "source": "France 24",
     "pub": "2026-10-05 22:19"
   },
   {
     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
-    "headline_fi": "Saudi-Arabian tukemat Jemenin joukot karkottavat huthit useilta alueilta keskeisen salmen ympärillä, viranomaiset sanovat",
+    "headline_fi": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
     "link": "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
     "source": "France 24",
     "pub": "2026-10-05 22:17"
   },
   {
     "headline": "'I'm not a terrorist, I'm just a journalist', how to carry on reporting for Russia and Belarus from exile",
-    "headline_fi": "\"En ole terroristi, olen vain toimittaja\", kuinka jatkaa raportointia Venäjälle ja Valko-Venäjälle maanpaosta",
+    "headline_fi": "'I'm not a terrorist, I'm just a journalist', how to carry on reporting for Russia and Belarus from exile",
     "link": "https://www.euronews.com/2026/10/05/im-not-a-terrorist-im-just-a-journalist-how-to-carry-on-reporting-for-russia-and-belarus-f",
     "source": "Euronews",
     "pub": "2026-10-05 22:00"
   },
   {
     "headline": "Return of the Bolsonaros: Why the far-right surge in Brazilian elections?",
-    "headline_fi": "Bolsonaron paluu: Miksi äärioikeisto nousi Brasilian vaaleissa?",
+    "headline_fi": "Return of the Bolsonaros: Why the far-right surge in Brazilian elections?",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20261005-return-of-the-bolsonaros-why-the-far-right-surge-in-brazilian-elections",
     "source": "France 24",
     "pub": "2026-10-05 21:44"
   },
   {
     "headline": "America’s bomber withdrawal points to wider UK-US friction",
-    "headline_fi": "Amerikan pommittajien vetäytyminen viittaa laajempaan Britannian ja Yhdysvaltojen väliseen kitkaan",
+    "headline_fi": "America’s bomber withdrawal points to wider UK-US friction",
     "link": "https://www.politico.eu/article/b-1-bomber-withdrawal-raf-fairford-uk-us-friction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-05 21:36"
   },
   {
     "headline": "Yemen launches major military operation against Houthis",
-    "headline_fi": "Jemen käynnisti suuren sotilasoperaation hutheja vastaan",
+    "headline_fi": "Yemen launches major military operation against Houthis",
     "link": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 21:36"
@@ -182,13 +427,6 @@
     "pub": "2026-10-05 19:55"
   },
   {
-    "headline": "50 members of European Parliament targeted by deepfake porn, report says",
-    "headline_fi": "50 members of European Parliament targeted by deepfake porn, report says",
-    "link": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 19:54"
-  },
-  {
     "headline": "São Paulo stock exchange surges after Flávio Bolsonaro election result",
     "headline_fi": "São Paulo stock exchange surges after Flávio Bolsonaro election result",
     "link": "https://www.euronews.com/2026/10/05/sao-paulo-stock-exchange-surges-after-flavio-bolsonaro-election-result",
@@ -208,6 +446,13 @@
     "link": "https://www.euronews.com/2026/10/05/when-growth-is-not-enough-housing-and-inflation-sanchezs-key-election-challenges",
     "source": "Euronews",
     "pub": "2026-10-05 19:15"
+  },
+  {
+    "headline": "Quebec separatists vow independence vote after provincial election win",
+    "headline_fi": "Quebec separatists vow independence vote after provincial election win",
+    "link": "https://www.france24.com/en/americas/20261005-separatists-win-quebec-election-with-pledge-to-vote-on-leaving-canada",
+    "source": "France 24",
+    "pub": "2026-10-05 19:08"
   },
   {
     "headline": "Latest news bulletin | October 5th, 2026 – Evening",
@@ -259,39 +504,11 @@
     "pub": "2026-10-05 18:09"
   },
   {
-    "headline": "French school protests continue with larger demonstrations set for Tuesday",
-    "headline_fi": "French school protests continue with larger demonstrations set for Tuesday",
-    "link": "https://www.france24.com/en/video/20261005-french-school-protests-continue-with-larger-demonstrations-set-for-tuesday",
-    "source": "France 24",
-    "pub": "2026-10-05 18:03"
-  },
-  {
     "headline": "Australia, New Zealand probe Flydubai pilot's time there",
     "headline_fi": "Australia, New Zealand probe Flydubai pilot's time there",
     "link": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 18:02"
-  },
-  {
-    "headline": "'I could feel the petrol dripping': The violent attacks that have marred France school protests",
-    "headline_fi": "'I could feel the petrol dripping': The violent attacks that have marred France school protests",
-    "link": "https://www.france24.com/en/video/20261005-i-could-feel-the-petrol-dripping-the-violent-attacks-that-have-marred-france-school-protests",
-    "source": "France 24",
-    "pub": "2026-10-05 18:01"
-  },
-  {
-    "headline": "Yemen government forces announce offensive on Houthi-held territory",
-    "headline_fi": "Yemen government forces announce offensive on Houthi-held territory",
-    "link": "https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory",
-    "source": "France 24",
-    "pub": "2026-10-05 17:59"
-  },
-  {
-    "headline": "Trump names head of new 'Super Intelligence Force' to oversee AI",
-    "headline_fi": "Trump names head of new 'Super Intelligence Force' to oversee AI",
-    "link": "https://www.france24.com/en/video/20261005-trump-names-head-of-new-super-intelligence-force-to-oversee-ai",
-    "source": "France 24",
-    "pub": "2026-10-05 17:59"
   },
   {
     "headline": "Germany and France agree new trade tool to counter China",
@@ -308,8 +525,8 @@
     "pub": "2026-10-05 17:30"
   },
   {
-    "headline": "Euro plummets against US dollar: has the next financial crisis begun?",
-    "headline_fi": "Euro plummets against US dollar: has the next financial crisis begun?",
+    "headline": "Euro plummets against US dollar: Has the next financial crisis begun?",
+    "headline_fi": "Euro plummets against US dollar: Has the next financial crisis begun?",
     "link": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 17:28"
@@ -355,20 +572,6 @@
     "link": "https://www.euronews.com/2026/10/05/vat-hike-canal-threatens-to-reduce-its-support-for-cinema",
     "source": "Euronews",
     "pub": "2026-10-05 16:34"
-  },
-  {
-    "headline": "Sánchez bets it all on housing ahead of Spain’s snap election",
-    "headline_fi": "Sánchez bets it all on housing ahead of Spain’s snap election",
-    "link": "https://www.politico.eu/article/pedro-sanchez-bets-housing-mantle-ahead-spain-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 16:24"
-  },
-  {
-    "headline": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
-    "headline_fi": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
-    "link": "https://www.politico.eu/article/friedrich-merz-emmanuel-macron-eu-trade-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 16:21"
   },
   {
     "headline": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
@@ -420,74 +623,11 @@
     "pub": "2026-10-05 15:31"
   },
   {
-    "headline": "Ukraine warns of fake government and media sites tied to Russian intelligence",
-    "headline_fi": "Ukraine warns of fake government and media sites tied to Russian intelligence",
-    "link": "https://www.euronews.com/2026/10/05/ukraine-warns-of-fake-government-and-media-sites-tied-to-russian-intelligence",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:19"
-  },
-  {
-    "headline": "EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia",
-    "headline_fi": "EU monitors 'very closely' suspected outbreak of pneumonic plague in Russia",
-    "link": "https://www.euronews.com/2026/10/05/eu-monitors-very-closely-suspected-outbreak-of-pneumonic-plague-in-russia",
-    "source": "Euronews",
-    "pub": "2026-10-05 15:10"
-  },
-  {
     "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
     "headline_fi": "Suspected pneumonic plague in Siberia: What we know about the disease",
     "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 14:58"
-  },
-  {
-    "headline": "Ai Weiwei: \"We are losing privacy and without it we stop being individuals\"",
-    "headline_fi": "Ai Weiwei: \"We are losing privacy and without it we stop being individuals\"",
-    "link": "https://www.euronews.com/2026/10/05/ai-weiwei-we-are-losing-privacy-and-without-it-we-stop-being-individuals",
-    "source": "Euronews",
-    "pub": "2026-10-05 14:49"
-  },
-  {
-    "headline": "Schneider Electric shares plunge on record $22.6bn PTC deal",
-    "headline_fi": "Schneider Electric shares plunge on record $22.6bn PTC deal",
-    "link": "https://www.euronews.com/2026/10/05/schneider-electric-shares-plunge-on-record-226bn-ptc-deal",
-    "source": "Euronews",
-    "pub": "2026-10-05 14:04"
-  },
-  {
-    "headline": "Student's hand blown off by police grenade as French school protests continue",
-    "headline_fi": "Student's hand blown off by police grenade as French school protests continue",
-    "link": "https://www.euronews.com/2026/10/05/french-students-set-fire-to-paris-school-entrance-on-eve-of-nationwide-day-of-action",
-    "source": "Euronews",
-    "pub": "2026-10-05 14:02"
-  },
-  {
-    "headline": "The 'Terminator scenario': How realistic is the AI apocalypse?",
-    "headline_fi": "The 'Terminator scenario': How realistic is the AI apocalypse?",
-    "link": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
-    "source": "Euronews",
-    "pub": "2026-10-05 13:51"
-  },
-  {
-    "headline": "Germany risks being drawn into ‘violent conflict’ with Russia, spy chief warns",
-    "headline_fi": "Germany risks being drawn into ‘violent conflict’ with Russia, spy chief warns",
-    "link": "https://www.politico.eu/article/germany-risks-being-drawn-violent-conflict-russia-says-german-intelligence-chief/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-05 13:49"
-  },
-  {
-    "headline": "Musk to follow Trump and rebrand SpaceXAI as SpaceXSI",
-    "headline_fi": "Musk to follow Trump and rebrand SpaceXAI as SpaceXSI",
-    "link": "https://www.euronews.com/2026/10/05/musk-to-follow-trump-and-rebrand-spacexai-as-spacexsi",
-    "source": "Euronews",
-    "pub": "2026-10-05 13:42"
-  },
-  {
-    "headline": "Anatomy of a flop: ‘Digger’ a disaster at box office and a major misfire for Tom Cruise",
-    "headline_fi": "Anatomy of a flop: ‘Digger’ a disaster at box office and a major misfire for Tom Cruise",
-    "link": "https://www.euronews.com/2026/10/05/anatomy-of-a-flop-digger-a-disaster-at-box-office-and-a-major-misfire-for-tom-cruise",
-    "source": "Euronews",
-    "pub": "2026-10-05 13:41"
   },
   {
     "headline": "Debate: Spain: snap election after tenant-protection decrees fail",
@@ -565,97 +705,6 @@
     "link": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:23"
-  },
-  {
-    "headline": "Latest news bulletin | October 5th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | October 5th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-10-05 13:00"
-  },
-  {
-    "headline": "Middle East oil exports return to pre-war levels, excluding Iran",
-    "headline_fi": "Middle East oil exports return to pre-war levels, excluding Iran",
-    "link": "https://www.euronews.com/2026/10/05/middle-east-oil-exports-return-to-pre-war-levels-excluding-iran",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:53"
-  },
-  {
-    "headline": "German and US scientists win Nobel Prize in medicine for research on brain activity",
-    "headline_fi": "German and US scientists win Nobel Prize in medicine for research on brain activity",
-    "link": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 12:37"
-  },
-  {
-    "headline": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
-    "headline_fi": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
-    "link": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 12:37"
-  },
-  {
-    "headline": "Hackers access data of 8.8 million people in Denmark in 'extremely serious' breach",
-    "headline_fi": "Hackers access data of 8.8 million people in Denmark in 'extremely serious' breach",
-    "link": "https://www.euronews.com/2026/10/05/hackers-access-data-of-88-million-people-in-denmark-in-extremely-serious-breach",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:27"
-  },
-  {
-    "headline": "'Bolsonaro win could put EU-Brazil ties at risk,' says former MEP Albuquerque",
-    "headline_fi": "'Bolsonaro win could put EU-Brazil ties at risk,' says former MEP Albuquerque",
-    "link": "https://www.euronews.com/video/2026/10/05/bolsonaro-win-could-put-eu-brazil-ties-at-risk-says-former-mep-albuquerque",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:19"
-  },
-  {
-    "headline": "Google’s €13bn Finland push transforms and divides a quiet rural town",
-    "headline_fi": "Google’s €13bn Finland push transforms and divides a quiet rural town",
-    "link": "https://www.euronews.com/video/2026/10/05/googles-13bn-finland-push-transforms-and-divides-a-quiet-rural-town",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:17"
-  },
-  {
-    "headline": "FBI arrests woman accused of spying on Taiwanese president's family in the US for China",
-    "headline_fi": "FBI arrests woman accused of spying on Taiwanese president's family in the US for China",
-    "link": "https://www.euronews.com/2026/10/05/fbi-arrests-woman-accused-of-spying-on-taiwanese-presidents-family-in-the-us-for-china",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:16"
-  },
-  {
-    "headline": "Euro hits 17-month low as French debt fears mount and Spain heads for snap election",
-    "headline_fi": "Euro hits 17-month low as French debt fears mount and Spain heads for snap election",
-    "link": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election",
-    "source": "Euronews",
-    "pub": "2026-10-05 12:01"
-  },
-  {
-    "headline": "Israel's mental health crisis in the wake of Oct. 7 attacks",
-    "headline_fi": "Israel's mental health crisis in the wake of Oct. 7 attacks",
-    "link": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 11:52"
-  },
-  {
-    "headline": "Israel bars UK Green leader after party votes to define Zionism as racism",
-    "headline_fi": "Israel bars UK Green leader after party votes to define Zionism as racism",
-    "link": "https://www.euronews.com/2026/10/05/israel-bars-uk-green-leader-after-party-votes-to-define-zionism-as-racism",
-    "source": "Euronews",
-    "pub": "2026-10-05 11:51"
-  },
-  {
-    "headline": "Israel observes October 7 anniversary with national memorial day",
-    "headline_fi": "Israel observes October 7 anniversary with national memorial day",
-    "link": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 11:38"
-  },
-  {
-    "headline": "Iran war: 'Europe not being at the table is a failure', Charles Michel says",
-    "headline_fi": "Iran war: 'Europe not being at the table is a failure', Charles Michel says",
-    "link": "https://www.euronews.com/video/2026/10/05/iran-war-europe-not-being-at-the-table-is-a-failure-charles-michel-says",
-    "source": "Euronews",
-    "pub": "2026-10-05 11:29"
   },
   {
     "headline": "Hundreds of French schools shut, teen loses hand in protests",
