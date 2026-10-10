@@ -1,5 +1,40 @@
 [
   {
+    "headline": "Trump says Ukraine needs new president after Zelenskyy condemns Russia fuel deal",
+    "headline_fi": "Trump sanoo, että Ukraina tarvitsee uutta presidenttiä Zelenskyyn tuomitsettua Venäjän polttoainesopimuksen",
+    "link": "https://www.euronews.com/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal",
+    "source": "Euronews",
+    "pub": "2026-10-10 22:38"
+  },
+  {
+    "headline": "Money, networks and bias: Why women struggle to win seats in US politics",
+    "headline_fi": "Raha, verkostot ja ennakkoluulo: miksi naiset kamppailevat saadakseen paikkoja Yhdysvaltain politiikassa",
+    "link": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 22:16"
+  },
+  {
+    "headline": "Eritrea urges UN deterrence measures against Ethiopia",
+    "headline_fi": "Eritrea vaatii YK:ta pelotetoimia Etiopiaa vastaan",
+    "link": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 21:32"
+  },
+  {
+    "headline": "SPOTLIGHT",
+    "headline_fi": "VALOKEISIIN",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261010-spotlight",
+    "source": "France 24",
+    "pub": "2026-10-10 21:22"
+  },
+  {
+    "headline": "At least two killed, multiple people wounded in attack on Riyadh airport",
+    "headline_fi": "Ainakin kaksi kuoli ja useita loukkaantui hyökkäyksessä Riadin lentokentälle",
+    "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+    "source": "France 24",
+    "pub": "2026-10-10 21:03"
+  },
+  {
     "headline": "Trump slams Zelenskyy, says Ukraine should elect new president",
     "headline_fi": "Trump moittii Zelenskyä ja sanoo, että Ukrainan pitäisi valita uusi presidentti",
     "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
@@ -78,7 +113,7 @@
   },
   {
     "headline": "India detains thousands, locks down Delhi to foil election chief protest",
-    "headline_fi": "Intia pidätti tuhansia ja sulki Delhin estääkseen vaalipäällikön mielenosoituksen",
+    "headline_fi": "Intia pidätti tuhansia ja sulkee Delhin estääkseen vaalipäällikön mielenosoituksen",
     "link": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
     "source": "France 24",
     "pub": "2026-10-10 18:54"
@@ -92,7 +127,7 @@
   },
   {
     "headline": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
-    "headline_fi": "Venäjän hyökkäys Ukrainan kaupunkiin tappoi 15 päivää sen jälkeen, kun Trump lievensi Moskovaan kohdistuvia dieselpakotteita",
+    "headline_fi": "Venäjän isku Ukrainan kaupunkiin tappoi 15 päivää sen jälkeen, kun Trump lievensi Moskovaan kohdistuvia dieselpakotteita",
     "link": "https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow",
     "source": "France 24",
     "pub": "2026-10-10 18:39"
@@ -106,35 +141,35 @@
   },
   {
     "headline": "Germany warns EU that €159B budget cuts are not enough",
-    "headline_fi": "Saksa varoittaa EU:ta, että 159 miljardin euron budjettileikkaukset eivät riitä",
+    "headline_fi": "Germany warns EU that €159B budget cuts are not enough",
     "link": "https://www.politico.eu/article/friedrich-merz-germany-warns-eu-e159b-budget-cuts-not-enough/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-10 17:43"
   },
   {
     "headline": "Lens see off Lyon as Ligue 1 season resumes after international break",
-    "headline_fi": "Lens aloittaa Lyonin, kun Ligue 1 -kausi jatkuu kansainvälisen tauon jälkeen",
+    "headline_fi": "Lens see off Lyon as Ligue 1 season resumes after international break",
     "link": "https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break",
     "source": "France 24",
     "pub": "2026-10-10 17:10"
   },
   {
     "headline": "Thousands detained in New Delhi as police crack down on 'cockroach' movement",
-    "headline_fi": "Tuhansia pidätettiin New Delhissä, kun poliisi hillitsi \"trakoiden\" liikettä",
+    "headline_fi": "Thousands detained in New Delhi as police crack down on 'cockroach' movement",
     "link": "https://www.euronews.com/2026/10/10/thousands-detained-in-new-delhi-as-police-crack-down-on-cockroach-movement",
     "source": "Euronews",
     "pub": "2026-10-10 17:06"
   },
   {
     "headline": "Palestinian President Abbas postpones legislative elections until September 2027",
-    "headline_fi": "Palestiinan presidentti Abbas lykkää parlamenttivaalit syyskuuhun 2027",
+    "headline_fi": "Palestinian President Abbas postpones legislative elections until September 2027",
     "link": "https://www.euronews.com/2026/10/10/palestinian-president-abbas-postpones-legislative-elections-until-september-2027",
     "source": "Euronews",
     "pub": "2026-10-10 17:04"
   },
   {
     "headline": "Portugal hits Ronaldo with provisional suspension for walking out on national team",
-    "headline_fi": "Portugali sai Ronaldolle väliaikaisen pelikiellon maajoukkueesta poistumisesta",
+    "headline_fi": "Portugal hits Ronaldo with provisional suspension for walking out on national team",
     "link": "https://www.france24.com/en/sport/20261010-portugal-hits-ronaldo-with-provisional-suspension-for-walking-out-on-national-team",
     "source": "France 24",
     "pub": "2026-10-10 17:02"
@@ -145,6 +180,13 @@
     "link": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
     "source": "France 24",
     "pub": "2026-10-10 16:45"
+  },
+  {
+    "headline": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+    "headline_fi": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+    "link": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
+    "source": "France 24",
+    "pub": "2026-10-10 16:39"
   },
   {
     "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
@@ -180,13 +222,6 @@
     "link": "https://www.politico.eu/article/russia-strike-eastern-ukraine-kills-11-regional-authorities-state/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-10 14:56"
-  },
-  {
-    "headline": "US midterms: Women candidates could make history",
-    "headline_fi": "US midterms: Women candidates could make history",
-    "link": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-10 14:11"
   },
   {
     "headline": "October 7 scars push Israel's first-time voters to right",
@@ -252,32 +287,11 @@
     "pub": "2026-10-10 12:38"
   },
   {
-    "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-    "headline_fi": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-    "link": "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
-    "source": "France 24",
-    "pub": "2026-10-10 12:25"
-  },
-  {
-    "headline": "Russian strikes on Ukraine kill at least 15, including three children, emergency service says",
-    "headline_fi": "Russian strikes on Ukraine kill at least 15, including three children, emergency service says",
+    "headline": "Russian strikes on Ukraine kill at least 20, including three children",
+    "headline_fi": "Russian strikes on Ukraine kill at least 20, including three children",
     "link": "https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa",
     "source": "Euronews",
     "pub": "2026-10-10 12:24"
-  },
-  {
-    "headline": "India's 'cockroach' movement: \"This is unprecedented\"",
-    "headline_fi": "India's 'cockroach' movement: \"This is unprecedented\"",
-    "link": "https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented",
-    "source": "France 24",
-    "pub": "2026-10-10 12:20"
-  },
-  {
-    "headline": "India detains 'cockroach' leaders ahead of election protest",
-    "headline_fi": "India detains 'cockroach' leaders ahead of election protest",
-    "link": "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest",
-    "source": "France 24",
-    "pub": "2026-10-10 12:18"
   },
   {
     "headline": "'No one ever heard of her': Trump goes off on petty rant after Nobel Peace Prize snub",
@@ -497,13 +511,6 @@
     "pub": "2026-10-09 19:00"
   },
   {
-    "headline": "Brussels: Rioters clash with police at anti-austerity rally",
-    "headline_fi": "Brussels: Rioters clash with police at anti-austerity rally",
-    "link": "https://www.dw.com/en/brussels-rioters-clash-with-police-at-anti-austerity-rally/a-79620594?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 18:54"
-  },
-  {
     "headline": "Macron and Steinmeier struggle to revive Franco-German ties",
     "headline_fi": "Macron and Steinmeier struggle to revive Franco-German ties",
     "link": "https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-all-1573-rdf",
@@ -614,13 +621,6 @@
     "link": "https://www.euronews.com/2026/10/09/eu-paid-79bn-for-russian-arctic-lng-amid-record-imports",
     "source": "Euronews",
     "pub": "2026-10-09 15:45"
-  },
-  {
-    "headline": "Electric cars and rising Chinese brands: Paris Motor Show opens Monday",
-    "headline_fi": "Electric cars and rising Chinese brands: Paris Motor Show opens Monday",
-    "link": "https://www.euronews.com/2026/10/09/electric-cars-and-rising-chinese-brands-paris-motor-show-opens-monday",
-    "source": "Euronews",
-    "pub": "2026-10-09 15:33"
   },
   {
     "headline": "Debate: France: what do the school protests tell us?",
