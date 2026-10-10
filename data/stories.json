@@ -1,5 +1,54 @@
 [
   {
+    "headline": "'Crashout', 'Ragebait' or 'Peak': Want to know which word is favoured by Germany's youth?",
+    "headline_fi": "'Crashout', 'Ragebait' or 'Peak': Want to know which word is favoured by Germany's youth?",
+    "link": "https://www.euronews.com/2026/10/10/crashout-ragebait-or-peak-germanys-youth-word-of-2026",
+    "source": "Euronews",
+    "pub": "2026-10-10 08:30"
+  },
+  {
+    "headline": "Latest news bulletin | October 10th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | October 10th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-10-10 08:00"
+  },
+  {
+    "headline": "Which Europeans post the most holiday selfies? Study reveals travellers’ social media habits",
+    "headline_fi": "Which Europeans post the most holiday selfies? Study reveals travellers’ social media habits",
+    "link": "https://www.euronews.com/2026/10/10/which-europeans-post-the-most-holiday-selfies-study-reveals-travellers-social-media-habits",
+    "source": "Euronews",
+    "pub": "2026-10-10 08:00"
+  },
+  {
+    "headline": "India: Delhi braces for Cockroach protest amid strict curbs",
+    "headline_fi": "India: Delhi braces for Cockroach protest amid strict curbs",
+    "link": "https://www.dw.com/en/india-delhi-braces-for-cockroach-protest-amid-strict-curbs/live-79624339?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 06:50"
+  },
+  {
+    "headline": "Hurricane Isaias makes landfall in Florida",
+    "headline_fi": "Hurricane Isaias makes landfall in Florida",
+    "link": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 05:58"
+  },
+  {
+    "headline": "Mexico: Court finds three men guilty of murder of Australian, US surfers",
+    "headline_fi": "Mexico: Court finds three men guilty of murder of Australian, US surfers",
+    "link": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 05:21"
+  },
+  {
+    "headline": "Trump weighs livestream execution amid bipartisan backlash",
+    "headline_fi": "Trump weighs livestream execution amid bipartisan backlash",
+    "link": "https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-10 04:59"
+  },
+  {
     "headline": "Trump names new press secretary to succeed Karoline Leavitt",
     "headline_fi": "Trump names new press secretary to succeed Karoline Leavitt",
     "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
@@ -12,6 +61,13 @@
     "link": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
     "source": "Euronews",
     "pub": "2026-10-10 01:27"
+  },
+  {
+    "headline": "South African judge awarded Nobel Peace Prize",
+    "headline_fi": "South African judge awarded Nobel Peace Prize",
+    "link": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+    "source": "France 24",
+    "pub": "2026-10-10 00:53"
   },
   {
     "headline": "UK bans Protestant march from Catholic area in Northern Ireland",
@@ -49,8 +105,8 @@
     "pub": "2026-10-09 22:45"
   },
   {
-    "headline": "Trump says US to import Russian diesel to ease prices",
-    "headline_fi": "Trump says US to import Russian diesel to ease prices",
+    "headline": "Zelenskyy hits out at 'gifts to Putin' after Trump announces deal for Russian diesel",
+    "headline_fi": "Zelenskyy hits out at 'gifts to Putin' after Trump announces deal for Russian diesel",
     "link": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
     "source": "Euronews",
     "pub": "2026-10-09 22:43"
@@ -70,9 +126,9 @@
     "pub": "2026-10-09 22:21"
   },
   {
-    "headline": "Strong earthquakes shake Panama, prompting tsunami alert",
-    "headline_fi": "Strong earthquakes shake Panama, prompting tsunami alert",
-    "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+    "headline": "Strong earthquakes shake Panama, buildings damaged",
+    "headline_fi": "Strong earthquakes shake Panama, buildings damaged",
+    "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-09 22:03"
   },
@@ -343,13 +399,6 @@
     "pub": "2026-10-09 16:58"
   },
   {
-    "headline": "Russia says all clear after contact tracing in reported plague case",
-    "headline_fi": "Russia says all clear after contact tracing in reported plague case",
-    "link": "https://www.france24.com/en/video/20261009-russia-says-all-clear-after-contact-tracing-in-reported-plague-case",
-    "source": "France 24",
-    "pub": "2026-10-09 16:53"
-  },
-  {
     "headline": "Dutch PM slams ‘absurd’ US decision to livestream execution",
     "headline_fi": "Dutch PM slams ‘absurd’ US decision to livestream execution",
     "link": "https://www.politico.eu/article/dutch-pm-slams-absurd-us-decision-to-livestream-execution-rob-jetten/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -469,13 +518,6 @@
     "pub": "2026-10-09 15:06"
   },
   {
-    "headline": "Hurricane Isaias intensifies en route to US Gulf Coast",
-    "headline_fi": "Hurricane Isaias intensifies en route to US Gulf Coast",
-    "link": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 14:55"
-  },
-  {
     "headline": "Iran and Russia used ChatGPT for propaganda by ‘fake journalists’, OpenAI says",
     "headline_fi": "Iran and Russia used ChatGPT for propaganda by ‘fake journalists’, OpenAI says",
     "link": "https://www.euronews.com/2026/10/09/iran-and-russia-used-chatgpt-for-propaganda-by-fake-journalists-openai-says",
@@ -509,13 +551,6 @@
     "link": "https://www.euronews.com/2026/10/09/in-pictures-weirdest-and-most-thought-provoking-statues-of-donald-trump-over-the-years",
     "source": "Euronews",
     "pub": "2026-10-09 14:40"
-  },
-  {
-    "headline": "Voting to begin in local elections in the Czech Republic",
-    "headline_fi": "Voting to begin in local elections in the Czech Republic",
-    "link": "https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 14:34"
   },
   {
     "headline": "Finance ministers strike market supercop deal despite Brussels’ objections",
@@ -607,34 +642,6 @@
     "link": "https://www.eurotopics.net/en/365273/tragic-death-of-evicted-pensioner-maricarmen?pk_campaign=rss-en&pk_kwd=2026-10-09",
     "source": "Eurotopics",
     "pub": "2026-10-09 13:23"
-  },
-  {
-    "headline": "Houthi missile strikes on Riyadh airport kill three, including airline captain",
-    "headline_fi": "Houthi missile strikes on Riyadh airport kill three, including airline captain",
-    "link": "https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain",
-    "source": "Euronews",
-    "pub": "2026-10-09 13:19"
-  },
-  {
-    "headline": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
-    "headline_fi": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
-    "link": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru",
-    "source": "Euronews",
-    "pub": "2026-10-09 12:47"
-  },
-  {
-    "headline": "German logistics group Rhenus plans up to 14 terminals along the Middle Corridor",
-    "headline_fi": "German logistics group Rhenus plans up to 14 terminals along the Middle Corridor",
-    "link": "https://www.euronews.com/2026/10/09/german-logistics-group-rhenus-plans-up-to-14-terminals-along-the-middle-corridor",
-    "source": "Euronews",
-    "pub": "2026-10-09 12:35"
-  },
-  {
-    "headline": "Hitler Mussolini wins local election",
-    "headline_fi": "Hitler Mussolini wins local election",
-    "link": "https://www.politico.eu/article/hitler-mussolini-wins-local-election-peru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-09 11:48"
   },
   {
     "headline": "Bosnia and Herzegovina will soon have a new Grand Mufti",
@@ -1188,13 +1195,6 @@
     "link": "https://www.dw.com/en/var-s-mission-creep-a-problem-for-football/a-79272642?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-18 09:58"
-  },
-  {
-    "headline": "Alexander Ovechkin backs Putin party in campaign video",
-    "headline_fi": "Alexander Ovechkin backs Putin party in campaign video",
-    "link": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-17 19:02"
   },
   {
     "headline": "How climate change worsened Nepal's deadly mountain collapse",
