@@ -1,5 +1,96 @@
 [
   {
+    "headline": "Zelensky rallies European allies as US support for Ukraine wanes",
+    "headline_fi": "Zelensky rallies European allies as US support for Ukraine wanes",
+    "link": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
+    "source": "France 24",
+    "pub": "2026-10-16 02:06"
+  },
+  {
+    "headline": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
+    "headline_fi": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
+    "link": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-16 00:59"
+  },
+  {
+    "headline": "At least five feared dead in Oregon elementary school shooting",
+    "headline_fi": "At least five feared dead in Oregon elementary school shooting",
+    "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+    "source": "France 24",
+    "pub": "2026-10-16 00:58"
+  },
+  {
+    "headline": "Albania: Violent protests rock Tirana for third straight day",
+    "headline_fi": "Albania: Violent protests rock Tirana for third straight day",
+    "link": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day",
+    "source": "Euronews",
+    "pub": "2026-10-16 00:34"
+  },
+  {
+    "headline": "Late discord delays Franco-German deal on Made in Europe, car emissions",
+    "headline_fi": "Late discord delays Franco-German deal on Made in Europe, car emissions",
+    "link": "https://www.politico.eu/article/franco-german-made-in-europe-deal-delays-car-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-16 00:22"
+  },
+  {
+    "headline": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+    "headline_fi": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+    "source": "France 24",
+    "pub": "2026-10-16 00:15"
+  },
+  {
+    "headline": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+    "headline_fi": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+    "link": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+    "source": "France 24",
+    "pub": "2026-10-16 00:07"
+  },
+  {
+    "headline": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+    "headline_fi": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+    "link": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-15 23:42"
+  },
+  {
+    "headline": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
+    "headline_fi": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
+    "source": "France 24",
+    "pub": "2026-10-15 23:41"
+  },
+  {
+    "headline": "EU member states set for budget clash",
+    "headline_fi": "EU member states set for budget clash",
+    "link": "https://www.france24.com/en/eu-member-states-set-for-budget-clash",
+    "source": "France 24",
+    "pub": "2026-10-15 23:33"
+  },
+  {
+    "headline": "Saudi Arabia postpones major sporting events amid Houthi attacks",
+    "headline_fi": "Saudi Arabia postpones major sporting events amid Houthi attacks",
+    "link": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks",
+    "source": "France 24",
+    "pub": "2026-10-15 23:31"
+  },
+  {
+    "headline": "Trump’s Russian diesel deal driven by ‘dubious business motives’, Latvian MEP Kols tells Euronews",
+    "headline_fi": "Trump’s Russian diesel deal driven by ‘dubious business motives’, Latvian MEP Kols tells Euronews",
+    "link": "https://www.euronews.com/video/2026/10/15/trumps-russian-diesel-deal-driven-by-dubious-business-motives-latvian-mep-kols-tells-euron",
+    "source": "Euronews",
+    "pub": "2026-10-15 23:30"
+  },
+  {
+    "headline": "Kinshasa braces for potential conflict as Kabila joins M23",
+    "headline_fi": "Kinshasa braces for potential conflict as Kabila joins M23",
+    "link": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23",
+    "source": "France 24",
+    "pub": "2026-10-15 23:29"
+  },
+  {
     "headline": "'It is clear that sooner or later we will have European casualties', Romanian MEP",
     "headline_fi": "'It is clear that sooner or later we will have European casualties', Romanian MEP",
     "link": "https://www.france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep",
@@ -245,34 +336,6 @@
     "pub": "2026-10-15 18:04"
   },
   {
-    "headline": "Police and protesters face off in Albania on third day of anti-govt demonstrations",
-    "headline_fi": "Police and protesters face off in Albania on third day of anti-govt demonstrations",
-    "link": "https://www.france24.com/en/video/20261015-police-and-protesters-face-off-in-albania-on-third-day-of-anti-govt-demonstrations",
-    "source": "France 24",
-    "pub": "2026-10-15 18:02"
-  },
-  {
-    "headline": "Former US generals push to stop 'barbaric' firing squad execution livestream",
-    "headline_fi": "Former US generals push to stop 'barbaric' firing squad execution livestream",
-    "link": "https://www.france24.com/en/video/20261015-former-us-generals-push-to-stop-barbaric-firing-squad-execution-livestream",
-    "source": "France 24",
-    "pub": "2026-10-15 18:01"
-  },
-  {
-    "headline": "Ukraine struggles with Starlink and US satellite data as missiles hit Kyiv",
-    "headline_fi": "Ukraine struggles with Starlink and US satellite data as missiles hit Kyiv",
-    "link": "https://www.france24.com/en/video/20261015-ukraine-struggles-with-starlink-and-us-satellite-data-as-missiles-hit-kyiv",
-    "source": "France 24",
-    "pub": "2026-10-15 17:59"
-  },
-  {
-    "headline": "Fort Hood shooter’s firing squad execution will not be livestreamed, Trump says",
-    "headline_fi": "Fort Hood shooter’s firing squad execution will not be livestreamed, Trump says",
-    "link": "https://www.france24.com/en/americas/20261015-fort-hood-shooter-s-firing-squad-execution-will-not-be-livestreamed-trump-says",
-    "source": "France 24",
-    "pub": "2026-10-15 17:58"
-  },
-  {
     "headline": "College of Europe looted and torched during Albanian student protests",
     "headline_fi": "College of Europe looted and torched during Albanian student protests",
     "link": "https://www.politico.eu/article/eu-college-of-europe-falls-victim-to-albanian-student-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -299,13 +362,6 @@
     "link": "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 17:46"
-  },
-  {
-    "headline": "Pink October in France: A toxic debate?",
-    "headline_fi": "Pink October in France: A toxic debate?",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261015-pink-october-in-france-a-toxic-debate",
-    "source": "France 24",
-    "pub": "2026-10-15 17:45"
   },
   {
     "headline": "Nvidia to open Stockholm AI hub for start-ups tackling health and climate challenges",
@@ -336,20 +392,6 @@
     "pub": "2026-10-15 17:26"
   },
   {
-    "headline": "Haiti: Capoeira classes aim to promote peace",
-    "headline_fi": "Haiti: Capoeira classes aim to promote peace",
-    "link": "https://www.france24.com/en/tv-shows/the-observers/20261015-haiti-capoeira-classes-promote-peace",
-    "source": "France 24",
-    "pub": "2026-10-15 17:25"
-  },
-  {
-    "headline": "War escalates between Houthis and Riyadh: How did we get here?",
-    "headline_fi": "War escalates between Houthis and Riyadh: How did we get here?",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261015-war-escalates-between-houthis-and-riyadh-how-did-we-get-here",
-    "source": "France 24",
-    "pub": "2026-10-15 17:16"
-  },
-  {
     "headline": "UK: Frieze London blurs the lines between art, gaming and reality",
     "headline_fi": "UK: Frieze London blurs the lines between art, gaming and reality",
     "link": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
@@ -364,13 +406,6 @@
     "pub": "2026-10-15 17:11"
   },
   {
-    "headline": "Russian security service detains Swedish citizen for espionage",
-    "headline_fi": "Russian security service detains Swedish citizen for espionage",
-    "link": "https://www.politico.eu/article/russia-federal-security-service-detain-sweden-citizen-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-15 17:09"
-  },
-  {
     "headline": "Resignation of Bärbel Bas shines light on harsh era of German politics",
     "headline_fi": "Resignation of Bärbel Bas shines light on harsh era of German politics",
     "link": "https://www.dw.com/en/resignation-of-bärbel-bas-shines-light-on-harsh-era-of-german-politics/a-79671395?maca=en-rss-en-all-1573-rdf",
@@ -383,13 +418,6 @@
     "link": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-15 16:49"
-  },
-  {
-    "headline": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
-    "headline_fi": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
-    "link": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks",
-    "source": "France 24",
-    "pub": "2026-10-15 16:35"
   },
   {
     "headline": "Not just cyber – Europe's businesses face more security threats than ever before",
@@ -595,13 +623,6 @@
     "pub": "2026-10-15 12:52"
   },
   {
-    "headline": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
-    "headline_fi": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
-    "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-15 12:48"
-  },
-  {
     "headline": "IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters",
     "headline_fi": "IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters",
     "link": "https://www.euronews.com/2026/10/15/imf-warns-attacks-on-saudi-arabia-could-hurt-global-economy-after-strike-on-aramco-headqua",
@@ -684,20 +705,6 @@
     "link": "https://www.euronews.com/2026/10/15/spains-hallmark-in-vatican-the-spanish-medical-science-behind-pope-francis-lung-operation",
     "source": "Euronews",
     "pub": "2026-10-15 10:55"
-  },
-  {
-    "headline": "EIB seeks cross-border projects to boost Central Asia’s economic development",
-    "headline_fi": "EIB seeks cross-border projects to boost Central Asia’s economic development",
-    "link": "https://www.euronews.com/2026/10/15/eib-seeks-cross-border-projects-to-boost-central-asias-economic-development",
-    "source": "Euronews",
-    "pub": "2026-10-15 10:52"
-  },
-  {
-    "headline": "UK economy unexpectedly grows despite fall in consumer spending",
-    "headline_fi": "UK economy unexpectedly grows despite fall in consumer spending",
-    "link": "https://www.euronews.com/2026/10/15/uk-economy-unexpectedly-grows-despite-fall-in-consumer-spending",
-    "source": "Euronews",
-    "pub": "2026-10-15 10:46"
   },
   {
     "headline": "Nord Stream trial opens in Germany, defense seeks dismissal",
