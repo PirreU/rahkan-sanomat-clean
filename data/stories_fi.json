@@ -1,5 +1,26 @@
 [
   {
+    "headline": "Live: France's Yellow Vests throw their weight behind mounting student protests",
+    "headline_fi": "Live: Ranskan keltaiset liivit heittelevät painoaan kasvavien opiskelijamielenosoitusten takana",
+    "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+    "source": "France 24",
+    "pub": "2026-10-17 08:17"
+  },
+  {
+    "headline": "From fruit to bricks: Hong Kong engineers explore how to build houses on Mars",
+    "headline_fi": "Hedelmistä tiileihin: Hongkongin insinöörit tutkivat talojen rakentamista Marsiin",
+    "link": "https://www.euronews.com/video/2026/10/17/from-fruit-to-bricks-hong-kong-engineers-explore-how-to-build-houses-on-mars",
+    "source": "Euronews",
+    "pub": "2026-10-17 07:40"
+  },
+  {
+    "headline": "Trump puts new Russia sanctions on hold",
+    "headline_fi": "Trump lykkää uusia Venäjän pakotteita",
+    "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-17 05:09"
+  },
+  {
     "headline": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
     "headline_fi": "Sanchez torjuu Espanjan maahanmuuttopolitiikan kritiikin: \"sanat eivät vastaa todellisuutta\"",
     "link": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
@@ -92,7 +113,7 @@
   },
   {
     "headline": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
-    "headline_fi": "Hijab-kielto kouluissa Azerbaidžanissa: Mikä on harvinaisen mielenosoitusaallon takana?",
+    "headline_fi": "Hijab-kielto kouluissa Azerbaidžanissa: mikä on harvinaisen mielenosoitusaallon takana?",
     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 20:46"
@@ -120,21 +141,21 @@
   },
   {
     "headline": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
-    "headline_fi": "Albanian pääministeri syyttää \"ulkomaisia ​​käsiä\" hallituksen vastaisten levottomuuksien kärjistymisestä",
+    "headline_fi": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
     "link": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
     "source": "Euronews",
     "pub": "2026-10-16 20:25"
   },
   {
     "headline": "Commission and Ukraine launch joint task force over EU accession",
-    "headline_fi": "Komissio ja Ukraina perustavat yhteisen työryhmän EU-jäsenyyden johdosta",
+    "headline_fi": "Commission and Ukraine launch joint task force over EU accession",
     "link": "https://www.euronews.com/2026/10/16/commission-and-ukraine-launch-joint-task-force-over-eu-accession",
     "source": "Euronews",
     "pub": "2026-10-16 19:30"
   },
   {
     "headline": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
-    "headline_fi": "Sally Rooneyn kirjoja ei enää myydä Isossa-Britanniassa kielletyn palestiinalaismielisen ryhmän tuen vuoksi",
+    "headline_fi": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
     "link": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
     "source": "France 24",
     "pub": "2026-10-16 19:26"
@@ -287,9 +308,9 @@
     "pub": "2026-10-16 17:34"
   },
   {
-    "headline": "Iran: When 'honor' becomes a death sentence for women",
-    "headline_fi": "Iran: When 'honor' becomes a death sentence for women",
-    "link": "https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-all-1573-rdf",
+    "headline": "Femicide in Iran: When 'honor' becomes a death sentence",
+    "headline_fi": "Femicide in Iran: When 'honor' becomes a death sentence",
+    "link": "https://www.dw.com/en/femicide-in-iran-when-honor-becomes-a-death-sentence/a-79681977?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:27"
   },
@@ -376,13 +397,6 @@
     "link": "https://www.politico.eu/article/denmark-italy-poland-push-eu-tougher-irregular-migration-crackdown/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-16 15:50"
-  },
-  {
-    "headline": "'Thanks a lot, Trump': Wyoming conservatives divided ahead of US midterms",
-    "headline_fi": "'Thanks a lot, Trump': Wyoming conservatives divided ahead of US midterms",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20261016-thanks-a-lot-trump-wyoming-conservatives-divided-ahead-us-midterms",
-    "source": "France 24",
-    "pub": "2026-10-16 15:48"
   },
   {
     "headline": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
@@ -621,13 +635,6 @@
     "link": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 12:26"
-  },
-  {
-    "headline": "Marine Le Pen ready to 'debate' Zelenskyy after she vowed to end French aid to Ukraine",
-    "headline_fi": "Marine Le Pen ready to 'debate' Zelenskyy after she vowed to end French aid to Ukraine",
-    "link": "https://www.euronews.com/2026/10/16/marine-le-pen-ready-to-debate-zelenskyy-after-vow-to-end-french-aid-to-ukraine",
-    "source": "Euronews",
-    "pub": "2026-10-16 12:20"
   },
   {
     "headline": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
@@ -1251,13 +1258,6 @@
     "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-20 17:02"
-  },
-  {
-    "headline": "Oktoberfest 2026: Everything you need to know",
-    "headline_fi": "Oktoberfest 2026: Everything you need to know",
-    "link": "https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-19 12:40"
   },
   {
     "headline": "Strait of Hormuz attacks spill oil into Persian Gulf",
