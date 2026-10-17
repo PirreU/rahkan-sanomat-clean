@@ -1,5 +1,26 @@
 [
   {
+    "headline": "Historic Limoges town hall engulfed in flames amid protests in France",
+    "headline_fi": "Historiallinen Limogesin kaupungintalo nielaisi liekkeihin Ranskan mielenosoituksissa",
+    "link": "https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+    "source": "Euronews",
+    "pub": "2026-10-17 23:55"
+  },
+  {
+    "headline": "Looters seize on massive French protests to raid and vandalise shops",
+    "headline_fi": "Ryöstäjät tarttuvat Ranskan massiivisiin mielenosoituksiin tehdäkseen hyökkäyksiä ja tuhotakseen kauppoja",
+    "link": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
+    "source": "France 24",
+    "pub": "2026-10-17 23:15"
+  },
+  {
+    "headline": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
+    "headline_fi": "\"Ei tilaa väkivallalle\", Macron sanoo sen jälkeen, kun mellakaattorit ja ryöstäjät kaappasivat rauhanomaisia ​​mielenosoituksia eri puolilla Ranskaa",
+    "link": "https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-",
+    "source": "Euronews",
+    "pub": "2026-10-17 22:59"
+  },
+  {
     "headline": "Ilhan Omar: The US Democrat targeted by Donald Trump",
     "headline_fi": "Ilhan Omar: Donald Trumpin kohteena oleva Yhdysvaltain demokraatti",
     "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf",
@@ -22,7 +43,7 @@
   },
   {
     "headline": "Romanian fighter jets shoot down 2 drones over Black Sea",
-    "headline_fi": "Romanialaiset hävittäjät ampuivat alas kaksi dronea Mustanmeren yllä",
+    "headline_fi": "Romanialaiset hävittäjät ampuivat alas 2 dronia Mustanmeren yllä",
     "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 20:51"
@@ -43,7 +64,7 @@
   },
   {
     "headline": "European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank",
-    "headline_fi": "Israelilaiset siirtolaiset hyökkäsivät eurooppalaisten diplomaattien kimppuun miehitetyllä Länsirannalla lisääntyvän väkivallan vuoksi",
+    "headline_fi": "Israelin uudisasukkaat hyökkäsivät eurooppalaisten diplomaattien kimppuun väkivallan lisääntyessä miehitetyllä Länsirannalla",
     "link": "https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank",
     "source": "Euronews",
     "pub": "2026-10-17 20:23"
@@ -78,7 +99,7 @@
   },
   {
     "headline": "India: Police crack down on New Delhi protests",
-    "headline_fi": "Intia: Poliisi tukahdutti New Delhin mielenosoituksia",
+    "headline_fi": "Intia: Poliisi tukahdutti New Delhin mielenosoitukset",
     "link": "https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests",
     "source": "France 24",
     "pub": "2026-10-17 19:29"
@@ -106,7 +127,7 @@
   },
   {
     "headline": "Protests in France: \"Two fires broke out in Place de la République\"",
-    "headline_fi": "Mielenosoitukset Ranskassa: \"Place de la Républiquessa syttyi kaksi tulipaloa\"",
+    "headline_fi": "Mielenosoitukset Ranskassa: \"Place de la Républiquella syttyi kaksi tulipaloa\"",
     "link": "https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique",
     "source": "France 24",
     "pub": "2026-10-17 18:53"
@@ -120,21 +141,21 @@
   },
   {
     "headline": "Tourism office set ablaze during cost-of-living protests in Lyon",
-    "headline_fi": "Matkailutoimisto sytytettiin tuleen elinkustannusmielenosoituksissa Lyonissa",
+    "headline_fi": "Tourism office set ablaze during cost-of-living protests in Lyon",
     "link": "https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon",
     "source": "Euronews",
     "pub": "2026-10-17 18:30"
   },
   {
     "headline": "🔴 Live: Protester’s hand blown off by police grenade as unions say half a million march across France",
-    "headline_fi": "🔴 Suorana lähetyksenä: Poliisikranaatti puhaltasi mielenosoittajan käteen, kun ammattiliittojen mukaan puoli miljoonaa marssii Ranskan halki",
+    "headline_fi": "🔴 Live: Protester’s hand blown off by police grenade as unions say half a million march across France",
     "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
     "source": "France 24",
     "pub": "2026-10-17 18:25"
   },
   {
     "headline": "How big is Russia's threat against Germany?",
-    "headline_fi": "Kuinka suuri on Venäjän uhka Saksaa kohtaan?",
+    "headline_fi": "How big is Russia's threat against Germany?",
     "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 18:23"
@@ -203,9 +224,9 @@
     "pub": "2026-10-17 16:43"
   },
   {
-    "headline": "Looting, blazes and clashes in France amid nationwide protests",
-    "headline_fi": "Looting, blazes and clashes in France amid nationwide protests",
-    "link": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
+    "headline": "Fires and clashes rock France amid massive nationwide protests",
+    "headline_fi": "Fires and clashes rock France amid massive nationwide protests",
+    "link": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
     "source": "France 24",
     "pub": "2026-10-17 15:31"
   },
@@ -273,16 +294,9 @@
     "pub": "2026-10-17 13:36"
   },
   {
-    "headline": "Pope Leo returns to Vatican four days after lung cancer surgery",
-    "headline_fi": "Pope Leo returns to Vatican four days after lung cancer surgery",
-    "link": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
-    "source": "France 24",
-    "pub": "2026-10-17 13:35"
-  },
-  {
-    "headline": "Germany news: Merz faces conservative youth wing in Bonn",
-    "headline_fi": "Germany news: Merz faces conservative youth wing in Bonn",
-    "link": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany news: Berlin's leftist parties move step closer to forming government",
+    "headline_fi": "Germany news: Berlin's leftist parties move step closer to forming government",
+    "link": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 13:34"
   },
@@ -301,9 +315,9 @@
     "pub": "2026-10-17 11:19"
   },
   {
-    "headline": "France: Police and protesters clash in nationwide protests",
-    "headline_fi": "France: Police and protesters clash in nationwide protests",
-    "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+    "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+    "headline_fi": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+    "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 11:02"
   },
@@ -565,20 +579,6 @@
     "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 16:12"
-  },
-  {
-    "headline": "From Samarkand to Paris: Preserving Central Asia's scientific heritage",
-    "headline_fi": "From Samarkand to Paris: Preserving Central Asia's scientific heritage",
-    "link": "https://www.euronews.com/2026/10/16/from-samarkand-to-paris-preserving-central-asias-scientific-heritage",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:00"
-  },
-  {
-    "headline": "Inside Qatar’s Geekend where gamers, cosplayers and artists share their love of games, comics and anime",
-    "headline_fi": "Inside Qatar’s Geekend where gamers, cosplayers and artists share their love of games, comics and anime",
-    "link": "https://www.euronews.com/2026/10/16/inside-qatars-geekend-where-gamers-cosplayers-and-artists-share-their-love-of-games-comics",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:00"
   },
   {
     "headline": "Zelenskyy warns 20M Ukrainians could flee to Europe if Russia wins war",
