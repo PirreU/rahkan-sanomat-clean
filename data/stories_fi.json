@@ -1,5 +1,138 @@
 [
   {
+    "headline": "Vietnam signs free trade deal with four European countries",
+    "headline_fi": "Vietnam solmi vapaakauppasopimuksen neljän Euroopan maan kanssa",
+    "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-18 12:19"
+  },
+  {
+    "headline": "France: Protests \"brought the entire population together for a common purpose\"",
+    "headline_fi": "Ranska: Mielenosoitukset \"kokosivat koko väestön yhteen yhteistä tarkoitusta varten\"",
+    "link": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
+    "source": "France 24",
+    "pub": "2026-10-18 12:05"
+  },
+  {
+    "headline": "France: Who took part in Saturday's protests?",
+    "headline_fi": "Ranska: Kuka osallistui lauantain mielenosoituksiin?",
+    "link": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
+    "source": "France 24",
+    "pub": "2026-10-18 12:03"
+  },
+  {
+    "headline": "France: Who was behind the violence at Saturday's protests?",
+    "headline_fi": "Ranska: Kuka oli väkivallan takana lauantain mielenosoituksissa?",
+    "link": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
+    "source": "France 24",
+    "pub": "2026-10-18 12:01"
+  },
+  {
+    "headline": "France protests: Did the government make the wrong decisions?",
+    "headline_fi": "Ranska protestoi: Tekikö hallitus vääriä päätöksiä?",
+    "link": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
+    "source": "France 24",
+    "pub": "2026-10-18 12:00"
+  },
+  {
+    "headline": "How reliant is Ukraine on the US-controlled Starlink internet service?",
+    "headline_fi": "Kuinka riippuvainen Ukraina on Yhdysvaltojen hallitsemasta Starlink-internetpalvelusta?",
+    "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-18 11:58"
+  },
+  {
+    "headline": "Lisbon named Europe's best city and cruise destination for 2026",
+    "headline_fi": "Lissabon valittiin Euroopan parhaaksi kaupungiksi ja risteilykohteeksi vuodelle 2026",
+    "link": "https://www.euronews.com/2026/10/18/lisbon-named-europes-best-city-and-cruise-destination-for-2026",
+    "source": "Euronews",
+    "pub": "2026-10-18 11:27"
+  },
+  {
+    "headline": "Possible drone explosion in northern Lithuania near Latvian border",
+    "headline_fi": "Mahdollinen drone-räjähdys Pohjois-Liettuassa lähellä Latvian rajaa",
+    "link": "https://www.euronews.com/2026/10/18/possible-drone-explosion-in-northern-lithuania-near-latvian-border",
+    "source": "Euronews",
+    "pub": "2026-10-18 11:14"
+  },
+  {
+    "headline": "🔴 A demonstrator died from 'cardiorespiratory arrest' during Paris protests, police say",
+    "headline_fi": "🔴 Mielenosoittaja kuoli \"sydänhengityspysähdykseen\" Pariisin mielenosoituksissa, poliisi kertoo",
+    "link": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+    "source": "France 24",
+    "pub": "2026-10-18 11:06"
+  },
+  {
+    "headline": "Populist Czech PM Babis goes empty-handed in Senate elections",
+    "headline_fi": "Populistinen Tšekin pääministeri Babis menee senaatin vaaleissa tyhjin käsin",
+    "link": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-18 10:03"
+  },
+  {
+    "headline": "Canada reports 'fatalities and injuries' following incident at military base",
+    "headline_fi": "Kanada raportoi sotilastukikohdassa tapahtuneen välikohtauksen seurauksena \"kuolemaan ja loukkaantuneista\".",
+    "link": "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base",
+    "source": "Euronews",
+    "pub": "2026-10-18 10:01"
+  },
+  {
+    "headline": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
+    "headline_fi": "Indonesian kuukausia kestäneet metsäpalot levittävät myrkyllistä sumua Kaakkois-Aasiaan",
+    "link": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
+    "source": "France 24",
+    "pub": "2026-10-18 09:30"
+  },
+  {
+    "headline": "India: CJP leader Abhijeet Dipke released after detention",
+    "headline_fi": "Intia: CJP:n johtaja Abhijeet Dipke vapautettiin pidätyksen jälkeen",
+    "link": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-18 09:29"
+  },
+  {
+    "headline": "Spire collapses at historic Limoges town hall amid violent protests across France",
+    "headline_fi": "Torni romahti historiallisessa Limogesin kaupungintalossa väkivaltaisten mielenosoitusten keskellä Ranskassa",
+    "link": "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france",
+    "source": "Euronews",
+    "pub": "2026-10-18 09:25"
+  },
+  {
+    "headline": "Look, no hands: Euronews rode driverless in Europe's first robotaxi in Zagreb",
+    "headline_fi": "Katso, ei käsiä: Euronews ajoi ilman kuljettajaa Euroopan ensimmäisessä robottaksissa Zagrebissa",
+    "link": "https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb",
+    "source": "Euronews",
+    "pub": "2026-10-18 09:00"
+  },
+  {
+    "headline": "India's 'cockroach' movement founder released from police custody",
+    "headline_fi": "Intian \"torakka\"-liikkeen perustaja vapautettiin poliisin pidätyksestä",
+    "link": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
+    "source": "France 24",
+    "pub": "2026-10-18 08:47"
+  },
+  {
+    "headline": "‘Every sunny surface’ is being put to work. Europeans transforming their homes with solar driveways",
+    "headline_fi": "\"Jokainen aurinkoinen pinta\" laitetaan töihin.Eurooppalaiset muuttavat kotejaan aurinkoajoväylillä",
+    "link": "https://www.euronews.com/2026/10/18/every-sunny-surface-is-being-put-to-work-europeans-transforming-their-homes-with-solar-dri",
+    "source": "Euronews",
+    "pub": "2026-10-18 08:02"
+  },
+  {
+    "headline": "Latest news bulletin | October 18th, 2026 – Morning",
+    "headline_fi": "Uusin uutistiedote |18. lokakuuta 2026 – Aamu",
+    "link": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-10-18 08:00"
+  },
+  {
+    "headline": "Live: Police arrested more than 1,800 people during French protests, interior minister says",
+    "headline_fi": "Live: Poliisi pidätti yli 1 800 ihmistä Ranskan mielenosoitusten aikana, sisäministeri sanoo",
+    "link": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+    "source": "France 24",
+    "pub": "2026-10-18 06:09"
+  },
+  {
     "headline": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
     "headline_fi": "Rubio sanoo Trumpin \"analysoivan\" Venäjä-pakotteiden maailmanlaajuisia vaikutuksia tauon aikana",
     "link": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
@@ -8,133 +141,133 @@
   },
   {
     "headline": "Canada: Major fire reported at military base in Alberta",
-    "headline_fi": "Kanada: Albertan sotilastukikohdassa tapahtuneesta tulipalosta ilmoitettiin",
+    "headline_fi": "Canada: Major fire reported at military base in Alberta",
     "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-18 05:08"
   },
   {
     "headline": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
-    "headline_fi": "\"Demokratian puolustaminen\": Atlantan \"No Kings\" -mielenosoitus vetää Trumpin kriitikot ennen välikausia",
+    "headline_fi": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
     "link": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms",
     "source": "France 24",
     "pub": "2026-10-18 04:50"
   },
   {
     "headline": "'No Kings' rallies push early voting ahead of US midterm elections",
-    "headline_fi": "\"No Kings\" -mielenosoitukset kannustavat ennakkoäänestykseen ennen Yhdysvaltojen välivaaleja",
+    "headline_fi": "'No Kings' rallies push early voting ahead of US midterm elections",
     "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-18 03:51"
   },
   {
     "headline": "Historic Limoges town hall engulfed in flames amid protests in France",
-    "headline_fi": "Historiallinen Limogesin kaupungintalo nielaisi liekkeihin Ranskan mielenosoituksissa",
+    "headline_fi": "Historic Limoges town hall engulfed in flames amid protests in France",
     "link": "https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
     "source": "Euronews",
     "pub": "2026-10-17 23:55"
   },
   {
     "headline": "Looters seize on massive French protests to raid and vandalise shops",
-    "headline_fi": "Ryöstäjät tarttuvat Ranskan massiivisiin mielenosoituksiin tehdäkseen hyökkäyksiä ja tuhotakseen kauppoja",
+    "headline_fi": "Looters seize on massive French protests to raid and vandalise shops",
     "link": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
     "source": "France 24",
     "pub": "2026-10-17 23:15"
   },
   {
     "headline": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
-    "headline_fi": "\"Ei tilaa väkivallalle\", Macron sanoo sen jälkeen, kun mellakaattorit ja ryöstäjät kaappasivat rauhanomaisia ​​mielenosoituksia eri puolilla Ranskaa",
+    "headline_fi": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
     "link": "https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-",
     "source": "Euronews",
     "pub": "2026-10-17 22:59"
   },
   {
     "headline": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-    "headline_fi": "Ilhan Omar: Donald Trumpin kohteena oleva Yhdysvaltain demokraatti",
+    "headline_fi": "Ilhan Omar: The US Democrat targeted by Donald Trump",
     "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 22:17"
   },
   {
     "headline": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
-    "headline_fi": "Viranomaisten mukaan romanialaiset F-16-koneet ampuivat alas kaksi dronia Mustanmeren yllä",
+    "headline_fi": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
     "link": "https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say",
     "source": "Euronews",
     "pub": "2026-10-17 21:14"
   },
   {
     "headline": "Albanian police fire rubber bullets and arrest hundreds as anti-government protests enter fifth day",
-    "headline_fi": "Albanian poliisi ampuu kumiluoteja ja pidätti satoja hallituksen vastaisten mielenosoitusten alkaessa viidettä päivää",
+    "headline_fi": "Albanian police fire rubber bullets and arrest hundreds as anti-government protests enter fifth day",
     "link": "https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-",
     "source": "Euronews",
     "pub": "2026-10-17 21:11"
   },
   {
     "headline": "Romanian fighter jets shoot down 2 drones over Black Sea",
-    "headline_fi": "Romanialaiset hävittäjät ampuivat alas 2 dronia Mustanmeren yllä",
+    "headline_fi": "Romanian fighter jets shoot down 2 drones over Black Sea",
     "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 20:51"
   },
   {
     "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-    "headline_fi": "Egyptin Ssisi sanoo puolustavansa Saudi-Arabiaa pyydettäessä",
+    "headline_fi": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
     "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 20:49"
   },
   {
     "headline": "Protesters clash with police in Belgium as demonstrations turn violent across Europe",
-    "headline_fi": "Mielenosoittajat ottivat yhteen Belgiassa poliisin kanssa, kun mielenosoitukset muuttuvat väkivaltaisiksi kaikkialla Euroopassa",
+    "headline_fi": "Protesters clash with police in Belgium as demonstrations turn violent across Europe",
     "link": "https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe",
     "source": "Euronews",
     "pub": "2026-10-17 20:29"
   },
   {
     "headline": "European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank",
-    "headline_fi": "Israelin uudisasukkaat hyökkäsivät eurooppalaisten diplomaattien kimppuun väkivallan lisääntyessä miehitetyllä Länsirannalla",
+    "headline_fi": "European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank",
     "link": "https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank",
     "source": "Euronews",
     "pub": "2026-10-17 20:23"
   },
   {
     "headline": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
-    "headline_fi": "🔴 Live: Kaoottisia kohtauksia, kun ranskalaisten mielenosoitusten järjestäjät väittävät, että 800 000 ihmistä on mennyt kaduille",
+    "headline_fi": "🔴 Live: Chaotic scenes as organisers of French protests claim 800,000 have taken to streets",
     "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
     "source": "France 24",
     "pub": "2026-10-17 20:18"
   },
   {
     "headline": "Euronews' crew assaulted by masked individuals while covering protests in Paris",
-    "headline_fi": "Naamioituneet henkilöt hyökkäsivät Euronewsin miehistöön kuvattaessa mielenosoituksia Pariisissa",
+    "headline_fi": "Euronews' crew assaulted by masked individuals while covering protests in Paris",
     "link": "https://www.euronews.com/2026/10/17/euronews-crew-assaulted-by-masked-individuals-while-covering-the-major-demonstrations-in-p",
     "source": "Euronews",
     "pub": "2026-10-17 19:42"
   },
   {
     "headline": "Protesters storm town hall and clash with police in France’s Marseille",
-    "headline_fi": "Mielenosoittajat ryntäsivät kaupungintalolle ja ottivat yhteen poliisin kanssa Ranskan Marseillessa",
+    "headline_fi": "Protesters storm town hall and clash with police in France’s Marseille",
     "link": "https://www.euronews.com/video/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille",
     "source": "Euronews",
     "pub": "2026-10-17 19:29"
   },
   {
     "headline": "West Bank: Israeli settlers attack EU diplomats, French mayor",
-    "headline_fi": "Länsiranta: Israelin uudisasukkaat hyökkäsivät EU-diplomaatteja ja Ranskan pormestaria vastaan",
+    "headline_fi": "West Bank: Israeli settlers attack EU diplomats, French mayor",
     "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 19:29"
   },
   {
     "headline": "India: Police crack down on New Delhi protests",
-    "headline_fi": "Intia: Poliisi tukahdutti New Delhin mielenosoitukset",
+    "headline_fi": "India: Police crack down on New Delhi protests",
     "link": "https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests",
     "source": "France 24",
     "pub": "2026-10-17 19:29"
   },
   {
     "headline": "Brazil: Amazon deforestation at 40-year low",
-    "headline_fi": "Brasilia: Amazonin metsien hävitys 40 vuoden alimmillaan",
+    "headline_fi": "Brazil: Amazon deforestation at 40-year low",
     "link": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low",
     "source": "France 24",
     "pub": "2026-10-17 19:07"
@@ -231,13 +364,6 @@
     "pub": "2026-10-17 17:46"
   },
   {
-    "headline": "France: Students, unions and Yellow Vests unite against austerity",
-    "headline_fi": "France: Students, unions and Yellow Vests unite against austerity",
-    "link": "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity",
-    "source": "France 24",
-    "pub": "2026-10-17 17:45"
-  },
-  {
     "headline": "Portugal sees protests over cost of living and housing crisis as demonstrations sweep Europe",
     "headline_fi": "Portugal sees protests over cost of living and housing crisis as demonstrations sweep Europe",
     "link": "https://www.euronews.com/2026/10/17/portugal-sees-protests-over-cost-of-living-and-housing-crisis-as-demonstrations-sweep-euro",
@@ -245,39 +371,11 @@
     "pub": "2026-10-17 16:43"
   },
   {
-    "headline": "Will Paramount’s creation of Skydance test France’s cultural exception?",
-    "headline_fi": "Will Paramount’s creation of Skydance test France’s cultural exception?",
-    "link": "https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception",
-    "source": "France 24",
-    "pub": "2026-10-17 16:43"
-  },
-  {
-    "headline": "Fires and clashes rock France amid massive nationwide protests",
-    "headline_fi": "Fires and clashes rock France amid massive nationwide protests",
-    "link": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
-    "source": "France 24",
-    "pub": "2026-10-17 15:31"
-  },
-  {
-    "headline": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
-    "headline_fi": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
-    "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-    "source": "France 24",
-    "pub": "2026-10-17 15:30"
-  },
-  {
     "headline": "Starlink restrictions in Ukraine a ‘planned operation’, Zelenskyy says",
     "headline_fi": "Starlink restrictions in Ukraine a ‘planned operation’, Zelenskyy says",
     "link": "https://www.politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-17 15:23"
-  },
-  {
-    "headline": "France faces day of cost-of-living protests",
-    "headline_fi": "France faces day of cost-of-living protests",
-    "link": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
-    "source": "France 24",
-    "pub": "2026-10-17 14:47"
   },
   {
     "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
@@ -294,30 +392,9 @@
     "pub": "2026-10-17 14:33"
   },
   {
-    "headline": "Cameroonian journalist shot in Bamenda",
-    "headline_fi": "Cameroonian journalist shot in Bamenda",
-    "link": "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda",
-    "source": "France 24",
-    "pub": "2026-10-17 14:16"
-  },
-  {
-    "headline": "Kenya reports third Ebola case, contact tracing continues",
-    "headline_fi": "Kenya reports third Ebola case, contact tracing continues",
-    "link": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues",
-    "source": "France 24",
-    "pub": "2026-10-17 13:56"
-  },
-  {
-    "headline": "Russia hails Trump waiving sanctions as 'historic'",
-    "headline_fi": "Russia hails Trump waiving sanctions as 'historic'",
-    "link": "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic",
-    "source": "France 24",
-    "pub": "2026-10-17 13:41"
-  },
-  {
-    "headline": "Germany news: Berlin's leftist parties move step closer to forming government",
-    "headline_fi": "Germany news: Berlin's leftist parties move step closer to forming government",
-    "link": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany news: Police probe security incident at Leipzig/Halle airport",
+    "headline_fi": "Germany news: Police probe security incident at Leipzig/Halle airport",
+    "link": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 13:34"
   },
@@ -427,13 +504,6 @@
     "pub": "2026-10-17 07:40"
   },
   {
-    "headline": "Trump puts new Russia sanctions on hold",
-    "headline_fi": "Trump puts new Russia sanctions on hold",
-    "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-17 05:09"
-  },
-  {
     "headline": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
     "headline_fi": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
     "link": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
@@ -446,13 +516,6 @@
     "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 22:42"
-  },
-  {
-    "headline": "West Bank: US journalist injured by Israeli settlers",
-    "headline_fi": "West Bank: US journalist injured by Israeli settlers",
-    "link": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 22:32"
   },
   {
     "headline": "EU leaders clash over migration, Ukraine and budget in Brussels — but delay big decisions",
@@ -546,46 +609,11 @@
     "pub": "2026-10-16 17:42"
   },
   {
-    "headline": "Pope Leo XIV celebrates Mass as recovery from cancer surgery progresses",
-    "headline_fi": "Pope Leo XIV celebrates Mass as recovery from cancer surgery progresses",
-    "link": "https://www.euronews.com/2026/10/16/pope-leo-xiv-celebrates-mass-as-recovery-from-cancer-surgery-progresses",
-    "source": "Euronews",
-    "pub": "2026-10-16 17:41"
-  },
-  {
-    "headline": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
-    "headline_fi": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
-    "link": "https://www.euronews.com/2026/10/16/palestinians-in-gaza-dread-another-winter-with-nowhere-safe-to-shelter",
-    "source": "Euronews",
-    "pub": "2026-10-16 17:34"
-  },
-  {
     "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
     "headline_fi": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
     "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:23"
-  },
-  {
-    "headline": "'‘It’s easier dealing with Trump than Putin,’ Zelenskyy tells Euronews amid US tensions",
-    "headline_fi": "'‘It’s easier dealing with Trump than Putin,’ Zelenskyy tells Euronews amid US tensions",
-    "link": "https://www.euronews.com/2026/10/16/its-easier-dealing-with-trump-than-putin-zelenskyy-tells-euronews-amid-us-tensions",
-    "source": "Euronews",
-    "pub": "2026-10-16 17:12"
-  },
-  {
-    "headline": "Could Tesla’s flying car send sales and shares soaring?",
-    "headline_fi": "Could Tesla’s flying car send sales and shares soaring?",
-    "link": "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring",
-    "source": "Euronews",
-    "pub": "2026-10-16 17:04"
-  },
-  {
-    "headline": "Norwegian teenager sentenced to 20 years in prison over UK murder plot",
-    "headline_fi": "Norwegian teenager sentenced to 20 years in prison over UK murder plot",
-    "link": "https://www.euronews.com/2026/10/16/norwegian-teenager-sentenced-to-20-years-in-prison-over-uk-murder-plot",
-    "source": "Euronews",
-    "pub": "2026-10-16 16:38"
   },
   {
     "headline": "The EU wants an AI revolution. But on whose terms?",
@@ -908,13 +936,6 @@
     "link": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-10 15:02"
-  },
-  {
-    "headline": "Schools crisis in France: Investment fails to inspire confidence",
-    "headline_fi": "Schools crisis in France: Investment fails to inspire confidence",
-    "link": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 22:52"
   },
   {
     "headline": "Author or artificial intelligence? Literature in crisis",
