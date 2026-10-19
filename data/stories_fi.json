@@ -1,140 +1,448 @@
 [
   {
+    "headline": "France: Curfews issued in Paris, Nice after unrest",
+    "headline_fi": "Ranska: Pariisissa, Nizzassa julkaistiin ulkonaliikkumiskielto levottomuuksien jälkeen",
+    "link": "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 22:02"
+  },
+  {
+    "headline": "Zelensky says Starshield speed limits slowing down frontline response",
+    "headline_fi": "Zelensky sanoo, että Starshieldin nopeusrajoitukset hidastavat etulinjan reagointia",
+    "link": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
+    "source": "France 24",
+    "pub": "2026-10-19 21:45"
+  },
+  {
+    "headline": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+    "headline_fi": "Bulgaria etsii epäiltyjä Saksasta Starlink-sabotaasin jälkeen",
+    "link": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 21:45"
+  },
+  {
+    "headline": "Albanian PM Rama accuses anti-government protesters of crossing 'red line' amid violent demonstrations",
+    "headline_fi": "Albanian pääministeri Rama syyttää hallituksen vastaisia ​​mielenosoittajia \"punaisen linjan\" ylittämisestä väkivaltaisten mielenosoitusten keskellä",
+    "link": "https://www.euronews.com/2026/10/19/albanian-pm-rama-accuses-anti-government-protesters-of-crossing-red-line-amid-violent-demo",
+    "source": "Euronews",
+    "pub": "2026-10-19 20:51"
+  },
+  {
+    "headline": "Germany news: Emergency at Leipzig airport sparked by novice driver",
+    "headline_fi": "Saksan uutiset: Aloittelijan aiheuttama hätätilanne Leipzigin lentokentällä",
+    "link": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 20:26"
+  },
+  {
+    "headline": "🔴 France issues curfew for parts of central Paris",
+    "headline_fi": "🔴 Ranska asettaa ulkonaliikkumiskiellon joihinkin Pariisin keskustaan",
+    "link": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
+    "source": "France 24",
+    "pub": "2026-10-19 20:09"
+  },
+  {
+    "headline": "France: ‘localised’ curfews announced after weekend of violence",
+    "headline_fi": "Ranska: \"paikallinen\" ulkonaliikkumiskielto julistettiin viikonlopun väkivallan jälkeen",
+    "link": "https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence",
+    "source": "France 24",
+    "pub": "2026-10-19 19:44"
+  },
+  {
+    "headline": "Macron increasingly isolated amid unrest across France",
+    "headline_fi": "Macron on yhä eristyneisempi Ranskan levottomuuksien keskellä",
+    "link": "https://www.euronews.com/2026/10/19/macron-increasingly-isolated-amid-unrest-across-france",
+    "source": "Euronews",
+    "pub": "2026-10-19 19:38"
+  },
+  {
+    "headline": "Trump signs order aimed at boosting women’s health research",
+    "headline_fi": "Trump allekirjoitti määräyksen, jonka tavoitteena on edistää naisten terveystutkimusta",
+    "link": "https://www.euronews.com/2026/10/19/trump-signs-order-aimed-at-boosting-womens-health-research",
+    "source": "Euronews",
+    "pub": "2026-10-19 19:29"
+  },
+  {
+    "headline": "After looting spree, France tells online resellers to crack down on traffic of stolen goods",
+    "headline_fi": "Ryöstelyn jälkeen Ranska kehottaa verkkojälleenmyyjiä hillitsemään varastettujen tavaroiden liikennettä",
+    "link": "https://www.politico.eu/article/france-orders-online-resellers-crack-down-stolen-goods-after-looting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-19 19:09"
+  },
+  {
+    "headline": "Latest news bulletin | October 19th, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |19.10.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-19 19:00"
+  },
+  {
+    "headline": "Dutch PM Rob Jetten and partner expecting child via surrogate mother: 'Someone very special is on the way'",
+    "headline_fi": "Hollannin pääministeri Rob Jetten ja kumppani odottavat lasta sijaisäidin kautta: \"Joku hyvin erikoinen on tulossa\"",
+    "link": "https://www.euronews.com/2026/10/19/dutch-pm-rob-jetten-and-partner-expecting-child-via-surrogate-mother-someone-very-special-",
+    "source": "Euronews",
+    "pub": "2026-10-19 18:55"
+  },
+  {
+    "headline": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
+    "headline_fi": "Ukraina käyttää dronea kuljettamaan haavoittunutta sotilasta \"maailman ensimmäisessä\" operaatiossa",
+    "link": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
+    "source": "France 24",
+    "pub": "2026-10-19 18:44"
+  },
+  {
+    "headline": "Qatar plans new defence partnership and warns of energy crisis 'peak'",
+    "headline_fi": "Qatar suunnittelee uutta puolustuskumppanuutta ja varoittaa energiakriisin huipusta",
+    "link": "https://www.euronews.com/2026/10/19/qatar-plans-new-defence-partnership-and-warns-of-energy-crisis-peak",
+    "source": "Euronews",
+    "pub": "2026-10-19 18:40"
+  },
+  {
+    "headline": "France wants curfews in some areas after weekend of riots",
+    "headline_fi": "Ranska haluaa ulkonaliikkumiskiellon joillakin alueilla viikonlopun mellakoiden jälkeen",
+    "link": "https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots",
+    "source": "France 24",
+    "pub": "2026-10-19 18:37"
+  },
+  {
+    "headline": "France protests: Who are the people arrested during the unrest?",
+    "headline_fi": "Ranska protestoi: Keitä ihmisiä pidätettiin levottomuuksien aikana?",
+    "link": "https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest",
+    "source": "France 24",
+    "pub": "2026-10-19 18:36"
+  },
+  {
+    "headline": "EU Parliament leaders set for re-election despite cracks in centrist alliance",
+    "headline_fi": "EU-parlamentin johtajat valitsivat uudelleen keskusliiton murtumisesta huolimatta",
+    "link": "https://www.euronews.com/2026/10/19/eu-parliament-leaders-set-for-re-election-despite-cracks-in-centrist-alliance",
+    "source": "Euronews",
+    "pub": "2026-10-19 18:19"
+  },
+  {
+    "headline": "Canada: Alberta votes on holding independence referendum",
+    "headline_fi": "Kanada: Alberta äänestää itsenäisyysäänestyksen järjestämisestä",
+    "link": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 18:09"
+  },
+  {
+    "headline": "Can diplomacy stop another Ethiopia-Eritrea war?",
+    "headline_fi": "Voiko diplomatia pysäyttää uuden Etiopian ja Eritrean välisen sodan?",
+    "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 18:07"
+  },
+  {
+    "headline": "France galvanised by shopkeepers and locals who fought back against rioters and looters",
+    "headline_fi": "Ranskan piristää kauppiaat ja paikalliset, jotka taistelivat mellakoita ja ryöstöjä vastaan",
+    "link": "https://www.euronews.com/2026/10/19/france-galvanised-by-shopkeepers-and-locals-who-fought-back-against-rioters-and-looters",
+    "source": "Euronews",
+    "pub": "2026-10-19 18:00"
+  },
+  {
+    "headline": "Euronews press review: French newspapers dissect weekend of unrest and rioting",
+    "headline_fi": "Euronews press review: French newspapers dissect weekend of unrest and rioting",
+    "link": "https://www.euronews.com/2026/10/19/euronews-press-review-french-newspapers-dissect-weekend-of-unrest-as-riots-hit-major-citie",
+    "source": "Euronews",
+    "pub": "2026-10-19 17:59"
+  },
+  {
+    "headline": "'Police weren't overwhelmed by people protesting and marching' about education and cost of living",
+    "headline_fi": "'Police weren't overwhelmed by people protesting and marching' about education and cost of living",
+    "link": "https://www.france24.com/en/video/20261019-police-weren-t-overwhelmed-by-people-protesting-and-marching-about-education-and-cost-of-living",
+    "source": "France 24",
+    "pub": "2026-10-19 17:58"
+  },
+  {
+    "headline": "Houthi strike on Yemen government military camp kills at least 50",
+    "headline_fi": "Houthi strike on Yemen government military camp kills at least 50",
+    "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-19 17:39"
+  },
+  {
+    "headline": "Norway to extend proposed under-16 social media ban to online games and messaging apps",
+    "headline_fi": "Norway to extend proposed under-16 social media ban to online games and messaging apps",
+    "link": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+    "source": "Euronews",
+    "pub": "2026-10-19 17:27"
+  },
+  {
+    "headline": "Four soldiers dead, dozens injured in fire at Canada military base",
+    "headline_fi": "Four soldiers dead, dozens injured in fire at Canada military base",
+    "link": "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base",
+    "source": "France 24",
+    "pub": "2026-10-19 17:25"
+  },
+  {
+    "headline": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
+    "headline_fi": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
+    "link": "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election",
+    "source": "France 24",
+    "pub": "2026-10-19 17:20"
+  },
+  {
+    "headline": "Could France’s debt troubles tip Italy into recession?",
+    "headline_fi": "Could France’s debt troubles tip Italy into recession?",
+    "link": "https://www.euronews.com/2026/10/19/could-frances-debt-troubles-tip-italy-into-recession",
+    "source": "Euronews",
+    "pub": "2026-10-19 17:19"
+  },
+  {
+    "headline": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+    "headline_fi": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+    "link": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment",
+    "source": "France 24",
+    "pub": "2026-10-19 17:16"
+  },
+  {
+    "headline": "Visegrad Four urge Brussels to ease Russian energy phase-out rules",
+    "headline_fi": "Visegrad Four urge Brussels to ease Russian energy phase-out rules",
+    "link": "https://www.euronews.com/2026/10/19/visegrad-four-urge-brussels-to-ease-russian-energy-phase-out-rules",
+    "source": "Euronews",
+    "pub": "2026-10-19 17:13"
+  },
+  {
+    "headline": "France announces partial curfews after weekend of violence",
+    "headline_fi": "France announces partial curfews after weekend of violence",
+    "link": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
+    "source": "Euronews",
+    "pub": "2026-10-19 17:07"
+  },
+  {
+    "headline": "France protests draw global attention: Trump, Vance blame immigration for unrest",
+    "headline_fi": "France protests draw global attention: Trump, Vance blame immigration for unrest",
+    "link": "https://www.france24.com/en/video/20261019-france-protests-draw-global-attention-trump-vance-blame-immigration-for-unrest",
+    "source": "France 24",
+    "pub": "2026-10-19 17:04"
+  },
+  {
+    "headline": "Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis",
+    "headline_fi": "Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis",
+    "link": "https://www.france24.com/en/video/20261019-macron-kicks-off-three-day-gulf-tour-seeks-securing-fuel-supplies-amid-crisis",
+    "source": "France 24",
+    "pub": "2026-10-19 17:02"
+  },
+  {
+    "headline": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+    "headline_fi": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+    "link": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
+    "source": "France 24",
+    "pub": "2026-10-19 17:00"
+  },
+  {
+    "headline": "US midterms elections: Why data centers are becoming a key issue",
+    "headline_fi": "US midterms elections: Why data centers are becoming a key issue",
+    "link": "https://www.france24.com/en/video/20261019-us-midterms-elections-why-data-centers-are-becoming-a-key-issue",
+    "source": "France 24",
+    "pub": "2026-10-19 16:59"
+  },
+  {
+    "headline": "Protesters block entrances to Paris’s Louvre museum",
+    "headline_fi": "Protesters block entrances to Paris’s Louvre museum",
+    "link": "https://www.euronews.com/video/2026/10/19/protesters-block-entrances-to-pariss-louvre-museum",
+    "source": "Euronews",
+    "pub": "2026-10-19 16:57"
+  },
+  {
+    "headline": "'We won't let this continue': French PM orders local curfews after weekend unrest",
+    "headline_fi": "'We won't let this continue': French PM orders local curfews after weekend unrest",
+    "link": "https://www.euronews.com/video/2026/10/19/we-wont-let-this-continue-french-pm-orders-local-curfews-after-weekend-unrest",
+    "source": "Euronews",
+    "pub": "2026-10-19 16:55"
+  },
+  {
+    "headline": "UN food agency to cut aid to 500,000 people in Gaza as funding dries up",
+    "headline_fi": "UN food agency to cut aid to 500,000 people in Gaza as funding dries up",
+    "link": "https://www.euronews.com/2026/10/19/un-food-agency-to-cut-aid-to-500000-people-in-gaza-as-funding-dries-up",
+    "source": "Euronews",
+    "pub": "2026-10-19 16:46"
+  },
+  {
+    "headline": "France launches ‘massive’ law enforcement operation after weekend looting, PM says",
+    "headline_fi": "France launches ‘massive’ law enforcement operation after weekend looting, PM says",
+    "link": "https://www.euronews.com/2026/10/19/france-launches-massive-law-enforcement-operation-after-weekend-looting-pm-says",
+    "source": "Euronews",
+    "pub": "2026-10-19 16:40"
+  },
+  {
+    "headline": "Tents fill Lisbon square as protesters highlight Portugal’s housing crisis",
+    "headline_fi": "Tents fill Lisbon square as protesters highlight Portugal’s housing crisis",
+    "link": "https://www.euronews.com/video/2026/10/19/tents-fill-lisbon-square-as-protesters-highlight-portugals-housing-crisis",
+    "source": "Euronews",
+    "pub": "2026-10-19 16:38"
+  },
+  {
+    "headline": "France: Police and protesters clash violently over the weekend",
+    "headline_fi": "France: Police and protesters clash violently over the weekend",
+    "link": "https://www.france24.com/en/video/20261019-france-police-and-protesters-clash-violently-over-the-weekend",
+    "source": "France 24",
+    "pub": "2026-10-19 16:25"
+  },
+  {
+    "headline": "UK and Poland accuse Hegseth of downplaying allies’ role in Afghanistan",
+    "headline_fi": "UK and Poland accuse Hegseth of downplaying allies’ role in Afghanistan",
+    "link": "https://www.politico.eu/article/uk-poland-pete-hegseth-downplay-role-afghanistan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-19 16:22"
+  },
+  {
+    "headline": "French PM orders ‘localized’ curfews in response to looting and unrest",
+    "headline_fi": "French PM orders ‘localized’ curfews in response to looting and unrest",
+    "link": "https://www.politico.eu/article/france-sebastien-lecornu-partial-curfews-riots-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-19 16:12"
+  },
+  {
+    "headline": "EU plans March summit in Rome as Italy eyes early election",
+    "headline_fi": "EU plans March summit in Rome as Italy eyes early election",
+    "link": "https://www.euronews.com/2026/10/19/eu-plans-march-summit-in-rome-as-italy-eyes-early-election",
+    "source": "Euronews",
+    "pub": "2026-10-19 16:09"
+  },
+  {
+    "headline": "French PM Lecornu says ready to declare state of emergency 'if needed'",
+    "headline_fi": "French PM Lecornu says ready to declare state of emergency 'if needed'",
+    "link": "https://www.france24.com/en/france/20261019-french-pm-says-could-declare-state-of-emergency-over-unrest-if-needed",
+    "source": "France 24",
+    "pub": "2026-10-19 15:51"
+  },
+  {
     "headline": "Montenegro moves to settle Croatia disputes threatening its EU membership bid",
-    "headline_fi": "Montenegro pyrkii ratkaisemaan Kroatian kiistat, jotka uhkaavat sen EU-jäsenyyttä",
+    "headline_fi": "Montenegro moves to settle Croatia disputes threatening its EU membership bid",
     "link": "https://www.euronews.com/2026/10/19/montenegro-moves-to-settle-croatia-disputes-threatening-its-eu-membership-bid",
     "source": "Euronews",
     "pub": "2026-10-19 15:32"
   },
   {
-    "headline": "'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program",
-    "headline_fi": "\"Meidän ei tarvitse odottaa muiden tukevan meitä\": Myanmarin pakolaiset löytävät toivoa Thaimaan työohjelmasta",
-    "link": "https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf",
+    "headline": "Myanmar refugees find hope in Thailand's work program",
+    "headline_fi": "Myanmar refugees find hope in Thailand's work program",
+    "link": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 15:31"
   },
   {
-    "headline": "Marco Rubio visits India this week, with a visit to the world's largest oil refinery topping the agenda",
-    "headline_fi": "Marco Rubio vierailee Intiassa tällä viikolla, ja vierailu maailman suurimmassa öljynjalostamossa on esityslistan kärjessä",
-    "link": "https://www.dw.com/en/marco-rubio-visits-india-this-week-with-a-visit-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf",
+    "headline": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+    "headline_fi": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+    "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 15:31"
   },
   {
     "headline": "Italy hit by violent cost-of-living protests, mostly minors arrested",
-    "headline_fi": "Italiassa väkivaltaiset elinkustannusmielenosoitukset, enimmäkseen alaikäisiä pidätettiin",
+    "headline_fi": "Italy hit by violent cost-of-living protests, mostly minors arrested",
     "link": "https://www.france24.com/en/video/20261019-italy-hit-by-violent-cost-of-living-protests-mostly-minors-arrested",
     "source": "France 24",
     "pub": "2026-10-19 15:30"
   },
   {
     "headline": "REPLAY: French PM speaks after crisis meeting",
-    "headline_fi": "REPLAY: Ranskan pääministeri puhuu kriisikokouksen jälkeen",
+    "headline_fi": "REPLAY: French PM speaks after crisis meeting",
     "link": "https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting",
     "source": "France 24",
     "pub": "2026-10-19 15:21"
   },
   {
     "headline": "Inflation squeezes households as Lebanon's economic crisis persists",
-    "headline_fi": "Inflaatio puristaa kotitalouksia Libanonin talouskriisin jatkuessa",
+    "headline_fi": "Inflation squeezes households as Lebanon's economic crisis persists",
     "link": "https://www.france24.com/en/tv-shows/focus/20261019-inflation-squeezes-households-as-lebanon-s-economic-crisis-persists",
     "source": "France 24",
     "pub": "2026-10-19 15:18"
   },
   {
     "headline": "German police say two men turned themselves in after smashing car into airport fence",
-    "headline_fi": "Saksan poliisin mukaan kaksi miestä ilmoittautui sisään törmättyään auton lentokentän aitaan",
+    "headline_fi": "German police say two men turned themselves in after smashing car into airport fence",
     "link": "https://www.euronews.com/2026/10/19/german-police-say-two-men-turned-themselves-in-after-smashing-car-into-airport-fence",
     "source": "Euronews",
     "pub": "2026-10-19 15:18"
   },
   {
     "headline": "From 'Werwulf' to a 1930s Batman: Key takeways from Robert Eggers masterclass at Lumière",
-    "headline_fi": "Werwulfista 1930-luvun Batmaniin: Tärkeitä poimintoja Robert Eggersin mestarikurssilta Lumièressa",
+    "headline_fi": "From 'Werwulf' to a 1930s Batman: Key takeways from Robert Eggers masterclass at Lumière",
     "link": "https://www.euronews.com/2026/10/19/from-werwulf-to-a-1930s-batman-key-takeways-from-robert-eggers-masterclass-at-lumiere",
     "source": "Euronews",
     "pub": "2026-10-19 15:15"
   },
   {
     "headline": "The multiple sclerosis gap Europe cannot afford to ignore",
-    "headline_fi": "Euroopalla ei ole varaa sivuuttaa multippeliskleroosin kuilua",
+    "headline_fi": "The multiple sclerosis gap Europe cannot afford to ignore",
     "link": "https://www.politico.eu/sponsored-content/the-multiple-sclerosis-gap-europe-cannot-afford-to-ignore/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-19 15:08"
   },
   {
     "headline": "US issues rare Middle East red alert warning to its citizens in the region",
-    "headline_fi": "Yhdysvallat on antanut harvinaisen Lähi-idän punaisen varoituksen alueen kansalaisilleen",
+    "headline_fi": "US issues rare Middle East red alert warning to its citizens in the region",
     "link": "https://www.euronews.com/2026/10/19/us-issues-rare-middle-east-red-alert-warning-to-its-citizens-in-the-region",
     "source": "Euronews",
     "pub": "2026-10-19 14:55"
   },
   {
     "headline": "Northern Ireland and Scotland schools sent hoax bomb warnings, officials say",
-    "headline_fi": "Pohjois-Irlannin ja Skotlannin koulut lähettivät huijauspommivaroituksia, viranomaiset kertovat",
+    "headline_fi": "Northern Ireland and Scotland schools sent hoax bomb warnings, officials say",
     "link": "https://www.euronews.com/2026/10/19/northern-ireland-and-scotland-schools-sent-hoax-bomb-warnings-officials-say",
     "source": "Euronews",
     "pub": "2026-10-19 14:44"
   },
   {
     "headline": "UN food program cuts aid to 500,000 Palestinians in Gaza",
-    "headline_fi": "YK:n ruokaohjelma leikkaa apua 500 000 palestiinalaiselle Gazassa",
+    "headline_fi": "UN food program cuts aid to 500,000 Palestinians in Gaza",
     "link": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 14:41"
   },
   {
     "headline": "Polish satellite maker Creotech Instruments plans tenfold capacity boost by 2029",
-    "headline_fi": "Puolalainen satelliittivalmistaja Creotech Instruments suunnittelee kapasiteetin kymmenkertaistamista vuoteen 2029 mennessä",
+    "headline_fi": "Polish satellite maker Creotech Instruments plans tenfold capacity boost by 2029",
     "link": "https://www.euronews.com/2026/10/19/polish-satellite-maker-creotech-instruments-plans-tenfold-capacity-boost-by-2029",
     "source": "Euronews",
     "pub": "2026-10-19 14:20"
   },
   {
     "headline": "What do travellers want from AI? Room rates, not personalised itineraries, study says",
-    "headline_fi": "Mitä matkustajat haluavat tekoälyltä?Huonehinnat, eivät henkilökohtaisia ​​​​reittejä, tutkimus sanoo",
+    "headline_fi": "What do travellers want from AI? Room rates, not personalised itineraries, study says",
     "link": "https://www.euronews.com/2026/10/19/what-do-travellers-want-from-ai-room-rates-not-personalised-itineraries-study-says",
     "source": "Euronews",
     "pub": "2026-10-19 14:02"
   },
   {
     "headline": "‘Bismillah, c’est les ténèbres’: What does the French student protest slogan mean?",
-    "headline_fi": "\"Bismillah, se on pimeys\": Mitä ranskalainen opiskelijamielelause tarkoittaa?",
+    "headline_fi": "‘Bismillah, c’est les ténèbres’: What does the French student protest slogan mean?",
     "link": "https://www.euronews.com/2026/10/19/bismillah-cest-les-tenebres-what-does-the-french-student-protest-slogan-mean",
     "source": "Euronews",
     "pub": "2026-10-19 14:01"
   },
   {
     "headline": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
-    "headline_fi": "Les Misérables: Macronin \"irtautuneisuuden tunne\" elinkustannusten nousun ja nuorten \"tulevaisuuden pelkojen\" keskellä",
+    "headline_fi": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
     "link": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future",
     "source": "France 24",
     "pub": "2026-10-19 14:00"
   },
   {
     "headline": "Marseille cleans up after looting and vandalism in protest",
-    "headline_fi": "Marseille siivoaa ryöstelyn ja ilkivallan jälkeen protestina",
+    "headline_fi": "Marseille cleans up after looting and vandalism in protest",
     "link": "https://www.france24.com/en/video/20261019-marseille-cleans-up-after-looting-and-vandalism-in-protest",
     "source": "France 24",
     "pub": "2026-10-19 13:57"
   },
   {
     "headline": "'Lame-duck president' Macron notes 'failures' after France unrest",
-    "headline_fi": "\"Ontuvan ankan presidentti\" Macron huomauttaa \"epäonnistumisista\" Ranskan levottomuuksien jälkeen",
+    "headline_fi": "'Lame-duck president' Macron notes 'failures' after France unrest",
     "link": "https://www.france24.com/en/video/20261019-lame-duck-president-macron-notes-failures-after-france-unrest",
     "source": "France 24",
     "pub": "2026-10-19 13:53"
   },
   {
     "headline": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-    "headline_fi": "Lulan kannattajat lausuvat hänen nimensä Rion vesillä ennen Brasilian kierrosta",
+    "headline_fi": "Lula supporters spell out his name in Rio waters before Brazil runoff",
     "link": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff",
     "source": "Euronews",
     "pub": "2026-10-19 13:52"
   },
   {
     "headline": "Russia woos Asian tourists in attempt to counter European visits collapse",
-    "headline_fi": "Venäjä houkuttelee aasialaisia ​​turisteja yrittääkseen estää eurooppalaisten vierailujen romahtamisen",
+    "headline_fi": "Russia woos Asian tourists in attempt to counter European visits collapse",
     "link": "https://www.euronews.com/2026/10/19/russia-woos-asian-tourists-in-attempt-to-counter-european-visits-collapse",
     "source": "Euronews",
     "pub": "2026-10-19 13:48"
@@ -151,13 +459,6 @@
     "headline_fi": "Serbian prosecutor probing Trump Tower in Belgrade targeted with spyware",
     "link": "https://www.politico.eu/article/serbian-prosecutor-targeted-with-spyware-after-trump-tower-project-probe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
-    "pub": "2026-10-19 13:29"
-  },
-  {
-    "headline": "French retailers reel after weekend of riots, looting",
-    "headline_fi": "French retailers reel after weekend of riots, looting",
-    "link": "https://www.france24.com/en/tv-shows/business/20261019-french-retailers-reel-after-weekend-of-riots-looting",
-    "source": "France 24",
     "pub": "2026-10-19 13:29"
   },
   {
@@ -231,20 +532,6 @@
     "pub": "2026-10-19 13:19"
   },
   {
-    "headline": "Massive clean-up operation sweeps across France after protests",
-    "headline_fi": "Massive clean-up operation sweeps across France after protests",
-    "link": "https://www.france24.com/en/video/20261019-massive-clean-up-operation-sweeps-across-france-after-protests",
-    "source": "France 24",
-    "pub": "2026-10-19 13:13"
-  },
-  {
-    "headline": "'Shame', 'anger', 'chaos': Papers react to polarising riots in France",
-    "headline_fi": "'Shame', 'anger', 'chaos': Papers react to polarising riots in France",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261019-shame-anger-chaos-papers-react-to-polarising-riots-in-france",
-    "source": "France 24",
-    "pub": "2026-10-19 13:11"
-  },
-  {
     "headline": "France riots: Presidential hopeful Attal pitches social media blackout",
     "headline_fi": "France riots: Presidential hopeful Attal pitches social media blackout",
     "link": "https://www.politico.eu/article/france-gabriel-attal-social-media-blackout-riot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -259,25 +546,11 @@
     "pub": "2026-10-19 13:10"
   },
   {
-    "headline": "French interior minister admits police 'lost control' of protests",
-    "headline_fi": "French interior minister admits police 'lost control' of protests",
-    "link": "https://www.france24.com/en/video/20261019-french-interior-minister-admits-police-lost-control-of-protests",
-    "source": "France 24",
-    "pub": "2026-10-19 13:07"
-  },
-  {
     "headline": "Australian MP seriously hurt in suspected car attack",
     "headline_fi": "Australian MP seriously hurt in suspected car attack",
     "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 13:06"
-  },
-  {
-    "headline": "Protests continue sixth day in a row in Albania's capital",
-    "headline_fi": "Protests continue sixth day in a row in Albania's capital",
-    "link": "https://www.france24.com/en/video/20261019-protests-continue-sixth-day-in-a-row-in-albania-s-capital",
-    "source": "France 24",
-    "pub": "2026-10-19 13:03"
   },
   {
     "headline": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
@@ -292,13 +565,6 @@
     "link": "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-19 13:00"
-  },
-  {
-    "headline": "French shops demolished after weekend riots across the country",
-    "headline_fi": "French shops demolished after weekend riots across the country",
-    "link": "https://www.france24.com/en/video/20261019-french-shops-demolished-after-weekend-riots-across-the-country",
-    "source": "France 24",
-    "pub": "2026-10-19 12:58"
   },
   {
     "headline": "'We tore it up': French looters brag online as minister admits police 'lost control'",
@@ -329,13 +595,6 @@
     "pub": "2026-10-19 12:33"
   },
   {
-    "headline": "🔴 Live: France's Yellow Vest movement calls for new round of protests after weekend unrest",
-    "headline_fi": "🔴 Live: France's Yellow Vest movement calls for new round of protests after weekend unrest",
-    "link": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
-    "source": "France 24",
-    "pub": "2026-10-19 12:32"
-  },
-  {
     "headline": "Start Crying Your Heart Out: Why Liam Gallagher is wrong about Fontaines D.C.",
     "headline_fi": "Start Crying Your Heart Out: Why Liam Gallagher is wrong about Fontaines D.C.",
     "link": "https://www.euronews.com/2026/10/19/start-crying-your-hear-out-why-liam-gallagher-is-wrong-about-fontaines-dc",
@@ -357,46 +616,11 @@
     "pub": "2026-10-19 12:11"
   },
   {
-    "headline": "Gulf states top disaster resilience as Lebanon and Iraq lag far behind",
-    "headline_fi": "Gulf states top disaster resilience as Lebanon and Iraq lag far behind",
-    "link": "https://www.euronews.com/2026/10/19/gulf-states-top-disaster-resilience-as-lebanon-and-iraq-lag-far-behind",
-    "source": "Euronews",
-    "pub": "2026-10-19 11:57"
-  },
-  {
-    "headline": "European stocks open in the red as French businesses count the cost of the riots",
-    "headline_fi": "European stocks open in the red as French businesses count the cost of the riots",
-    "link": "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots",
-    "source": "Euronews",
-    "pub": "2026-10-19 11:56"
-  },
-  {
-    "headline": "Putin seeks Ukraine summit with Trump and Xi but refuses talks with Zelenskyy",
-    "headline_fi": "Putin seeks Ukraine summit with Trump and Xi but refuses talks with Zelenskyy",
-    "link": "https://www.euronews.com/2026/10/19/putin-seeks-ukraine-summit-with-trump-and-xi-but-refuses-talks-with-zelenskyy",
-    "source": "Euronews",
-    "pub": "2026-10-19 11:40"
-  },
-  {
     "headline": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
     "headline_fi": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
     "link": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 11:33"
-  },
-  {
-    "headline": "'I've never seen such destruction': Parisians react to destruction after weekend protests",
-    "headline_fi": "'I've never seen such destruction': Parisians react to destruction after weekend protests",
-    "link": "https://www.euronews.com/video/2026/10/19/ive-never-seen-such-destruction-parisians-react-to-destruction-after-weekend-protests",
-    "source": "Euronews",
-    "pub": "2026-10-19 11:31"
-  },
-  {
-    "headline": "High prices and interest rates: Expert advice on managing your money",
-    "headline_fi": "High prices and interest rates: Expert advice on managing your money",
-    "link": "https://www.euronews.com/2026/10/19/high-prices-and-interest-rates-expert-advice-on-managing-your-money",
-    "source": "Euronews",
-    "pub": "2026-10-19 11:28"
   },
   {
     "headline": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
@@ -406,144 +630,11 @@
     "pub": "2026-10-19 11:26"
   },
   {
-    "headline": "🔴 Live: Student protesters block access to Louvre museum as France reels from weekend of unrest",
-    "headline_fi": "🔴 Live: Student protesters block access to Louvre museum as France reels from weekend of unrest",
-    "link": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
-    "source": "France 24",
-    "pub": "2026-10-19 11:22"
-  },
-  {
-    "headline": "Kyiv has become a 'true frontline city', EU ambassador to Ukraine tells Euronews",
-    "headline_fi": "Kyiv has become a 'true frontline city', EU ambassador to Ukraine tells Euronews",
-    "link": "https://www.euronews.com/2026/10/19/kyiv-has-become-a-true-frontline-city-eu-ambassador-to-ukraine-tells-euronews",
-    "source": "Euronews",
-    "pub": "2026-10-19 11:15"
-  },
-  {
-    "headline": "Drone footage reveals scale of damage to Limoges town hall after protests",
-    "headline_fi": "Drone footage reveals scale of damage to Limoges town hall after protests",
-    "link": "https://www.euronews.com/video/2026/10/19/drone-footage-reveals-scale-of-damage-to-limoges-town-hall-after-protests",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:51"
-  },
-  {
-    "headline": "Amazon deforestation hits record low in Brazil, but El Niño and a tight election threaten progress",
-    "headline_fi": "Amazon deforestation hits record low in Brazil, but El Niño and a tight election threaten progress",
-    "link": "https://www.euronews.com/2026/10/19/amazon-deforestation-hits-record-low-in-brazil-but-el-nino-and-a-tight-election-threaten-t",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:43"
-  },
-  {
-    "headline": "Bomb threat forces Austrian Airlines plane from Tel Aviv to divert to Bulgaria",
-    "headline_fi": "Bomb threat forces Austrian Airlines plane from Tel Aviv to divert to Bulgaria",
-    "link": "https://www.euronews.com/2026/10/19/bomb-threat-forces-austrian-airlines-plane-from-tel-aviv-to-divert-to-bulgaria",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:40"
-  },
-  {
-    "headline": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
-    "headline_fi": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
-    "link": "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall",
-    "source": "France 24",
-    "pub": "2026-10-19 10:33"
-  },
-  {
-    "headline": "Can Europe beat the cost-of-living crisis? Take our poll",
-    "headline_fi": "Can Europe beat the cost-of-living crisis? Take our poll",
-    "link": "https://www.euronews.com/2026/10/19/can-europe-beat-the-cost-of-living-crisis-take-our-poll",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:30"
-  },
-  {
-    "headline": "Youth protests around Europe multifaceted and not 'one phenomenon', says EU law expert",
-    "headline_fi": "Youth protests around Europe multifaceted and not 'one phenomenon', says EU law expert",
-    "link": "https://www.euronews.com/video/2026/10/19/youth-protests-around-europe-multifaceted-and-not-one-phenomenon-says-eu-law-expert",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:29"
-  },
-  {
-    "headline": "Emmanuel Macron rejects resignation of interior minister Laurent Nuñez",
-    "headline_fi": "Emmanuel Macron rejects resignation of interior minister Laurent Nuñez",
-    "link": "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:26"
-  },
-  {
-    "headline": "Albania's PM refuses to quit with protests against university conditions in sixth day",
-    "headline_fi": "Albania's PM refuses to quit with protests against university conditions in sixth day",
-    "link": "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:19"
-  },
-  {
-    "headline": "French student protests: 'There's been lack of investment in education for years now'",
-    "headline_fi": "French student protests: 'There's been lack of investment in education for years now'",
-    "link": "https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now",
-    "source": "France 24",
-    "pub": "2026-10-19 10:16"
-  },
-  {
     "headline": "Where’s Burnham really on welfare reform?",
     "headline_fi": "Where’s Burnham really on welfare reform?",
     "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/wheres-burnham-really-on-welfare-reform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-19 10:12"
-  },
-  {
-    "headline": "'I hold children who will probably not survive because of the cuts I'm forced to make', says UN aid chief UN",
-    "headline_fi": "'I hold children who will probably not survive because of the cuts I'm forced to make', says UN aid chief UN",
-    "link": "https://www.euronews.com/video/2026/10/19/i-hold-children-who-will-probably-not-survive-because-of-the-cuts-im-forced-to-make-says-u",
-    "source": "Euronews",
-    "pub": "2026-10-19 10:02"
-  },
-  {
-    "headline": "Germany news: Berlin conference seeks to drum up investment",
-    "headline_fi": "Germany news: Berlin conference seeks to drum up investment",
-    "link": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-19 09:49"
-  },
-  {
-    "headline": "Greek authorities say 12 migrants die in two incidents in Aegean Sea",
-    "headline_fi": "Greek authorities say 12 migrants die in two incidents in Aegean Sea",
-    "link": "https://www.euronews.com/2026/10/19/greek-authorities-say-12-migrants-die-in-two-incidents-in-aegean-sea",
-    "source": "Euronews",
-    "pub": "2026-10-19 09:47"
-  },
-  {
-    "headline": "'Quite horrifying': Afghan economic crisis leaves EU deportees with 'very little' to return to",
-    "headline_fi": "'Quite horrifying': Afghan economic crisis leaves EU deportees with 'very little' to return to",
-    "link": "https://www.france24.com/en/video/20261019-quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to-1",
-    "source": "France 24",
-    "pub": "2026-10-19 09:33"
-  },
-  {
-    "headline": "How much does inflation cost you? Ask the Euronews AI chatbot",
-    "headline_fi": "How much does inflation cost you? Ask the Euronews AI chatbot",
-    "link": "https://www.euronews.com/2026/10/19/how-much-does-inflation-cost-you-ask-the-euronews-ai-chatbot",
-    "source": "Euronews",
-    "pub": "2026-10-19 09:30"
-  },
-  {
-    "headline": "Marco Rubio denies there was any pause in US intelligence sharing with Ukraine",
-    "headline_fi": "Marco Rubio denies there was any pause in US intelligence sharing with Ukraine",
-    "link": "https://www.euronews.com/2026/10/19/marco-rubio-denies-there-was-any-pause-in-us-intelligence-sharing-with-ukraine",
-    "source": "Euronews",
-    "pub": "2026-10-19 09:28"
-  },
-  {
-    "headline": "France grapples with the aftermath of a weekend of violence",
-    "headline_fi": "France grapples with the aftermath of a weekend of violence",
-    "link": "https://www.euronews.com/2026/10/19/france-grapples-with-the-aftermath-of-a-weekend-of-violence",
-    "source": "Euronews",
-    "pub": "2026-10-19 09:21"
-  },
-  {
-    "headline": "Europe Today: France counts cost of violence as Ukraine hits St Petersburg, Leningrad",
-    "headline_fi": "Europe Today: France counts cost of violence as Ukraine hits St Petersburg, Leningrad",
-    "link": "https://www.euronews.com/2026/10/19/europe-today-france-counts-cost-of-violence-as-ukraine-hits-st-petersburg-leningrad",
-    "source": "Euronews",
-    "pub": "2026-10-19 09:01"
   },
   {
     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
@@ -553,16 +644,9 @@
     "pub": "2026-10-19 09:01"
   },
   {
-    "headline": "Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war",
-    "headline_fi": "Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war",
-    "link": "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine",
-    "source": "France 24",
-    "pub": "2026-10-19 09:00"
-  },
-  {
-    "headline": "Emmanuel Macron slams 'failures' over protest unrest in France but refuses his interior minister's resignation",
-    "headline_fi": "Emmanuel Macron slams 'failures' over protest unrest in France but refuses his interior minister's resignation",
-    "link": "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+    "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+    "headline_fi": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+    "link": "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 08:53"
   },
@@ -572,76 +656,6 @@
     "link": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-19 08:48"
-  },
-  {
-    "headline": "‘Not a problem of short-term solutions’: French students demand structural change, better conditions",
-    "headline_fi": "‘Not a problem of short-term solutions’: French students demand structural change, better conditions",
-    "link": "https://www.france24.com/en/not-a-problem-of-short-term-solutions-french-students-demand-structural-change-better-conditions",
-    "source": "France 24",
-    "pub": "2026-10-19 08:19"
-  },
-  {
-    "headline": "Live: French PM Lecornu calls for 'partial curfews' in cities hit by riots and looting",
-    "headline_fi": "Live: French PM Lecornu calls for 'partial curfews' in cities hit by riots and looting",
-    "link": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
-    "source": "France 24",
-    "pub": "2026-10-19 08:15"
-  },
-  {
-    "headline": "ISS mission: 'It's really exciting to see this renewal of French women in space'",
-    "headline_fi": "ISS mission: 'It's really exciting to see this renewal of French women in space'",
-    "link": "https://www.france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space",
-    "source": "France 24",
-    "pub": "2026-10-19 07:46"
-  },
-  {
-    "headline": "Trump’s Russia rethink — and Europe’s response",
-    "headline_fi": "Trump’s Russia rethink — and Europe’s response",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/trumps-russia-rethink-and-europes-response/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-19 07:30"
-  },
-  {
-    "headline": "Wie die Hauptstadt für die Bundesregierung zur Belastungsprobe wird",
-    "headline_fi": "Wie die Hauptstadt für die Bundesregierung zur Belastungsprobe wird",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-die-hauptstadt-fur-die-bundesregierung-zur-belastungsprobe-wird/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-19 06:30"
-  },
-  {
-    "headline": "5 fights that will shape NATO’s next Russia war plans",
-    "headline_fi": "5 fights that will shape NATO’s next Russia war plans",
-    "link": "https://www.politico.eu/article/5-fights-nato-russia-war-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-19 05:00"
-  },
-  {
-    "headline": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
-    "headline_fi": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
-    "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-19 03:26"
-  },
-  {
-    "headline": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
-    "headline_fi": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
-    "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-19 02:43"
-  },
-  {
-    "headline": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-    "headline_fi": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-    "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-19 01:04"
-  },
-  {
-    "headline": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
-    "headline_fi": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
-    "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-18 22:47"
   },
   {
     "headline": "France: Young voters blase about Glucksmann's Socialists",
