@@ -1,5 +1,96 @@
 [
   {
+    "headline": "France to deploy 70,000 police officers ahead of protests",
+    "headline_fi": "Ranska lähettää 70 000 poliisia ennen mielenosoituksia",
+    "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-24 01:01"
+  },
+  {
+    "headline": "Princess and prizewinners champion hope against 'darker times' at Princess of Asturias Awards",
+    "headline_fi": "Prinsessa ja palkinnon voittaja toivoo \"pimeämpiä aikoja\" vastaan ​​Princess of Asturias Awardsissa",
+    "link": "https://www.euronews.com/2026/10/23/princess-and-prizewinners-champion-hope-against-darker-times-at-princess-of-asturias-award",
+    "source": "Euronews",
+    "pub": "2026-10-24 00:20"
+  },
+  {
+    "headline": "Ebola: Kenya announces second death",
+    "headline_fi": "Ebola: Kenia ilmoittaa toisen kuoleman",
+    "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-24 00:09"
+  },
+  {
+    "headline": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+    "headline_fi": "Trump sanoo, että Yhdysvallat voi aloittaa \"toisen pienen eeppisen raivo-hyökkäyksen\" Irania vastaan",
+    "link": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
+    "source": "France 24",
+    "pub": "2026-10-23 23:50"
+  },
+  {
+    "headline": "Trump eases Canada tariffs ahead of US midterms",
+    "headline_fi": "Trump kevensi Kanadan tulleja ennen Yhdysvaltojen väliaikaa",
+    "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-23 23:49"
+  },
+  {
+    "headline": "Building collapse in Nairobi search for survivors under way",
+    "headline_fi": "Rakennuksen romahtaminen Nairobissa eloonjääneiden etsiminen käynnissä",
+    "link": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way",
+    "source": "France 24",
+    "pub": "2026-10-23 23:31"
+  },
+  {
+    "headline": "Jihadists reportedly urge attacks during protests in Portugal and Spain",
+    "headline_fi": "Jihadistien kerrotaan vaativan hyökkäyksiä mielenosoitusten aikana Portugalissa ja Espanjassa",
+    "link": "https://www.euronews.com/2026/10/23/jihadists-reportedly-urge-attacks-during-protests-in-portugal-and-spain",
+    "source": "Euronews",
+    "pub": "2026-10-23 22:55"
+  },
+  {
+    "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+    "headline_fi": "Venäjän hyökkäykset Ukrainan pääkaupunkiin Kiovaan kiihtyvät.DW kysyi kentällä olevilta ihmisiltä, ​​millaista elämä on",
+    "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-23 22:08"
+  },
+  {
+    "headline": "US designates helium as critical material as Europe faces supply squeeze",
+    "headline_fi": "Yhdysvallat määrittelee heliumin kriittiseksi materiaaliksi, koska Eurooppaa uhkaa tarjontapula",
+    "link": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
+    "source": "Euronews",
+    "pub": "2026-10-23 22:02"
+  },
+  {
+    "headline": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+    "headline_fi": "French Riots, Curfews & Calm .. on uusi Storm Brewing?Lisäksi Ukraina ja Israel",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261023-after-french-riots-curfews-calm-is-a-new-storm-brewing-plus-ukraine-israel",
+    "source": "France 24",
+    "pub": "2026-10-23 21:48"
+  },
+  {
+    "headline": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+    "headline_fi": "Netanyahu painottaa Länsirannan operaatiota ennen vaaleja: \"Poliittisesti se ei auta ketään\"",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+    "source": "France 24",
+    "pub": "2026-10-23 21:26"
+  },
+  {
+    "headline": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+    "headline_fi": "Venäjä ja Ukraina sopivat Yhdysvaltojen välityksestä yhden kaupungin tulitauosta",
+    "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-23 21:17"
+  },
+  {
+    "headline": "Italy preparing with elite troops and drone surveillance for 24 October protests",
+    "headline_fi": "Italia valmistautuu eliittijoukkojen ja drone-valvonnan kanssa lokakuun 24. päivän mielenosoituksiin",
+    "link": "https://www.euronews.com/2026/10/23/italy-preparing-with-elite-troops-and-drone-surveillance-for-24-october-protests",
+    "source": "Euronews",
+    "pub": "2026-10-23 21:12"
+  },
+  {
     "headline": "How Israeli settlers wearing keffiyehs are attacking West Bank olive groves",
     "headline_fi": "Kuinka israelilaiset uudisasukkaat, jotka käyttävät keffiyehiä, hyökkäävät Länsirannan oliivitarhoja vastaan",
     "link": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
@@ -50,91 +141,91 @@
   },
   {
     "headline": "EU trade Chief seeks to rebalance EU-China trade as Brussels weighs tougher measures",
-    "headline_fi": "EU:n kauppapäällikkö pyrkii tasapainottamaan EU:n ja Kiinan välistä kauppaa Brysselissä tiukempien toimien vuoksi",
+    "headline_fi": "EU trade Chief seeks to rebalance EU-China trade as Brussels weighs tougher measures",
     "link": "https://www.euronews.com/2026/10/23/eu-trade-chief-seeks-to-rebalance-eu-china-trade-as-brussels-weighs-tougher-measures",
     "source": "Euronews",
     "pub": "2026-10-23 19:11"
   },
   {
     "headline": "Latest news bulletin | October 23rd, 2026 – Evening",
-    "headline_fi": "Uusin uutistiedote |23.10.2026 – Ilta",
+    "headline_fi": "Latest news bulletin | October 23rd, 2026 – Evening",
     "link": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
     "source": "Euronews",
     "pub": "2026-10-23 19:00"
   },
   {
     "headline": "West Bank: Extensive military operation 'on the way', Netanyahu says",
-    "headline_fi": "Länsiranta: Laaja sotilasoperaatio \"matkalla\", Netanyahu sanoo",
+    "headline_fi": "West Bank: Extensive military operation 'on the way', Netanyahu says",
     "link": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
     "source": "France 24",
     "pub": "2026-10-23 18:56"
   },
   {
     "headline": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
-    "headline_fi": "Kyllä, israelilaiset uudisasukkaat repivät Länsirannan oliivipuita – mutta tämä video on väärennös",
+    "headline_fi": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
     "link": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
     "source": "France 24",
     "pub": "2026-10-23 18:56"
   },
   {
     "headline": "AKAA art and design fair brings African artists to Paris",
-    "headline_fi": "AKAA-taide- ja designmessut tuovat afrikkalaisia ​​taiteilijoita Pariisiin",
+    "headline_fi": "AKAA art and design fair brings African artists to Paris",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris",
     "source": "France 24",
     "pub": "2026-10-23 18:13"
   },
   {
     "headline": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
-    "headline_fi": "Eurooppaa uhkaa järjestäytyneen sabotaasin ja terrori-iskujen uhka: Viron FM Tsahkna",
+    "headline_fi": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261023-europe-faces-threat-of-organised-sabotage-terrorist-attacks-estonian-fm-tsahkna",
     "source": "France 24",
     "pub": "2026-10-23 17:55"
   },
   {
     "headline": "Afghan women could lose one of their last paths to a higher education",
-    "headline_fi": "Afganistanin naiset voivat menettää yhden viimeisistä poluistaan ​​korkea-asteen koulutukseen",
+    "headline_fi": "Afghan women could lose one of their last paths to a higher education",
     "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 17:54"
   },
   {
     "headline": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
-    "headline_fi": "EU:n jäsenvaltiot kiistelevät erittäin tärkeästä budjetista: Onko sopimus tänä vuonna mahdollinen?",
+    "headline_fi": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
     "link": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible",
     "source": "France 24",
     "pub": "2026-10-23 17:45"
   },
   {
     "headline": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
-    "headline_fi": "🔴 Tappava ammunta Pariisin länsipuolella \"selvästi terrori-isku\", Ranskan sisäministeri sanoo",
+    "headline_fi": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
     "link": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
     "source": "France 24",
     "pub": "2026-10-23 17:43"
   },
   {
     "headline": "Studio DRIFT makes the invisible force of wind visible in stunning new London installation",
-    "headline_fi": "Studio DRIFT tekee tuulen näkymättömän voiman näkyväksi upeassa uudessa Lontoon installaatiossa",
+    "headline_fi": "Studio DRIFT makes the invisible force of wind visible in stunning new London installation",
     "link": "https://www.euronews.com/video/2026/10/23/studio-drift-makes-the-invisible-force-of-wind-visible-in-stunning-new-london-installation",
     "source": "Euronews",
     "pub": "2026-10-23 17:40"
   },
   {
     "headline": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
-    "headline_fi": "\"Tapoin paljon terroristeja, mutta se ei parantanut oloani\": Israelin vaaleja kummitteleva trauma",
+    "headline_fi": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
     "link": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
     "source": "France 24",
     "pub": "2026-10-23 17:32"
   },
   {
     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
-    "headline_fi": "Ranskan mielenosoitukset: Presidentti Emmanuel Macron tapaa opiskelijaliittojen edustajia",
+    "headline_fi": "French protests: President Emmanuel Macron meets student unions representatives",
     "link": "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
     "source": "France 24",
     "pub": "2026-10-23 17:26"
   },
   {
     "headline": "Romania blames Russia for ship attack in the Black Sea",
-    "headline_fi": "Romania syyttää Venäjää alushyökkäyksestä Mustallamerellä",
+    "headline_fi": "Romania blames Russia for ship attack in the Black Sea",
     "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 17:25"
@@ -238,20 +329,6 @@
     "pub": "2026-10-23 16:07"
   },
   {
-    "headline": "War in the Middle East: Israel launches West Bank operations",
-    "headline_fi": "War in the Middle East: Israel launches West Bank operations",
-    "link": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
-    "source": "France 24",
-    "pub": "2026-10-23 15:57"
-  },
-  {
-    "headline": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
-    "headline_fi": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
-    "link": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
-    "source": "France 24",
-    "pub": "2026-10-23 15:45"
-  },
-  {
     "headline": "Belgium boosts heating-oil aid for vulnerable households as energy prices rise",
     "headline_fi": "Belgium boosts heating-oil aid for vulnerable households as energy prices rise",
     "link": "https://www.euronews.com/2026/10/23/belgium-boosts-heating-oil-aid-for-vulnerable-households-as-energy-prices-rise",
@@ -287,13 +364,6 @@
     "pub": "2026-10-23 15:06"
   },
   {
-    "headline": "Singapore's longevity industry: The quest for eternal youth",
-    "headline_fi": "Singapore's longevity industry: The quest for eternal youth",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261023-singapore-s-longevity-industry-the-quest-for-eternal-youth",
-    "source": "France 24",
-    "pub": "2026-10-23 14:53"
-  },
-  {
     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
     "headline_fi": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
     "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf",
@@ -313,13 +383,6 @@
     "link": "https://www.politico.eu/article/drone-hits-another-ship-in-black-sea-near-romania-killing-at-least-one-sailor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-23 14:34"
-  },
-  {
-    "headline": "REPLAY: Laurent Nunez holds presser on security arrangements ahead of protests",
-    "headline_fi": "REPLAY: Laurent Nunez holds presser on security arrangements ahead of protests",
-    "link": "https://www.france24.com/en/replay-french-interior-minister-holds-presser-on-security-arrangements-ahead-of-protests",
-    "source": "France 24",
-    "pub": "2026-10-23 14:29"
   },
   {
     "headline": "Trapped miner in coal mine in Turkey confirmed dead, bringing death toll to three",
@@ -364,8 +427,8 @@
     "pub": "2026-10-23 13:27"
   },
   {
-    "headline": "Terror probe after gunman opens fire from car in Paris suburbs, killing one, wounding five",
-    "headline_fi": "Terror probe after gunman opens fire from car in Paris suburbs, killing one, wounding five",
+    "headline": "Macron denounces deadly shooting near Paris as 'racist terrorist attack'",
+    "headline_fi": "Macron denounces deadly shooting near Paris as 'racist terrorist attack'",
     "link": "https://www.euronews.com/2026/10/23/suspect-arrested-after-1-killed-and-several-injured-in-a-shooting-in-paris-suburb",
     "source": "Euronews",
     "pub": "2026-10-23 13:27"
@@ -539,13 +602,6 @@
     "pub": "2026-10-23 10:50"
   },
   {
-    "headline": "Volvo Cars announces 2,500 job cuts as it swings to quarterly loss",
-    "headline_fi": "Volvo Cars announces 2,500 job cuts as it swings to quarterly loss",
-    "link": "https://www.euronews.com/2026/10/23/volvo-cars-announces-2500-job-cuts-as-it-swings-to-quarterly-loss",
-    "source": "Euronews",
-    "pub": "2026-10-23 10:24"
-  },
-  {
     "headline": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "headline_fi": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf",
@@ -553,39 +609,11 @@
     "pub": "2026-10-23 10:17"
   },
   {
-    "headline": "Serbia election results expected to be ‘very tight’, analyst says",
-    "headline_fi": "Serbia election results expected to be ‘very tight’, analyst says",
-    "link": "https://www.euronews.com/video/2026/10/23/serbia-election-results-expected-to-be-very-tight-analyst-says",
-    "source": "Euronews",
-    "pub": "2026-10-23 10:11"
-  },
-  {
-    "headline": "Musk's Starshield system 'back' in Ukraine, says Trump",
-    "headline_fi": "Musk's Starshield system 'back' in Ukraine, says Trump",
-    "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 08:37"
-  },
-  {
-    "headline": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
-    "headline_fi": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
-    "link": "https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 07:46"
-  },
-  {
     "headline": "Die Suche nach dem Super-Sozi",
     "headline_fi": "Die Suche nach dem Super-Sozi",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-suche-nach-dem-super-sozi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-23 06:37"
-  },
-  {
-    "headline": "Serbia: Tens of thousands rally ahead of elections",
-    "headline_fi": "Serbia: Tens of thousands rally ahead of elections",
-    "link": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 06:15"
   },
   {
     "headline": "Can Europe save the world’s war crimes court from Trump?",
