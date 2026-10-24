@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Brussels shops boarded up amid fears of repeat of last week's looting",
+    "headline_fi": "Brysselin kaupat nousivat laudalle, koska pelättiin viime viikon ryöstelyn toistumisesta",
+    "link": "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting",
+    "source": "Euronews",
+    "pub": "2026-10-24 22:44"
+  },
+  {
+    "headline": "Ukraine: Starlink satellite speeds restored to normal",
+    "headline_fi": "Ukraina: Starlink-satelliittien nopeudet palautettiin normaaliksi",
+    "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-24 22:33"
+  },
+  {
+    "headline": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
+    "headline_fi": "Euronews paikan päällä, kun sadat tuhannet saapuvat Pariisin kaduille",
+    "link": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
+    "source": "Euronews",
+    "pub": "2026-10-24 21:51"
+  },
+  {
+    "headline": "France: Watching the Post-Riot Protests",
+    "headline_fi": "Ranska: Mellakan jälkeisten mielenosoitusten katsominen",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
+    "source": "France 24",
+    "pub": "2026-10-24 21:42"
+  },
+  {
+    "headline": "“Witkoff should step down” says Ukraine Committee Chief",
+    "headline_fi": "\"Witkoffin pitäisi erota\", sanoo Ukrainan komitean päällikkö",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+    "source": "France 24",
+    "pub": "2026-10-24 21:37"
+  },
+  {
+    "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+    "headline_fi": "Tuhannet ihmiset protestoivat Tel Avivin kaduilla Netanjahua vastaan",
+    "link": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+    "source": "France 24",
+    "pub": "2026-10-24 21:21"
+  },
+  {
     "headline": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
     "headline_fi": "Mielenosoitukset, mielipidemittaukset ja lopullinen keskustelu – Brasilia valmistautuu sunnuntain veitsenteräisiin presidentinvaaleihin",
     "link": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
@@ -99,42 +141,42 @@
   },
   {
     "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-    "headline_fi": "Turkin uusi sopimus Välimeren merirajoista Libyan kanssa pahentaa ongelmia Kreikan ja EU:n kanssa",
+    "headline_fi": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
     "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 17:09"
   },
   {
-    "headline": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
-    "headline_fi": "Israelin joukot syrjäyttävät 1 200 palestiinalaista Hebronissa sotilaita vastaan ​​suunnatun hyökkäyksen jälkeen",
+    "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+    "headline_fi": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
     "link": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
     "source": "France 24",
     "pub": "2026-10-24 16:50"
   },
   {
     "headline": "Fresh protests across France",
-    "headline_fi": "Uusia mielenosoituksia ympäri Ranskaa",
+    "headline_fi": "Fresh protests across France",
     "link": "https://www.france24.com/en/fresh-protests-across-france",
     "source": "France 24",
     "pub": "2026-10-24 16:22"
   },
   {
     "headline": "Macron condemns racist terrorist attack in Paris suburb",
-    "headline_fi": "Macron tuomitsee rasistisen terrori-iskun Pariisin esikaupunkialueella",
+    "headline_fi": "Macron condemns racist terrorist attack in Paris suburb",
     "link": "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb",
     "source": "France 24",
     "pub": "2026-10-24 16:21"
   },
   {
     "headline": "France: Anti-far-right protest in Orleans",
-    "headline_fi": "Ranska: Äärioikeiston vastainen mielenosoitus Orleansissa",
+    "headline_fi": "France: Anti-far-right protest in Orleans",
     "link": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
     "source": "France 24",
     "pub": "2026-10-24 16:19"
   },
   {
     "headline": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
-    "headline_fi": "Pariisi: Protesti alkaa Porte d'Italiesta viime hetken reittimuutoksen jälkeen",
+    "headline_fi": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
     "link": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
     "source": "France 24",
     "pub": "2026-10-24 16:18"
@@ -147,8 +189,8 @@
     "pub": "2026-10-24 16:09"
   },
   {
-    "headline": "Thousands rally in Tirana as anti-government protests persist",
-    "headline_fi": "Thousands rally in Tirana as anti-government protests persist",
+    "headline": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
+    "headline_fi": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
     "link": "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic",
     "source": "Euronews",
     "pub": "2026-10-24 15:56"
@@ -161,8 +203,8 @@
     "pub": "2026-10-24 15:46"
   },
   {
-    "headline": "Clashes erupt across Italy as thousands of protesters confront police",
-    "headline_fi": "Clashes erupt across Italy as thousands of protesters confront police",
+    "headline": "Italy: Thousands take to the streets as protests turn violent in several cities",
+    "headline_fi": "Italy: Thousands take to the streets as protests turn violent in several cities",
     "link": "https://www.euronews.com/2026/10/24/italy-deploys-hundreds-of-soldiers-as-nationwide-protests-raise-fears-of-fresh-violence",
     "source": "Euronews",
     "pub": "2026-10-24 15:39"
@@ -231,13 +273,6 @@
     "pub": "2026-10-24 14:40"
   },
   {
-    "headline": "France braces for new protests",
-    "headline_fi": "France braces for new protests",
-    "link": "https://www.france24.com/en/france-braces-for-new-protests",
-    "source": "France 24",
-    "pub": "2026-10-24 14:36"
-  },
-  {
     "headline": "Will Guinea-Bissau remain trapped in political chaos?",
     "headline_fi": "Will Guinea-Bissau remain trapped in political chaos?",
     "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf",
@@ -264,20 +299,6 @@
     "link": "https://www.euronews.com/video/2026/10/24/french-police-fire-tear-gas-to-disperse-protest-in-lyon",
     "source": "Euronews",
     "pub": "2026-10-24 14:03"
-  },
-  {
-    "headline": "NFL would cancel Paris game if unsafe due to protests, Steelers QB Aaron Rodgers says",
-    "headline_fi": "NFL would cancel Paris game if unsafe due to protests, Steelers QB Aaron Rodgers says",
-    "link": "https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says",
-    "source": "France 24",
-    "pub": "2026-10-24 13:36"
-  },
-  {
-    "headline": "Netanyahu orders West Bank operation",
-    "headline_fi": "Netanyahu orders West Bank operation",
-    "link": "https://www.france24.com/en/netanyahu-orders-west-bank-operation",
-    "source": "France 24",
-    "pub": "2026-10-24 13:33"
   },
   {
     "headline": "EU moves to loosen rules on pesticide use as experts sound the alarm",
@@ -357,9 +378,9 @@
     "pub": "2026-10-24 09:34"
   },
   {
-    "headline": "Journalist or spy? Russia's arrest of a Japanese reporter sparks a high-stakes diplomatic showdown.",
-    "headline_fi": "Journalist or spy? Russia's arrest of a Japanese reporter sparks a high-stakes diplomatic showdown.",
-    "link": "https://www.dw.com/en/journalist-or-spy-russia-s-arrest-of-a-japanese-reporter-sparks-a-high-stakes-diplomatic-showdown/a-79742995?maca=en-rss-en-all-1573-rdf",
+    "headline": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+    "headline_fi": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+    "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 08:29"
   },
@@ -593,13 +614,6 @@
     "link": "https://www.politico.eu/article/ukraine-russia-exchange-270-prisoners-war-zelenskyy-putin-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-23 16:31"
-  },
-  {
-    "headline": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
-    "headline_fi": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
-    "link": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
-    "source": "Euronews",
-    "pub": "2026-10-23 16:07"
   },
   {
     "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
@@ -894,13 +908,6 @@
     "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:23"
-  },
-  {
-    "headline": "The EU wants an AI revolution. But on whose terms?",
-    "headline_fi": "The EU wants an AI revolution. But on whose terms?",
-    "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 16:12"
   },
   {
     "headline": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
