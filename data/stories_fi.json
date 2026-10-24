@@ -1,5 +1,26 @@
 [
   {
+    "headline": "'The marches went well' – French government on demonstrations a week after looting and violence",
+    "headline_fi": "\"Marssit menivät hyvin\" – Ranskan hallitus mielenosoituksissa viikko ryöstelyn ja väkivallan jälkeen",
+    "link": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+    "source": "France 24",
+    "pub": "2026-10-25 00:01"
+  },
+  {
+    "headline": "Young protesters clash with police on Rome streets",
+    "headline_fi": "Nuoret mielenosoittajat ottivat yhteen poliisin kanssa Rooman kaduilla",
+    "link": "https://www.euronews.com/video/2026/10/24/young-protesters-clash-with-police-on-rome-streets",
+    "source": "Euronews",
+    "pub": "2026-10-24 23:51"
+  },
+  {
+    "headline": "Protests sweep across Europe from France to Albania, Italy, Spain and Portugal.",
+    "headline_fi": "Mielenosoitukset pyyhkäisevät ympäri Eurooppaa Ranskasta Albaniaan, Italiaan, Espanjaan ja Portugaliin.",
+    "link": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
+    "source": "Euronews",
+    "pub": "2026-10-24 23:46"
+  },
+  {
     "headline": "Brussels shops boarded up amid fears of repeat of last week's looting",
     "headline_fi": "Brysselin kaupat nousivat laudalle, koska pelättiin viime viikon ryöstelyn toistumisesta",
     "link": "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting",
@@ -120,21 +141,21 @@
   },
   {
     "headline": "🔴 French protests live: Police fire teargas at demonstrators in cities including Toulouse, Lyon",
-    "headline_fi": "🔴 Ranskan mielenosoitukset suorana: Poliisi ampuu kyynelkaasua mielenosoittajia kohti kaupungeissa, kuten Toulousessa, Lyonissa",
+    "headline_fi": "🔴 French protests live: Police fire teargas at demonstrators in cities including Toulouse, Lyon",
     "link": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
     "source": "France 24",
     "pub": "2026-10-24 17:41"
   },
   {
     "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-    "headline_fi": "Israel poistaa noin 250 palestiinalaisperhettä Länsirannan Hebronin kaupungista sotilaiden kuoltua",
+    "headline_fi": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
     "link": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
     "source": "Euronews",
     "pub": "2026-10-24 17:31"
   },
   {
     "headline": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
-    "headline_fi": "Tuli nielaisee Hitlerin entisen Kotkanpesän pakopaikan Saksassa",
+    "headline_fi": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
     "link": "https://www.euronews.com/video/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany",
     "source": "Euronews",
     "pub": "2026-10-24 17:11"
@@ -224,8 +245,8 @@
     "pub": "2026-10-24 15:06"
   },
   {
-    "headline": "Clashes erupt between police and protesters in Paris with teargas and water cannons deployed",
-    "headline_fi": "Clashes erupt between police and protesters in Paris with teargas and water cannons deployed",
+    "headline": "Clashes between French police and protesters after largely peaceful demonstrations that drew thousands",
+    "headline_fi": "Clashes between French police and protesters after largely peaceful demonstrations that drew thousands",
     "link": "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators",
     "source": "Euronews",
     "pub": "2026-10-24 14:55"
@@ -264,13 +285,6 @@
     "link": "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron",
     "source": "France 24",
     "pub": "2026-10-24 14:41"
-  },
-  {
-    "headline": "Trump administration sues to block possible Democratic win in Alaska Senate race",
-    "headline_fi": "Trump administration sues to block possible Democratic win in Alaska Senate race",
-    "link": "https://www.france24.com/en/americas/20261024-trump-administration-sues-to-block-possible-democratic-win-in-alaska-senate-race",
-    "source": "France 24",
-    "pub": "2026-10-24 14:40"
   },
   {
     "headline": "Will Guinea-Bissau remain trapped in political chaos?",
