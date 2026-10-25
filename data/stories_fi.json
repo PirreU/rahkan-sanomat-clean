@@ -1,140 +1,315 @@
 [
   {
+    "headline": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+    "headline_fi": "Brasiliassa äänestetään tiukassa äänestyksessä vasemmistolaisen Lulan ja oikeistolaisen Flavio Bolsonaron välillä",
+    "link": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 13:16"
+  },
+  {
+    "headline": "At least 1,300 people arrested in mass weekend protests across France",
+    "headline_fi": "Ainakin 1 300 ihmistä pidätettiin viikonlopun joukkomielenosoituksissa eri puolilla Ranskaa",
+    "link": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
+    "source": "France 24",
+    "pub": "2026-10-25 13:02"
+  },
+  {
+    "headline": "Latest news bulletin | October 25th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |25.10.2026 – keskipäivä",
+    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-10-25 13:00"
+  },
+  {
+    "headline": "Bulgaria votes for president in election dominated by Ukraine war and the economy",
+    "headline_fi": "Bulgaria äänestää presidenttivaaleissa, joita hallitsevat Ukrainan sota ja talous",
+    "link": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
+    "source": "Euronews",
+    "pub": "2026-10-25 12:59"
+  },
+  {
+    "headline": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+    "headline_fi": "Serbia äänestää tiukasti käydyissä vaaleissa opiskelijoiden johtaman opposition haastaessa Aleksandar Vučicin otteen vallasta",
+    "link": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 12:42"
+  },
+  {
+    "headline": "Suspect in racist gun attack near Paris transferred to psychiatric unit",
+    "headline_fi": "Pariisin lähellä tehdystä rasistisesta aseiskusta epäilty siirrettiin psykiatriselle osastolle",
+    "link": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
+    "source": "France 24",
+    "pub": "2026-10-25 12:36"
+  },
+  {
+    "headline": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
+    "headline_fi": "Saksan uutiset: Tuli leimahtaa Hitlerin kotkanpesässä",
+    "link": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 12:36"
+  },
+  {
+    "headline": "France: Some clashes erupted at end of protests",
+    "headline_fi": "Ranska: Joitakin yhteenottoja puhkesi mielenosoitusten lopussa",
+    "link": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
+    "source": "France 24",
+    "pub": "2026-10-25 11:35"
+  },
+  {
+    "headline": "More than 400.000 protest across France",
+    "headline_fi": "Yli 400 000 mielenosoittajaa eri puolilla Ranskaa",
+    "link": "https://www.france24.com/en/more-than-400-000-protest-across-france",
+    "source": "France 24",
+    "pub": "2026-10-25 11:32"
+  },
+  {
+    "headline": "Thousands march across Italy as protests bring isolated clashes with police",
+    "headline_fi": "Tuhannet marssivat Italian halki, kun mielenosoitukset tuovat yksittäisiä yhteenottoja poliisin kanssa",
+    "link": "https://www.euronews.com/2026/10/25/thousands-march-across-italy-as-protests-bring-isolated-clashes-with-police",
+    "source": "Euronews",
+    "pub": "2026-10-25 11:32"
+  },
+  {
+    "headline": "France’s far right gathers as Le Pen prepares her presidential campaign",
+    "headline_fi": "Ranskan äärioikeisto kokoontuu, kun Le Pen valmistelee presidentinvaalikampanjaansa",
+    "link": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
+    "source": "France 24",
+    "pub": "2026-10-25 11:31"
+  },
+  {
+    "headline": "Hundreds of thousands march in France to protest against government",
+    "headline_fi": "Sadat tuhannet marssivat Ranskassa hallitusta vastaan",
+    "link": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
+    "source": "France 24",
+    "pub": "2026-10-25 11:29"
+  },
+  {
+    "headline": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+    "headline_fi": "Gadi Eisenkot kampanjoi marokkolaisille juurille haastaakseen Netanjahun",
+    "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 11:27"
+  },
+  {
+    "headline": "Prague honours Roma resistance fighters against Hitler",
+    "headline_fi": "Praha kunnioittaa romanien vastarintataistelijoita Hitleriä vastaan",
+    "link": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 11:17"
+  },
+  {
+    "headline": "Audi heads to US: Trump hopes carmaker boosts election bid",
+    "headline_fi": "Audi suuntaa Yhdysvaltoihin: Trump toivoo autonvalmistajan tehostavan vaalitarjousta",
+    "link": "https://www.euronews.com/2026/10/25/audi-heads-to-us-trump-hopes-carmaker-boosts-election-bid",
+    "source": "Euronews",
+    "pub": "2026-10-25 11:15"
+  },
+  {
+    "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+    "headline_fi": "Saudi-Arabia odottaa Yhdysvalloilta tekoälyn etua, kun Jemenin huthit lisää painetta",
+    "link": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 11:13"
+  },
+  {
+    "headline": "Almost 1,000 arrests across France as protesters clashed with police",
+    "headline_fi": "Lähes 1 000 pidätystä eri puolilla Ranskaa, kun mielenosoittajat ottivat yhteen poliisin kanssa",
+    "link": "https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police",
+    "source": "Euronews",
+    "pub": "2026-10-25 10:35"
+  },
+  {
+    "headline": "128 arrested after night of unrest and looting in Barcelona",
+    "headline_fi": "128 pidätettiin yön levottomuuden ja ryöstelyn jälkeen Barcelonassa",
+    "link": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona",
+    "source": "Euronews",
+    "pub": "2026-10-25 10:31"
+  },
+  {
+    "headline": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+    "headline_fi": "Intian uutiset: Rahul Gandhi kehottaa protestoimaan äänestäjien poistamista vastaan, ilmoittaa 1. marraskuuta",
+    "link": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 10:29"
+  },
+  {
+    "headline": "Serbia goes to polls to choose between populist Vučić and student movement",
+    "headline_fi": "Serbia menee vaaleihin valitakseen populistisen Vučićin ja opiskelijaliikkeen välillä",
+    "link": "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement",
+    "source": "Euronews",
+    "pub": "2026-10-25 09:24"
+  },
+  {
+    "headline": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+    "headline_fi": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+    "link": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-25 09:19"
+  },
+  {
+    "headline": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+    "headline_fi": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+    "link": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement",
+    "source": "France 24",
+    "pub": "2026-10-25 09:14"
+  },
+  {
+    "headline": "Graveyard tourism: Why Europe’s cemeteries are on the must-visit list for Halloween",
+    "headline_fi": "Graveyard tourism: Why Europe’s cemeteries are on the must-visit list for Halloween",
+    "link": "https://www.euronews.com/2026/10/25/graveyard-tourism-why-europes-cemeteries-are-on-the-must-visit-list-for-halloween",
+    "source": "Euronews",
+    "pub": "2026-10-25 09:00"
+  },
+  {
+    "headline": "Latest news bulletin | October 25th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | October 25th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-10-25 09:00"
+  },
+  {
+    "headline": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
+    "headline_fi": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
+    "link": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy",
+    "source": "Euronews",
+    "pub": "2026-10-25 08:58"
+  },
+  {
+    "headline": "What to know as Brazilians choose between Lula and Bolsonaro in tense presidential runoff",
+    "headline_fi": "What to know as Brazilians choose between Lula and Bolsonaro in tense presidential runoff",
+    "link": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff",
+    "source": "France 24",
+    "pub": "2026-10-25 08:05"
+  },
+  {
     "headline": "Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister",
-    "headline_fi": "Turvallisuussunnuntai: Tuovatko Ranskan mielenosoitukset Marine Le Penin valtaan?– Martina Meisterin kanssa",
+    "headline_fi": "Security Sunday: Bringen Frankreichs Proteste Marine Le Pen an die Macht? – mit Martina Meister",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-bringen-frankreichs-proteste-marine-le-pen-an-die-macht-mit-martina-meister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-25 07:48"
   },
   {
-    "headline": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-    "headline_fi": "Serbian vaalit: Opiskelijaliike pyrkii lopettamaan Aleksandar Vučicin vallan",
-    "link": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 07:32"
-  },
-  {
     "headline": "Trump announces Audi will build $4 billion factory in US",
-    "headline_fi": "Trump ilmoitti, että Audi rakentaa 4 miljardin dollarin tehtaan Yhdysvaltoihin",
+    "headline_fi": "Trump announces Audi will build $4 billion factory in US",
     "link": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 06:44"
   },
   {
     "headline": "Nigeria: Tinubu launches reelection bid amid economic woes",
-    "headline_fi": "Nigeria: Tinubu käynnistää uudelleenvalintatarjouksen taloudellisten vaikeuksien keskellä",
+    "headline_fi": "Nigeria: Tinubu launches reelection bid amid economic woes",
     "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 02:49"
   },
   {
-    "headline": "'The marches went well' – French government on demonstrations a week after looting and violence",
-    "headline_fi": "\"Marssit menivät hyvin\" – Ranskan hallitus mielenosoituksissa viikko ryöstelyn ja väkivallan jälkeen",
+    "headline": "Government says protests across France 'went well' despite nearly 1,000 arrests",
+    "headline_fi": "Government says protests across France 'went well' despite nearly 1,000 arrests",
     "link": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
     "source": "France 24",
     "pub": "2026-10-25 00:01"
   },
   {
     "headline": "Young protesters clash with police on Rome streets",
-    "headline_fi": "Nuoret mielenosoittajat ottivat yhteen poliisin kanssa Rooman kaduilla",
+    "headline_fi": "Young protesters clash with police on Rome streets",
     "link": "https://www.euronews.com/video/2026/10/24/young-protesters-clash-with-police-on-rome-streets",
     "source": "Euronews",
     "pub": "2026-10-24 23:51"
   },
   {
     "headline": "Protests sweep across Europe from France to Albania, Italy, Spain and Portugal.",
-    "headline_fi": "Mielenosoitukset pyyhkäisevät ympäri Eurooppaa Ranskasta Albaniaan, Italiaan, Espanjaan ja Portugaliin.",
+    "headline_fi": "Protests sweep across Europe from France to Albania, Italy, Spain and Portugal.",
     "link": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
     "source": "Euronews",
     "pub": "2026-10-24 23:46"
   },
   {
     "headline": "Brussels shops boarded up amid fears of repeat of last week's looting",
-    "headline_fi": "Brysselin kaupat nousivat laudalle, koska pelättiin viime viikon ryöstelyn toistumisesta",
+    "headline_fi": "Brussels shops boarded up amid fears of repeat of last week's looting",
     "link": "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting",
     "source": "Euronews",
     "pub": "2026-10-24 22:44"
   },
   {
     "headline": "Ukraine: Starlink satellite speeds restored to normal",
-    "headline_fi": "Ukraina: Starlink-satelliittien nopeudet palautettiin normaaliksi",
+    "headline_fi": "Ukraine: Starlink satellite speeds restored to normal",
     "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 22:33"
   },
   {
     "headline": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
-    "headline_fi": "Euronews paikan päällä, kun sadat tuhannet saapuvat Pariisin kaduille",
+    "headline_fi": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
     "link": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
     "source": "Euronews",
     "pub": "2026-10-24 21:51"
   },
   {
     "headline": "France: Watching the Post-Riot Protests",
-    "headline_fi": "Ranska: Mellakan jälkeisten mielenosoitusten katsominen",
+    "headline_fi": "France: Watching the Post-Riot Protests",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
     "source": "France 24",
     "pub": "2026-10-24 21:42"
   },
   {
     "headline": "“Witkoff should step down” says Ukraine Committee Chief",
-    "headline_fi": "\"Witkoffin pitäisi erota\", sanoo Ukrainan komitean päällikkö",
+    "headline_fi": "“Witkoff should step down” says Ukraine Committee Chief",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
     "source": "France 24",
     "pub": "2026-10-24 21:37"
   },
   {
     "headline": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-    "headline_fi": "Tuhannet ihmiset protestoivat Tel Avivin kaduilla Netanjahua vastaan",
+    "headline_fi": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
     "link": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
     "source": "France 24",
     "pub": "2026-10-24 21:21"
   },
   {
     "headline": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
-    "headline_fi": "Mielenosoitukset, mielipidemittaukset ja lopullinen keskustelu – Brasilia valmistautuu sunnuntain veitsenteräisiin presidentinvaaleihin",
+    "headline_fi": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
     "link": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
     "source": "Euronews",
     "pub": "2026-10-24 20:54"
   },
   {
     "headline": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-    "headline_fi": "Jemenin huthikapinalliset väittävät tehneensä uusia hyökkäyksiä öljylaitoksiin ja lentokentille kaikkialla Saudi-Arabiassa",
+    "headline_fi": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
     "link": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
     "source": "France 24",
     "pub": "2026-10-24 20:50"
   },
   {
     "headline": "France: Clashes erupt as protests sweep across cities",
-    "headline_fi": "Ranska: yhteenotot puhkeavat, kun mielenosoitukset pyyhkäisevät kaupungeissa",
+    "headline_fi": "France: Clashes erupt as protests sweep across cities",
     "link": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
     "source": "France 24",
     "pub": "2026-10-24 20:50"
   },
   {
     "headline": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
-    "headline_fi": "Bardella saa 99 prosentin kannatuksen, kun Le Pen valmistautuu Ranskan presidentinvaaleihin",
+    "headline_fi": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
     "link": "https://www.euronews.com/2026/10/24/bardella-wins-99-backing-as-le-pen-gears-up-for-french-presidential-race",
     "source": "Euronews",
     "pub": "2026-10-24 20:19"
   },
   {
     "headline": "Israel begins demolitions in West Bank",
-    "headline_fi": "Israel aloittaa purkutyöt Länsirannalla",
+    "headline_fi": "Israel begins demolitions in West Bank",
     "link": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
     "source": "France 24",
     "pub": "2026-10-24 20:13"
   },
   {
     "headline": "Italy hit by new cost of living protests",
-    "headline_fi": "Italiassa uudet elinkustannusmielenosoitukset",
+    "headline_fi": "Italy hit by new cost of living protests",
     "link": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
     "source": "France 24",
     "pub": "2026-10-24 20:12"
   },
   {
     "headline": "Paris: 70.000 police officers deployed nationwide",
-    "headline_fi": "Pariisi: 70 000 poliisia valtakunnallisesti",
+    "headline_fi": "Paris: 70.000 police officers deployed nationwide",
     "link": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
     "source": "France 24",
     "pub": "2026-10-24 20:11"
@@ -196,46 +371,18 @@
     "pub": "2026-10-24 17:09"
   },
   {
+    "headline": "Israel to close all West Bank land crossings on election day",
+    "headline_fi": "Israel to close all West Bank land crossings on election day",
+    "link": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day",
+    "source": "France 24",
+    "pub": "2026-10-24 16:52"
+  },
+  {
     "headline": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
     "headline_fi": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
     "link": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
     "source": "France 24",
     "pub": "2026-10-24 16:50"
-  },
-  {
-    "headline": "Fresh protests across France",
-    "headline_fi": "Fresh protests across France",
-    "link": "https://www.france24.com/en/fresh-protests-across-france",
-    "source": "France 24",
-    "pub": "2026-10-24 16:22"
-  },
-  {
-    "headline": "Macron condemns racist terrorist attack in Paris suburb",
-    "headline_fi": "Macron condemns racist terrorist attack in Paris suburb",
-    "link": "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb",
-    "source": "France 24",
-    "pub": "2026-10-24 16:21"
-  },
-  {
-    "headline": "France: Anti-far-right protest in Orleans",
-    "headline_fi": "France: Anti-far-right protest in Orleans",
-    "link": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
-    "source": "France 24",
-    "pub": "2026-10-24 16:19"
-  },
-  {
-    "headline": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
-    "headline_fi": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
-    "link": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
-    "source": "France 24",
-    "pub": "2026-10-24 16:18"
-  },
-  {
-    "headline": "Andrew Smith warns that policing, political blame are no substitute for social reform & public trust",
-    "headline_fi": "Andrew Smith warns that policing, political blame are no substitute for social reform & public trust",
-    "link": "https://www.france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust",
-    "source": "France 24",
-    "pub": "2026-10-24 16:09"
   },
   {
     "headline": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
@@ -280,38 +427,10 @@
     "pub": "2026-10-24 14:55"
   },
   {
-    "headline": "France: Thousands march in Orléans against National Rally congress",
-    "headline_fi": "France: Thousands march in Orléans against National Rally congress",
-    "link": "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress",
-    "source": "France 24",
-    "pub": "2026-10-24 14:45"
-  },
-  {
-    "headline": "US seeks to topple Cuba's government",
-    "headline_fi": "US seeks to topple Cuba's government",
-    "link": "https://www.france24.com/en/us-seeks-to-topple-cuba-s-government",
-    "source": "France 24",
-    "pub": "2026-10-24 14:43"
-  },
-  {
-    "headline": "Donald Trump challenges Alaska Senate trace",
-    "headline_fi": "Donald Trump challenges Alaska Senate trace",
-    "link": "https://www.france24.com/en/donald-trump-challenges-alaska-senate-trace",
-    "source": "France 24",
-    "pub": "2026-10-24 14:42"
-  },
-  {
     "headline": "Tensions flare up across France as marches come to an end",
     "headline_fi": "Tensions flare up across France as marches come to an end",
     "link": "https://www.politico.eu/article/france-police-deploy-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
-    "pub": "2026-10-24 14:41"
-  },
-  {
-    "headline": "France: Young demonstrators demand concrete action from Macron",
-    "headline_fi": "France: Young demonstrators demand concrete action from Macron",
-    "link": "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron",
-    "source": "France 24",
     "pub": "2026-10-24 14:41"
   },
   {
@@ -348,13 +467,6 @@
     "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-24 13:33"
-  },
-  {
-    "headline": "Germany news: Merz calls for unity at CSU party conference",
-    "headline_fi": "Germany news: Merz calls for unity at CSU party conference",
-    "link": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 13:10"
   },
   {
     "headline": "Starlink connection restored at high speed in Ukraine, defense minister says",
@@ -462,25 +574,11 @@
     "pub": "2026-10-24 08:00"
   },
   {
-    "headline": "India news: Andhra, Odisha brace for severe storm",
-    "headline_fi": "India news: Andhra, Odisha brace for severe storm",
-    "link": "https://www.dw.com/en/india-news-andhra-odisha-brace-for-severe-storm/live-79748098?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 07:56"
-  },
-  {
     "headline": "Ein Spaziergang mit Martin Blessing",
     "headline_fi": "Ein Spaziergang mit Martin Blessing",
     "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-martin-blessing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-24 06:00"
-  },
-  {
-    "headline": "Hitler's Eagle's Nest retreat catches fire, police say",
-    "headline_fi": "Hitler's Eagle's Nest retreat catches fire, police say",
-    "link": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 05:40"
   },
   {
     "headline": "Inside the cyber flaw scramble that brought the AI threat to life",
@@ -497,32 +595,11 @@
     "pub": "2026-10-24 05:00"
   },
   {
-    "headline": "France to deploy 70,000 police officers ahead of protests",
-    "headline_fi": "France to deploy 70,000 police officers ahead of protests",
-    "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 01:01"
-  },
-  {
     "headline": "Princess and prizewinners champion hope against 'darker times' at Princess of Asturias Awards",
     "headline_fi": "Princess and prizewinners champion hope against 'darker times' at Princess of Asturias Awards",
     "link": "https://www.euronews.com/2026/10/23/princess-and-prizewinners-champion-hope-against-darker-times-at-princess-of-asturias-award",
     "source": "Euronews",
     "pub": "2026-10-24 00:20"
-  },
-  {
-    "headline": "Ebola: Kenya announces second death",
-    "headline_fi": "Ebola: Kenya announces second death",
-    "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 00:09"
-  },
-  {
-    "headline": "Trump eases Canada tariffs ahead of US midterms",
-    "headline_fi": "Trump eases Canada tariffs ahead of US midterms",
-    "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-23 23:49"
   },
   {
     "headline": "Jihadists reportedly urge attacks during protests in Portugal and Spain",
@@ -567,67 +644,11 @@
     "pub": "2026-10-23 20:00"
   },
   {
-    "headline": "France bolsters security as businesses fear renewed unrest during Saturday protests",
-    "headline_fi": "France bolsters security as businesses fear renewed unrest during Saturday protests",
-    "link": "https://www.euronews.com/2026/10/23/france-bolster-security-for-protests-as-businesses-fear-renewed-unrest",
-    "source": "Euronews",
-    "pub": "2026-10-23 19:44"
-  },
-  {
-    "headline": "EU trade Chief seeks to rebalance EU-China trade as Brussels weighs tougher measures",
-    "headline_fi": "EU trade Chief seeks to rebalance EU-China trade as Brussels weighs tougher measures",
-    "link": "https://www.euronews.com/2026/10/23/eu-trade-chief-seeks-to-rebalance-eu-china-trade-as-brussels-weighs-tougher-measures",
-    "source": "Euronews",
-    "pub": "2026-10-23 19:11"
-  },
-  {
-    "headline": "Latest news bulletin | October 23rd, 2026 – Evening",
-    "headline_fi": "Latest news bulletin | October 23rd, 2026 – Evening",
-    "link": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
-    "source": "Euronews",
-    "pub": "2026-10-23 19:00"
-  },
-  {
-    "headline": "Studio DRIFT makes the invisible force of wind visible in stunning new London installation",
-    "headline_fi": "Studio DRIFT makes the invisible force of wind visible in stunning new London installation",
-    "link": "https://www.euronews.com/video/2026/10/23/studio-drift-makes-the-invisible-force-of-wind-visible-in-stunning-new-london-installation",
-    "source": "Euronews",
-    "pub": "2026-10-23 17:40"
-  },
-  {
     "headline": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
     "headline_fi": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
     "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 17:23"
-  },
-  {
-    "headline": "EU vies to expand role in Ukraine-Russia peace talks to influence US thinking",
-    "headline_fi": "EU vies to expand role in Ukraine-Russia peace talks to influence US thinking",
-    "link": "https://www.euronews.com/2026/10/23/eu-vies-to-expand-role-in-ukraine-russia-peace-talks-to-influence-us-thinking",
-    "source": "Euronews",
-    "pub": "2026-10-23 17:15"
-  },
-  {
-    "headline": "CICA members look to turn regional dialogue into action",
-    "headline_fi": "CICA members look to turn regional dialogue into action",
-    "link": "https://www.euronews.com/2026/10/23/cica-members-look-to-turn-regional-dialogue-into-action",
-    "source": "Euronews",
-    "pub": "2026-10-23 17:00"
-  },
-  {
-    "headline": "Melania Trump secures ceasefire in Russian-occupied Ukrainian city of Oleshky, White House says",
-    "headline_fi": "Melania Trump secures ceasefire in Russian-occupied Ukrainian city of Oleshky, White House says",
-    "link": "https://www.euronews.com/2026/10/23/melania-trump-secures-ceasefire-in-russian-occupied-ukrainian-city-of-oleshky-white-house-",
-    "source": "Euronews",
-    "pub": "2026-10-23 16:55"
-  },
-  {
-    "headline": "Wind-powered snow sleds and coral recovery hope: Positive environmental stories from 2026",
-    "headline_fi": "Wind-powered snow sleds and coral recovery hope: Positive environmental stories from 2026",
-    "link": "https://www.euronews.com/2026/10/23/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2",
-    "source": "Euronews",
-    "pub": "2026-10-23 16:45"
   },
   {
     "headline": "Ukraine and Russia each exchange 270 prisoners of war",
@@ -637,25 +658,11 @@
     "pub": "2026-10-23 16:31"
   },
   {
-    "headline": "French prosecutors open hate crime probe after deadly drive-by shooting",
-    "headline_fi": "French prosecutors open hate crime probe after deadly drive-by shooting",
-    "link": "https://www.politico.eu/article/french-prosecutors-open-hate-crime-probe-after-deadly-drive-by-shooting-trappes-paris/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-23 15:06"
-  },
-  {
     "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
     "headline_fi": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
     "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-23 14:43"
-  },
-  {
-    "headline": "EU prosecutor probes EPP over consultant contracts",
-    "headline_fi": "EU prosecutor probes EPP over consultant contracts",
-    "link": "https://www.politico.eu/article/eu-prosecutor-probes-epp-consultant-contracts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-23 14:37"
   },
   {
     "headline": "Debate: Elections in Israel: can Netanyahu hold on to power?",
@@ -915,13 +922,6 @@
     "link": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-16 17:42"
-  },
-  {
-    "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-    "headline_fi": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-    "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 17:23"
   },
   {
     "headline": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
