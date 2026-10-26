@@ -1,10 +1,38 @@
 [
   {
-    "headline": "Brazil elections: Voting extended after transport complaints",
-    "headline_fi": "Brazil elections: Voting extended after transport complaints",
-    "link": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-rdf",
+    "headline": "Brazil elections: Lula wins another term, beating Bolsonaro",
+    "headline_fi": "Brazil elections: Lula wins another term, beating Bolsonaro",
+    "link": "https://www.dw.com/en/brazil-elections-lula-wins-another-term-beating-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
-    "pub": "2026-10-25 23:28"
+    "pub": "2026-10-26 02:16"
+  },
+  {
+    "headline": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
+    "headline_fi": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
+    "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+    "source": "France 24",
+    "pub": "2026-10-26 02:12"
+  },
+  {
+    "headline": "Report: IDF chief pushes back on Netanyahu's order",
+    "headline_fi": "Report: IDF chief pushes back on Netanyahu's order",
+    "link": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
+    "source": "France 24",
+    "pub": "2026-10-26 01:24"
+  },
+  {
+    "headline": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
+    "headline_fi": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
+    "link": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
+    "source": "Euronews",
+    "pub": "2026-10-26 00:12"
+  },
+  {
+    "headline": "Songs of praise: An emotional Greek-German musical collaboration at Berlin Cathedral",
+    "headline_fi": "Songs of praise: An emotional Greek-German musical collaboration at Berlin Cathedral",
+    "link": "https://www.euronews.com/2026/10/25/songs-of-praise-an-emotional-greek-german-musical-collaboration-at-berlin-cathedral",
+    "source": "Euronews",
+    "pub": "2026-10-26 00:01"
   },
   {
     "headline": "Ukraine's Zelenskyy confirms trilateral talks with Russia and US to take place in November",
@@ -231,8 +259,8 @@
     "pub": "2026-10-25 14:48"
   },
   {
-    "headline": "Brazil’s Supreme Court extends the voting hours in the runoff between Lula and Bolsonaro",
-    "headline_fi": "Brazil’s Supreme Court extends the voting hours in the runoff between Lula and Bolsonaro",
+    "headline": "Lula wins Brazil’s presidential election by a narrow margin",
+    "headline_fi": "Lula wins Brazil’s presidential election by a narrow margin",
     "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
     "source": "France 24",
     "pub": "2026-10-25 14:46"
@@ -273,13 +301,6 @@
     "pub": "2026-10-25 13:36"
   },
   {
-    "headline": "West Bank: Families forcibly displaced in Hebron",
-    "headline_fi": "West Bank: Families forcibly displaced in Hebron",
-    "link": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-    "source": "France 24",
-    "pub": "2026-10-25 13:35"
-  },
-  {
     "headline": "Israel orders West Bank crossings to close on election day following Hebron shooting",
     "headline_fi": "Israel orders West Bank crossings to close on election day following Hebron shooting",
     "link": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
@@ -292,13 +313,6 @@
     "link": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 13:16"
-  },
-  {
-    "headline": "At least 1,300 people arrested in mass weekend protests across France",
-    "headline_fi": "At least 1,300 people arrested in mass weekend protests across France",
-    "link": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-    "source": "France 24",
-    "pub": "2026-10-25 13:02"
   },
   {
     "headline": "Latest news bulletin | October 25th, 2026 – Midday",
@@ -621,20 +635,6 @@
     "link": "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall",
     "source": "Euronews",
     "pub": "2026-10-24 10:43"
-  },
-  {
-    "headline": "Winter time or summer time? What the science says about the best option for health",
-    "headline_fi": "Winter time or summer time? What the science says about the best option for health",
-    "link": "https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health",
-    "source": "Euronews",
-    "pub": "2026-10-24 10:32"
-  },
-  {
-    "headline": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
-    "headline_fi": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
-    "link": "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia",
-    "source": "Euronews",
-    "pub": "2026-10-24 10:28"
   },
   {
     "headline": "Ein Spaziergang mit Martin Blessing",
@@ -1286,12 +1286,5 @@
     "link": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-28 12:26"
-  },
-  {
-    "headline": "Backlash over data centers tests Europe's AI ambitions",
-    "headline_fi": "Backlash over data centers tests Europe's AI ambitions",
-    "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-26 21:08"
   }
 ]
