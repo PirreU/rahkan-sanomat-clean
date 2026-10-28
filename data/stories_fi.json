@@ -1,5 +1,61 @@
 [
   {
+    "headline": "The Putin call dividing EU leaders",
+    "headline_fi": "Putin kutsuu jakavia EU-johtajia",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-putin-call-dividing-eu-leaders/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-28 07:05"
+  },
+  {
+    "headline": "The pact that aims to return tourism's wealth to residents",
+    "headline_fi": "Sopimus, jonka tavoitteena on palauttaa matkailun rikkaus asukkaille",
+    "link": "https://www.euronews.com/2026/10/28/the-pact-that-aims-to-return-tourisms-wealth-to-residents",
+    "source": "Euronews",
+    "pub": "2026-10-28 07:00"
+  },
+  {
+    "headline": "Merz in Asien: Partner statt Protektionismus",
+    "headline_fi": "Merz Aasiassa: Kumppanit protektionismin sijaan",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-in-asien-partner-statt-protektionismus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-28 06:30"
+  },
+  {
+    "headline": "Climate change should be declared health emergency as health risks can no longer be ignored",
+    "headline_fi": "Ilmastonmuutos pitäisi julistaa terveyshätätilanteeksi, koska terveysriskejä ei voida enää jättää huomiotta",
+    "link": "https://www.euronews.com/2026/10/28/climate-change-should-be-declared-health-emergency-as-health-risks-can-no-longer-be-ignore",
+    "source": "Euronews",
+    "pub": "2026-10-28 06:05"
+  },
+  {
+    "headline": "Serbian opposition landslide exposes cost of EU’s bet on ousted Vučić",
+    "headline_fi": "Serbian opposition maanvyörymä paljastaa EU:n syrjäytetyn Vučićin panoksen kustannukset",
+    "link": "https://www.politico.eu/article/serbian-opposition-landslide-exposes-eu-bet-cost-aleksandar-vucic-outsted-belgrade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-28 05:00"
+  },
+  {
+    "headline": "Rights groups oppose UAE’s Lana Nusseibeh for UN chief over Sudan claims",
+    "headline_fi": "Oikeusryhmät vastustavat Yhdistyneiden arabiemiirikuntien Lana Nusseibehia YK:n päällikköksi Sudanin väitteistä",
+    "link": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
+    "source": "France 24",
+    "pub": "2026-10-28 04:56"
+  },
+  {
+    "headline": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear",
+    "headline_fi": "Israelin vaalit: Poistumiskyselyissä ei ole selvää voittajaa, ja Netanjahun kohtalo on epäselvä",
+    "link": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-28 04:53"
+  },
+  {
+    "headline": "Experts urge 'global health emergency' as climate harms accelerate",
+    "headline_fi": "Asiantuntijat vaativat \"maailmanlaajuista terveyshätätilaa\", kun ilmastohaitat kiihtyvät",
+    "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-28 02:05"
+  },
+  {
     "headline": "Israel: opposition supporters celebrate narrow lead in exit polls",
     "headline_fi": "Israel: Opposition kannattajat juhlivat tiukkaa johtoa poistumisvaaleissa",
     "link": "https://www.euronews.com/video/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls",
@@ -21,8 +77,8 @@
     "pub": "2026-10-28 01:12"
   },
   {
-    "headline": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
-    "headline_fi": "Israelin vaalit: Äänestysennätys, koska Netanyahu ja Eisenkot ovat edelleen umpikujassa",
+    "headline": "Israel election: Netanyahu and Eisenkot battle to form government after deadlock",
+    "headline_fi": "Israelin vaalit: Netanyahu ja Eisenkot taistelevat hallituksen muodostamisesta umpikujan jälkeen",
     "link": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
     "source": "France 24",
     "pub": "2026-10-28 00:58"
@@ -56,13 +112,6 @@
     "pub": "2026-10-27 23:26"
   },
   {
-    "headline": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
-    "headline_fi": "Israelin vaalit: Netanjahun vastainen blokki edessä, mutta ei enemmistöä",
-    "link": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-27 22:21"
-  },
-  {
     "headline": "🔴Live: Israeli exit polls show narrow edge for opposition but no clear majority against Netanyahu",
     "headline_fi": "🔴Live: Israelin irtautumiskyselyt osoittavat kapeaa vastusta oppositiolle, mutta ei selkeää enemmistöä Netanjahua vastaan",
     "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
@@ -92,52 +141,59 @@
   },
   {
     "headline": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
-    "headline_fi": "Ibrahim Abu Ahmad Israelin vaaleista: \"Ratkaisevaa, että arabikansalaisilla on liittolainen juutalaisessa yhteisössä\"",
+    "headline_fi": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
     "link": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
     "source": "France 24",
     "pub": "2026-10-27 20:59"
   },
   {
     "headline": "How student assemblies brought down the Serbian government",
-    "headline_fi": "Kuinka opiskelijakokoukset kaatoivat Serbian hallituksen",
+    "headline_fi": "How student assemblies brought down the Serbian government",
     "link": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
     "source": "France 24",
     "pub": "2026-10-27 20:58"
   },
   {
     "headline": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
-    "headline_fi": "Egyptin parlamentti hyväksyy sotilaallisen tuen Saudi-Arabialle huthi-iskujen keskellä",
+    "headline_fi": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
     "link": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
     "source": "Euronews",
     "pub": "2026-10-27 20:57"
   },
   {
     "headline": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
-    "headline_fi": "Israelin vaalit \"kansanäänestys\" Netanjahusta, turvallisuudesta ja siitä, pysyykö Israel demokratiana",
+    "headline_fi": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
     "link": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
     "source": "France 24",
     "pub": "2026-10-27 20:34"
   },
   {
     "headline": "Iraq sentences seven French nationals to prison for belonging to Islamic State",
-    "headline_fi": "Irak on tuominnut seitsemän Ranskan kansalaista vankilaan kuulumisesta Islamiiseen valtioon",
+    "headline_fi": "Iraq sentences seven French nationals to prison for belonging to Islamic State",
     "link": "https://www.euronews.com/2026/10/27/iraq-sentences-seven-french-nationals-to-prison-for-belonging-to-islamic-state",
     "source": "Euronews",
     "pub": "2026-10-27 20:32"
   },
   {
     "headline": "🔴Live: Israeli election committee refuses Netanyahu's request to extend voting hours",
-    "headline_fi": "🔴Live: Israelin vaalikomitea hylkää Netanjahun pyynnön äänestysajan pidentämisestä",
+    "headline_fi": "🔴Live: Israeli election committee refuses Netanyahu's request to extend voting hours",
     "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
     "source": "France 24",
     "pub": "2026-10-27 20:30"
   },
   {
     "headline": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-    "headline_fi": "Oikeusjärjestöt sanovat, että Ranskan lakiehdotus, jolla mellakoitsijat velvoitetaan maksamaan vahingoista, on antidemokraattinen",
+    "headline_fi": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
     "link": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
     "source": "France 24",
     "pub": "2026-10-27 20:27"
+  },
+  {
+    "headline": "UK budget 2026: What to watch for as Healey vows ‘breathing space’ for Brits",
+    "headline_fi": "UK budget 2026: What to watch for as Healey vows ‘breathing space’ for Brits",
+    "link": "https://www.politico.eu/article/uk-budget-2026-andy-burnham-john-healey-vows-breathing-space-brits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-27 20:18"
   },
   {
     "headline": "EU eyes global tax deal revenue to boost next budget",
@@ -172,6 +228,13 @@
     "headline_fi": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
     "link": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
     "source": "Euronews",
+    "pub": "2026-10-27 19:04"
+  },
+  {
+    "headline": "Impatient with Brussels, European capitals forge ahead with social media bans",
+    "headline_fi": "Impatient with Brussels, European capitals forge ahead with social media bans",
+    "link": "https://www.politico.eu/article/europe-capitals-brush-off-brussels-national-social-media-bans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
     "pub": "2026-10-27 19:04"
   },
   {
@@ -308,13 +371,6 @@
     "pub": "2026-10-27 16:37"
   },
   {
-    "headline": "EU prepares for a grim future with new climate-proofing law",
-    "headline_fi": "EU prepares for a grim future with new climate-proofing law",
-    "link": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-27 16:30"
-  },
-  {
     "headline": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
     "headline_fi": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
     "link": "https://www.euronews.com/2026/10/27/what-to-expect-from-the-fed-as-warsh-weighs-hot-inflation-oil-and-us-midterms",
@@ -322,25 +378,11 @@
     "pub": "2026-10-27 16:23"
   },
   {
-    "headline": "As China's Communist Party holds plenum, Xi's anti-corruption drive continues",
-    "headline_fi": "As China's Communist Party holds plenum, Xi's anti-corruption drive continues",
-    "link": "https://www.france24.com/en/tv-shows/perspective/20261027-as-china-s-communist-party-holds-plenum-xi-s-anti-corruption-drive-continues",
-    "source": "France 24",
-    "pub": "2026-10-27 16:16"
-  },
-  {
     "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker",
     "headline_fi": "Harry Kane: Ballon d’Or for Bayern Munich striker",
     "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-27 16:11"
-  },
-  {
-    "headline": "EIB to sign framework deal with Canada on critical raw materials",
-    "headline_fi": "EIB to sign framework deal with Canada on critical raw materials",
-    "link": "https://www.politico.eu/article/eib-european-investment-bank-sign-framework-deal-canada-critical-raw-materials/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-27 16:00"
   },
   {
     "headline": "Australia warns of ‘unprecedented’ AI-powered cyberattacks. Here’s what’s driving them",
@@ -378,13 +420,6 @@
     "pub": "2026-10-27 15:07"
   },
   {
-    "headline": "Frontex gets power to track migration talk on social media",
-    "headline_fi": "Frontex gets power to track migration talk on social media",
-    "link": "https://www.politico.eu/article/frontex-track-migration-talk-social-media/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-27 15:07"
-  },
-  {
     "headline": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
     "headline_fi": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
     "link": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
@@ -413,13 +448,6 @@
     "pub": "2026-10-27 14:36"
   },
   {
-    "headline": "French government mulled blocking social networks and mobile internet amid protests",
-    "headline_fi": "French government mulled blocking social networks and mobile internet amid protests",
-    "link": "https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-27 14:32"
-  },
-  {
     "headline": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
     "headline_fi": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
     "link": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-rdf",
@@ -439,13 +467,6 @@
     "link": "https://www.euronews.com/video/2026/10/27/to-the-moon-and-beyond-astronauts-chris-hadfield-and-victor-glover-on-why-the-new-space-ra",
     "source": "Euronews",
     "pub": "2026-10-27 13:59"
-  },
-  {
-    "headline": "French MPs will vote on Sánchez-style amnesty plan for undocumented workers",
-    "headline_fi": "French MPs will vote on Sánchez-style amnesty plan for undocumented workers",
-    "link": "https://www.politico.eu/article/france-vote-amnesty-plan-undocumented-workers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-27 13:46"
   },
   {
     "headline": "Knives, knuckledusters and a ‘Gucci robbery’: police discover chats linked to Milan riots",
@@ -581,27 +602,6 @@
     "pub": "2026-10-27 11:32"
   },
   {
-    "headline": "AI chip boom tripled South Korea's economic growth in the third quarter",
-    "headline_fi": "AI chip boom tripled South Korea's economic growth in the third quarter",
-    "link": "https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter",
-    "source": "Euronews",
-    "pub": "2026-10-27 11:19"
-  },
-  {
-    "headline": "Israelis head to polls in first general election since 7 October attacks with no clear favourite",
-    "headline_fi": "Israelis head to polls in first general election since 7 October attacks with no clear favourite",
-    "link": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav",
-    "source": "Euronews",
-    "pub": "2026-10-27 11:12"
-  },
-  {
-    "headline": "Trump calls Norway a ‘shithouse country’ over Nobel Peace Prize snub",
-    "headline_fi": "Trump calls Norway a ‘shithouse country’ over Nobel Peace Prize snub",
-    "link": "https://www.euronews.com/video/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub",
-    "source": "Euronews",
-    "pub": "2026-10-27 11:07"
-  },
-  {
     "headline": "Police in northern Germany search for suspects after car ramming overnight injures several",
     "headline_fi": "Police in northern Germany search for suspects after car ramming overnight injures several",
     "link": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf",
@@ -642,13 +642,6 @@
     "link": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-27 01:06"
-  },
-  {
-    "headline": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-    "headline_fi": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-    "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-27 00:15"
   },
   {
     "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
@@ -1244,26 +1237,5 @@
     "link": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-09-29 12:51"
-  },
-  {
-    "headline": "Diesel prices are surging putting further pressure on Europe",
-    "headline_fi": "Diesel prices are surging putting further pressure on Europe",
-    "link": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-28 13:35"
-  },
-  {
-    "headline": "Will Jürgen Klopp's charisma be enough for Germany?",
-    "headline_fi": "Will Jürgen Klopp's charisma be enough for Germany?",
-    "link": "https://www.dw.com/en/will-jürgen-klopp-s-charisma-be-enough-for-germany/a-79455266?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-28 12:42"
-  },
-  {
-    "headline": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
-    "headline_fi": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
-    "link": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-09-28 12:26"
   }
 ]
