@@ -1,140 +1,301 @@
 [
   {
+    "headline": "Ukraine: Oleshky residents evacuate war-ravaged city",
+    "headline_fi": "Ukraina: Oleshkin asukkaat evakuoivat sodan runteleman kaupungin",
+    "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-30 22:09"
+  },
+  {
+    "headline": "Mark Carney puts deadline on EU ‘associate membership’ push",
+    "headline_fi": "Mark Carney asettaa määräajan EU:n assosioituneelle jäsenyydelle",
+    "link": "https://www.politico.eu/article/mark-carney-puts-deadline-on-eu-associate-membership-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-10-30 21:11"
+  },
+  {
+    "headline": "'Five churches set on fire by Muslims?' Fake news by Islamophobic social media accounts",
+    "headline_fi": "\"Muslimit sytyttivät viisi kirkkoa tuleen?\"Islamofobisten sosiaalisen median tilien valeuutisia",
+    "link": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
+    "source": "France 24",
+    "pub": "2026-10-30 20:37"
+  },
+  {
+    "headline": "MAGA: Why Trump's movement is fracturing?",
+    "headline_fi": "MAGA: Miksi Trumpin liike murtuu?",
+    "link": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
+    "source": "France 24",
+    "pub": "2026-10-30 20:01"
+  },
+  {
+    "headline": "French GDP shrinks 0.1% as economy nears recession and budget doubts grow",
+    "headline_fi": "Ranskan BKT supistui 0,1 % talouden lähestyessä taantumaa ja budjettiepäilyjen kasvaessa",
+    "link": "https://www.euronews.com/2026/10/30/french-gdp-shrinks-01-as-economy-nears-recession-and-budget-doubts-grow",
+    "source": "Euronews",
+    "pub": "2026-10-30 19:55"
+  },
+  {
+    "headline": "UN envoy pushes for renewed Cyprus talks before end of 2026",
+    "headline_fi": "YK:n lähettiläs vaatii Kyproksen neuvottelujen uusimista ennen vuoden 2026 loppua",
+    "link": "https://www.euronews.com/2026/10/30/un-envoy-pushes-for-renewed-cyprus-talks-before-end-of-2026",
+    "source": "Euronews",
+    "pub": "2026-10-30 19:23"
+  },
+  {
+    "headline": "Oleshky: No access to basic needs, ceasefire offers limited opportunity for humanitarian assistance",
+    "headline_fi": "Oleshky: Ei pääsyä perustarpeisiin, tulitauko tarjoaa rajalliset mahdollisuudet humanitaariseen apuun",
+    "link": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
+    "source": "France 24",
+    "pub": "2026-10-30 19:11"
+  },
+  {
+    "headline": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+    "headline_fi": "EU-diplomaatit vastustavat G20-kuvaa Lavrovin kanssa, minkä vuoksi Yhdysvallat peruutti",
+    "link": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+    "source": "Euronews",
+    "pub": "2026-10-30 19:03"
+  },
+  {
+    "headline": "Latest news bulletin | October 30th, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |30.10.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-10-30 19:00"
+  },
+  {
+    "headline": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
+    "headline_fi": "Venäjän Novaja Gazeta lopettaa julkaisemisen Kremlin tukahduttamisen vuoksi",
+    "link": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
+    "source": "France 24",
+    "pub": "2026-10-30 18:58"
+  },
+  {
+    "headline": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
+    "headline_fi": "\"Kansainvälinen rikostuomioistuin ansaitsee Saharov-palkinnon\": Euroopan unionin tuomioistuimen presidentti Koen Lenaerts",
+    "link": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts",
+    "source": "France 24",
+    "pub": "2026-10-30 18:51"
+  },
+  {
+    "headline": "Tennessee woman Christa Pike describes pain after failed execution",
+    "headline_fi": "Tennesseelaisnainen Christa Pike kuvailee kipua epäonnistuneen teloituksen jälkeen",
+    "link": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-30 18:51"
+  },
+  {
+    "headline": "What the rift within the Tsikhanouski family means for the Belarusian opposition in exile",
+    "headline_fi": "Mitä eripura Tsikhanouskin perheen sisällä tarkoittaa maanpaossa olevalle Valko-Venäjän oppositiolle",
+    "link": "https://www.dw.com/en/what-the-rift-within-the-tsikhanouski-family-means-for-the-belarusian-opposition-in-exile/a-79802776?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-30 18:46"
+  },
+  {
+    "headline": "Turkic states press on with Asia-Europe transport projects as new opportunities emerge",
+    "headline_fi": "Turkkilaiset valtiot jatkavat Aasian ja Euroopan välisiä liikenneprojekteja uusien mahdollisuuksien ilmaantuessa",
+    "link": "https://www.euronews.com/2026/10/30/turkic-states-press-on-with-asia-europe-transport-projects-as-new-opportunities-emerge",
+    "source": "Euronews",
+    "pub": "2026-10-30 18:44"
+  },
+  {
+    "headline": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
+    "headline_fi": "Paikalliset käyttävät harvinaista aselepoa lähteäkseen Moskovan miehittämästä kaupungista Ukrainassa",
+    "link": "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
+    "source": "France 24",
+    "pub": "2026-10-30 18:44"
+  },
+  {
+    "headline": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
+    "headline_fi": "Star Wars: Onko Venäjän sota Ukrainan kanssa mennyt intergalaktiseksi?",
+    "link": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
+    "source": "France 24",
+    "pub": "2026-10-30 18:29"
+  },
+  {
+    "headline": "Could US midterms impact the EU? Transatlantic ties hit new low after Trump-Putin diesel deal",
+    "headline_fi": "Voivatko USA:n väliehdot vaikuttaa EU:hun?Transatlanttiset suhteet painuivat uudelle tasolle Trumpin ja Putinin dieselsopimuksen jälkeen",
+    "link": "https://www.france24.com/en/tv-shows/talking-europe/20261030-could-us-midterms-impact-the-eu-transatlantic-ties-hit-new-low-after-trump-putin-diesel-deal",
+    "source": "France 24",
+    "pub": "2026-10-30 18:24"
+  },
+  {
+    "headline": "French port strikes: Unions 'will get better working conditions', but can they curb militarisation?",
+    "headline_fi": "Ranskan satamalakot: ammattiliitot \"saavat paremmat työolosuhteet\", mutta voivatko ne hillitä militarisaatiota?",
+    "link": "https://www.france24.com/en/video/20261030-french-port-strikes-unions-will-get-better-working-conditions-but-can-they-curb-militarization-1",
+    "source": "France 24",
+    "pub": "2026-10-30 18:20"
+  },
+  {
+    "headline": "US midterms: Pope Leo XIV casts vote by mail",
+    "headline_fi": "Yhdysvaltain välikausi: Paavi Leo XIV äänestää postitse",
+    "link": "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-10-30 18:14"
+  },
+  {
+    "headline": "War in Ukraine: Evacuations under way in Russian-occupied Oleshky",
+    "headline_fi": "Sota Ukrainassa: Evakuoinnit käynnissä Venäjän miehittämässä Oleshkyssa",
+    "link": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky",
+    "source": "France 24",
+    "pub": "2026-10-30 18:01"
+  },
+  {
+    "headline": "Residents leave Russian-occupied Oleshky amid local ceasefire",
+    "headline_fi": "Residents leave Russian-occupied Oleshky amid local ceasefire",
+    "link": "https://www.euronews.com/2026/10/30/residents-leave-russian-occupied-oleshky-amid-local-ceasefire",
+    "source": "Euronews",
+    "pub": "2026-10-30 17:55"
+  },
+  {
+    "headline": "EU to fast-track €45 billion for Ukraine amid acute financial crunch",
+    "headline_fi": "EU to fast-track €45 billion for Ukraine amid acute financial crunch",
+    "link": "https://www.euronews.com/2026/10/30/eu-to-fast-track-45-billion-for-ukraine-amid-acute-financial-crunch",
+    "source": "Euronews",
+    "pub": "2026-10-30 17:54"
+  },
+  {
+    "headline": "French crowd gathers for anti-islamophobia rally in Paris suburb after attack",
+    "headline_fi": "French crowd gathers for anti-islamophobia rally in Paris suburb after attack",
+    "link": "https://www.france24.com/en/video/20261030-french-crowd-gathers-for-anti-islamophobia-rally-in-paris-suburb-after-attack",
+    "source": "France 24",
+    "pub": "2026-10-30 17:51"
+  },
+  {
     "headline": "Binance crypto exchange suspends trades over North Korea-linked hack",
-    "headline_fi": "Binancen kryptopörssi keskeyttää kaupat Pohjois-Koreaan liittyvän hakkeroinnin vuoksi",
+    "headline_fi": "Binance crypto exchange suspends trades over North Korea-linked hack",
     "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 17:37"
   },
   {
     "headline": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
-    "headline_fi": "Historian suurin hakkerointi: Kryptovaluuttajätti Binance menettää 6,3 miljardia dollaria",
+    "headline_fi": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
     "link": "https://www.france24.com/en/video/20261030-biggest-hack-in-history-cryptocurrency-giant-binance-loses-6-3-billion",
     "source": "France 24",
     "pub": "2026-10-30 17:34"
   },
   {
     "headline": "Spain working to identify train crash dead as relatives' anguish grows",
-    "headline_fi": "Espanja pyrkii tunnistamaan junaturmassa kuolleita sukulaisten ahdistuksen kasvaessa",
+    "headline_fi": "Spain working to identify train crash dead as relatives' anguish grows",
     "link": "https://www.france24.com/en/video/20261030-spain-working-to-identify-train-crash-dead-as-relatives-anguish-grows",
     "source": "France 24",
     "pub": "2026-10-30 17:34"
   },
   {
     "headline": "Midterms 2026: The former neo-Nazi pastor speaking out against Trump",
-    "headline_fi": "Välikausi 2026: Entinen uusnatsipastori puhuu Trumpia vastaan",
+    "headline_fi": "Midterms 2026: The former neo-Nazi pastor speaking out against Trump",
     "link": "https://www.france24.com/en/video/20261030-midterms-2026-the-former-neo-nazi-pastor-speaking-out-against-trump",
     "source": "France 24",
     "pub": "2026-10-30 17:34"
   },
   {
     "headline": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
-    "headline_fi": "Israelin vaalit: \"Netanyahu ei voittanut, hän hävisi dramaattisesti\", entinen pääministeri Barak sanoo",
+    "headline_fi": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
     "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
     "source": "France 24",
     "pub": "2026-10-30 17:34"
   },
   {
     "headline": "Italy on high alert as thousands take the streets in nationwide strike",
-    "headline_fi": "Italia on korkeassa valmiustilassa, kun tuhannet lähtevät kaduille valtakunnalliseen lakkoon",
+    "headline_fi": "Italy on high alert as thousands take the streets in nationwide strike",
     "link": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike",
     "source": "Euronews",
     "pub": "2026-10-30 17:26"
   },
   {
     "headline": "Israel's election ends in deadlock as final results show no clear winner",
-    "headline_fi": "Israelin vaalit päättyvät umpikujaan, koska lopputuloksissa ei ole selvää voittajaa",
+    "headline_fi": "Israel's election ends in deadlock as final results show no clear winner",
     "link": "https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner",
     "source": "France 24",
     "pub": "2026-10-30 17:24"
   },
   {
     "headline": "Manosphere's impact on boys and men calls for public health action, report warns",
-    "headline_fi": "Manospheren vaikutus poikiin ja miehiin vaatii kansanterveystoimia, raportti varoittaa",
+    "headline_fi": "Manosphere's impact on boys and men calls for public health action, report warns",
     "link": "https://www.euronews.com/2026/10/30/manospheres-impact-on-boys-and-men-calls-for-public-health-action-report-warns",
     "source": "Euronews",
     "pub": "2026-10-30 17:08"
   },
   {
     "headline": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
-    "headline_fi": "Venäläinen riippumaton sanomalehti Novaja Gazeta sanoo sulkevansa Kremlin painostuksen",
+    "headline_fi": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
     "link": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
     "source": "Euronews",
     "pub": "2026-10-30 17:08"
   },
   {
     "headline": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
-    "headline_fi": "Iranin vallankumouskaarti raportoi kolme tankkeria tuleen Hormuzin salmessa neuvottelujen jatkuessa",
+    "headline_fi": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
     "link": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
     "source": "Euronews",
     "pub": "2026-10-30 16:43"
   },
   {
     "headline": "UK probes Meta over 'exploitative' new terms for media as global pushback mounts",
-    "headline_fi": "Yhdistynyt kuningaskunta tutkii Metaa \"riistävistä\" uusista median termeistä maailmanlaajuisesti lisääntyessä",
+    "headline_fi": "UK probes Meta over 'exploitative' new terms for media as global pushback mounts",
     "link": "https://www.euronews.com/2026/10/30/uk-probes-meta-over-exploitative-new-terms-for-media-as-global-pushback-mounts",
     "source": "Euronews",
     "pub": "2026-10-30 16:43"
   },
   {
     "headline": "France braces for new wave of protests, govt warns of 'very high' violence risk",
-    "headline_fi": "Ranska valmistautuu uuteen mielenosoitusaaltoon, hallitus varoittaa \"erittäin suuresta\" väkivallan riskistä",
+    "headline_fi": "France braces for new wave of protests, govt warns of 'very high' violence risk",
     "link": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
     "source": "France 24",
     "pub": "2026-10-30 16:35"
   },
   {
     "headline": "The Rutte way or the Carney method? Scaramucci says Europe’s Trump strategy is off the Mark",
-    "headline_fi": "Rutten tapa vai Carneyn menetelmä?Scaramucci sanoo, että Euroopan Trump-strategia on poissa rajoista",
+    "headline_fi": "The Rutte way or the Carney method? Scaramucci says Europe’s Trump strategy is off the Mark",
     "link": "https://www.politico.eu/article/mark-rutte-mark-carney-donald-trump-anthony-scaramucci-white-house-strategy-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-10-30 16:32"
   },
   {
     "headline": "Nvidia CEO sees Kazakhstan as potential AI hub for Europe",
-    "headline_fi": "Nvidian toimitusjohtaja näkee Kazakstanin mahdollisena tekoälykeskuksena Euroopalle",
+    "headline_fi": "Nvidia CEO sees Kazakhstan as potential AI hub for Europe",
     "link": "https://www.euronews.com/2026/10/30/nvidia-ceo-sees-kazakhstan-as-potential-ai-hub-for-europe",
     "source": "Euronews",
     "pub": "2026-10-30 16:29"
   },
   {
     "headline": "Black Sea shipping under growing threats as drones hit container ships",
-    "headline_fi": "Mustanmeren merenkulku on kasvavissa uhissa, kun droonit osuivat konttialuksiin",
+    "headline_fi": "Black Sea shipping under growing threats as drones hit container ships",
     "link": "https://www.france24.com/en/black-sea-shipping-under-growing-threats-as-drones-hit-container-ships",
     "source": "France 24",
     "pub": "2026-10-30 16:27"
   },
   {
     "headline": "'The Phantom of the Opera' haunts French cinemas again",
-    "headline_fi": "\"Oopperan kummitus\" kummittelee jälleen ranskalaisissa elokuvateattereissa",
+    "headline_fi": "'The Phantom of the Opera' haunts French cinemas again",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261030-the-phantom-of-the-opera-haunts-french-cinemas-again",
     "source": "France 24",
     "pub": "2026-10-30 16:24"
   },
   {
     "headline": "Spanish transport minister faces calls to quit after deadly train crash",
-    "headline_fi": "Espanjan liikenneministeri joutuu eroamaan kuolettavan junaturman jälkeen",
+    "headline_fi": "Spanish transport minister faces calls to quit after deadly train crash",
     "link": "https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash",
     "source": "France 24",
     "pub": "2026-10-30 16:21"
   },
   {
     "headline": "Third weekend of protests looms as tensions persist across France",
-    "headline_fi": "Kolmas mielenosoitusviikonloppu lähestyy jännitteiden jatkuessa kaikkialla Ranskassa",
+    "headline_fi": "Third weekend of protests looms as tensions persist across France",
     "link": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
     "source": "France 24",
     "pub": "2026-10-30 16:10"
   },
   {
     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
-    "headline_fi": "Soul pelkää joutuvansa sivuun, kun Yhdysvallat tavoittaa Pohjois-Korean",
+    "headline_fi": "Seoul fears being sidelined as US reaches out to North Korea",
     "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 16:08"
   },
   {
     "headline": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
-    "headline_fi": "Kuka on Kevin T., pääepäilty rasistisen Trappesin hyökkäyksen takana?",
+    "headline_fi": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
     "link": "https://www.france24.com/en/who-is-kevin-t-the-main-suspect-behind-the-racist-trappes-attack",
     "source": "France 24",
     "pub": "2026-10-30 16:06"
@@ -182,13 +343,6 @@
     "pub": "2026-10-30 15:35"
   },
   {
-    "headline": "Georgia's European dream left in limbo",
-    "headline_fi": "Georgia's European dream left in limbo",
-    "link": "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo",
-    "source": "France 24",
-    "pub": "2026-10-30 15:34"
-  },
-  {
     "headline": "Italy: Thousands protest rising living costs and defence spending in general strike",
     "headline_fi": "Italy: Thousands protest rising living costs and defence spending in general strike",
     "link": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
@@ -201,20 +355,6 @@
     "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 15:19"
-  },
-  {
-    "headline": "Texas Republicans accused of changing electoral rules ahead of midterms",
-    "headline_fi": "Texas Republicans accused of changing electoral rules ahead of midterms",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261030-texas-republicans-accused-of-changing-electoral-rules-ahead-of-midterms",
-    "source": "France 24",
-    "pub": "2026-10-30 15:07"
-  },
-  {
-    "headline": "🔴 Ukraine war live: Russian strikes leave 200,000 without power in Ukraine's Dnipropetrovsk region",
-    "headline_fi": "🔴 Ukraine war live: Russian strikes leave 200,000 without power in Ukraine's Dnipropetrovsk region",
-    "link": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
-    "source": "France 24",
-    "pub": "2026-10-30 14:59"
   },
   {
     "headline": "Nature recovery is falling behind. Can COP17 get global action back on track?",
@@ -250,13 +390,6 @@
     "link": "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite",
     "source": "Euronews",
     "pub": "2026-10-30 14:29"
-  },
-  {
-    "headline": "‘Scared of crossing the border’: The Arizona farmers who rely on Mexican workers",
-    "headline_fi": "‘Scared of crossing the border’: The Arizona farmers who rely on Mexican workers",
-    "link": "https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers",
-    "source": "France 24",
-    "pub": "2026-10-30 14:28"
   },
   {
     "headline": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
@@ -322,32 +455,11 @@
     "pub": "2026-10-30 13:07"
   },
   {
-    "headline": "Russia recruits Africans to fight in Ukraine, families seek answers",
-    "headline_fi": "Russia recruits Africans to fight in Ukraine, families seek answers",
-    "link": "https://www.france24.com/en/russia-recruits-africans-to-fight-in-ukraine-families-seek-answers",
-    "source": "France 24",
-    "pub": "2026-10-30 13:06"
-  },
-  {
     "headline": "Brazil's new anti-gang law: Can it curb organized crime?",
     "headline_fi": "Brazil's new anti-gang law: Can it curb organized crime?",
     "link": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 13:03"
-  },
-  {
-    "headline": "Foiled Hindu temple plot exposes rising anti-Indian sentiment in the US",
-    "headline_fi": "Foiled Hindu temple plot exposes rising anti-Indian sentiment in the US",
-    "link": "https://www.france24.com/en/tv-shows/access-asia/20261030-foiled-hindu-temple-plot-exposes-rising-anti-indian-sentiment-in-the-us",
-    "source": "France 24",
-    "pub": "2026-10-30 13:02"
-  },
-  {
-    "headline": "At least 60 Christians killed in Ethiopia amid rising religious violence",
-    "headline_fi": "At least 60 Christians killed in Ethiopia amid rising religious violence",
-    "link": "https://www.france24.com/en/video/20261030-at-least-60-christians-killed-in-ethiopia-amid-rising-religious-violence",
-    "source": "France 24",
-    "pub": "2026-10-30 13:01"
   },
   {
     "headline": "Latest news bulletin | October 30th, 2026 – Midday",
@@ -362,13 +474,6 @@
     "link": "https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 12:57"
-  },
-  {
-    "headline": "Tanzania: 2025 election violence still traumatises, one year on",
-    "headline_fi": "Tanzania: 2025 election violence still traumatises, one year on",
-    "link": "https://www.france24.com/en/video/20261030-tanzania-2025-election-violence-still-traumatises-one-year-on",
-    "source": "France 24",
-    "pub": "2026-10-30 12:55"
   },
   {
     "headline": "Apple Pay and Google Pay launch in Uzbekistan amid wider fintech reforms",
@@ -427,13 +532,6 @@
     "pub": "2026-10-30 12:44"
   },
   {
-    "headline": "TotalEnergies posts record profits as it keeps a lid on fuel prices",
-    "headline_fi": "TotalEnergies posts record profits as it keeps a lid on fuel prices",
-    "link": "https://www.france24.com/en/video/20261030-totalenergies-posts-record-profits-as-it-keeps-a-lid-on-fuel-prices",
-    "source": "France 24",
-    "pub": "2026-10-30 12:40"
-  },
-  {
     "headline": "EU countries pledge 20.5mn diesel barrels as winter supply fears grow",
     "headline_fi": "EU countries pledge 20.5mn diesel barrels as winter supply fears grow",
     "link": "https://www.euronews.com/2026/10/30/eu-countries-pledge-205mn-diesel-barrels-as-winter-supply-fears-grow",
@@ -490,46 +588,11 @@
     "pub": "2026-10-30 11:00"
   },
   {
-    "headline": "Drone attack and fire reported at Russia's Novokuibyshevsk oil refinery",
-    "headline_fi": "Drone attack and fire reported at Russia's Novokuibyshevsk oil refinery",
-    "link": "https://www.euronews.com/2026/10/30/drone-attack-and-fire-reported-at-russias-novokuibyshevsk-oil-refinery",
-    "source": "Euronews",
-    "pub": "2026-10-30 10:57"
-  },
-  {
-    "headline": "Oleshky ceasefire will not bring wider truce with Russia, former Ukrainian PM warns",
-    "headline_fi": "Oleshky ceasefire will not bring wider truce with Russia, former Ukrainian PM warns",
-    "link": "https://www.euronews.com/2026/10/30/oleshky-ceasefire-will-not-bring-wider-truce-with-russia-former-ukrainian-pm-warns",
-    "source": "Euronews",
-    "pub": "2026-10-30 10:57"
-  },
-  {
-    "headline": "‘Godspeed, Captain’: Heartfelt tributes pour in for Sir Patrick Stewart",
-    "headline_fi": "‘Godspeed, Captain’: Heartfelt tributes pour in for Sir Patrick Stewart",
-    "link": "https://www.euronews.com/2026/10/30/godspeed-captain-heartfelt-tributes-pour-in-for-sir-patrick-stewart",
-    "source": "Euronews",
-    "pub": "2026-10-30 10:16"
-  },
-  {
     "headline": "The dachshund, a humorous icon with political symbolism",
     "headline_fi": "The dachshund, a humorous icon with political symbolism",
     "link": "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 09:57"
-  },
-  {
-    "headline": "‘A living hell’: The occupied town of Oleshky captures the world’s attention — including Melania Trump’s",
-    "headline_fi": "‘A living hell’: The occupied town of Oleshky captures the world’s attention — including Melania Trump’s",
-    "link": "https://www.euronews.com/2026/10/30/a-living-hell-the-occupied-town-of-oleshky-captures-the-worlds-attention-including-melania",
-    "source": "Euronews",
-    "pub": "2026-10-30 09:33"
-  },
-  {
-    "headline": "Netanyahu bloc first but without majority as Arab parties hold balance of power in Israel election",
-    "headline_fi": "Netanyahu bloc first but without majority as Arab parties hold balance of power in Israel election",
-    "link": "https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority",
-    "source": "Euronews",
-    "pub": "2026-10-30 09:31"
   },
   {
     "headline": "India news: Space agency to boost GPS alternative with new satellite",
@@ -553,25 +616,11 @@
     "pub": "2026-10-30 05:08"
   },
   {
-    "headline": "Bayer wins Roundup cancer trial after Supreme Court ruling",
-    "headline_fi": "Bayer wins Roundup cancer trial after Supreme Court ruling",
-    "link": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-30 04:40"
-  },
-  {
     "headline": "'Star Trek' star Patrick Stewart dies age 86",
     "headline_fi": "'Star Trek' star Patrick Stewart dies age 86",
     "link": "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 00:11"
-  },
-  {
-    "headline": "Justice for Maya women in Guatemala, girls back in school in India, restored land in Mali: The UN has named its 2026 SDG Action Award winners",
-    "headline_fi": "Justice for Maya women in Guatemala, girls back in school in India, restored land in Mali: The UN has named its 2026 SDG Action Award winners",
-    "link": "https://www.dw.com/en/justice-for-maya-women-in-guatemala-girls-back-in-school-in-india-restored-land-in-mali-the-un-has-named-its-2026-sdg-action-award-winners/a-79801727?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-29 22:53"
   },
   {
     "headline": "India increases growth forecast for fiscal year",
