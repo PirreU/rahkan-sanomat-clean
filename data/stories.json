@@ -1,5 +1,19 @@
 [
   {
+    "headline": "FBI says North Korea behind $6 billion Binance crypto theft",
+    "headline_fi": "FBI says North Korea behind $6 billion Binance crypto theft",
+    "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-01 03:53"
+  },
+  {
+    "headline": "Testimonies from Oleshky",
+    "headline_fi": "Testimonies from Oleshky",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky",
+    "source": "France 24",
+    "pub": "2026-11-01 01:54"
+  },
+  {
     "headline": "Some 320,000 demonstrators take part in largely peaceful protests across France",
     "headline_fi": "Some 320,000 demonstrators take part in largely peaceful protests across France",
     "link": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
@@ -84,9 +98,9 @@
     "pub": "2026-10-31 18:41"
   },
   {
-    "headline": "Gen Z protests sweep cities across Germany",
-    "headline_fi": "Gen Z protests sweep cities across Germany",
-    "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+    "headline": "Germany's Gen Z protests disrupted by violence on Saturday",
+    "headline_fi": "Germany's Gen Z protests disrupted by violence on Saturday",
+    "link": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-31 18:00"
   },
@@ -413,13 +427,6 @@
     "pub": "2026-10-31 01:22"
   },
   {
-    "headline": "Trump admin approves potential Patriot missiles sale to Ukraine",
-    "headline_fi": "Trump admin approves potential Patriot missiles sale to Ukraine",
-    "link": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine",
-    "source": "France 24",
-    "pub": "2026-10-31 01:19"
-  },
-  {
     "headline": "8 things we learned at the EU-Canada summit",
     "headline_fi": "8 things we learned at the EU-Canada summit",
     "link": "https://www.politico.eu/article/8-things-we-learned-eu-canada-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -565,13 +572,6 @@
     "link": "https://www.euronews.com/2026/10/30/nvidia-ceo-sees-kazakhstan-as-potential-ai-hub-for-europe",
     "source": "Euronews",
     "pub": "2026-10-30 16:29"
-  },
-  {
-    "headline": "Seoul fears being sidelined as US reaches out to North Korea",
-    "headline_fi": "Seoul fears being sidelined as US reaches out to North Korea",
-    "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-30 16:08"
   },
   {
     "headline": "From derelict food market to futuristic Centre of Excellence: inside a Cyprus success story",
@@ -1209,33 +1209,5 @@
     "link": "https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-05 13:34"
-  },
-  {
-    "headline": "\"NAZA\": Israeli military issues statement on film",
-    "headline_fi": "\"NAZA\": Israeli military issues statement on film",
-    "link": "https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 18:55"
-  },
-  {
-    "headline": "Germany's Franz Reindl elected new IIHF president",
-    "headline_fi": "Germany's Franz Reindl elected new IIHF president",
-    "link": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 17:29"
-  },
-  {
-    "headline": "Climate leaders called for solar energy for 'everyone, everywhere' by 2030, but with three years to go, is that goal attainable?",
-    "headline_fi": "Climate leaders called for solar energy for 'everyone, everywhere' by 2030, but with three years to go, is that goal attainable?",
-    "link": "https://www.dw.com/en/climate-leaders-called-for-solar-energy-for-everyone-everywhere-by-2030-but-with-three-years-to-go-is-that-goal-attainable/a-79517056?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 16:48"
-  },
-  {
-    "headline": "Turkey: Stock market scandal hits half a million investors",
-    "headline_fi": "Turkey: Stock market scandal hits half a million investors",
-    "link": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-02 07:32"
   }
 ]
