@@ -1,5 +1,33 @@
 [
   {
+    "headline": "Iran warns renewed war with US could outlast previous conflict",
+    "headline_fi": "Iran warns renewed war with US could outlast previous conflict",
+    "link": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+    "source": "France 24",
+    "pub": "2026-11-02 02:23"
+  },
+  {
+    "headline": "Nine killed as business jet crashes into South Florida neighbourhood",
+    "headline_fi": "Nine killed as business jet crashes into South Florida neighbourhood",
+    "link": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+    "source": "France 24",
+    "pub": "2026-11-02 01:45"
+  },
+  {
+    "headline": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+    "headline_fi": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+    "link": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
+    "source": "France 24",
+    "pub": "2026-11-01 22:37"
+  },
+  {
+    "headline": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+    "headline_fi": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+    "link": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-01 22:34"
+  },
+  {
     "headline": "Michigan ‘Betrayal’ & Mid Term Manouvres",
     "headline_fi": "Michigan ‘Betrayal’ & Mid Term Manouvres",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
@@ -112,9 +140,9 @@
     "pub": "2026-11-01 16:31"
   },
   {
-    "headline": "Ukraine: Russian attacks leave tens of thousands without power",
-    "headline_fi": "Ukraine: Russian attacks leave tens of thousands without power",
-    "link": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+    "headline": "Ukraine: Six-day localized ceasefire in Oleshky comes to end",
+    "headline_fi": "Ukraine: Six-day localized ceasefire in Oleshky comes to end",
+    "link": "https://www.dw.com/en/ukraine-six-day-localized-ceasefire-in-oleshky-comes-to-end/live-79815409?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-01 16:13"
   },
@@ -161,8 +189,8 @@
     "pub": "2026-11-01 14:46"
   },
   {
-    "headline": "Ceasefire in Ukraine's Kherson region set to end after Russia refuses extension",
-    "headline_fi": "Ceasefire in Ukraine's Kherson region set to end after Russia refuses extension",
+    "headline": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+    "headline_fi": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
     "link": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
     "source": "France 24",
     "pub": "2026-11-01 14:41"
@@ -273,20 +301,6 @@
     "pub": "2026-11-01 11:38"
   },
   {
-    "headline": "How social media are central to protests",
-    "headline_fi": "How social media are central to protests",
-    "link": "https://www.france24.com/en/how-social-media-are-central-to-protests",
-    "source": "France 24",
-    "pub": "2026-11-01 11:36"
-  },
-  {
-    "headline": "Hundreds of thousands protest in France for \"Act III\"",
-    "headline_fi": "Hundreds of thousands protest in France for \"Act III\"",
-    "link": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
-    "source": "France 24",
-    "pub": "2026-11-01 11:35"
-  },
-  {
     "headline": "How Merz’s five-day Asia trip ended up being mostly about Europe",
     "headline_fi": "How Merz’s five-day Asia trip ended up being mostly about Europe",
     "link": "https://www.politico.eu/article/friedrich-merz-asia-trip-europe-security-cooperation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -343,32 +357,11 @@
     "pub": "2026-11-01 09:13"
   },
   {
-    "headline": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
-    "headline_fi": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
-    "link": "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
-    "source": "France 24",
-    "pub": "2026-11-01 09:01"
-  },
-  {
-    "headline": "Bulgaria exit polls: Incumbent Yotova predicted to win",
-    "headline_fi": "Bulgaria exit polls: Incumbent Yotova predicted to win",
-    "link": "https://www.dw.com/en/bulgaria-exit-polls-incumbent-yotova-predicted-to-win/a-79820449?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-01 09:00"
-  },
-  {
     "headline": "Hooray for Houdini: Budapest celebrates 100th anniversary of escape artist's death",
     "headline_fi": "Hooray for Houdini: Budapest celebrates 100th anniversary of escape artist's death",
     "link": "https://www.euronews.com/2026/11/01/hooray-for-houdini-budapest-celebrates-100th-anniversary-of-escape-artists-death",
     "source": "Euronews",
     "pub": "2026-11-01 08:26"
-  },
-  {
-    "headline": "Indian opposition parties stage mega rally seeking election chief’s resignation",
-    "headline_fi": "Indian opposition parties stage mega rally seeking election chief’s resignation",
-    "link": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
-    "source": "France 24",
-    "pub": "2026-11-01 08:24"
   },
   {
     "headline": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
@@ -523,13 +516,6 @@
     "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday",
     "source": "Euronews",
     "pub": "2026-10-31 13:00"
-  },
-  {
-    "headline": "Zelenskyy urges US to speed up Patriot deliveries",
-    "headline_fi": "Zelenskyy urges US to speed up Patriot deliveries",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-urges-us-speed-up-patriot-deliveries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-10-31 12:41"
   },
   {
     "headline": "Poland political crisis: Constitutional court in chaos as Nawrocki accuses government of staging power grab",
