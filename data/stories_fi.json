@@ -1,10 +1,66 @@
 [
   {
-    "headline": "Spain’s transport minister resigns after deadly train crash",
-    "headline_fi": "Espanjan liikenneministeri erosi junaturman jälkeen",
-    "link": "https://www.politico.eu/article/spain-transport-minister-oscar-puente-resigns-after-deadly-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "headline": "US midterms: Democrat wins North Carolina as first polls close",
+    "headline_fi": "Yhdysvaltain välikausi: Demokraatti voitti Pohjois-Carolinan ensimmäisten vaalien päättyessä",
+    "link": "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-04 03:54"
+  },
+  {
+    "headline": "What Europe hopes to see in the US midterms",
+    "headline_fi": "Mitä Eurooppa toivoo näkevänsä Yhdysvaltojen keskipitkällä aikavälillä",
+    "link": "https://www.politico.eu/article/what-europe-hopes-to-see-in-the-us-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
-    "pub": "2026-11-03 23:23"
+    "pub": "2026-11-04 03:51"
+  },
+  {
+    "headline": "US midterm election results: How Americans voted and what the data tells us",
+    "headline_fi": "Yhdysvaltain välivaalien tulokset: Kuinka amerikkalaiset äänestivät ja mitä tiedot kertovat meille",
+    "link": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-04 03:10"
+  },
+  {
+    "headline": "US to cut nearly $4 billion in Israel military aid, Trump says",
+    "headline_fi": "Trump sanoo, että Yhdysvallat leikkaa lähes 4 miljardilla dollarilla Israelin sotilaallista apua",
+    "link": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-04 02:21"
+  },
+  {
+    "headline": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
+    "headline_fi": "Yhdysvaltain demokratia, Trumpin väsymys ja elinkustannukset ovat äänestäjien keskeisiä kysymyksiä, AP:n tutkimus toteaa",
+    "link": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+    "source": "France 24",
+    "pub": "2026-11-04 01:46"
+  },
+  {
+    "headline": "First results in as polls begin to close in key US midterm elections",
+    "headline_fi": "Ensimmäisiä tuloksia, kun äänestykset alkavat sulkeutua tärkeimmissä Yhdysvaltain välivaaleissa",
+    "link": "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us",
+    "source": "Euronews",
+    "pub": "2026-11-04 01:35"
+  },
+  {
+    "headline": "EU tells Ukraine to hasten reforms, sets out more cautious path for accession",
+    "headline_fi": "EU käskee Ukrainaa nopeuttamaan uudistuksia, asettaa varovaisemman tien liittymiselle",
+    "link": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-04 01:26"
+  },
+  {
+    "headline": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
+    "headline_fi": "Historioitsija Timothy Snyder: Trump ajaa Yhdysvaltain ulkopolitiikkaa \"ikään kuin hän olisi järjestäytynyt rikollinen\"",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
+    "source": "France 24",
+    "pub": "2026-11-04 00:28"
+  },
+  {
+    "headline": "Trump tariffs hitting small businesses",
+    "headline_fi": "Trumpin tullit iskevät pienyrityksille",
+    "link": "https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
+    "source": "France 24",
+    "pub": "2026-11-03 23:45"
   },
   {
     "headline": "South Africa braces for some job losses as AGOA ends",
@@ -85,56 +141,56 @@
   },
   {
     "headline": "Progress and pitfalls on the path to a bigger EU: Five takeaways from the Euronews Enlargement Summit",
-    "headline_fi": "Edistys ja sudenkuopat tiellä kohti suurempaa EU:ta: viisi poimintaa Euronewsin laajentumishuippukokouksesta",
+    "headline_fi": "Progress and pitfalls on the path to a bigger EU: Five takeaways from the Euronews Enlargement Summit",
     "link": "https://www.euronews.com/2026/11/03/progress-and-pitfalls-on-the-path-to-a-bigger-eu-five-takeaways-from-the-euronews-enlargem",
     "source": "Euronews",
     "pub": "2026-11-03 20:22"
   },
   {
     "headline": "Trump says US will end military aid to Israel as Americans vote in midterms",
-    "headline_fi": "Trump sanoo, että Yhdysvallat lopettaa sotilaallisen avun Israelille, kun amerikkalaiset äänestävät puolivälissä",
+    "headline_fi": "Trump says US will end military aid to Israel as Americans vote in midterms",
     "link": "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms",
     "source": "Euronews",
     "pub": "2026-11-03 20:10"
   },
   {
     "headline": "UK's King Charles III decries 'monstrous injustice' of slave trade",
-    "headline_fi": "Ison-Britannian kuningas Kaarle III tuomitsee orjakaupan \"hirviömäisen epäoikeudenmukaisuuden\".",
+    "headline_fi": "UK's King Charles III decries 'monstrous injustice' of slave trade",
     "link": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 20:08"
   },
   {
     "headline": "La bola negra becomes Spain's third highest-grossing film ever",
-    "headline_fi": "La bola negra on Espanjan kaikkien aikojen kolmanneksi eniten tuottanut elokuva",
+    "headline_fi": "La bola negra becomes Spain's third highest-grossing film ever",
     "link": "https://www.euronews.com/2026/11/03/la-bola-negra-becomes-spains-third-highest-grossing-film-ever",
     "source": "Euronews",
     "pub": "2026-11-03 20:06"
   },
   {
     "headline": "Portugal signs TAP sale contract with Lufthansa, pledging to keep airline Portuguese",
-    "headline_fi": "Portugali allekirjoitti TAP-myyntisopimuksen Lufthansan kanssa ja lupasi pitää lentoyhtiön Portuguese",
+    "headline_fi": "Portugal signs TAP sale contract with Lufthansa, pledging to keep airline Portuguese",
     "link": "https://www.euronews.com/2026/11/03/portugal-signs-tap-sale-contract-with-lufthansa-pledging-to-keep-airline-portuguese",
     "source": "Euronews",
     "pub": "2026-11-03 20:04"
   },
   {
     "headline": "Family wealth, Epstein, ‘vanity projects’: How Democrats plan to investigate Trump after midterms",
-    "headline_fi": "Perheen varallisuus, Epstein, \"turhamaisuusprojektit\": Kuinka demokraatit aikovat tutkia Trumpia puolivälin jälkeen",
+    "headline_fi": "Family wealth, Epstein, ‘vanity projects’: How Democrats plan to investigate Trump after midterms",
     "link": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms",
     "source": "France 24",
     "pub": "2026-11-03 19:30"
   },
   {
     "headline": "What happened near Kyiv as viral allegations sparked unrest outside National Guard building",
-    "headline_fi": "Se, mitä tapahtui Kiovan lähellä virussyytösten seurauksena, aiheutti levottomuutta kansalliskaartin rakennuksen ulkopuolella",
+    "headline_fi": "What happened near Kyiv as viral allegations sparked unrest outside National Guard building",
     "link": "https://www.euronews.com/2026/11/03/what-happened-near-kyiv-as-viral-allegations-sparked-unrest-outside-national-guard-buildin",
     "source": "Euronews",
     "pub": "2026-11-03 19:24"
   },
   {
     "headline": "Georgia PM offers no way out of EU accession deadlock in Euronews interview",
-    "headline_fi": "Georgian pääministeri ei tarjoa Euronewsin haastattelussa ulospääsyä EU-jäsenyyden umpikujasta",
+    "headline_fi": "Georgia PM offers no way out of EU accession deadlock in Euronews interview",
     "link": "https://www.euronews.com/2026/11/03/georgia-pm-offers-no-way-out-of-eu-accession-deadlock-in-euronews-interview",
     "source": "Euronews",
     "pub": "2026-11-03 19:14"
@@ -273,20 +329,6 @@
     "pub": "2026-11-03 17:34"
   },
   {
-    "headline": "King Charles says he has greater understanding of 'horrors' of slavery, falls short of apology",
-    "headline_fi": "King Charles says he has greater understanding of 'horrors' of slavery, falls short of apology",
-    "link": "https://www.france24.com/en/europe/20261103-king-charles-says-he-has-greater-understanding-of-horrors-of-slavery-falls-short-of-apology",
-    "source": "France 24",
-    "pub": "2026-11-03 17:26"
-  },
-  {
-    "headline": "'Your donut, your vote': Texas group uses free food to attract young voters",
-    "headline_fi": "'Your donut, your vote': Texas group uses free food to attract young voters",
-    "link": "https://www.france24.com/en/video/20261103-your-donut-your-vote-texas-group-uses-free-food-to-attract-young-voters",
-    "source": "France 24",
-    "pub": "2026-11-03 17:26"
-  },
-  {
     "headline": "Americans head to the polls for US midterm elections",
     "headline_fi": "Americans head to the polls for US midterm elections",
     "link": "https://www.euronews.com/video/2026/11/03/americans-head-to-the-polls-for-us-midterm-elections",
@@ -315,25 +357,11 @@
     "pub": "2026-11-03 17:21"
   },
   {
-    "headline": "Political parallels in France and the US: Anger at the ballot box and in the streets",
-    "headline_fi": "Political parallels in France and the US: Anger at the ballot box and in the streets",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20261103-political-parallels-in-france-and-us-anger-at-the-ballot-box-and-in-the-streets",
-    "source": "France 24",
-    "pub": "2026-11-03 17:21"
-  },
-  {
     "headline": "UK likely to face AI-powered cyberattacks on critical infrastructure by 2028, cyber chief warns",
     "headline_fi": "UK likely to face AI-powered cyberattacks on critical infrastructure by 2028, cyber chief warns",
     "link": "https://www.euronews.com/2026/11/03/uk-likely-to-face-ai-powered-cyberattacks-on-critical-infrastructure-by-2028-cyber-chief-w",
     "source": "Euronews",
     "pub": "2026-11-03 17:20"
-  },
-  {
-    "headline": "US midterms: All eyes on crucial Michigan Senate race",
-    "headline_fi": "US midterms: All eyes on crucial Michigan Senate race",
-    "link": "https://www.france24.com/en/video/20261103-us-midterms-all-eyes-on-crucial-michigan-senate-race",
-    "source": "France 24",
-    "pub": "2026-11-03 17:15"
   },
   {
     "headline": "Why South Africa's local elections matter",
@@ -490,13 +518,6 @@
     "pub": "2026-11-03 14:20"
   },
   {
-    "headline": "EU to host Ukraine reconstruction talks with US and UK",
-    "headline_fi": "EU to host Ukraine reconstruction talks with US and UK",
-    "link": "https://www.politico.eu/article/eu-to-host-ukraine-reconstruction-talks-with-us-and-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-03 14:07"
-  },
-  {
     "headline": "Students block high schools in France to press for reform ahead of general strike",
     "headline_fi": "Students block high schools in France to press for reform ahead of general strike",
     "link": "https://www.euronews.com/2026/11/03/students-block-high-schools-in-france-to-press-for-reform-ahead-of-general-strike",
@@ -637,25 +658,11 @@
     "pub": "2026-11-03 12:19"
   },
   {
-    "headline": "US midterms: Americans vote in elections seen as referendum on Trump",
-    "headline_fi": "US midterms: Americans vote in elections seen as referendum on Trump",
-    "link": "https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-03 12:16"
-  },
-  {
     "headline": "Which countries in Europe have been hit by supermarket fridge cyber incidents?",
     "headline_fi": "Which countries in Europe have been hit by supermarket fridge cyber incidents?",
     "link": "https://www.euronews.com/2026/11/03/which-countries-in-europe-have-been-hit-by-supermarket-fridge-cyber-incidents",
     "source": "Euronews",
     "pub": "2026-11-03 12:13"
-  },
-  {
-    "headline": "Who will replace Lagarde? Eurozone picks nominees as race for ECB top job begins",
-    "headline_fi": "Who will replace Lagarde? Eurozone picks nominees as race for ECB top job begins",
-    "link": "https://www.euronews.com/2026/11/03/who-will-replace-lagarde-eurozone-picks-nominees-as-race-for-ecb-top-job-begins",
-    "source": "Euronews",
-    "pub": "2026-11-03 12:10"
   },
   {
     "headline": "US midterm election: Why it's important and races to watch",
@@ -670,13 +677,6 @@
     "link": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-03 09:00"
-  },
-  {
-    "headline": "India news: Cyclone Murasu wreaks havoc after landfall",
-    "headline_fi": "India news: Cyclone Murasu wreaks havoc after landfall",
-    "link": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-03 08:12"
   },
   {
     "headline": "Ice hockey officials considering options after CAS order to reinstate Russia",
@@ -1230,26 +1230,5 @@
     "link": "https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-06 13:05"
-  },
-  {
-    "headline": "Merz, Macron seek tougher EU measures against unfair trade",
-    "headline_fi": "Merz, Macron seek tougher EU measures against unfair trade",
-    "link": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 20:23"
-  },
-  {
-    "headline": "Euro plummets against US dollar: Has the next financial crisis begun?",
-    "headline_fi": "Euro plummets against US dollar: Has the next financial crisis begun?",
-    "link": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 17:28"
-  },
-  {
-    "headline": "Jürgen Klopp faces myriad of issues after rough start with Germany",
-    "headline_fi": "Jürgen Klopp faces myriad of issues after rough start with Germany",
-    "link": "https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-05 13:34"
   }
 ]
