@@ -1,140 +1,294 @@
 [
   {
+    "headline": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
+    "headline_fi": "Espanja: Zelensky kehottaa Latinalaista Amerikkaa auttamaan Ukrainan sähköverkon korjaamisessa",
+    "link": "https://www.euronews.com/video/2026/11/05/spain-zelensky-urges-latin-america-to-help-repair-ukraines-power-grid",
+    "source": "Euronews",
+    "pub": "2026-11-05 23:53"
+  },
+  {
+    "headline": "Nigeria court bars opposition candidate two months before election",
+    "headline_fi": "Nigerian tuomioistuin kielsi opposition ehdokkaan kaksi kuukautta ennen vaaleja",
+    "link": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+    "source": "France 24",
+    "pub": "2026-11-05 23:22"
+  },
+  {
+    "headline": "French protests: 'It's only when public, private sector act together that you can make changes'",
+    "headline_fi": "Ranskalaiset protestoivat: \"Vain kun julkinen ja yksityinen sektori toimivat yhdessä, voit tehdä muutoksia\"",
+    "link": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+    "source": "France 24",
+    "pub": "2026-11-05 22:39"
+  },
+  {
+    "headline": "Austrian tycoon Rene Benko sentenced to 2 years in prison for fraud",
+    "headline_fi": "Itävaltalainen tycoon Rene Benko tuomittiin 2 vuoden vankeuteen petoksesta",
+    "link": "https://www.dw.com/en/austrian-tycoon-rene-benko-sentenced-to-2-years-in-prison-for-fraud/a-79870056?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 22:38"
+  },
+  {
+    "headline": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+    "headline_fi": "Amerikkalaiset äänestivät Trumpin Iranin sotaa vastaan.Persianlahden maat toivovat, että se merkitsee konfliktin loppua",
+    "link": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 21:12"
+  },
+  {
+    "headline": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
+    "headline_fi": "Pete Hegseth on tulipalossa, kun republikaanit vaihtavat syytteen puolivälin epäonnistumisesta",
+    "link": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 21:08"
+  },
+  {
+    "headline": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
+    "headline_fi": "Merkitseekö Oleshkin tulitauko edistystä Ukrainassa?",
+    "link": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 20:55"
+  },
+  {
+    "headline": "Farage criticizes Trump’s ‘broken promise’ on foreign wars after midterms kicking",
+    "headline_fi": "Farage arvostelee Trumpin \"rikottua lupausta\" ulkomaisista sodista välikauden potkimisen jälkeen",
+    "link": "https://www.politico.eu/article/nigel-farage-criticizes-donald-trump-broken-promise-foreign-wars-after-midterms-kicking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-05 20:02"
+  },
+  {
+    "headline": "Myanmar: Civilians under fire from military junta",
+    "headline_fi": "Myanmar: Siviilit sotilasjuntan tulessa",
+    "link": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
+    "source": "France 24",
+    "pub": "2026-11-05 19:58"
+  },
+  {
+    "headline": "France: More than 600,000 protest as anger grows over cost of living",
+    "headline_fi": "Ranska: Yli 600 000 ihmistä protestoi elinkustannusten lisääntyessä",
+    "link": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 19:51"
+  },
+  {
+    "headline": "British comedian Russell Brand found guilty of rape and three sexual assaults by London jury",
+    "headline_fi": "Brittiläinen koomikko Russell Brand totesi Lontoon tuomariston syyllistyneen raiskaukseen ja kolmeen seksuaaliseen pahoinpitelyyn",
+    "link": "https://www.euronews.com/2026/11/05/british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-london-ju",
+    "source": "Euronews",
+    "pub": "2026-11-05 19:42"
+  },
+  {
+    "headline": "France needs 'more public services', 'salaries are too low', 'schools are in very, very bad shape'",
+    "headline_fi": "Ranska tarvitsee \"enemmän julkisia palveluja\", \"palkat ovat liian alhaiset\", \"koulut ovat erittäin, erittäin huonossa kunnossa\"",
+    "link": "https://www.france24.com/en/france-needs-more-public-services-salaries-are-too-low-schools-are-in-very-very-bad-shape",
+    "source": "France 24",
+    "pub": "2026-11-05 19:36"
+  },
+  {
+    "headline": "Greece: Students march in Athens demanding more education funding",
+    "headline_fi": "Kreikka: Opiskelijat marssivat Ateenassa vaatien lisää koulutusrahoitusta",
+    "link": "https://www.euronews.com/video/2026/11/05/greece-students-march-in-athens-demanding-more-education-funding",
+    "source": "Euronews",
+    "pub": "2026-11-05 19:35"
+  },
+  {
+    "headline": "Paraguay's president Peña impeached moments after resigning over banking scandal",
+    "headline_fi": "Paraguayn presidentti Peña nostettiin syytteeseen hetken kuluttua erottuaan pankkiskandaalista",
+    "link": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
+    "source": "France 24",
+    "pub": "2026-11-05 19:33"
+  },
+  {
+    "headline": "🔴 Live: Interior ministry says 600,000 protest across France as unions claim 'close to 1.6 million'",
+    "headline_fi": "🔴 Suorana: Sisäministeriön mukaan 600 000 mielenosoittajaa eri puolilla Ranskaa, kun ammattiliittojen mukaan \"lähes 1,6 miljoonaa\"",
+    "link": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+    "source": "France 24",
+    "pub": "2026-11-05 19:05"
+  },
+  {
+    "headline": "Latest news bulletin | November 5th, 2026 – Evening",
+    "headline_fi": "Uusin uutistiedote |5.11.2026 – ilta",
+    "link": "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-11-05 19:00"
+  },
+  {
+    "headline": "World Investment Forum in Doha examines what attracts investment and what holds it back",
+    "headline_fi": "World Investment Forum Dohassa tutkii, mikä houkuttelee investointeja ja mikä estää niitä",
+    "link": "https://www.euronews.com/2026/11/05/world-investment-forum-in-doha-examines-what-attracts-investment-and-what-holds-it-back",
+    "source": "Euronews",
+    "pub": "2026-11-05 19:00"
+  },
+  {
+    "headline": "Arrests and investigations as Serbia begins post-election clean-up",
+    "headline_fi": "Pidätyksiä ja tutkimuksia Serbian aloittaessa vaalien jälkeisen siivouksen",
+    "link": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 19:00"
+  },
+  {
+    "headline": "CBD edibles can’t be labeled organic, says EU court",
+    "headline_fi": "EU-tuomioistuin sanoo, että CBD-ruokaa ei voida merkitä luomumerkillä",
+    "link": "https://www.politico.eu/article/cbd-edibles-cant-be-labeled-organic-says-eu-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-05 18:53"
+  },
+  {
+    "headline": "Farage says he’ll meet Le Pen ‘at some point in time’",
+    "headline_fi": "Farage sanoo tapaavansa Le Penin \"jossain vaiheessa\"",
+    "link": "https://www.politico.eu/article/nigel-farage-says-hell-meet-france-marine-le-pen-at-some-point-in-time/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-05 18:38"
+  },
+  {
+    "headline": "La fin accélérée du macronisme au Parlement",
+    "headline_fi": "La fin accélérée du macronisme au Parlement",
+    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/la-fin-acceleree-du-macronisme-au-parlement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-05 18:33"
+  },
+  {
+    "headline": "Germany’s Gen Z protests spark debate on integration, bias",
+    "headline_fi": "Germany’s Gen Z protests spark debate on integration, bias",
+    "link": "https://www.dw.com/en/germany-s-gen-z-protests-spark-debate-on-integration-bias/a-79868497?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 18:31"
+  },
+  {
+    "headline": "Paraguay: President Pena resigns amid bank crisis",
+    "headline_fi": "Paraguay: President Pena resigns amid bank crisis",
+    "link": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 18:28"
+  },
+  {
     "headline": "Putin seizes Russian operations of cigarette giant Japan Tobacco International",
-    "headline_fi": "Putin takavarikoi tupakkajättiläisen Japan Tobacco Internationalin venäläiset toiminnot",
+    "headline_fi": "Putin seizes Russian operations of cigarette giant Japan Tobacco International",
     "link": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
     "source": "Euronews",
     "pub": "2026-11-05 18:21"
   },
   {
     "headline": "Navi Pillay: Fighting violence with justice",
-    "headline_fi": "Navi Pillay: Väkivallan torjunta oikeudella",
+    "headline_fi": "Navi Pillay: Fighting violence with justice",
     "link": "https://www.france24.com/en/navi-pillay-fighting-violence-with-justice",
     "source": "France 24",
     "pub": "2026-11-05 18:12"
   },
   {
     "headline": "US midterms: 'Donald Trump's wings have been more than clipped'",
-    "headline_fi": "Yhdysvaltain välikausi: \"Donald Trumpin siivet on enemmän kuin leikattu\"",
+    "headline_fi": "US midterms: 'Donald Trump's wings have been more than clipped'",
     "link": "https://www.france24.com/en/video/20261105-us-midterms-donald-trump-s-wings-have-been-more-than-clipped",
     "source": "France 24",
     "pub": "2026-11-05 17:46"
   },
   {
     "headline": "Everyday people: Jeans, plastic and paper among Met Gala's surprising new fashion themes",
-    "headline_fi": "Arjen ihmiset: Farkut, muovi ja paperi Met Galan yllättävien uusien muotiteemien joukossa",
+    "headline_fi": "Everyday people: Jeans, plastic and paper among Met Gala's surprising new fashion themes",
     "link": "https://www.euronews.com/2026/11/05/everyday-people-jeans-plastic-and-paper-among-met-galas-surprising-new-fashion-themes",
     "source": "Euronews",
     "pub": "2026-11-05 17:45"
   },
   {
     "headline": "Global travel sector grows despite headwinds",
-    "headline_fi": "Maailmanlaajuinen matkailusektori kasvaa vastatuulesta huolimatta",
+    "headline_fi": "Global travel sector grows despite headwinds",
     "link": "https://www.france24.com/en/tv-shows/people-profit/20261105-global-travel-sector-grows-despite-headwinds",
     "source": "France 24",
     "pub": "2026-11-05 17:43"
   },
   {
     "headline": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
-    "headline_fi": "\"Identiteettikriisi\": Voivatko demokraatit \"perustaa\" \"historiallisen\" voittonsa jälkeen kerran sukupolven voitossa?",
+    "headline_fi": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
     "link": "https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory",
     "source": "France 24",
     "pub": "2026-11-05 17:27"
   },
   {
     "headline": "EU plans to deliver 'AI literacy' certificates to students",
-    "headline_fi": "EU aikoo toimittaa opiskelijoille tekoälylukutaitotodistukset",
+    "headline_fi": "EU plans to deliver 'AI literacy' certificates to students",
     "link": "https://www.euronews.com/2026/11/05/eu-plans-to-deliver-ai-literacy-certificates-to-students",
     "source": "Euronews",
     "pub": "2026-11-05 17:25"
   },
   {
     "headline": "British comedian and actor Russell Brand found guilty of rape",
-    "headline_fi": "Brittiläinen koomikko ja näyttelijä Russell Brand todettiin syylliseksi raiskaukseen",
+    "headline_fi": "British comedian and actor Russell Brand found guilty of rape",
     "link": "https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 17:17"
   },
   {
     "headline": "Iran signals satisfaction, skepticism after US midterm vote",
-    "headline_fi": "Iran osoittaa tyytyväisyyttä ja skeptisyyttä Yhdysvaltain väliäänestyksen jälkeen",
+    "headline_fi": "Iran signals satisfaction, skepticism after US midterm vote",
     "link": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 17:04"
   },
   {
     "headline": "Italian PM slams EU’s fragmented approach to Ukraine peace talks",
-    "headline_fi": "Italian pääministeri arvostelee EU:n hajanaista lähestymistapaa Ukrainan rauhanneuvotteluihin",
+    "headline_fi": "Italian PM slams EU’s fragmented approach to Ukraine peace talks",
     "link": "https://www.euronews.com/2026/11/05/italian-pm-slams-eus-fragmented-approach-to-ukraine-peace-talks",
     "source": "Euronews",
     "pub": "2026-11-05 16:52"
   },
   {
     "headline": "EU court says CBD foods need approval for sale before they can be certified organic",
-    "headline_fi": "EU-tuomioistuimen mukaan CBD-ruoat tarvitsevat myyntiluvan, ennen kuin ne voidaan sertifioida luomulaatuiksi",
+    "headline_fi": "EU court says CBD foods need approval for sale before they can be certified organic",
     "link": "https://www.dw.com/en/eu-court-says-cbd-foods-need-approval-for-sale-before-they-can-be-certified-organic/a-79865773?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 16:51"
   },
   {
     "headline": "Who is drug testing Russia's athletes, now that they have returned to international competition?",
-    "headline_fi": "Kuka testaa Venäjän urheilijoita nyt, kun he ovat palanneet kansainväliseen kilpailuun?",
+    "headline_fi": "Who is drug testing Russia's athletes, now that they have returned to international competition?",
     "link": "https://www.dw.com/en/who-is-drug-testing-russia-s-athletes-now-that-they-have-returned-to-international-competition/a-79862467?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 16:51"
   },
   {
     "headline": "Protesters across Europe to call for freeze on energy hungry data centres",
-    "headline_fi": "Mielenosoittajat kaikkialla Euroopassa vaativat energiannälkäisten datakeskusten jäädyttämistä",
+    "headline_fi": "Protesters across Europe to call for freeze on energy hungry data centres",
     "link": "https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres",
     "source": "Euronews",
     "pub": "2026-11-05 16:47"
   },
   {
-    "headline": "Israel's main Arab list backs Eisenkot to form government after election",
-    "headline_fi": "Israelin arabien päälista tukee Eisenkotia hallituksen muodostamisessa vaalien jälkeen",
+    "headline": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
+    "headline_fi": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
     "link": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
     "source": "France 24",
     "pub": "2026-11-05 16:43"
   },
   {
     "headline": "Fireworks may be fun, but their health risks are not",
-    "headline_fi": "Ilotulitteet voivat olla hauskoja, mutta niiden terveysriskit eivät ole",
+    "headline_fi": "Fireworks may be fun, but their health risks are not",
     "link": "https://www.euronews.com/2026/11/05/fireworks-may-be-fun-but-their-health-risks-are-not",
     "source": "Euronews",
     "pub": "2026-11-05 16:43"
   },
   {
-    "headline": "Ueno Bank collapse in Paraguay sparks political crisis for President Peña",
-    "headline_fi": "Ueno Bankin romahdus Paraguayssa laukaisi poliittisen kriisin presidentti Peñalle",
-    "link": "https://www.euronews.com/2026/11/05/ueno-bank-collapse-in-paraguay-sparks-political-crisis-for-president-pena",
-    "source": "Euronews",
-    "pub": "2026-11-05 16:38"
-  },
-  {
     "headline": "Bringing the magic of Harry Potter to life through music",
-    "headline_fi": "Harry Potterin taikuuden herättäminen henkiin musiikin avulla",
+    "headline_fi": "Bringing the magic of Harry Potter to life through music",
     "link": "https://www.france24.com/en/tv-shows/entre-nous/20261105-bringing-the-magic-of-harry-potter-to-life-through-music",
     "source": "France 24",
     "pub": "2026-11-05 16:30"
   },
   {
     "headline": "British comedian Russell Brand found guilty of rape, sexual assault",
-    "headline_fi": "Brittikoomikko Russell Brand todettiin syylliseksi raiskaukseen ja seksuaaliseen hyväksikäyttöön",
+    "headline_fi": "British comedian Russell Brand found guilty of rape, sexual assault",
     "link": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
     "source": "France 24",
     "pub": "2026-11-05 16:26"
   },
   {
     "headline": "Meloni urges ‘disorganized’ EU to speak with one voice on Ukraine",
-    "headline_fi": "Meloni kehottaa \"järjestämätöntä\" EU:ta puhumaan yhdellä äänellä Ukrainasta",
+    "headline_fi": "Meloni urges ‘disorganized’ EU to speak with one voice on Ukraine",
     "link": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-05 16:20"
   },
   {
     "headline": "France faces new protests as government seeks to prevent violence",
-    "headline_fi": "Ranska kohtaa uusia mielenosoituksia hallituksen pyrkiessä estämään väkivaltaa",
+    "headline_fi": "France faces new protests as government seeks to prevent violence",
     "link": "https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence",
     "source": "France 24",
     "pub": "2026-11-05 16:19"
@@ -224,32 +378,11 @@
     "pub": "2026-11-05 14:51"
   },
   {
-    "headline": "UK hikes rates with eye on Trump’s next Middle East move",
-    "headline_fi": "UK hikes rates with eye on Trump’s next Middle East move",
-    "link": "https://www.politico.eu/article/uk-hikes-rates-with-eye-on-us-donald-trumps-next-middle-east-move-bank-of-england-andrew-bailey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 14:42"
-  },
-  {
     "headline": "Bank of England raises key interest rate for first time in over 3 years",
     "headline_fi": "Bank of England raises key interest rate for first time in over 3 years",
     "link": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years",
     "source": "Euronews",
     "pub": "2026-11-05 14:32"
-  },
-  {
-    "headline": "Russia denies involvement in fridge hacks across Europe",
-    "headline_fi": "Russia denies involvement in fridge hacks across Europe",
-    "link": "https://www.politico.eu/article/russia-denies-involvement-in-fridge-hacks-across-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 14:23"
-  },
-  {
-    "headline": "Farewell Botox, heels and big hair: Is this the end of MAGA women?",
-    "headline_fi": "Farewell Botox, heels and big hair: Is this the end of MAGA women?",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261105-farewell-botox-heels-and-big-hair-is-this-the-end-of-maga-women",
-    "source": "France 24",
-    "pub": "2026-11-05 14:15"
   },
   {
     "headline": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz",
@@ -278,48 +411,6 @@
     "link": "https://www.euronews.com/2026/11/05/eu-commission-holds-first-talks-with-serbias-student-list",
     "source": "Euronews",
     "pub": "2026-11-05 13:44"
-  },
-  {
-    "headline": "Bomb threats cause major flight disruptions across Europe",
-    "headline_fi": "Bomb threats cause major flight disruptions across Europe",
-    "link": "https://www.france24.com/en/video/20261105-bomb-threats-cause-major-flight-disruptions-across-europe",
-    "source": "France 24",
-    "pub": "2026-11-05 13:32"
-  },
-  {
-    "headline": "US midterms: Elon Musk fails $440 million bet as Republicans lose",
-    "headline_fi": "US midterms: Elon Musk fails $440 million bet as Republicans lose",
-    "link": "https://www.france24.com/en/video/20261105-us-midterms-elon-musk-fails-440-million-bet-as-republicans-lose",
-    "source": "France 24",
-    "pub": "2026-11-05 13:29"
-  },
-  {
-    "headline": "Hong Kong activist jailed for 10 more years for collusion with foreign forces",
-    "headline_fi": "Hong Kong activist jailed for 10 more years for collusion with foreign forces",
-    "link": "https://www.france24.com/en/video/20261105-hong-kong-activist-jailed-for-10-more-years-for-collusion-with-foreign-forces",
-    "source": "France 24",
-    "pub": "2026-11-05 13:29"
-  },
-  {
-    "headline": "Route du Rhum 2026: Sailors forced to abandon race for various reasons",
-    "headline_fi": "Route du Rhum 2026: Sailors forced to abandon race for various reasons",
-    "link": "https://www.france24.com/en/video/20261105-route-du-rhum-2026-sailors-forced-to-abandon-race-for-various-reasons",
-    "source": "France 24",
-    "pub": "2026-11-05 13:25"
-  },
-  {
-    "headline": "US Midterms: Democrats say ready to negotiate and promise big changes",
-    "headline_fi": "US Midterms: Democrats say ready to negotiate and promise big changes",
-    "link": "https://www.france24.com/en/video/20261105-us-midterms-democrats-say-ready-to-negotiate-and-promise-big-changes",
-    "source": "France 24",
-    "pub": "2026-11-05 13:22"
-  },
-  {
-    "headline": "Bomb threats target at least 22 more European flights",
-    "headline_fi": "Bomb threats target at least 22 more European flights",
-    "link": "https://www.politico.eu/article/more-european-flights-targeted-by-bomb-threats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 13:21"
   },
   {
     "headline": "China threatens EU with retaliation as EU mulls “kill-switch” to defend its market",
@@ -406,25 +497,11 @@
     "pub": "2026-11-05 13:14"
   },
   {
-    "headline": "‘Skip the TED talk’: Iran trolls Vance over midterm defeat analysis",
-    "headline_fi": "‘Skip the TED talk’: Iran trolls Vance over midterm defeat analysis",
-    "link": "https://www.politico.eu/article/skip-the-ted-talk-iran-mohammad-bagher-ghalibaf-trolls-us-jd-vance-over-midterm-defeat-analysis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 13:14"
-  },
-  {
     "headline": "North Korea tells EU to 'mind its own business' on human rights",
     "headline_fi": "North Korea tells EU to 'mind its own business' on human rights",
     "link": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 13:14"
-  },
-  {
-    "headline": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
-    "headline_fi": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
-    "link": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says",
-    "source": "France 24",
-    "pub": "2026-11-05 13:07"
   },
   {
     "headline": "Portugal great Cristiano Ronaldo announces retirement from international football",
@@ -441,9 +518,9 @@
     "pub": "2026-11-05 13:00"
   },
   {
-    "headline": "Poland arrests 4 over alleged spying for Russia",
-    "headline_fi": "Poland arrests 4 over alleged spying for Russia",
-    "link": "https://www.dw.com/en/poland-arrests-4-over-alleged-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
+    "headline": "Poland arrests 4 accused of spying for Russia",
+    "headline_fi": "Poland arrests 4 accused of spying for Russia",
+    "link": "https://www.dw.com/en/poland-arrests-4-accused-of-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 12:39"
   },
@@ -490,9 +567,9 @@
     "pub": "2026-11-05 12:17"
   },
   {
-    "headline": "Several European flights receive bomb threats, some divert",
-    "headline_fi": "Several European flights receive bomb threats, some divert",
-    "link": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf",
+    "headline": "Bomb threats disrupt several flights across Europe",
+    "headline_fi": "Bomb threats disrupt several flights across Europe",
+    "link": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 12:10"
   },
@@ -511,13 +588,6 @@
     "pub": "2026-11-05 11:51"
   },
   {
-    "headline": "South Korea tests Arctic shipping route amid Russia-West row",
-    "headline_fi": "South Korea tests Arctic shipping route amid Russia-West row",
-    "link": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-05 11:45"
-  },
-  {
     "headline": "Ukraine: Russian drone and missile attack sparks fire in Kyiv region",
     "headline_fi": "Ukraine: Russian drone and missile attack sparks fire in Kyiv region",
     "link": "https://www.euronews.com/video/2026/11/05/ukraine-russian-drone-and-missile-attack-sparks-fire-in-kyiv-region",
@@ -532,18 +602,11 @@
     "pub": "2026-11-05 11:36"
   },
   {
-    "headline": "France workers stage nationwide strike and march for 'dignified wage'",
-    "headline_fi": "France workers stage nationwide strike and march for 'dignified wage'",
+    "headline": "Hundreds of thousands march in nationwide strike in France as government backs austerity budget",
+    "headline_fi": "Hundreds of thousands march in nationwide strike in France as government backs austerity budget",
     "link": "https://www.euronews.com/2026/11/05/france-braces-for-nationwide-strike-as-government-backs-austerity-budget-to-rein-in-soarin",
     "source": "Euronews",
     "pub": "2026-11-05 11:27"
-  },
-  {
-    "headline": "France braces for fresh protests as unions strike over higher wages",
-    "headline_fi": "France braces for fresh protests as unions strike over higher wages",
-    "link": "https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-05 11:19"
   },
   {
     "headline": "'Too early' to say if Europe flight bomb threats linked, EU transport chief says",
@@ -616,74 +679,11 @@
     "pub": "2026-11-05 09:50"
   },
   {
-    "headline": "Europe weighs implications of Trump’s midterm setback",
-    "headline_fi": "Europe weighs implications of Trump’s midterm setback",
-    "link": "https://www.euronews.com/2026/11/05/europe-weighs-implications-of-trumps-midterm-setback",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:28"
-  },
-  {
-    "headline": "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
-    "headline_fi": "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
-    "link": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:26"
-  },
-  {
-    "headline": "New Zealand: Dead whales found as rescuers battle mass stranding",
-    "headline_fi": "New Zealand: Dead whales found as rescuers battle mass stranding",
-    "link": "https://www.euronews.com/video/2026/11/05/new-zealand-dead-whales-found-as-rescuers-battle-mass-stranding",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:20"
-  },
-  {
     "headline": "What the Democrats' midterms win means for the US economy and Trump",
     "headline_fi": "What the Democrats' midterms win means for the US economy and Trump",
     "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-05 09:03"
-  },
-  {
-    "headline": "‘Zeptoverse’: CERN scientists uncover evidence of extraordinarily rare particle decay",
-    "headline_fi": "‘Zeptoverse’: CERN scientists uncover evidence of extraordinarily rare particle decay",
-    "link": "https://www.euronews.com/video/2026/11/05/zeptoverse-cern-scientists-uncover-evidence-of-extraordinarily-rare-particle-decay",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:02"
-  },
-  {
-    "headline": "Europe Today: Trump loses Congress. Will he now be even more unpredictable?",
-    "headline_fi": "Europe Today: Trump loses Congress. Will he now be even more unpredictable?",
-    "link": "https://www.euronews.com/2026/11/05/europe-today-trump-loses-congress-will-he-now-be-even-more-unpredictable",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:02"
-  },
-  {
-    "headline": "Ban it or build it? Europe considers how to regulate social media",
-    "headline_fi": "Ban it or build it? Europe considers how to regulate social media",
-    "link": "https://www.euronews.com/2026/11/05/ban-it-or-build-it-europe-considers-how-to-regulate-social-media",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:00"
-  },
-  {
-    "headline": "NASA's Swift space telescope plunges back to Earth in fiery demise",
-    "headline_fi": "NASA's Swift space telescope plunges back to Earth in fiery demise",
-    "link": "https://www.dw.com/en/nasa-s-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-05 06:40"
-  },
-  {
-    "headline": "Democrats take House and Senate from Republicans in US midterm rout",
-    "headline_fi": "Democrats take House and Senate from Republicans in US midterm rout",
-    "link": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-05 01:04"
-  },
-  {
-    "headline": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-    "headline_fi": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-    "link": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-04 23:00"
   },
   {
     "headline": "The 2011 discovery of neo-Nazi killers aired biases in German policing",
