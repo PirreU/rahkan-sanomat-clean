@@ -1,5 +1,54 @@
 [
   {
+    "headline": "US voters’ warning to European politicians",
+    "headline_fi": "US voters’ warning to European politicians",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/us-voters-warning-to-european-politicians/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-06 05:15"
+  },
+  {
+    "headline": "From Madrid to MAGA: How Spain’s Vox forged a right-wing network with global reach",
+    "headline_fi": "From Madrid to MAGA: How Spain’s Vox forged a right-wing network with global reach",
+    "link": "https://www.politico.eu/article/from-madrid-to-maga-how-spains-vox-forged-a-right-wing-network-with-global-reach/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-06 05:00"
+  },
+  {
+    "headline": "Asian stocks slump after US tech rout amid AI jitters",
+    "headline_fi": "Asian stocks slump after US tech rout amid AI jitters",
+    "link": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-06 04:41"
+  },
+  {
+    "headline": "Marco Rubio denies plans to resign as 2028 speculation grows",
+    "headline_fi": "Marco Rubio denies plans to resign as 2028 speculation grows",
+    "link": "https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house",
+    "source": "France 24",
+    "pub": "2026-11-06 02:24"
+  },
+  {
+    "headline": "Three in four displaced people live in climate danger zones, UN says",
+    "headline_fi": "Three in four displaced people live in climate danger zones, UN says",
+    "link": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+    "source": "France 24",
+    "pub": "2026-11-06 01:34"
+  },
+  {
+    "headline": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+    "headline_fi": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+    "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-06 01:32"
+  },
+  {
+    "headline": "West Bank: Palestinians harvest olives under Israeli military restrictions",
+    "headline_fi": "West Bank: Palestinians harvest olives under Israeli military restrictions",
+    "link": "https://www.euronews.com/video/2026/11/05/west-bank-palestinians-harvest-olives-under-israeli-military-restrictions",
+    "source": "Euronews",
+    "pub": "2026-11-06 00:42"
+  },
+  {
     "headline": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
     "headline_fi": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
     "link": "https://www.euronews.com/video/2026/11/05/spain-zelensky-urges-latin-america-to-help-repair-ukraines-power-grid",
@@ -280,13 +329,6 @@
     "pub": "2026-11-05 16:26"
   },
   {
-    "headline": "Meloni urges ‘disorganized’ EU to speak with one voice on Ukraine",
-    "headline_fi": "Meloni urges ‘disorganized’ EU to speak with one voice on Ukraine",
-    "link": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 16:20"
-  },
-  {
     "headline": "France faces new protests as government seeks to prevent violence",
     "headline_fi": "France faces new protests as government seeks to prevent violence",
     "link": "https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence",
@@ -322,13 +364,6 @@
     "pub": "2026-11-05 16:00"
   },
   {
-    "headline": "How NATO can turn data into defense advantage",
-    "headline_fi": "How NATO can turn data into defense advantage",
-    "link": "https://www.politico.eu/sponsored-content/how-nato-can-turn-data-into-defense-advantage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 15:36"
-  },
-  {
     "headline": "South African star Zolani Mahola: From 'Waka Waka' with Shakira to 'People Power'",
     "headline_fi": "South African star Zolani Mahola: From 'Waka Waka' with Shakira to 'People Power'",
     "link": "https://www.france24.com/en/tv-shows/arts24/20261105-south-african-star-zolani-mahola-from-waka-waka-with-shakira-to-people-power",
@@ -343,13 +378,6 @@
     "pub": "2026-11-05 15:34"
   },
   {
-    "headline": "Burnham won’t follow Trump in actively inviting Putin to G20",
-    "headline_fi": "Burnham won’t follow Trump in actively inviting Putin to G20",
-    "link": "https://www.politico.eu/article/andy-burnham-donald-trump-invite-vladimir-putin-g20/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-05 15:32"
-  },
-  {
     "headline": "Bent on leaving his mark: Trump's proposed 'Triumphal Arch' sparks backlash",
     "headline_fi": "Bent on leaving his mark: Trump's proposed 'Triumphal Arch' sparks backlash",
     "link": "https://www.france24.com/en/tv-shows/focus/20261105-bent-on-leaving-his-mark-trump-s-proposed-triumphal-arch-sparks-backlash",
@@ -362,20 +390,6 @@
     "link": "https://www.france24.com/en/video/20261105-what-comes-next-for-democrats-after-midterm-election-victory",
     "source": "France 24",
     "pub": "2026-11-05 14:54"
-  },
-  {
-    "headline": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
-    "headline_fi": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
-    "link": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
-    "source": "France 24",
-    "pub": "2026-11-05 14:52"
-  },
-  {
-    "headline": "France: High schools blocked again as students reject government responses as 'meaningless'",
-    "headline_fi": "France: High schools blocked again as students reject government responses as 'meaningless'",
-    "link": "https://www.france24.com/en/video/20261105-france-high-schools-blocked-again-as-students-reject-government-responses-as-meaningless",
-    "source": "France 24",
-    "pub": "2026-11-05 14:51"
   },
   {
     "headline": "Bank of England raises key interest rate for first time in over 3 years",
@@ -539,13 +553,6 @@
     "pub": "2026-11-05 12:35"
   },
   {
-    "headline": "Finland court jails captain and crew member over Baltic cable sabotage",
-    "headline_fi": "Finland court jails captain and crew member over Baltic cable sabotage",
-    "link": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-05 12:31"
-  },
-  {
     "headline": "Rheinmetall shares plunge more than 17% after profit warning over order delays",
     "headline_fi": "Rheinmetall shares plunge more than 17% after profit warning over order delays",
     "link": "https://www.euronews.com/2026/11/05/rheinmetall-shares-plunge-more-than-17-after-profit-warning-over-order-delays",
@@ -670,13 +677,6 @@
     "link": "https://www.euronews.com/2026/11/05/oil-giants-cash-in-on-the-us-iran-conflict-can-an-eu-wide-tax-on-oil-profits-ease-the-ener",
     "source": "Euronews",
     "pub": "2026-11-05 10:00"
-  },
-  {
-    "headline": "'Imposter': Why is the Chucky creator angry with Nicki Minaj?",
-    "headline_fi": "'Imposter': Why is the Chucky creator angry with Nicki Minaj?",
-    "link": "https://www.euronews.com/2026/11/05/imposter-why-is-the-chucky-creator-angry-with-nicki-minaj",
-    "source": "Euronews",
-    "pub": "2026-11-05 09:50"
   },
   {
     "headline": "What the Democrats' midterms win means for the US economy and Trump",
@@ -1029,13 +1029,6 @@
     "pub": "2026-10-25 09:19"
   },
   {
-    "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-    "headline_fi": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-    "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 17:09"
-  },
-  {
     "headline": "EU moves to loosen rules on pesticide use as experts sound the alarm",
     "headline_fi": "EU moves to loosen rules on pesticide use as experts sound the alarm",
     "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
@@ -1223,33 +1216,5 @@
     "link": "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-08 14:02"
-  },
-  {
-    "headline": "'90s art scene in the UK: An international, edgy trendsetter",
-    "headline_fi": "'90s art scene in the UK: An international, edgy trendsetter",
-    "link": "https://www.dw.com/en/90s-art-scene-in-the-uk-an-international-edgy-trendsetter/a-79581777?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 18:18"
-  },
-  {
-    "headline": "Suspected pneumonic plague in Siberia: What we know about the disease",
-    "headline_fi": "Suspected pneumonic plague in Siberia: What we know about the disease",
-    "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 12:44"
-  },
-  {
-    "headline": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
-    "headline_fi": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
-    "link": "https://www.dw.com/en/nobelitis-how-winning-a-nobel-prize-can-give-you-delusions-of-grandeur/a-79525772?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 11:58"
-  },
-  {
-    "headline": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
-    "headline_fi": "Emerging economies are embracing solar power and skipping fossil fuels much faster than Europe or the US",
-    "link": "https://www.dw.com/en/emerging-economies-are-embracing-solar-power-and-skipping-fossil-fuels-much-faster-than-europe-or-the-us/a-79474847?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-07 10:48"
   }
 ]
