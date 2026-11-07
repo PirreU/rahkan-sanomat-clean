@@ -1,140 +1,385 @@
 [
   {
+    "headline": "Cyberattacks target Italian foreign minister and company behind Brenner Base Tunnel project",
+    "headline_fi": "Kyberhyökkäykset kohdistuvat Italian ulkoministeriin ja Brennerin tunnelihankkeen takana olevaan yritykseen",
+    "link": "https://www.euronews.com/2026/11/07/cyberattacks-target-italian-foreign-minister-and-company-behind-brenner-base-tunnel-projec",
+    "source": "Euronews",
+    "pub": "2026-11-07 14:28"
+  },
+  {
+    "headline": "Russia launches massive strike on Kyiv",
+    "headline_fi": "Venäjä iskee Kiovaan",
+    "link": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
+    "source": "France 24",
+    "pub": "2026-11-07 14:15"
+  },
+  {
+    "headline": "Stephen Miller named White House Chief of Staff",
+    "headline_fi": "Stephen Miller nimitettiin Valkoisen talon kansliapäälliköksi",
+    "link": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
+    "source": "France 24",
+    "pub": "2026-11-07 14:14"
+  },
+  {
+    "headline": "Israel coalition talks gain momentum",
+    "headline_fi": "Israelin koalitioneuvottelut kiihtyvät",
+    "link": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+    "source": "France 24",
+    "pub": "2026-11-07 14:12"
+  },
+  {
+    "headline": "Kenyan cult leader sentenced to 200 years in prison",
+    "headline_fi": "Kenialainen kulttijohtaja tuomittiin 200 vuodeksi vankeuteen",
+    "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1",
+    "source": "France 24",
+    "pub": "2026-11-07 14:10"
+  },
+  {
+    "headline": "New Zealand election too close to call with over 95% of votes counted",
+    "headline_fi": "Uuden-Seelannin vaalit liian lähellä järjestääkseen yli 95 % äänistä",
+    "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 13:54"
+  },
+  {
+    "headline": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+    "headline_fi": "Yhdysvallat käynnisti uusia kohdennettuja iskuja Irania vastaan, kun Trump väittää edistyneen neuvotteluissa Teheranin kanssa",
+    "link": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
+    "source": "Euronews",
+    "pub": "2026-11-07 13:35"
+  },
+  {
+    "headline": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
+    "headline_fi": "Yhdysvallat tarjoaa 20 miljoonan dollarin palkkion ja \"mahdollisen siirron\" tiedosta \"Iranin ydinohjelmasta\"",
+    "link": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
+    "source": "Euronews",
+    "pub": "2026-11-07 13:31"
+  },
+  {
+    "headline": "Germany hopes to host world ice hockey championship — without Russia",
+    "headline_fi": "Saksa toivoo voivansa isännöidä jääkiekon MM-kisoja ilman Venäjää",
+    "link": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 13:06"
+  },
+  {
+    "headline": "Latest news bulletin | November 7th, 2026 – Midday",
+    "headline_fi": "Uusin uutistiedote |7. marraskuuta 2026 – keskipäivä",
+    "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
+    "source": "Euronews",
+    "pub": "2026-11-07 13:00"
+  },
+  {
+    "headline": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
+    "headline_fi": "Ranskan presidentinvaalit: Kuinka äärivasemmiston Mélenchonista tuli Z-sukupolven suosikki",
+    "link": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
+    "source": "France 24",
+    "pub": "2026-11-07 12:44"
+  },
+  {
+    "headline": "France braces for new round of Yellow Vest, student protests",
+    "headline_fi": "Ranska valmistautuu uuteen keltaiseen liiviin, opiskelijoiden mielenosoituksiin",
+    "link": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 12:39"
+  },
+  {
+    "headline": "Pope urges healthcare for all in Uruguay",
+    "headline_fi": "Paavi vaatii terveydenhuoltoa kaikille Uruguayssa",
+    "link": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
+    "source": "France 24",
+    "pub": "2026-11-07 11:41"
+  },
+  {
+    "headline": "AI Data centres face growing backlash",
+    "headline_fi": "Tekoälyn datakeskukset kohtaavat kasvavaa vastareaktiota",
+    "link": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
+    "source": "France 24",
+    "pub": "2026-11-07 11:39"
+  },
+  {
+    "headline": "Yemen: 30 dead in strikes on Taiz market",
+    "headline_fi": "Jemen: 30 kuollutta Taizin markkinoiden lakoissa",
+    "link": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+    "source": "France 24",
+    "pub": "2026-11-07 11:37"
+  },
+  {
+    "headline": "USA: Democrats vow to investigate Donald Trump",
+    "headline_fi": "USA: Demokraatit lupaavat tutkia Donald Trumpia",
+    "link": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
+    "source": "France 24",
+    "pub": "2026-11-07 11:36"
+  },
+  {
+    "headline": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+    "headline_fi": "Ukraina: Venäjä iskee Kiovaan ilmaiskuilla ennen kolmenvälisiä neuvotteluja",
+    "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 11:21"
+  },
+  {
+    "headline": "Germany news: Frankfurt braces for Iran protests",
+    "headline_fi": "Saksan uutiset: Frankfurt valmistautuu Iranin mielenosoituksiin",
+    "link": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 11:08"
+  },
+  {
+    "headline": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
+    "headline_fi": "Uusi-Seelanti laskee ääniä teräväpiirteisissä vaaleissa elinkustannuksiin keskittyneen kampanjan jälkeen",
+    "link": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
+    "source": "Euronews",
+    "pub": "2026-11-07 10:33"
+  },
+  {
+    "headline": "Hackers probed Europe’s fridge systems weeks before cyberattacks. Who did it and what could they target next?",
+    "headline_fi": "Hakkerit tutkivat Euroopan jääkaappijärjestelmiä viikkoja ennen kyberhyökkäyksiä.Kuka sen teki ja mihin he voisivat kohdistaa seuraavaksi?",
+    "link": "https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-",
+    "source": "Euronews",
+    "pub": "2026-11-07 10:30"
+  },
+  {
+    "headline": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+    "headline_fi": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+    "link": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+    "source": "France 24",
+    "pub": "2026-11-07 10:17"
+  },
+  {
+    "headline": "Amid protests, France's rising debt costs threaten stability",
+    "headline_fi": "Amid protests, France's rising debt costs threaten stability",
+    "link": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 10:16"
+  },
+  {
+    "headline": "Russia hits Kyiv and surrounding region in massive overnight strike",
+    "headline_fi": "Russia hits Kyiv and surrounding region in massive overnight strike",
+    "link": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
+    "source": "France 24",
+    "pub": "2026-11-07 10:08"
+  },
+  {
+    "headline": "When antibiotics stop working: Europe's growing superbug threat",
+    "headline_fi": "When antibiotics stop working: Europe's growing superbug threat",
+    "link": "https://www.euronews.com/2026/11/07/when-antibiotics-stop-working-europes-growing-superbug-threat",
+    "source": "Euronews",
+    "pub": "2026-11-07 09:26"
+  },
+  {
+    "headline": "India news: Vehicles major cause of Delhi pollution, top court says",
+    "headline_fi": "India news: Vehicles major cause of Delhi pollution, top court says",
+    "link": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-07 09:07"
+  },
+  {
+    "headline": "Russian strikes on Kyiv region injure at least six and damage bridge and energy facilities",
+    "headline_fi": "Russian strikes on Kyiv region injure at least six and damage bridge and energy facilities",
+    "link": "https://www.euronews.com/2026/11/07/russian-strikes-on-kyiv-injure-five-and-damage-bridge-and-energy-facilities",
+    "source": "Euronews",
+    "pub": "2026-11-07 09:06"
+  },
+  {
+    "headline": "Europe needs Cold War-like deterrence for AI warfare, Poland says",
+    "headline_fi": "Europe needs Cold War-like deterrence for AI warfare, Poland says",
+    "link": "https://www.euronews.com/2026/11/07/europe-needs-cold-war-like-deterrence-for-ai-warfare-poland-says",
+    "source": "Euronews",
+    "pub": "2026-11-07 09:00"
+  },
+  {
+    "headline": "Ein Spaziergang mit Bodo Ramelow",
+    "headline_fi": "Ein Spaziergang mit Bodo Ramelow",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-bodo-ramelow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-07 08:22"
+  },
+  {
+    "headline": "Paraguay places ousted president Peña under house arrest after bank collapse",
+    "headline_fi": "Paraguay places ousted president Peña under house arrest after bank collapse",
+    "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+    "source": "France 24",
+    "pub": "2026-11-07 08:18"
+  },
+  {
+    "headline": "Earn points, save cash: A basic guide to frequent-flyer programmes in Europe",
+    "headline_fi": "Earn points, save cash: A basic guide to frequent-flyer programmes in Europe",
+    "link": "https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe",
+    "source": "Euronews",
+    "pub": "2026-11-07 08:00"
+  },
+  {
+    "headline": "Latest news bulletin | November 7th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | November 7th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-11-07 08:00"
+  },
+  {
+    "headline": "'We have proven ourselves': UAE vows to remain reliable energy supplier to Europe",
+    "headline_fi": "'We have proven ourselves': UAE vows to remain reliable energy supplier to Europe",
+    "link": "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe",
+    "source": "Euronews",
+    "pub": "2026-11-07 08:00"
+  },
+  {
+    "headline": "Are Europeans saving enough for retirement? Here is how much more they need to put aside",
+    "headline_fi": "Are Europeans saving enough for retirement? Here is how much more they need to put aside",
+    "link": "https://www.euronews.com/2026/11/07/are-europeans-saving-enough-for-retirement-here-is-how-much-more-they-need-to-put-aside",
+    "source": "Euronews",
+    "pub": "2026-11-07 07:59"
+  },
+  {
     "headline": "US asks China to uphold Busan trade deal commitments",
-    "headline_fi": "Yhdysvallat pyytää Kiinaa pitämään kiinni Busanin kauppasopimuksen sitoumuksista",
+    "headline_fi": "US asks China to uphold Busan trade deal commitments",
     "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 06:44"
   },
   {
     "headline": "Cornell faculty declares 'no confidence' in university leadership",
-    "headline_fi": "Cornellin tiedekunta ilmoittaa \"epäluottamuksesta\" yliopiston johtoon",
+    "headline_fi": "Cornell faculty declares 'no confidence' in university leadership",
     "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 05:14"
   },
   {
+    "headline": "Giant pandas loaned by China make their public debut at US zoo",
+    "headline_fi": "Giant pandas loaned by China make their public debut at US zoo",
+    "link": "https://www.france24.com/en/americas/20261107-giant-pandas-loaned-by-china-make-public-debut-at-us-zoo",
+    "source": "France 24",
+    "pub": "2026-11-07 04:45"
+  },
+  {
     "headline": "Paraguay: President Santiago Pena under house arrest over bank crisis",
-    "headline_fi": "Paraguay: Presidentti Santiago Pena kotiarestissa pankkikriisin vuoksi",
+    "headline_fi": "Paraguay: President Santiago Pena under house arrest over bank crisis",
     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 01:23"
   },
   {
     "headline": "Pope Leo arrives in Uruguay at start of South America tour",
-    "headline_fi": "Paavi Leo saapuu Uruguayhin Etelä-Amerikan kiertueen alussa",
+    "headline_fi": "Pope Leo arrives in Uruguay at start of South America tour",
     "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 00:54"
   },
   {
     "headline": "Polar vortex weakens weeks ahead of schedule, raising risk of cold spells",
-    "headline_fi": "Napapyörre heikkenee viikkoja etuajassa, mikä lisää kylmäjaksojen riskiä",
+    "headline_fi": "Polar vortex weakens weeks ahead of schedule, raising risk of cold spells",
     "link": "https://www.euronews.com/2026/11/06/polar-vortex-weakens-weeks-ahead-of-schedule-raising-risk-of-cold-spells",
     "source": "Euronews",
     "pub": "2026-11-06 23:55"
   },
   {
     "headline": "From gastronomy to sports: What to discover in Spain's Region of Valencia",
-    "headline_fi": "Gastronomiasta urheiluun: Mitä löytää Espanjan Valencian alueella",
+    "headline_fi": "From gastronomy to sports: What to discover in Spain's Region of Valencia",
     "link": "https://www.euronews.com/2026/11/06/from-gastronomy-to-sports-what-to-discover-in-spains-region-of-valencia",
     "source": "Euronews",
     "pub": "2026-11-06 23:40"
   },
   {
     "headline": "A trip to the Philippines offers hidden gems, slow food and colourful events",
-    "headline_fi": "Matka Filippiineille tarjoaa piilotettuja helmiä, hidasta ruokaa ja värikkäitä tapahtumia",
+    "headline_fi": "A trip to the Philippines offers hidden gems, slow food and colourful events",
     "link": "https://www.euronews.com/2026/11/06/a-trip-to-the-philippines-offers-hidden-gems-slow-food-and-colourful-events",
     "source": "Euronews",
     "pub": "2026-11-06 23:38"
   },
   {
     "headline": "Starring Great Britain: How set-jetting is helping distribute tourists across the regions",
-    "headline_fi": "Pääosissa Iso-Britannia: Kuinka set-jetting auttaa jakamaan turisteja eri alueilla",
+    "headline_fi": "Starring Great Britain: How set-jetting is helping distribute tourists across the regions",
     "link": "https://www.euronews.com/2026/11/06/starring-great-britain-how-set-jetting-is-helping-distribute-tourists-across-the-regions",
     "source": "Euronews",
     "pub": "2026-11-06 23:36"
   },
   {
     "headline": "Kenyan cult leader sentenced to 200 years in prison",
-    "headline_fi": "Kenialainen kulttijohtaja tuomittiin 200 vuodeksi vankeuteen",
+    "headline_fi": "Kenyan cult leader sentenced to 200 years in prison",
     "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
     "source": "France 24",
     "pub": "2026-11-06 23:23"
   },
   {
     "headline": "Europe bomb hoaxes widen",
-    "headline_fi": "Euroopan pommihuijaukset laajenevat",
+    "headline_fi": "Europe bomb hoaxes widen",
     "link": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
     "source": "France 24",
     "pub": "2026-11-06 23:22"
   },
   {
+    "headline": "Pope Leo calls for healthcare to be 'accessible for all' during Uruguay visit",
+    "headline_fi": "Pope Leo calls for healthcare to be 'accessible for all' during Uruguay visit",
+    "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
+    "source": "France 24",
+    "pub": "2026-11-06 23:14"
+  },
+  {
     "headline": "Tankers carrying Russian diesel to the US change course",
-    "headline_fi": "Venäläistä dieseliä Yhdysvaltoihin kuljettavat tankkerit muuttavat kurssia",
+    "headline_fi": "Tankers carrying Russian diesel to the US change course",
     "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-06 22:55"
   },
   {
     "headline": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
-    "headline_fi": "Trump on ilmoittanut maahanmuuton kovan linjan kannattaja Stephen Millerin uudeksi kansliapäälliköksi",
+    "headline_fi": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
     "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
     "source": "France 24",
     "pub": "2026-11-06 22:51"
   },
   {
     "headline": "Foreign buyers push Spanish home sales to record 16% amid record prices",
-    "headline_fi": "Ulkomaiset ostajat nostivat Espanjan asuntojen myynnin ennätystasolle 16 % ennätyshintojen keskellä",
+    "headline_fi": "Foreign buyers push Spanish home sales to record 16% amid record prices",
     "link": "https://www.euronews.com/2026/11/06/foreign-buyers-push-spanish-home-sales-to-record-16-amid-record-prices",
     "source": "Euronews",
     "pub": "2026-11-06 22:46"
   },
   {
     "headline": "Stephen Miller named by Trump as new White House chief of staff",
-    "headline_fi": "Trump nimitti Stephen Millerin Valkoisen talon uudeksi kansliapäälliköksi",
+    "headline_fi": "Stephen Miller named by Trump as new White House chief of staff",
     "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-06 22:41"
   },
   {
     "headline": "Ueno Bank scandal plunges Paraguay into political crisis",
-    "headline_fi": "Ueno Bank -skandaali syöksyi Paraguayn poliittiseen kriisiin",
+    "headline_fi": "Ueno Bank scandal plunges Paraguay into political crisis",
     "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-06 22:23"
   },
   {
     "headline": "Nearly 1,000 migrants rescued from seven boats off El Hierro in Spain",
-    "headline_fi": "Lähes 1 000 siirtolaista pelastettiin seitsemästä veneestä El Hierron edustalla Espanjassa",
+    "headline_fi": "Nearly 1,000 migrants rescued from seven boats off El Hierro in Spain",
     "link": "https://www.euronews.com/2026/11/06/nearly-1000-migrants-rescued-from-seven-boats-off-el-hierro-in-spain",
     "source": "Euronews",
     "pub": "2026-11-06 22:18"
   },
   {
     "headline": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
-    "headline_fi": "Väliehdot: A Maga PostMortem, Euroopan \"muodonmuutos\" -protestit",
+    "headline_fi": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
     "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
     "source": "France 24",
     "pub": "2026-11-06 22:08"
   },
   {
     "headline": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
-    "headline_fi": "Trump nimitti uudeksi kansliapäälliköksi maahanmuuton kovan linjan Stephen Millerin",
+    "headline_fi": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
     "link": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
     "source": "Euronews",
     "pub": "2026-11-06 21:52"
   },
   {
     "headline": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
-    "headline_fi": "Kotimainen Georgia maltillinen ja pragmaattinen: Onko senaattori Ossoff demokraattisen puolueen tulevaisuus?",
+    "headline_fi": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
     "source": "France 24",
     "pub": "2026-11-06 21:49"
   },
   {
     "headline": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
-    "headline_fi": "Kriitikot sanovat, että demokraattien tulisi tutkia Trumpin Lähi-idän sopimuksia tulevissa korruptiotutkimuksissa",
+    "headline_fi": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
     "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-06 21:16"
@@ -224,20 +469,6 @@
     "pub": "2026-11-06 18:45"
   },
   {
-    "headline": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
-    "headline_fi": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
-    "link": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
-    "source": "France 24",
-    "pub": "2026-11-06 18:45"
-  },
-  {
-    "headline": "'Trump is a very dangerous person for the world': EU's former top diplomat Josep Borrell",
-    "headline_fi": "'Trump is a very dangerous person for the world': EU's former top diplomat Josep Borrell",
-    "link": "https://www.france24.com/en/tv-shows/talking-europe/20261106-trump-is-a-very-dangerous-person-for-the-world-eu-s-former-top-diplomat-josep-borrell",
-    "source": "France 24",
-    "pub": "2026-11-06 18:44"
-  },
-  {
     "headline": "‘We vote with our money’: What are the biggest commercial opportunities of EU enlargement?",
     "headline_fi": "‘We vote with our money’: What are the biggest commercial opportunities of EU enlargement?",
     "link": "https://www.euronews.com/2026/11/06/we-vote-with-our-money-what-are-the-biggest-commercial-opportunities-of-eu-enlargement",
@@ -245,53 +476,11 @@
     "pub": "2026-11-06 18:38"
   },
   {
-    "headline": "Data center protesters break into Microsoft site in Amsterdam",
-    "headline_fi": "Data center protesters break into Microsoft site in Amsterdam",
-    "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-06 18:38"
-  },
-  {
-    "headline": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
-    "headline_fi": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
-    "link": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
-    "source": "France 24",
-    "pub": "2026-11-06 18:33"
-  },
-  {
-    "headline": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-    "headline_fi": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-    "link": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-06 18:28"
-  },
-  {
-    "headline": "Wounded French protesters to sue interior minister over police brutality",
-    "headline_fi": "Wounded French protesters to sue interior minister over police brutality",
-    "link": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality",
-    "source": "France 24",
-    "pub": "2026-11-06 18:13"
-  },
-  {
     "headline": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
     "headline_fi": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
     "link": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
     "source": "Euronews",
     "pub": "2026-11-06 17:42"
-  },
-  {
-    "headline": "Turkey to push for 'electrification' drive at COP31 as climate threats mount",
-    "headline_fi": "Turkey to push for 'electrification' drive at COP31 as climate threats mount",
-    "link": "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount",
-    "source": "France 24",
-    "pub": "2026-11-06 17:36"
-  },
-  {
-    "headline": "Fact check: Three viral Iran war posts debunked",
-    "headline_fi": "Fact check: Three viral Iran war posts debunked",
-    "link": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-06 17:29"
   },
   {
     "headline": "Singapore Airlines to invest €1.4 billion upgrading luxury long-haul cabins",
@@ -308,25 +497,11 @@
     "pub": "2026-11-06 17:10"
   },
   {
-    "headline": "China keeps a close eye on US midterm shake-up",
-    "headline_fi": "China keeps a close eye on US midterm shake-up",
-    "link": "https://www.france24.com/en/tv-shows/access-asia/20261106-china-keeps-a-close-eye-on-us-midterm-shake-up",
-    "source": "France 24",
-    "pub": "2026-11-06 17:03"
-  },
-  {
     "headline": "Tiny Spanish island quits coal for good amid renewables boom — but country struggling to electrify",
     "headline_fi": "Tiny Spanish island quits coal for good amid renewables boom — but country struggling to electrify",
     "link": "https://www.euronews.com/2026/11/06/tiny-spanish-island-quits-coal-for-good-amid-renewables-boom-but-country-struggling-to-ele",
     "source": "Euronews",
     "pub": "2026-11-06 17:00"
-  },
-  {
-    "headline": "California governor to grant clemency to all 548 death row inmates in state",
-    "headline_fi": "California governor to grant clemency to all 548 death row inmates in state",
-    "link": "https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state",
-    "source": "France 24",
-    "pub": "2026-11-06 16:54"
   },
   {
     "headline": "Group of lawyers suing French interior minister over protesters' life-changing injuries",
@@ -350,13 +525,6 @@
     "pub": "2026-11-06 16:45"
   },
   {
-    "headline": "Protests and reforms: France's rising debt costs threaten stability",
-    "headline_fi": "Protests and reforms: France's rising debt costs threaten stability",
-    "link": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-06 16:37"
-  },
-  {
     "headline": "Election favorite says Spain should quit as World Cup co-host if Morocco stages the final",
     "headline_fi": "Election favorite says Spain should quit as World Cup co-host if Morocco stages the final",
     "link": "https://www.politico.eu/article/alberto-nunez-feijoo-spain-withdraw-host-world-cup-2030-morocco-final/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -376,13 +544,6 @@
     "link": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks",
     "source": "Euronews",
     "pub": "2026-11-06 16:17"
-  },
-  {
-    "headline": "The women who rode the blue wave",
-    "headline_fi": "The women who rode the blue wave",
-    "link": "https://www.france24.com/en/tv-shows/the-51/20261106-the-women-who-rode-the-blue-wave",
-    "source": "France 24",
-    "pub": "2026-11-06 16:15"
   },
   {
     "headline": "Netherlands: Protesters storm Amsterdam data centre construction site",
@@ -427,39 +588,11 @@
     "pub": "2026-11-06 15:50"
   },
   {
-    "headline": "'Too early to draw conclusions' as bomb threat hoaxes target European countries",
-    "headline_fi": "'Too early to draw conclusions' as bomb threat hoaxes target European countries",
-    "link": "https://www.france24.com/en/video/20261106-too-early-to-draw-conclusions-as-bomb-threat-hoaxes-target-european-countries",
-    "source": "France 24",
-    "pub": "2026-11-06 15:48"
-  },
-  {
-    "headline": "Paraguay's Peña offers resignation amid banking scandal, protests",
-    "headline_fi": "Paraguay's Peña offers resignation amid banking scandal, protests",
-    "link": "https://www.france24.com/en/video/20261106-paraguay-s-pe%C3%B1a-offers-resignation-amid-banking-scandal-protests",
-    "source": "France 24",
-    "pub": "2026-11-06 15:45"
-  },
-  {
-    "headline": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
-    "headline_fi": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
-    "link": "https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us",
-    "source": "France 24",
-    "pub": "2026-11-06 15:38"
-  },
-  {
     "headline": "Why Spain is taking 188,000 tonnes of olive oil off the market",
     "headline_fi": "Why Spain is taking 188,000 tonnes of olive oil off the market",
     "link": "https://www.euronews.com/2026/11/06/why-spain-is-taking-188000-tonnes-of-olive-oil-off-the-market",
     "source": "Euronews",
     "pub": "2026-11-06 15:38"
-  },
-  {
-    "headline": "Zambia's civil service overhaul raises questions",
-    "headline_fi": "Zambia's civil service overhaul raises questions",
-    "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-06 15:28"
   },
   {
     "headline": "What to know about the IIHF Women's Ice Hockey World Championship",
@@ -469,20 +602,6 @@
     "pub": "2026-11-06 15:26"
   },
   {
-    "headline": "Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?",
-    "headline_fi": "Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?",
-    "link": "https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu",
-    "source": "France 24",
-    "pub": "2026-11-06 15:25"
-  },
-  {
-    "headline": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
-    "headline_fi": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
-    "link": "https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback",
-    "source": "France 24",
-    "pub": "2026-11-06 15:15"
-  },
-  {
     "headline": "Mélenchon squares up to Brussels in election manifesto",
     "headline_fi": "Mélenchon squares up to Brussels in election manifesto",
     "link": "https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -490,60 +609,11 @@
     "pub": "2026-11-06 14:48"
   },
   {
-    "headline": "Who is Ilija Srdanović? The doctor who took Serbia’s student movement to Macron and EU leaders",
-    "headline_fi": "Who is Ilija Srdanović? The doctor who took Serbia’s student movement to Macron and EU leaders",
-    "link": "https://www.euronews.com/2026/11/06/who-is-ilija-srdanovic-the-doctor-who-took-serbias-student-movement-to-macron-and-eu-leade",
-    "source": "Euronews",
-    "pub": "2026-11-06 14:17"
-  },
-  {
-    "headline": "German carmakers drive surprise rise in industrial output",
-    "headline_fi": "German carmakers drive surprise rise in industrial output",
-    "link": "https://www.euronews.com/2026/11/06/german-carmakers-drive-surprise-rise-in-industrial-output",
-    "source": "Euronews",
-    "pub": "2026-11-06 14:15"
-  },
-  {
-    "headline": "Trio suspected of attempting to smuggle 3,000 tarantulas into Germany",
-    "headline_fi": "Trio suspected of attempting to smuggle 3,000 tarantulas into Germany",
-    "link": "https://www.euronews.com/2026/11/06/trio-suspected-of-attempting-to-smuggle-3000-tarantulas-into-germany",
-    "source": "Euronews",
-    "pub": "2026-11-06 14:13"
-  },
-  {
-    "headline": "How Greece aims to become a year-round destination as it looks beyond its beaches and islands",
-    "headline_fi": "How Greece aims to become a year-round destination as it looks beyond its beaches and islands",
-    "link": "https://www.euronews.com/2026/11/06/how-greece-aims-to-become-a-year-round-destination-as-it-looks-beyond-its-beaches-and-isla",
-    "source": "Euronews",
-    "pub": "2026-11-06 14:10"
-  },
-  {
     "headline": "French far left enshrines leaving NATO in official presidential platform",
     "headline_fi": "French far left enshrines leaving NATO in official presidential platform",
     "link": "https://www.politico.eu/article/france-far-left-jean-luc-melenchon-leaving-nato-official-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-06 14:02"
-  },
-  {
-    "headline": "Sustaining Europe’s Biosimilar Leadership and Impact",
-    "headline_fi": "Sustaining Europe’s Biosimilar Leadership and Impact",
-    "link": "https://www.politico.eu/sponsored-content/sustaining-europes-biosimilar-leadership-and-impact/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-06 14:00"
-  },
-  {
-    "headline": "Five people rescued off Kiribati after months drifting at sea",
-    "headline_fi": "Five people rescued off Kiribati after months drifting at sea",
-    "link": "https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea",
-    "source": "Euronews",
-    "pub": "2026-11-06 13:29"
-  },
-  {
-    "headline": "Parents sue Google after 13-year-old allegedly used AI to plan suicide",
-    "headline_fi": "Parents sue Google after 13-year-old allegedly used AI to plan suicide",
-    "link": "https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide",
-    "source": "Euronews",
-    "pub": "2026-11-06 13:19"
   },
   {
     "headline": "Debate: Protests in Europe: how to tackle the unrest?",
@@ -586,34 +656,6 @@
     "link": "https://www.eurotopics.net/en/366775/us-midterms-the-global-impact?zitat=366833&pk_campaign=rss-en&pk_kwd=2026-11-06#zitat366833",
     "source": "Eurotopics",
     "pub": "2026-11-06 13:16"
-  },
-  {
-    "headline": "Big Tech and green groups meet to discuss the future of data centres in the US",
-    "headline_fi": "Big Tech and green groups meet to discuss the future of data centres in the US",
-    "link": "https://www.euronews.com/2026/11/06/big-tech-and-green-groups-meet-to-discuss-the-future-of-data-centres-in-the-us",
-    "source": "Euronews",
-    "pub": "2026-11-06 13:15"
-  },
-  {
-    "headline": "Hormuz standoff ‘not sustainable’, senior Iranian lawmaker tells Euronews",
-    "headline_fi": "Hormuz standoff ‘not sustainable’, senior Iranian lawmaker tells Euronews",
-    "link": "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews",
-    "source": "Euronews",
-    "pub": "2026-11-06 13:02"
-  },
-  {
-    "headline": "Latest news bulletin | November 6th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | November 6th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-11-06 13:00"
-  },
-  {
-    "headline": "EU and UK set to link carbon markets in major post-Brexit deal",
-    "headline_fi": "EU and UK set to link carbon markets in major post-Brexit deal",
-    "link": "https://www.euronews.com/2026/11/06/eu-and-uk-set-to-link-carbon-markets-in-major-post-brexit-deal",
-    "source": "Euronews",
-    "pub": "2026-11-06 12:53"
   },
   {
     "headline": "Arrests and investigations as Serbia begins postelection cleanup",
@@ -978,13 +1020,6 @@
     "link": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-25 14:05"
-  },
-  {
-    "headline": "Prague honors Roma resistance fighters against Hitler",
-    "headline_fi": "Prague honors Roma resistance fighters against Hitler",
-    "link": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-25 11:17"
   },
   {
     "headline": "EU moves to loosen rules on pesticide use as experts sound the alarm",
