@@ -1,17 +1,17 @@
 [
   {
+    "headline": "Gunmen kills six in Krakow, three more bodies found at his house",
+    "headline_fi": "Asemiehet tappavat kuusi Krakovassa, kolme muuta ruumista löydettiin hänen talostaan",
+    "link": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+    "source": "France 24",
+    "pub": "2026-11-08 00:47"
+  },
+  {
     "headline": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
     "headline_fi": "Ukraina: Venäjän iskut iskivät Kiovan alueelle ja vahingoittivat infrastruktuuria",
     "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
     "source": "Euronews",
     "pub": "2026-11-07 23:45"
-  },
-  {
-    "headline": "At least 6 killed in shooting in Polish city of Krakow",
-    "headline_fi": "Ainakin kuusi ihmistä kuoli ammuskelussa Puolan kaupungissa Krakovassa",
-    "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow/a-79886489?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 23:34"
   },
   {
     "headline": "Ebola: Why is there still no vaccine?",
@@ -28,9 +28,9 @@
     "pub": "2026-11-07 22:45"
   },
   {
-    "headline": "Israeli president picks Gadi Eisenkot to form government",
-    "headline_fi": "Israelin presidentti valitsee Gadi Eisenkotin hallituksen muodostamaan",
-    "link": "https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+    "headline": "Israeli president tasks Gadi Eisenkot with forming government",
+    "headline_fi": "Israelin presidentti antaa Gadi Eisenkotille hallituksen muodostavan tehtävän",
+    "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-07 21:56"
   },
@@ -299,13 +299,6 @@
     "link": "https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-",
     "source": "Euronews",
     "pub": "2026-11-07 10:30"
-  },
-  {
-    "headline": "French student unions say 250,000 people took part in Saturday’s protests",
-    "headline_fi": "French student unions say 250,000 people took part in Saturday’s protests",
-    "link": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-    "source": "France 24",
-    "pub": "2026-11-07 10:17"
   },
   {
     "headline": "Amid protests, France's rising debt costs threaten stability",
@@ -1118,26 +1111,5 @@
     "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-12 17:41"
-  },
-  {
-    "headline": "Author or artificial intelligence? Literature in crisis",
-    "headline_fi": "Author or artificial intelligence? Literature in crisis",
-    "link": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 18:04"
-  },
-  {
-    "headline": "Art for freedom: Maria Kalesnikava in Bonn",
-    "headline_fi": "Art for freedom: Maria Kalesnikava in Bonn",
-    "link": "https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 16:03"
-  },
-  {
-    "headline": "Finland, the world's happiest nation, faces a glum winter",
-    "headline_fi": "Finland, the world's happiest nation, faces a glum winter",
-    "link": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-09 11:12"
   }
 ]
