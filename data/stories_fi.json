@@ -1,5 +1,19 @@
 [
   {
+    "headline": "Tens of thousands continue to protest across France",
+    "headline_fi": "Kymmenet tuhannet jatkavat mielenosoitusta eri puolilla Ranskaa",
+    "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 02:55"
+  },
+  {
+    "headline": "Philippines wins first Eurovision Song Contest Asia",
+    "headline_fi": "Filippiinit voittivat ensimmäisen Aasian Eurovision laulukilpailun",
+    "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-15 00:44"
+  },
+  {
     "headline": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
     "headline_fi": "Saksan vuoden 2027 budjetti: ennätys 561 miljardia euroa ja velkavuori",
     "link": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf",
@@ -15,7 +29,7 @@
   },
   {
     "headline": "Nigeria's upcoming election marred by rising AI disinformation",
-    "headline_fi": "Nigerian tulevia vaaleja häiritsi lisääntyvä tekoäly disinformaatio",
+    "headline_fi": "Nigerian tulevia vaaleja häiritsee lisääntyvä tekoäly disinformaatio",
     "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-14 23:05"
@@ -28,15 +42,15 @@
     "pub": "2026-11-14 22:53"
   },
   {
-    "headline": "SpaceX's Starship set for return to Earth after failed booster catch",
-    "headline_fi": "SpaceX:n tähtilaiva palaa maan päälle epäonnistuneen tehostimen jälkeen",
+    "headline": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
+    "headline_fi": "SpaceX:n tähtilaiva saa päätökseen kaikkien aikojen ensimmäisen ilmasaaliin palattuaan kiertoradalta",
     "link": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
     "source": "France 24",
     "pub": "2026-11-14 22:51"
   },
   {
-    "headline": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
-    "headline_fi": "Netanyahu toistaa vaatimuksen Israelin hallituksen yhtenäisyydestä Eisenkotin torjuessa \"temppuja\"",
+    "headline": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+    "headline_fi": "Netanyahu toistaa vaatimuksen Israelin yhtenäisyyshallitukselle, kun Eisenkot torjui \"temppuja\"",
     "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
     "source": "France 24",
     "pub": "2026-11-14 22:35"
@@ -50,7 +64,7 @@
   },
   {
     "headline": "Macron says limiting Ukraine aid would pave way to 'another war'",
-    "headline_fi": "Macronin mukaan Ukrainan avun rajoittaminen avaa tietä \"uudelle sodalle\"",
+    "headline_fi": "Macronin mukaan Ukrainan avun rajoittaminen avaisi tietä \"uudelle sodalle\"",
     "link": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
     "source": "France 24",
     "pub": "2026-11-14 22:15"
@@ -64,10 +78,17 @@
   },
   {
     "headline": "Italy slaps Meta with €805mn fine over access to Android photos",
-    "headline_fi": "Italia lyö Metalle 805 miljoonan euron sakkoa Android-kuvien käyttöoikeudesta",
+    "headline_fi": "Italia määräsi Metalle 805 miljoonan euron sakon Android-valokuvien käytöstä",
     "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-14 20:41"
+  },
+  {
+    "headline": "'No justice, no peace': Fifth round of protests sweep across France",
+    "headline_fi": "\"Ei oikeutta, ei rauhaa\": Viides mielenosoituskierros pyyhkäisi koko Ranskan",
+    "link": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "source": "France 24",
+    "pub": "2026-11-14 20:23"
   },
   {
     "headline": "France sees fifth consecutive Saturday of nationwide protests",
@@ -120,21 +141,21 @@
   },
   {
     "headline": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
-    "headline_fi": "Yhdysvaltain liikennesihteeri pyytää kongressilta 30 miljardia dollaria ilmailun infrastruktuurin päivittämiseen",
+    "headline_fi": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
     "link": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
     "source": "France 24",
     "pub": "2026-11-14 18:32"
   },
   {
     "headline": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
-    "headline_fi": "EU toistaa \"vakavan huolensa\" Gazan humanitaarisesta kriisistä talven lähestyessä",
+    "headline_fi": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
     "link": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-14 18:28"
   },
   {
     "headline": "Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim",
-    "headline_fi": "Werner Holzer -palkinnon sai Katja Gloger ja DW:n Jaafar Abdul Karim.",
+    "headline_fi": "Werner Holzer Prize awarded to Katja Gloger and DW's Jaafar Abdul Karim",
     "link": "https://www.dw.com/en/werner-holzer-prize-awarded-to-katja-gloger-and-dw-s-jaafar-abdul-karim/a-79946916?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-14 17:24"
@@ -259,13 +280,6 @@
     "pub": "2026-11-14 12:25"
   },
   {
-    "headline": "Can Nvidia survive without tech titan Jensen Huang?",
-    "headline_fi": "Can Nvidia survive without tech titan Jensen Huang?",
-    "link": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
-    "source": "France 24",
-    "pub": "2026-11-14 12:20"
-  },
-  {
     "headline": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
     "headline_fi": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
     "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -348,13 +362,6 @@
     "link": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning",
     "source": "Euronews",
     "pub": "2026-11-14 08:00"
-  },
-  {
-    "headline": "Senegal Youth Olympics in Dakar end on high note",
-    "headline_fi": "Senegal Youth Olympics in Dakar end on high note",
-    "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-14 06:25"
   },
   {
     "headline": "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
@@ -1015,13 +1022,6 @@
     "pub": "2026-11-02 16:21"
   },
   {
-    "headline": "Merz says next German president 'must be a woman' — report",
-    "headline_fi": "Merz says next German president 'must be a woman' — report",
-    "link": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-02 09:36"
-  },
-  {
     "headline": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
     "headline_fi": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
     "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
@@ -1139,12 +1139,5 @@
     "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-17 17:49"
-  },
-  {
-    "headline": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
-    "headline_fi": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
-    "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-16 12:16"
   }
 ]
