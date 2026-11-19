@@ -1,5 +1,124 @@
 [
   {
+    "headline": "EU lawmakers accuse Chinese officials of intimidation over Taiwan",
+    "headline_fi": "EU:n lainsäätäjät syyttävät Kiinan viranomaisia ​​Taiwanin uhkailusta",
+    "link": "https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-19 05:00"
+  },
+  {
+    "headline": "Germany presses to make Ukraine aid Le Pen-proof",
+    "headline_fi": "Saksa pyrkii tekemään Ukrainan avusta Le Penin kestäväksi",
+    "link": "https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-19 05:00"
+  },
+  {
+    "headline": "Inside Ukraine’s Coalition of the Wobbling",
+    "headline_fi": "Ukrainan huojuvien koalitioiden sisällä",
+    "link": "https://www.politico.eu/article/inside-ukraines-coalition-of-the-wobbling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-19 05:00"
+  },
+  {
+    "headline": "Europe argued over who would talk to Russia. Agreeing what to say is even tougher.",
+    "headline_fi": "Eurooppa väitteli siitä, kuka puhuisi Venäjän kanssa.Sanomisesta sopia on vielä vaikeampaa.",
+    "link": "https://www.politico.eu/article/europe-argued-over-who-would-talk-to-russia-agreeing-what-to-say-is-even-tougher/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-19 05:00"
+  },
+  {
+    "headline": "5 key places that signal where Spain’s election is heading",
+    "headline_fi": "5 keskeistä paikkaa, jotka osoittavat, mihin Espanjan vaalit ovat menossa",
+    "link": "https://www.politico.eu/article/5-key-places-that-signal-where-spains-election-is-heading/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-19 05:00"
+  },
+  {
+    "headline": "Ukraine's allies gather in Berlin for 'Coalition of the Willing' summit",
+    "headline_fi": "Ukrainan liittolaiset kokoontuvat Berliiniin \"Coalition of the Willing\" -huippukokoukseen",
+    "link": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-19 04:46"
+  },
+  {
+    "headline": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
+    "headline_fi": "COP31: Vanuatu vaatii YK:n ilmastohuippukokouksen uudistamista, varoittaa luopumisesta",
+    "link": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
+    "source": "France 24",
+    "pub": "2026-11-19 04:00"
+  },
+  {
+    "headline": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+    "headline_fi": "Xi-Trump-Putin keskustelee suorana: Kiinan, Yhdysvaltojen ja Venäjän johtajat pitävät merkittävän kolmisuuntaisen tapaamisen",
+    "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+    "source": "France 24",
+    "pub": "2026-11-19 03:47"
+  },
+  {
+    "headline": "Almost 1 in 4 children live in conflict zones — report",
+    "headline_fi": "Lähes joka neljäs lapsi asuu konfliktialueilla – raportti",
+    "link": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-19 02:34"
+  },
+  {
+    "headline": "Grand Theft Auto VI released as gamers rejoice globally",
+    "headline_fi": "Grand Theft Auto VI julkaistiin, kun pelaajat iloitsevat maailmanlaajuisesti",
+    "link": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-19 01:58"
+  },
+  {
+    "headline": "24-month matured Comté crowned world’s best cheese",
+    "headline_fi": "24 kuukautta kypsytetty Comté kruunattiin maailman parhaaksi juustoksi",
+    "link": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+    "source": "France 24",
+    "pub": "2026-11-19 00:32"
+  },
+  {
+    "headline": "Inside Limoges City Hall devastated by arson attack",
+    "headline_fi": "Limogesin kaupungintalon sisällä tuhopoltto tuhosi",
+    "link": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
+    "source": "France 24",
+    "pub": "2026-11-19 00:23"
+  },
+  {
+    "headline": "Alleged Russian agent arrested for spying on Silicon Valley tech firm",
+    "headline_fi": "Väitetty venäläinen agentti pidätettiin Piilaakson teknologiayrityksen vakoilusta",
+    "link": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
+    "source": "Euronews",
+    "pub": "2026-11-19 00:05"
+  },
+  {
+    "headline": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
+    "headline_fi": "Bukele vahvistaa ilmaiskun haitilaisen jengin johtajan Jeffin luksuskartanoon",
+    "link": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
+    "source": "Euronews",
+    "pub": "2026-11-18 23:58"
+  },
+  {
+    "headline": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
+    "headline_fi": "Krimin siltalakko: Faktantarkistusvideoita Ukrainan hyökkäyksen jälkeisistä vahingoista",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack",
+    "source": "France 24",
+    "pub": "2026-11-18 23:51"
+  },
+  {
+    "headline": "Data watchdog probes massive Deutsche Bank leak of 15M files",
+    "headline_fi": "Data Watchdog tutkii Deutsche Bankin massiivista 15 miljoonan tiedoston vuotoa",
+    "link": "https://www.euronews.com/2026/11/18/data-watchdog-probes-massive-deutsche-bank-leak-of-15m-files",
+    "source": "Euronews",
+    "pub": "2026-11-18 23:44"
+  },
+  {
+    "headline": "Bassirou Diomaye Faye excluded from Senegal's ruling party",
+    "headline_fi": "Bassirou Diomaye Faye jätettiin Senegalin hallitsevan puolueen ulkopuolelle",
+    "link": "https://www.france24.com/en/bassirou-diomaye-faye-excluded-from-senegal-s-ruling-party",
+    "source": "France 24",
+    "pub": "2026-11-18 23:21"
+  },
+  {
     "headline": "US Defence Secretary announces military cooperation in surprise Caracas visit",
     "headline_fi": "Yhdysvaltain puolustusministeri ilmoitti sotilaallisesta yhteistyöstä yllätysvierailulla Caracasissa",
     "link": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
@@ -22,119 +141,119 @@
   },
   {
     "headline": "What the Crimean bridge attack means for Russia",
-    "headline_fi": "Mitä Krimin siltahyökkäys merkitsee Venäjälle",
+    "headline_fi": "What the Crimean bridge attack means for Russia",
     "link": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 22:30"
   },
   {
     "headline": "Germany’s Digitalisation Minister Wildberger discusses Europe's AI race with the US and China",
-    "headline_fi": "Saksan digitalisaatioministeri Wildberger keskustelee Euroopan tekoälykilpailusta Yhdysvaltojen ja Kiinan kanssa",
+    "headline_fi": "Germany’s Digitalisation Minister Wildberger discusses Europe's AI race with the US and China",
     "link": "https://www.euronews.com/2026/11/18/germanys-digitalisation-minister-wildberger-discusses-europes-ai-race-with-the-us-and-chin",
     "source": "Euronews",
     "pub": "2026-11-18 22:25"
   },
   {
     "headline": "US Pentagon chief Hegseth signs military deal in Venezuela",
-    "headline_fi": "Yhdysvaltain Pentagonin johtaja Hegseth allekirjoitti sotilassopimuksen Venezuelassa",
+    "headline_fi": "US Pentagon chief Hegseth signs military deal in Venezuela",
     "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 22:19"
   },
   {
     "headline": "Are migrant return hubs in Rwanda an effective solution or a dangerous precedent?",
-    "headline_fi": "Ovatko siirtolaisten paluukeskukset Ruandassa tehokas ratkaisu vai vaarallinen ennakkotapaus?",
+    "headline_fi": "Are migrant return hubs in Rwanda an effective solution or a dangerous precedent?",
     "link": "https://www.euronews.com/2026/11/18/are-migrant-return-hubs-in-rwanda-an-effective-solution-or-a-dangerous-precedent",
     "source": "Euronews",
     "pub": "2026-11-18 22:15"
   },
   {
     "headline": "US Democrats nominate Jeffries to be first Black House speaker",
-    "headline_fi": "Yhdysvaltain demokraatit nimittävät Jeffriesin ensimmäiseksi Black Housen puhujaksi",
+    "headline_fi": "US Democrats nominate Jeffries to be first Black House speaker",
     "link": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
     "source": "France 24",
     "pub": "2026-11-18 21:58"
   },
   {
     "headline": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
-    "headline_fi": "Israelin armeija aloittaa maaoperaation Hamasin hallitsemalla alueella Gazassa",
+    "headline_fi": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
     "link": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
     "source": "France 24",
     "pub": "2026-11-18 21:55"
   },
   {
     "headline": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
-    "headline_fi": "\"Netanyahun ainoat 2 lippua ovat rasismia tai sodan aloittamista: hän lakkasi toimimasta demokraattisena pelaajana\"",
+    "headline_fi": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player",
     "source": "France 24",
     "pub": "2026-11-18 21:45"
   },
   {
     "headline": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
-    "headline_fi": "Xi toivottaa Trumpin tervetulleeksi: Kaataako Nvidia-skandaali Yhdysvaltain ja Kiinan välisen tekoälykilpailun?",
+    "headline_fi": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race",
     "source": "France 24",
     "pub": "2026-11-18 21:42"
   },
   {
     "headline": "Faster electrification is essential for Europe to escape fossil fuel shocks, Jørgensen warns",
-    "headline_fi": "Nopeampi sähköistäminen on välttämätöntä Euroopalle, jotta se välttyisi fossiilisten polttoaineiden iskuilta, Jørgensen varoittaa",
+    "headline_fi": "Faster electrification is essential for Europe to escape fossil fuel shocks, Jørgensen warns",
     "link": "https://www.euronews.com/2026/11/18/faster-electrification-is-essential-for-europe-to-escape-fossil-fuel-shocks-jorgensen-warn",
     "source": "Euronews",
     "pub": "2026-11-18 21:28"
   },
   {
     "headline": "Would Ukraine trade land for NATO membership or protection?",
-    "headline_fi": "Vaihtaisiko Ukraina maata NATO-jäsenyyteen tai suojeluun?",
+    "headline_fi": "Would Ukraine trade land for NATO membership or protection?",
     "link": "https://www.dw.com/en/would-ukraine-trade-land-for-nato-membership-or-protection/a-79984492?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 20:40"
   },
   {
     "headline": "Grand Theft Auto VI is here. The EU has 6 reasons to pay attention.",
-    "headline_fi": "Grand Theft Auto VI on täällä.EU:lla on kuusi syytä kiinnittää huomiota.",
+    "headline_fi": "Grand Theft Auto VI is here. The EU has 6 reasons to pay attention.",
     "link": "https://www.politico.eu/article/eurocrats-meet-gamers-six-reasons-brussels-should-care-about-gta-vi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-18 20:35"
   },
   {
     "headline": "Israel launches new ground operation in Gaza",
-    "headline_fi": "Israel aloittaa uuden maaoperaation Gazassa",
+    "headline_fi": "Israel launches new ground operation in Gaza",
     "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 20:29"
   },
   {
     "headline": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
-    "headline_fi": "Miksi Ukraina yrittää jatkuvasti kaataa Venäjän siltaa Krimiin",
+    "headline_fi": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
     "link": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
     "source": "France 24",
     "pub": "2026-11-18 20:17"
   },
   {
     "headline": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
-    "headline_fi": "Peking on tukenut Moskovaa, mutta \"Kiina ymmärtää, että Amerikka on paljon tärkeämpi kuin Venäjä\"",
+    "headline_fi": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
     "link": "https://www.france24.com/en/beijing-has-supported-moscow-but-china-understands-that-america-is-way-more-important-than-russia",
     "source": "France 24",
     "pub": "2026-11-18 19:48"
   },
   {
     "headline": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-    "headline_fi": "Hakeem Jeffries lähestyy ensimmäistä Black US Housen puhujaa",
+    "headline_fi": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
     "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
     "source": "Euronews",
     "pub": "2026-11-18 19:44"
   },
   {
     "headline": "Euronews Verify: Can the EU close Russia's sanctions loopholes?",
-    "headline_fi": "Euronews Tarkista: Voiko EU sulkea Venäjän pakotteiden porsaanreiät?",
+    "headline_fi": "Euronews Verify: Can the EU close Russia's sanctions loopholes?",
     "link": "https://www.euronews.com/2026/11/18/euronews-verify-can-the-eu-close-russias-sanctions-loopholes",
     "source": "Euronews",
     "pub": "2026-11-18 19:35"
   },
   {
     "headline": "Former Macron ally Philippe unveils conservative agenda as French centre and right loses ground",
-    "headline_fi": "Entinen Macronin liittolainen Philippe paljastaa konservatiivisen agendan Ranskan keskustan ja oikeiston menettäessä jalansijaa",
+    "headline_fi": "Former Macron ally Philippe unveils conservative agenda as French centre and right loses ground",
     "link": "https://www.euronews.com/2026/11/18/former-macron-ally-philippe-unveils-conservative-agenda-as-french-centre-and-right-loses-g",
     "source": "Euronews",
     "pub": "2026-11-18 19:23"
@@ -161,8 +280,8 @@
     "pub": "2026-11-18 19:16"
   },
   {
-    "headline": "Commission accused of withholding emails on killing patent law",
-    "headline_fi": "Commission accused of withholding emails on killing patent law",
+    "headline": "EU Commission accused of withholding emails on killing patent law",
+    "headline_fi": "EU Commission accused of withholding emails on killing patent law",
     "link": "https://www.politico.eu/article/commission-accused-of-withholding-emails-on-killing-patent-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-18 19:09"
@@ -222,13 +341,6 @@
     "link": "https://www.france24.com/en/video/20261118-senate-leadership-challenge-exposes-divisions-among-democrat",
     "source": "France 24",
     "pub": "2026-11-18 18:39"
-  },
-  {
-    "headline": "German government recruits World Cup hero Philipp Lahm to teach financial literacy",
-    "headline_fi": "German government recruits World Cup hero Philipp Lahm to teach financial literacy",
-    "link": "https://www.politico.eu/article/former-football-world-champion-to-help-germans-get-smarter-about-money/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-18 18:22"
   },
   {
     "headline": "Russia’s new low-cost munitions pose a fresh threat to Ukraine",
@@ -322,60 +434,11 @@
     "pub": "2026-11-18 17:01"
   },
   {
-    "headline": "WHO sounds alarm over antibiotic resistance",
-    "headline_fi": "WHO sounds alarm over antibiotic resistance",
-    "link": "https://www.france24.com/en/video/20261118-who-sounds-alarm-over-antibiotic-resistance",
-    "source": "France 24",
-    "pub": "2026-11-18 16:55"
-  },
-  {
-    "headline": "Xi embraces Trump in China: 'Diplomacy playing out in real time'",
-    "headline_fi": "Xi embraces Trump in China: 'Diplomacy playing out in real time'",
-    "link": "https://www.france24.com/en/video/20261118-xi-embraces-trump-in-china-diplomacy-playing-out-in-real-time",
-    "source": "France 24",
-    "pub": "2026-11-18 16:54"
-  },
-  {
-    "headline": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
-    "headline_fi": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
-    "link": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
-    "source": "France 24",
-    "pub": "2026-11-18 16:52"
-  },
-  {
-    "headline": "Three leaders, three agendas: Who wants what from Xi-Trump-Putin summit?",
-    "headline_fi": "Three leaders, three agendas: Who wants what from Xi-Trump-Putin summit?",
-    "link": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
-    "source": "France 24",
-    "pub": "2026-11-18 16:52"
-  },
-  {
     "headline": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
     "headline_fi": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
     "link": "https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 16:49"
-  },
-  {
-    "headline": "US strikes Iranian island after Tehran targets Bahrain",
-    "headline_fi": "US strikes Iranian island after Tehran targets Bahrain",
-    "link": "https://www.france24.com/en/video/20261118-us-strikes-iranian-island-after-tehran-targets-bahrain",
-    "source": "France 24",
-    "pub": "2026-11-18 16:43"
-  },
-  {
-    "headline": "Why are measles cases soaring in the US?",
-    "headline_fi": "Why are measles cases soaring in the US?",
-    "link": "https://www.france24.com/en/video/20261118-why-are-measles-cases-soaring-in-the-us",
-    "source": "France 24",
-    "pub": "2026-11-18 16:36"
-  },
-  {
-    "headline": "Robert Pattinson is the new James Bond: The surprise casting choice explained",
-    "headline_fi": "Robert Pattinson is the new James Bond: The surprise casting choice explained",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
-    "source": "France 24",
-    "pub": "2026-11-18 16:32"
   },
   {
     "headline": "Singer Julio Iglesias under investigation for alleged sexual offences",
@@ -427,20 +490,6 @@
     "pub": "2026-11-18 15:53"
   },
   {
-    "headline": "France’s Philippe steps up attacks on Le Pen and Mélenchon as his poll numbers slide",
-    "headline_fi": "France’s Philippe steps up attacks on Le Pen and Mélenchon as his poll numbers slide",
-    "link": "https://www.politico.eu/article/france-edouard-philippe-steps-up-attacks-on-marine-le-pen-and-jean-luc-melenchon-as-his-poll-numbers-slide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-18 15:52"
-  },
-  {
-    "headline": "Wie Björn Höcke die Geschichte umdeutet",
-    "headline_fi": "Wie Björn Höcke die Geschichte umdeutet",
-    "link": "https://www.politico.eu/podcast/inside-afd/wie-bjorn-hocke-die-geschichte-umdeutet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-18 15:50"
-  },
-  {
     "headline": "Hungarian ethno-punk bands join forces for Brussels dance-floor show",
     "headline_fi": "Hungarian ethno-punk bands join forces for Brussels dance-floor show",
     "link": "https://www.euronews.com/2026/11/18/hungarian-ethno-punk-bands-join-forces-for-brussels-dance-floor-show",
@@ -481,13 +530,6 @@
     "link": "https://www.euronews.com/2026/11/18/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking",
     "source": "Euronews",
     "pub": "2026-11-18 15:02"
-  },
-  {
-    "headline": "Moldova summons Russia’s envoy over multiple drone incursions",
-    "headline_fi": "Moldova summons Russia’s envoy over multiple drone incursions",
-    "link": "https://www.politico.eu/article/moldova-summons-russia-envoy-over-drone-incursions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-18 14:57"
   },
   {
     "headline": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
@@ -544,27 +586,6 @@
     "link": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again",
     "source": "Euronews",
     "pub": "2026-11-18 13:58"
-  },
-  {
-    "headline": "Catnomics: global cat market exceeds €100bn and drives pet economy",
-    "headline_fi": "Catnomics: global cat market exceeds €100bn and drives pet economy",
-    "link": "https://www.euronews.com/2026/11/18/catnomics-global-cat-market-exceeds-100bn-and-drives-pet-economy",
-    "source": "Euronews",
-    "pub": "2026-11-18 13:54"
-  },
-  {
-    "headline": "AI finds security flaw in Java, world’s third-largest programming language",
-    "headline_fi": "AI finds security flaw in Java, world’s third-largest programming language",
-    "link": "https://www.euronews.com/2026/11/18/ai-finds-security-flaw-in-java-worlds-third-largest-programming-language",
-    "source": "Euronews",
-    "pub": "2026-11-18 13:41"
-  },
-  {
-    "headline": "Peru releases seven pelicans rescued from El Niño's effects",
-    "headline_fi": "Peru releases seven pelicans rescued from El Niño's effects",
-    "link": "https://www.euronews.com/video/2026/11/18/peru-releases-seven-pelicans-rescued-from-el-ninos-effects",
-    "source": "Euronews",
-    "pub": "2026-11-18 13:35"
   },
   {
     "headline": "Debate: Ukraine critically damages road bridge to Crimea",
@@ -644,9 +665,9 @@
     "pub": "2026-11-18 12:45"
   },
   {
-    "headline": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
-    "headline_fi": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
-    "link": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+    "headline": "APEC summit: Xi, Trump and Putin to hold first-ever trilateral in China",
+    "headline_fi": "APEC summit: Xi, Trump and Putin to hold first-ever trilateral in China",
+    "link": "https://www.dw.com/en/apec-summit-xi-trump-and-putin-to-hold-first-ever-trilateral-in-china/live-79964719?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 11:23"
   },
@@ -656,27 +677,6 @@
     "link": "https://www.dw.com/en/how-a-green-economy-could-help-reverse-climate-change/a-79874576?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-18 11:02"
-  },
-  {
-    "headline": "Germany news: Merz's coalition agrees on electricity tax cut",
-    "headline_fi": "Germany news: Merz's coalition agrees on electricity tax cut",
-    "link": "https://www.dw.com/en/germany-news-merz-s-coalition-agrees-on-electricity-tax-cut/live-79976869?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-18 10:52"
-  },
-  {
-    "headline": "Ukraine: Kyiv targets Krasnodar refineries after felling Kerch bridge",
-    "headline_fi": "Ukraine: Kyiv targets Krasnodar refineries after felling Kerch bridge",
-    "link": "https://www.dw.com/en/ukraine-kyiv-targets-krasnodar-refineries-after-felling-kerch-bridge/live-79976877?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-18 10:42"
-  },
-  {
-    "headline": "India news: Gandhi gives talk in New York, warns of 'looming crisis'",
-    "headline_fi": "India news: Gandhi gives talk in New York, warns of 'looming crisis'",
-    "link": "https://www.dw.com/en/india-news-gandhi-gives-talk-in-new-york-warns-of-looming-crisis/live-79976447?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-18 09:03"
   },
   {
     "headline": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
