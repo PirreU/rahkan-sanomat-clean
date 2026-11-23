@@ -1,5 +1,103 @@
 [
   {
+    "headline": "Lucy Powell promotes UK education in China despite risks",
+    "headline_fi": "Lucy Powell promotes UK education in China despite risks",
+    "link": "https://www.politico.eu/article/lucy-powell-promotes-uk-education-in-china-despite-risks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-23 02:01"
+  },
+  {
+    "headline": "Russian ship attacked near Benghazi in suspected drone attack",
+    "headline_fi": "Russian ship attacked near Benghazi in suspected drone attack",
+    "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+    "source": "France 24",
+    "pub": "2026-11-23 00:37"
+  },
+  {
+    "headline": "Morocco: A surreal sculpture park turns the world upside down",
+    "headline_fi": "Morocco: A surreal sculpture park turns the world upside down",
+    "link": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down",
+    "source": "Euronews",
+    "pub": "2026-11-23 00:33"
+  },
+  {
+    "headline": "Turkey: Thousands protest closure of critical media outlets",
+    "headline_fi": "Turkey: Thousands protest closure of critical media outlets",
+    "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-22 23:31"
+  },
+  {
+    "headline": "Midterms: US Democrats secure biggest House majority in decades",
+    "headline_fi": "Midterms: US Democrats secure biggest House majority in decades",
+    "link": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+    "source": "Euronews",
+    "pub": "2026-11-22 23:29"
+  },
+  {
+    "headline": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+    "headline_fi": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+    "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+    "source": "France 24",
+    "pub": "2026-11-22 23:29"
+  },
+  {
+    "headline": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack",
+    "headline_fi": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack",
+    "link": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack",
+    "source": "Euronews",
+    "pub": "2026-11-22 22:38"
+  },
+  {
+    "headline": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
+    "headline_fi": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
+    "link": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+    "source": "France 24",
+    "pub": "2026-11-22 22:16"
+  },
+  {
+    "headline": "Germany tests Kamikaze drones and AI targeting technology in Lithuania",
+    "headline_fi": "Germany tests Kamikaze drones and AI targeting technology in Lithuania",
+    "link": "https://www.euronews.com/2026/11/22/germany-tests-kamikaze-drones-and-ai-targeting-technology-in-lithuania",
+    "source": "Euronews",
+    "pub": "2026-11-22 22:07"
+  },
+  {
+    "headline": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+    "headline_fi": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+    "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+    "source": "France 24",
+    "pub": "2026-11-22 21:41"
+  },
+  {
+    "headline": "French interior ministry rocked by probe into prefect's leaks to National Rally",
+    "headline_fi": "French interior ministry rocked by probe into prefect's leaks to National Rally",
+    "link": "https://www.euronews.com/2026/11/22/french-interior-ministry-rocked-by-probe-into-prefects-leaks-to-national-rally",
+    "source": "Euronews",
+    "pub": "2026-11-22 21:35"
+  },
+  {
+    "headline": "Polls put Spain's PP ahead of PSOE a week before 29 November election",
+    "headline_fi": "Polls put Spain's PP ahead of PSOE a week before 29 November election",
+    "link": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election",
+    "source": "Euronews",
+    "pub": "2026-11-22 21:28"
+  },
+  {
+    "headline": "Sudan: Drones hit UN building, residential area in Khartoum",
+    "headline_fi": "Sudan: Drones hit UN building, residential area in Khartoum",
+    "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-22 21:25"
+  },
+  {
+    "headline": "Turkey prosecutors seek asset freezes on 108 high-profit traders",
+    "headline_fi": "Turkey prosecutors seek asset freezes on 108 high-profit traders",
+    "link": "https://www.euronews.com/2026/11/22/turkey-prosecutors-seek-asset-freezes-on-108-high-profit-traders",
+    "source": "Euronews",
+    "pub": "2026-11-22 21:21"
+  },
+  {
     "headline": "Tanker incident “involving military forces” reported in Strait of Hormuz",
     "headline_fi": "Tanker incident “involving military forces” reported in Strait of Hormuz",
     "link": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
@@ -21,8 +119,8 @@
     "pub": "2026-11-22 19:21"
   },
   {
-    "headline": "Israel forecast to grow 4.5% amid war: What can Europe learn from its tech boom?",
-    "headline_fi": "Israel forecast to grow 4.5% amid war: What can Europe learn from its tech boom?",
+    "headline": "Israel forecast to grow 4.5%: What can Europe learn from its tech boom?",
+    "headline_fi": "Israel forecast to grow 4.5%: What can Europe learn from its tech boom?",
     "link": "https://www.euronews.com/2026/11/22/israel-set-to-become-worlds-25th-largest-economy-what-can-europe-learn-from-its-tech-boom",
     "source": "Euronews",
     "pub": "2026-11-22 19:11"
@@ -54,6 +152,13 @@
     "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-22 18:50"
+  },
+  {
+    "headline": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+    "headline_fi": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+    "link": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+    "source": "France 24",
+    "pub": "2026-11-22 18:38"
   },
   {
     "headline": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
@@ -343,13 +448,6 @@
     "pub": "2026-11-22 08:58"
   },
   {
-    "headline": "Security Sunday: Der Kampf um die Arktis – mit Robert Habeck",
-    "headline_fi": "Security Sunday: Der Kampf um die Arktis – mit Robert Habeck",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-kampf-um-die-arktis-mit-robert-habeck/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-22 08:30"
-  },
-  {
     "headline": "Live: Ukrainian rescuers search for survivors in rubble after Russian attack",
     "headline_fi": "Live: Ukrainian rescuers search for survivors in rubble after Russian attack",
     "link": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
@@ -413,13 +511,6 @@
     "pub": "2026-11-22 01:05"
   },
   {
-    "headline": "EU-Indonesia agreement sees the light after ten years of negotiations",
-    "headline_fi": "EU-Indonesia agreement sees the light after ten years of negotiations",
-    "link": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
-    "source": "France 24",
-    "pub": "2026-11-22 00:23"
-  },
-  {
     "headline": "Salvage operation under way after cargo ship runs aground off French coast",
     "headline_fi": "Salvage operation under way after cargo ship runs aground off French coast",
     "link": "https://www.euronews.com/2026/11/21/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast",
@@ -434,46 +525,11 @@
     "pub": "2026-11-21 23:32"
   },
   {
-    "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
-    "headline_fi": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
-    "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-    "source": "France 24",
-    "pub": "2026-11-21 22:49"
-  },
-  {
     "headline": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
     "headline_fi": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
     "link": "https://www.euronews.com/video/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss",
     "source": "Euronews",
     "pub": "2026-11-21 22:24"
-  },
-  {
-    "headline": "France’s sixth consecutive Saturday of protests draws lower turnout",
-    "headline_fi": "France’s sixth consecutive Saturday of protests draws lower turnout",
-    "link": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
-    "source": "France 24",
-    "pub": "2026-11-21 22:20"
-  },
-  {
-    "headline": "'Worst Ever' COP Summit?",
-    "headline_fi": "'Worst Ever' COP Summit?",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
-    "source": "France 24",
-    "pub": "2026-11-21 22:08"
-  },
-  {
-    "headline": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
-    "headline_fi": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
-    "link": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
-    "source": "France 24",
-    "pub": "2026-11-21 21:56"
-  },
-  {
-    "headline": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
-    "headline_fi": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
-    "link": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
-    "source": "France 24",
-    "pub": "2026-11-21 21:55"
   },
   {
     "headline": "Thousands take to streets in Portugal, France and Spain over rising living costs",
@@ -579,48 +635,6 @@
     "link": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-21 14:31"
-  },
-  {
-    "headline": "EU budget: Costa pitches more cuts, Big Tech tax to break deadlock",
-    "headline_fi": "EU budget: Costa pitches more cuts, Big Tech tax to break deadlock",
-    "link": "https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock",
-    "source": "Euronews",
-    "pub": "2026-11-21 14:29"
-  },
-  {
-    "headline": "Strait of Hormuz: Athlete swims through war zone to expose war's environmental toll",
-    "headline_fi": "Strait of Hormuz: Athlete swims through war zone to expose war's environmental toll",
-    "link": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
-    "source": "Euronews",
-    "pub": "2026-11-21 14:18"
-  },
-  {
-    "headline": "European Union and Indonesia sign free trade deal after decade of talks",
-    "headline_fi": "European Union and Indonesia sign free trade deal after decade of talks",
-    "link": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks",
-    "source": "Euronews",
-    "pub": "2026-11-21 14:12"
-  },
-  {
-    "headline": "French President Macron warns of 'new level' of Russian aggression",
-    "headline_fi": "French President Macron warns of 'new level' of Russian aggression",
-    "link": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression",
-    "source": "Euronews",
-    "pub": "2026-11-21 13:15"
-  },
-  {
-    "headline": "Latest news bulletin | November 21st, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | November 21st, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-11-21 13:00"
-  },
-  {
-    "headline": "Japan: Autonomous air taxi completes passenger flight without a pilot",
-    "headline_fi": "Japan: Autonomous air taxi completes passenger flight without a pilot",
-    "link": "https://www.euronews.com/video/2026/11/21/japan-autonomous-air-taxi-completes-passenger-flight-without-a-pilot",
-    "source": "Euronews",
-    "pub": "2026-11-21 12:20"
   },
   {
     "headline": "Russian ornithologist jailed over small donations to Navalny's foundation",
@@ -1064,13 +1078,6 @@
     "pub": "2026-11-12 10:45"
   },
   {
-    "headline": "Why the integration of immigrants in Germany remains a challenge",
-    "headline_fi": "Why the integration of immigrants in Germany remains a challenge",
-    "link": "https://www.dw.com/en/why-the-integration-of-immigrants-in-germany-remains-a-challenge/a-79923241?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-11 19:30"
-  },
-  {
     "headline": "Is AIIB's complaint mechanism failing affected communities?",
     "headline_fi": "Is AIIB's complaint mechanism failing affected communities?",
     "link": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-rdf",
@@ -1307,12 +1314,5 @@
     "link": "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-28 12:51"
-  },
-  {
-    "headline": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-    "headline_fi": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-    "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-24 13:33"
   }
 ]
