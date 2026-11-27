@@ -1,5 +1,110 @@
 [
   {
+    "headline": "How Costa’s budget talks sparked a new crisis",
+    "headline_fi": "Kuinka Costan budjettineuvottelut saivat aikaan uuden kriisin",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-costas-budget-talks-sparked-a-new-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 05:45"
+  },
+  {
+    "headline": "New Zealand election ends in hung parliament",
+    "headline_fi": "Uuden-Seelannin vaalit päättyivät riippuvaan parlamenttiin",
+    "link": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 05:13"
+  },
+  {
+    "headline": "Bank of England boss warns AI must benefit humans",
+    "headline_fi": "Bank of Englandin pääjohtaja varoittaa, että tekoälyn on hyödytettävä ihmisiä",
+    "link": "https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 05:00"
+  },
+  {
+    "headline": "Ukraine cajoles allies to keep Putin’s athletes out",
+    "headline_fi": "Ukraina kannustaa liittolaisiaan pitämään Putinin urheilijat poissa",
+    "link": "https://www.politico.eu/article/ukraine-pushes-allies-keep-russian-athletes-out-putin-international-sport-restrictions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 05:00"
+  },
+  {
+    "headline": "Spain’s looming right-wing pivot on climate is already playing out in Valencia",
+    "headline_fi": "Espanjan uhkaava oikeistolainen ilmastonmuutos näkyy jo Valenciassa",
+    "link": "https://www.politico.eu/article/spain-looming-right-wing-pivot-on-climate-is-already-playing-out-in-valencia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 05:00"
+  },
+  {
+    "headline": "Welfare wars: review, rinse, repeat",
+    "headline_fi": "Hyvinvointisodat: tarkista, huuhtele, toista",
+    "link": "https://www.politico.eu/podcast/westminster-insider/welfare-wars-review-rinse-repeat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 05:00"
+  },
+  {
+    "headline": "Spain’s right turn: What a PP-Vox government would mean for Madrid — and Brussels",
+    "headline_fi": "Espanjan oikea käännös: Mitä PP-Vox-hallitus merkitsisi Madridille - ja Brysselille",
+    "link": "https://www.politico.eu/article/spain-right-turn-what-pp-vox-government-would-mean-for-madrid-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 05:00"
+  },
+  {
+    "headline": "Budget summit walkout leaves EU one month to salvage deal",
+    "headline_fi": "Budjettihuippukokouksen ulosmarssi jättää EU:lle kuukauden pelastamaan sopimuksen",
+    "link": "https://www.politico.eu/article/eu-budget-summit-walkout-antonio-costa-leaves-one-month-negotiations-drama/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 04:50"
+  },
+  {
+    "headline": "'A lot of political theatre': EU summit ends in disarray as leaders cling to red lines",
+    "headline_fi": "\"Paljon poliittista teatteria\": EU:n huippukokous päättyy sekaannukseen, kun johtajat pitävät kiinni punaisista viivoista",
+    "link": "https://www.euronews.com/2026/11/27/a-lot-of-political-theatre-eu-summit-ends-in-disarray-as-leaders-cling-to-red-lines",
+    "source": "Euronews",
+    "pub": "2026-11-27 02:16"
+  },
+  {
+    "headline": "EU leaders brave clash with Trump over tech tax, defense, Ukraine",
+    "headline_fi": "EU-johtajat ottivat rohkeasti yhteen Trumpin kanssa teknologiaverosta, puolustuksesta ja Ukrainasta",
+    "link": "https://www.politico.eu/article/eu-leaders-brave-clash-with-trump-over-tech-tax-defense-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 01:38"
+  },
+  {
+    "headline": "Black Friday hype stems from a desire 'to be part of a collective event', expert says",
+    "headline_fi": "Black Friday hype johtuu halusta \"olla osa kollektiivista tapahtumaa\", asiantuntija sanoo",
+    "link": "https://www.france24.com/en/video/20261126-black-friday-hype-stems-from-a-desire-to-be-part-of-a-collective-event-expert-says",
+    "source": "France 24",
+    "pub": "2026-11-27 00:54"
+  },
+  {
+    "headline": "RN’s antisemitic past ‘coming back to haunt them’: Will Le Pen ‘distance herself’ from Bardella?",
+    "headline_fi": "RN:n antisemitistinen menneisyys \"palaa kummittelemaan heitä\": \"Etäutuuko Le Pen\" Bardellasta?",
+    "link": "https://www.france24.com/en/rn-s-antisemitic-past-coming-back-to-haunt-them-will-le-pen-distance-herself-from-bardella",
+    "source": "France 24",
+    "pub": "2026-11-27 00:25"
+  },
+  {
+    "headline": "Is Spain's snap election being rigged? Debunking viral claims",
+    "headline_fi": "Väärennetäänkö Espanjan ennenaikaisia ​​vaaleja?Virusvaatimusten kumoaminen",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims",
+    "source": "France 24",
+    "pub": "2026-11-27 00:17"
+  },
+  {
+    "headline": "'Citizens angry with the establishment' as Spain heads to the polls",
+    "headline_fi": "\"Kansalaiset ovat vihaisia ​​laitokselle\", kun Espanja on menossa vaaleihin",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20261126-citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
+    "source": "France 24",
+    "pub": "2026-11-27 00:16"
+  },
+  {
+    "headline": "'Citizens angry with the establishment' as Spain heads to the polls",
+    "headline_fi": "\"Kansalaiset ovat vihaisia ​​laitokselle\", kun Espanja on menossa vaaleihin",
+    "link": "https://www.france24.com/en/citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
+    "source": "France 24",
+    "pub": "2026-11-27 00:15"
+  },
+  {
     "headline": "Germany: Christmas markets open across the country amid tight security",
     "headline_fi": "Saksa: Joulumarkkinat avautuvat kaikkialla maassa tiukan turvallisuuden keskellä",
     "link": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security",
@@ -36,105 +141,98 @@
   },
   {
     "headline": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
-    "headline_fi": "Iranin monarkistit häiritsevät Pariisin tapahtumaa korostaen katkeraa diasporan kahtiajakoa",
+    "headline_fi": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
     "link": "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide",
     "source": "France 24",
     "pub": "2026-11-26 23:09"
   },
   {
     "headline": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
-    "headline_fi": "Sanchezin suuri uhkapeli: Kääntyykö Espanja sosialisteista kovaan?",
+    "headline_fi": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20261126-sanchez-s-big-gamble-will-spain-swing-from-socialists-to-hard-right",
     "source": "France 24",
     "pub": "2026-11-26 22:53"
   },
   {
     "headline": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-    "headline_fi": "Albanian nuoret protestoivat flamingovallankumousta vastaan, eivätkä lähde enää maasta",
+    "headline_fi": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
     "link": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 22:44"
   },
   {
     "headline": "Gerard Depardieu to stand trial in France for rape and sexual assault",
-    "headline_fi": "Gerard Depardieu joutuu oikeuden eteen Ranskassa raiskauksesta ja seksuaalisesta hyväksikäytöstä",
+    "headline_fi": "Gerard Depardieu to stand trial in France for rape and sexual assault",
     "link": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 22:41"
   },
   {
-    "headline": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
-    "headline_fi": "Trump poikkeaa Naton lausunnosta ja korostaa, ettei Ukrainan pidä laajentaa sotaa",
-    "link": "https://www.politico.eu/article/donald-trump-diverges-from-nato-statement-emphasizing-ukraine-mustnt-expand-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-26 22:40"
-  },
-  {
     "headline": "Hamas weighs response after Israel kills 10 people in Gaza",
-    "headline_fi": "Hamas punnitsee vastausta Israelin surmattua 10 ihmistä Gazassa",
+    "headline_fi": "Hamas weighs response after Israel kills 10 people in Gaza",
     "link": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
     "source": "France 24",
     "pub": "2026-11-26 22:35"
   },
   {
     "headline": "Trump urges Putin to end 'military aggression' in Europe",
-    "headline_fi": "Trump kehottaa Putinia lopettamaan \"sotilaallisen aggression\" Euroopassa",
+    "headline_fi": "Trump urges Putin to end 'military aggression' in Europe",
     "link": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
     "source": "France 24",
     "pub": "2026-11-26 22:10"
   },
   {
     "headline": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
-    "headline_fi": "Belgia: Viljelijät ja traktorit laskeutuvat Brysseliin puolustamaan EU:n tukia",
+    "headline_fi": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
     "link": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
     "source": "Euronews",
     "pub": "2026-11-26 22:10"
   },
   {
     "headline": "Guinea-Bissau junta delays presidential vote for 2 years",
-    "headline_fi": "Guinea-Bissaun junta lykkää presidentinvaalit kahdella vuodella",
+    "headline_fi": "Guinea-Bissau junta delays presidential vote for 2 years",
     "link": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 22:09"
   },
   {
     "headline": "France's Bardella faces new allegations of anti-Semitic comments",
-    "headline_fi": "Ranskalainen Bardella kohtaa uusia syytöksiä juutalaisvastaisista kommenteista",
+    "headline_fi": "France's Bardella faces new allegations of anti-Semitic comments",
     "link": "https://www.france24.com/en/france-s-bardella-faces-new-allegations-of-antisemitic-comments",
     "source": "France 24",
     "pub": "2026-11-26 22:05"
   },
   {
     "headline": "UK-EU food deal carries exit penalty, legal text shows",
-    "headline_fi": "Ison-Britannian ja EU:n ruokasopimuksesta seuraa irtisanomissakko, kertoo lakiteksti",
+    "headline_fi": "UK-EU food deal carries exit penalty, legal text shows",
     "link": "https://www.euronews.com/2026/11/26/uk-eu-food-deal-carries-exit-penalty-legal-text-shows",
     "source": "Euronews",
     "pub": "2026-11-26 22:02"
   },
   {
     "headline": "Le Pen slams push for EU budget deal before French election",
-    "headline_fi": "Le Pen arvostelee EU:n budjettisopimusta ennen Ranskan vaaleja",
+    "headline_fi": "Le Pen slams push for EU budget deal before French election",
     "link": "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
     "source": "France 24",
     "pub": "2026-11-26 22:02"
   },
   {
     "headline": "French far-right leader Jordan Bardella faces fresh allegations of anti-Semitism",
-    "headline_fi": "Ranskan äärioikeistolainen johtaja Jordan Bardella kohtaa uusia syytöksiä antisemitismistä",
+    "headline_fi": "French far-right leader Jordan Bardella faces fresh allegations of anti-Semitism",
     "link": "https://www.france24.com/en/video/20261126-french-far-right-leader-jordan-bardella-faces-fresh-allegations-of-anti-semitism",
     "source": "France 24",
     "pub": "2026-11-26 20:51"
   },
   {
     "headline": "Reporters Without Borders demands suspension of controversial French TV channel CNews",
-    "headline_fi": "Toimittajat ilman rajoja vaatii kiistanalaisen ranskalaisen tv-kanavan CNewsin keskeyttämistä",
+    "headline_fi": "Reporters Without Borders demands suspension of controversial French TV channel CNews",
     "link": "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
     "source": "France 24",
     "pub": "2026-11-26 20:48"
   },
   {
     "headline": "Trial of Berlin woman accused of spying for Russia begins after delay",
-    "headline_fi": "Oikeudenkäynti Venäjän hyväksi vakoilusta syytettyä berliiniläistä vastaan ​​alkaa viiveellä",
+    "headline_fi": "Trial of Berlin woman accused of spying for Russia begins after delay",
     "link": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 19:44"
@@ -301,13 +399,6 @@
     "pub": "2026-11-26 17:00"
   },
   {
-    "headline": "EU Commission offers little in response to US drug pricing pressures",
-    "headline_fi": "EU Commission offers little in response to US drug pricing pressures",
-    "link": "https://www.politico.eu/article/eu-commission-offers-little-in-response-to-us-drug-pricing-pressures/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-26 16:58"
-  },
-  {
     "headline": "From leadership crises to tech outages, can corporations rebuild public trust?",
     "headline_fi": "From leadership crises to tech outages, can corporations rebuild public trust?",
     "link": "https://www.france24.com/en/tv-shows/people-profit/20261126-from-leadership-crises-to-tech-outages-can-corporations-rebuild-public-trust",
@@ -320,13 +411,6 @@
     "link": "https://www.dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 16:50"
-  },
-  {
-    "headline": "French woman on trial for IS group propaganda tells court she’s ‘ashamed’",
-    "headline_fi": "French woman on trial for IS group propaganda tells court she’s ‘ashamed’",
-    "link": "https://www.france24.com/en/france/20261126-french-woman-trial-is-group-propaganda-tells-court-she-ashamed",
-    "source": "France 24",
-    "pub": "2026-11-26 16:48"
   },
   {
     "headline": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
@@ -350,27 +434,6 @@
     "pub": "2026-11-26 16:40"
   },
   {
-    "headline": "Madagascar's near-total abortion ban puts women's lives at risk",
-    "headline_fi": "Madagascar's near-total abortion ban puts women's lives at risk",
-    "link": "https://www.france24.com/en/video/20261126-madagascar-s-near-total-abortion-ban-puts-women-s-lives-at-risk",
-    "source": "France 24",
-    "pub": "2026-11-26 16:22"
-  },
-  {
-    "headline": "Fighting in eastern Congo forces Ebola workers to evacuate, disrupts outbreak response",
-    "headline_fi": "Fighting in eastern Congo forces Ebola workers to evacuate, disrupts outbreak response",
-    "link": "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
-    "source": "France 24",
-    "pub": "2026-11-26 16:20"
-  },
-  {
-    "headline": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
-    "headline_fi": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
-    "link": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
-    "source": "France 24",
-    "pub": "2026-11-26 16:19"
-  },
-  {
     "headline": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
     "headline_fi": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
     "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
@@ -382,13 +445,6 @@
     "headline_fi": "From electric flying taxis in Guangzhou to digital hangars in Beijing: how China is reshaping air travel",
     "link": "https://www.euronews.com/2026/11/26/from-electric-flying-taxis-in-guangzhou-to-digital-hangars-in-beijing-how-china-is-reshapi",
     "source": "Euronews",
-    "pub": "2026-11-26 16:00"
-  },
-  {
-    "headline": "Europe’s food security starts with resilient farms",
-    "headline_fi": "Europe’s food security starts with resilient farms",
-    "link": "https://www.politico.eu/sponsored-content/europes-food-security-starts-with-resilient-farms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
     "pub": "2026-11-26 16:00"
   },
   {
@@ -411,13 +467,6 @@
     "link": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack",
     "source": "Euronews",
     "pub": "2026-11-26 15:19"
-  },
-  {
-    "headline": "10 key faces of Spain’s next (likely) right-wing government",
-    "headline_fi": "10 key faces of Spain’s next (likely) right-wing government",
-    "link": "https://www.politico.eu/article/10-key-faces-of-spains-next-likely-right-wing-government/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-26 14:48"
   },
   {
     "headline": "Farmers demonstrate in Brussels against EU budget cuts",
@@ -572,13 +621,6 @@
     "link": "https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says",
     "source": "Euronews",
     "pub": "2026-11-26 12:10"
-  },
-  {
-    "headline": "Cheaper, generic HIV prevention drug arrives in Zambia",
-    "headline_fi": "Cheaper, generic HIV prevention drug arrives in Zambia",
-    "link": "https://www.euronews.com/2026/11/26/cheaper-generic-hiv-prevention-drug-arrives-in-zambia",
-    "source": "Euronews",
-    "pub": "2026-11-26 11:58"
   },
   {
     "headline": "Germany news: Cologne court awards record damages in Catholic sex abuse case",
@@ -1034,13 +1076,6 @@
     "link": "https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-16 10:23"
-  },
-  {
-    "headline": "German economy returns to growth, so why is the country still worried?",
-    "headline_fi": "German economy returns to growth, so why is the country still worried?",
-    "link": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-15 18:12"
   },
   {
     "headline": "What's going on with the polar vortex?",
