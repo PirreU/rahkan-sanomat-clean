@@ -1,141 +1,435 @@
 [
   {
-    "headline": "With new law, Iraq sees rise in child marriage, custody battles",
-    "headline_fi": "Uuden lain myötä Irak näkee lapsiavioliittojen ja huoltajuuskiistojen lisääntyvän",
-    "link": "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
+    "headline": "US disables ship in Gulf of Oman under Iran blockade",
+    "headline_fi": "Yhdysvallat estää aluksen Omaninlahdella Iranin saarron alla",
+    "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-28 01:17"
+  },
+  {
+    "headline": "Uganda begins Africa's first mRNA Ebola vaccine trial",
+    "headline_fi": "Uganda aloittaa Afrikan ensimmäisen mRNA-ebola-rokotekokeen",
+    "link": "https://www.euronews.com/2026/11/27/uganda-begins-africas-first-mrna-ebola-vaccine-trial",
+    "source": "Euronews",
+    "pub": "2026-11-27 23:45"
+  },
+  {
+    "headline": "Uganda to withdraw troops from DR Congo",
+    "headline_fi": "Uganda vetää joukkonsa Kongon tasavallasta",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
     "source": "France 24",
-    "pub": "2026-11-27 16:48"
+    "pub": "2026-11-27 23:44"
+  },
+  {
+    "headline": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+    "headline_fi": "Ukraina jättää Mustanmeren tulitaukotarjouksen, odottaa Venäjän vastausta",
+    "link": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+    "source": "France 24",
+    "pub": "2026-11-27 23:09"
+  },
+  {
+    "headline": "Europe Tonight: How do opposing Spanish parties expect to address housing or imiigration issues?",
+    "headline_fi": "Europe Tonight: Miten vastustavat espanjalaiset puolueet odottavat käsittelevän asunto- tai maahanmuuttokysymyksiä?",
+    "link": "https://www.euronews.com/2026/11/27/europe-tonight-how-do-opposing-spanish-parties-expect-to-address-housing-or-imiigration-is",
+    "source": "Euronews",
+    "pub": "2026-11-27 22:47"
+  },
+  {
+    "headline": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+    "headline_fi": "Espanjan vaalit: \"Oikeistoäänestäjät ovat erittäin mobilisoituneita, vasemmistolaiset eivät tarpeeksi mobilisoituneita\"",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
+    "source": "France 24",
+    "pub": "2026-11-27 22:43"
+  },
+  {
+    "headline": "Canada: Supreme Court largely upholds Quebec secularism bill",
+    "headline_fi": "Kanada: Korkein oikeus pitää suurelta osin voimassa Quebecin maallistumislakia",
+    "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 22:43"
+  },
+  {
+    "headline": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+    "headline_fi": "Espanjan \"Frankenstein\"-koalition loppu?Presidentin juonittelu Pariisissa, Kushner & Kremlin Trap",
+    "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
+    "source": "France 24",
+    "pub": "2026-11-27 22:14"
+  },
+  {
+    "headline": "‘An advocate for Russia’: Kushner’s Putin comments spark outrage in Europe",
+    "headline_fi": "\"Venäjän puolestapuhuja\": Kushnerin Putinin kommentit herättävät raivoa Euroopassa",
+    "link": "https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-27 22:10"
+  },
+  {
+    "headline": "Germany news: Lawmakers approve debt-laden 2027 budget",
+    "headline_fi": "Saksan uutiset: Lainsäätäjät hyväksyvät velkaantuneen vuoden 2027 budjetin",
+    "link": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 21:18"
+  },
+  {
+    "headline": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit",
+    "headline_fi": "Viro sulkee rajansa Venäjän kanssa \"turvatakseen Euroopan\", ulkoministeri sanoi Bakun-vierailulla",
+    "link": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+    "source": "Euronews",
+    "pub": "2026-11-27 20:48"
+  },
+  {
+    "headline": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
+    "headline_fi": "Azerbaidžanin ja Armenian kansalaisyhteiskunnat etsivät \"uutta historiaa\" uudella rauhanneuvottelukierroksella",
+    "link": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+    "source": "Euronews",
+    "pub": "2026-11-27 20:36"
+  },
+  {
+    "headline": "Is Spain 'nostalgic' for Franco? Would traditional right PP consider an alliance with far-right Vox?",
+    "headline_fi": "Onko Espanja \"nostalginen\" Francolle?Harkitseeko perinteinen oikeisto PP liittoa äärioikeistolaisen Voxin kanssa?",
+    "link": "https://www.france24.com/en/is-spain-nostalgic-for-franco-would-traditional-right-pp-consider-an-alliance-with-far-right-vox",
+    "source": "France 24",
+    "pub": "2026-11-27 20:31"
+  },
+  {
+    "headline": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
+    "headline_fi": "\"Pahasta katastrofaaliseen: Iranin oikeusjärjestelmä oli epäoikeudenmukainen jo vuosikymmeniä\"",
+    "link": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
+    "source": "France 24",
+    "pub": "2026-11-27 20:18"
+  },
+  {
+    "headline": "Serbia’s student movement puts forward Professor Saičić as its presidential candidate",
+    "headline_fi": "Serbian opiskelijaliike asettaa professori Saičićin presidenttiehdokkaakseen",
+    "link": "https://www.euronews.com/2026/11/27/serbias-student-movement-puts-forward-professor-saicic-as-its-presidential-candidate",
+    "source": "Euronews",
+    "pub": "2026-11-27 20:01"
+  },
+  {
+    "headline": "Spain election: Will Vox be the kingmaker, and will housing decide the vote?",
+    "headline_fi": "Espanjan vaalit: Onko Vox kuninkaantekijä, ja ratkaiseeko asunnot äänestyksen?",
+    "link": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-and-how-crucial-is-the-housing-issue",
+    "source": "Euronews",
+    "pub": "2026-11-27 19:40"
+  },
+  {
+    "headline": "Spain races to stop oil spill after ship capsizes off Ibiza",
+    "headline_fi": "Espanja pyrkii pysäyttämään öljyvuodon laivan kaatuttua Ibizan edustalla",
+    "link": "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza",
+    "source": "France 24",
+    "pub": "2026-11-27 19:35"
+  },
+  {
+    "headline": "French far-left candidate Mélenchon demands ‘thorough overhaul’ of Germany ties",
+    "headline_fi": "Ranskan äärivasemmistoehdokas Mélenchon vaatii Saksan suhteiden perusteellista uudistamista",
+    "link": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
+    "source": "France 24",
+    "pub": "2026-11-27 19:31"
+  },
+  {
+    "headline": "Paris Paloma tackles Greek mythology, generative AI in her second album 'The Fatal Flaw'",
+    "headline_fi": "Paris Paloma käsittelee kreikkalaista mytologiaa ja generatiivista tekoälyä toisella albumillaan The Fatal Flaw",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw",
+    "source": "France 24",
+    "pub": "2026-11-27 19:25"
+  },
+  {
+    "headline": "EU enlargement back in focus: Montenegro, Moldova and Greece's 2027 role",
+    "headline_fi": "EU:n laajentuminen jälleen huomion kohteena: Montenegro, Moldova ja Kreikan rooli vuonna 2027",
+    "link": "https://www.euronews.com/2026/11/27/eu-enlargement-back-in-focus-montenegro-moldova-and-greeces-2027-role",
+    "source": "Euronews",
+    "pub": "2026-11-27 19:21"
+  },
+  {
+    "headline": "Uzbek teacher turns school recycling problem into an award-winning green education project",
+    "headline_fi": "Uzbek teacher turns school recycling problem into an award-winning green education project",
+    "link": "https://www.euronews.com/2026/11/27/uzbek-teacher-turns-school-recycling-problem-into-an-award-winning-green-education-project",
+    "source": "Euronews",
+    "pub": "2026-11-27 19:11"
+  },
+  {
+    "headline": "France is dealing with water insecurity – a new study shows it's a global problem",
+    "headline_fi": "France is dealing with water insecurity – a new study shows it's a global problem",
+    "link": "https://www.france24.com/en/environment/20261127-france-dealing-with-water-insecurity-%E2%80%93-new-study-shows-global-problem",
+    "source": "France 24",
+    "pub": "2026-11-27 19:10"
+  },
+  {
+    "headline": "Big EU defence projects under threat from proposed budget cuts: Commissioner Andrius Kubilius",
+    "headline_fi": "Big EU defence projects under threat from proposed budget cuts: Commissioner Andrius Kubilius",
+    "link": "https://www.france24.com/en/tv-shows/talking-europe/20261127-big-eu-defence-projects-under-threat-from-proposed-budget-cuts-commissioner-andrius-kubilius",
+    "source": "France 24",
+    "pub": "2026-11-27 19:03"
+  },
+  {
+    "headline": "From cyberbullying to extremist content, can EU Kids Act protect minors online?",
+    "headline_fi": "From cyberbullying to extremist content, can EU Kids Act protect minors online?",
+    "link": "https://www.france24.com/en/tv-shows/talking-europe/20261127-from-cyberbullying-to-extremist-content-can-eu-kids-act-protect-minors-online",
+    "source": "France 24",
+    "pub": "2026-11-27 19:02"
+  },
+  {
+    "headline": "Latest news bulletin | November 27th, 2026 – Evening",
+    "headline_fi": "Latest news bulletin | November 27th, 2026 – Evening",
+    "link": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-evening",
+    "source": "Euronews",
+    "pub": "2026-11-27 19:00"
+  },
+  {
+    "headline": "Italian MPs' EU committee questions the core of the hunting reform",
+    "headline_fi": "Italian MPs' EU committee questions the core of the hunting reform",
+    "link": "https://www.euronews.com/2026/11/27/italian-mps-eu-committee-questions-the-core-of-the-hunting-reform",
+    "source": "Euronews",
+    "pub": "2026-11-27 18:59"
+  },
+  {
+    "headline": "Europe Tonight: EU budget summit collapses as Spain braces for vote and UK unveils deal",
+    "headline_fi": "Europe Tonight: EU budget summit collapses as Spain braces for vote and UK unveils deal",
+    "link": "https://www.euronews.com/2026/11/27/europe-tonight-eu-budget-summit-collapses-as-spain-braces-for-vote-and-uk-unveils-deal",
+    "source": "Euronews",
+    "pub": "2026-11-27 18:58"
+  },
+  {
+    "headline": "France seeks German man in Channel migrant boat probe",
+    "headline_fi": "France seeks German man in Channel migrant boat probe",
+    "link": "https://www.dw.com/en/france-seeks-german-man-in-channel-migrant-boat-probe/a-80078069?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 18:53"
+  },
+  {
+    "headline": "Divisions deepen between EU member states after tense budget summit",
+    "headline_fi": "Divisions deepen between EU member states after tense budget summit",
+    "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 18:51"
+  },
+  {
+    "headline": "Turkey summons Georgian envoy after football fans' pro-Palestine protest sparks clashes",
+    "headline_fi": "Turkey summons Georgian envoy after football fans' pro-Palestine protest sparks clashes",
+    "link": "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
+    "source": "France 24",
+    "pub": "2026-11-27 18:37"
+  },
+  {
+    "headline": "Sierra Leone: Maternal deaths fall as healthcare improves, but challenges remain",
+    "headline_fi": "Sierra Leone: Maternal deaths fall as healthcare improves, but challenges remain",
+    "link": "https://www.france24.com/en/video/20261127-sierra-leone-maternal-deaths-fall-as-healthcare-improves-but-challenges-remain",
+    "source": "France 24",
+    "pub": "2026-11-27 18:37"
+  },
+  {
+    "headline": "DR Congo: Copper reserves put Africa at the centre of the global race for critical minerals",
+    "headline_fi": "DR Congo: Copper reserves put Africa at the centre of the global race for critical minerals",
+    "link": "https://www.france24.com/en/video/20261127-dr-congo-copper-reserves-put-africa-at-the-centre-of-the-global-race-for-critical-minerals",
+    "source": "France 24",
+    "pub": "2026-11-27 18:30"
+  },
+  {
+    "headline": "With Spain’s far right on the cusp of power, can women bail Sanchez out once again?",
+    "headline_fi": "With Spain’s far right on the cusp of power, can women bail Sanchez out once again?",
+    "link": "https://www.france24.com/en/europe/20261127-spain-far-right-vox-at-the-gates-can-women-bail-out-sanchez-once-again",
+    "source": "France 24",
+    "pub": "2026-11-27 18:27"
+  },
+  {
+    "headline": "Nigeria: Political violence and attacks on candidates raise fears ahead of January elections",
+    "headline_fi": "Nigeria: Political violence and attacks on candidates raise fears ahead of January elections",
+    "link": "https://www.france24.com/en/video/20261127-nigeria-political-violence-and-attacks-on-candidates-raise-fears-ahead-of-january-elections",
+    "source": "France 24",
+    "pub": "2026-11-27 18:25"
+  },
+  {
+    "headline": "German Bundestag approves record 2027 budget as borrowing hits €210bn",
+    "headline_fi": "German Bundestag approves record 2027 budget as borrowing hits €210bn",
+    "link": "https://www.euronews.com/2026/11/27/german-bundestag-approves-record-2027-budget-as-borrowing-hits-210bn",
+    "source": "Euronews",
+    "pub": "2026-11-27 18:15"
+  },
+  {
+    "headline": "Kanal-Centre Pompidou, Brussels' most anticipated new art museum, opens its doors",
+    "headline_fi": "Kanal-Centre Pompidou, Brussels' most anticipated new art museum, opens its doors",
+    "link": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-art-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 18:15"
+  },
+  {
+    "headline": "Smolensk crash: Experts identify landing errors, rule out explosion",
+    "headline_fi": "Smolensk crash: Experts identify landing errors, rule out explosion",
+    "link": "https://www.euronews.com/2026/11/27/smolensk-crash-experts-identify-landing-errors-rule-out-explosion",
+    "source": "Euronews",
+    "pub": "2026-11-27 18:08"
+  },
+  {
+    "headline": "French student protests: A 'very bizarre' government response",
+    "headline_fi": "French student protests: A 'very bizarre' government response",
+    "link": "https://www.france24.com/en/video/20261127-student-movement-in-france-the-situation-has-varied-greatly-from-one-school-to-another",
+    "source": "France 24",
+    "pub": "2026-11-27 18:04"
+  },
+  {
+    "headline": "Spain election 2026: What are voters worried about?",
+    "headline_fi": "Spain election 2026: What are voters worried about?",
+    "link": "https://www.euronews.com/video/2026/11/27/spain-election-2026-what-are-voters-worried-about",
+    "source": "Euronews",
+    "pub": "2026-11-27 18:03"
+  },
+  {
+    "headline": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
+    "headline_fi": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
+    "link": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 17:48"
+  },
+  {
+    "headline": "By Putin's logic, Russia should be returned to Mongolia, Belarus' Lukashenka says",
+    "headline_fi": "By Putin's logic, Russia should be returned to Mongolia, Belarus' Lukashenka says",
+    "link": "https://www.euronews.com/2026/11/27/by-putins-logic-russia-should-go-back-to-mongolia-belarus-lukashenka-says",
+    "source": "Euronews",
+    "pub": "2026-11-27 17:37"
+  },
+  {
+    "headline": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
+    "headline_fi": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
+    "link": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
+    "source": "Euronews",
+    "pub": "2026-11-27 17:16"
+  },
+  {
+    "headline": "Arsenic in the water: Thailand presses Myanmar over mining pollution",
+    "headline_fi": "Arsenic in the water: Thailand presses Myanmar over mining pollution",
+    "link": "https://www.dw.com/en/arsenic-in-the-water-thailand-presses-myanmar-over-mining-pollution/a-80074295?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-27 16:56"
   },
   {
     "headline": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
-    "headline_fi": "Olisimme \"tyhmiä\", jos emme: Puola puolustaa 300 miljoonan dollarin sotilaallista tekoälysopimusta Palantirin kanssa",
+    "headline_fi": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
     "link": "https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-27 16:41"
   },
   {
     "headline": "Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews",
-    "headline_fi": "Trumpin tullit lähensivät EU:ta ja Indonesiaa kauppaa, ministeri kertoo Euronewsille",
+    "headline_fi": "Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews",
     "link": "https://www.euronews.com/2026/11/27/trump-tariffs-brought-eu-and-indonesia-closer-on-trade-minister-tells-euronews",
     "source": "Euronews",
     "pub": "2026-11-27 16:29"
   },
   {
     "headline": "Georgia: Police clash with Besiktas fans at Israel club game",
-    "headline_fi": "Georgia: Poliisi otti yhteen Besiktas-fanien kanssa Israelin seuran ottelussa",
+    "headline_fi": "Georgia: Police clash with Besiktas fans at Israel club game",
     "link": "https://www.dw.com/en/georgia-police-clash-with-besiktas-fans-at-israel-club-game/a-80076111?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 16:21"
   },
   {
     "headline": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
-    "headline_fi": "Lentoyhtiö Norse Atlantic hakeutuu konkurssiin ja periksi lentopolttoainekustannuksista",
+    "headline_fi": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
     "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 16:20"
   },
   {
     "headline": "A green valley with a circular twist: Austria´s  shapes the sustainable tech of tomorrow",
-    "headline_fi": "Vihreä laakso pyöreällä kierteellä: Itävalta muotoilee huomisen kestävää tekniikkaa",
+    "headline_fi": "A green valley with a circular twist: Austria´s  shapes the sustainable tech of tomorrow",
     "link": "https://www.euronews.com/2026/11/27/a-green-valley-with-a-circular-twist-austrias-shapes-the-sustainable-tech-of-tomorrow",
     "source": "Euronews",
     "pub": "2026-11-27 16:00"
   },
   {
-    "headline": "German lawmakers approve debt-laden 2027 budget",
-    "headline_fi": "Saksan lainsäätäjät hyväksyivät velkaantuneen vuoden 2027 budjetin",
-    "link": "https://www.dw.com/en/german-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-27 15:54"
+    "headline": "Watch: Police officer chases wild turkey on New Jersey highway",
+    "headline_fi": "Watch: Police officer chases wild turkey on New Jersey highway",
+    "link": "https://www.euronews.com/video/2026/11/27/watch-police-officer-chases-wild-turkey-on-new-jersey-highway",
+    "source": "Euronews",
+    "pub": "2026-11-27 15:55"
   },
   {
     "headline": "Uzbekistan and Kazakhstan reopen key border crossing for up to 100,000 travellers a day",
-    "headline_fi": "Uzbekistan ja Kazakstan avaavat uudelleen keskeiset rajanylityspaikat jopa 100 000 matkustajalle päivässä",
+    "headline_fi": "Uzbekistan and Kazakhstan reopen key border crossing for up to 100,000 travellers a day",
     "link": "https://www.euronews.com/2026/11/27/uzbekistan-and-kazakhstan-reopen-key-border-crossing-for-up-to-100000-travellers-a-day",
     "source": "Euronews",
     "pub": "2026-11-27 15:43"
   },
   {
     "headline": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
-    "headline_fi": "EU:n budjettihuippukokous romahtaa, kun rahakiista paljastaa ristiriidan Euroopan strategisista tehtävistä",
+    "headline_fi": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
     "link": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks",
     "source": "Euronews",
     "pub": "2026-11-27 15:33"
   },
   {
-    "headline": "The Gambia election: Can Barrow secure a third term?",
-    "headline_fi": "Gambian vaalit: Voiko Barrow turvata kolmannen kauden?",
-    "link": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-rdf",
+    "headline": "As Gambia gears up for election, can Barrow secure a third term?",
+    "headline_fi": "As Gambia gears up for election, can Barrow secure a third term?",
+    "link": "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 15:31"
   },
   {
-    "headline": "On the arrest of Informer TV owner and editor-in-chief Dragan J. Vucicevic: Has the reckoning with Serbia's pro-Vucic media machine begun?",
-    "headline_fi": "Informer TV:n omistajan ja päätoimittajan Dragan J. Vucicevicin pidätyksestä: Onko tilittäminen Serbian Vucic-mediakoneiston kanssa alkanut?",
-    "link": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-rdf",
+    "headline": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+    "headline_fi": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+    "link": "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 15:28"
   },
   {
     "headline": "Duterte's ICC trial: What is at stake for the Philippines?",
-    "headline_fi": "Duterten ICC-oikeudenkäynti: Mikä on vaakalaudalla Filippiineillä?",
+    "headline_fi": "Duterte's ICC trial: What is at stake for the Philippines?",
     "link": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 15:23"
   },
   {
     "headline": "‘Live and ongoing’ cyber incident takes down UK Department for Work and Pensions online services",
-    "headline_fi": "\"Elävä ja jatkuva\" kybertapahtuma kaataa Yhdistyneen kuningaskunnan työ- ja eläkeministeriön verkkopalvelut",
+    "headline_fi": "‘Live and ongoing’ cyber incident takes down UK Department for Work and Pensions online services",
     "link": "https://www.euronews.com/2026/11/27/live-and-ongoing-cyber-incident-takes-down-uk-department-for-work-and-pensions-online-serv",
     "source": "Euronews",
     "pub": "2026-11-27 15:18"
   },
   {
-    "headline": "Risks of child marriage in Iran complicated by war",
-    "headline_fi": "Lapsiavioliiton riskit Iranissa vaikeuttavat sotaa",
-    "link": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-all-1573-rdf",
+    "headline": "In Iran, child marriage risks complicated by war",
+    "headline_fi": "In Iran, child marriage risks complicated by war",
+    "link": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 15:06"
   },
   {
     "headline": "North Korea halts Russia military aid over Seoul row, Kyiv says",
-    "headline_fi": "Pohjois-Korea keskeyttää Venäjän sotilaallisen avun Soul-kiistan vuoksi, Kiova sanoo",
+    "headline_fi": "North Korea halts Russia military aid over Seoul row, Kyiv says",
     "link": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
     "source": "Euronews",
     "pub": "2026-11-27 14:53"
   },
   {
     "headline": "No burqas at school and fewer foreign pupils: Italy passes controversial education law",
-    "headline_fi": "Ei burkaa koulussa ja vähemmän ulkomaalaisia ​​oppilaita: Italia hyväksyy kiistanalaisen koulutuslain",
+    "headline_fi": "No burqas at school and fewer foreign pupils: Italy passes controversial education law",
     "link": "https://www.euronews.com/2026/11/27/no-burqas-at-school-and-fewer-foreign-pupils-italy-passes-controversial-education-law",
     "source": "Euronews",
     "pub": "2026-11-27 14:52"
   },
   {
     "headline": "France's government faces mounting pressure from both sides of the barricades",
-    "headline_fi": "Ranskan hallitukseen kohdistuu lisääntyvää painetta barrikadejen molemmilta puolilta",
+    "headline_fi": "France's government faces mounting pressure from both sides of the barricades",
     "link": "https://www.euronews.com/2026/11/27/frances-government-faces-mounting-pressure-from-both-sides-of-the-barricades",
     "source": "Euronews",
     "pub": "2026-11-27 14:51"
   },
   {
     "headline": "Philippines: VP Duterte says father's ICC case 'not a fair trial'",
-    "headline_fi": "Filippiinit: VP Duterte sanoo, että isän ICC-tapaus \"ei reilu oikeudenkäynti\"",
+    "headline_fi": "Philippines: VP Duterte says father's ICC case 'not a fair trial'",
     "link": "https://www.dw.com/en/philippines-vp-duterte-says-father-s-icc-case-not-a-fair-trial/a-80074359?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 14:51"
   },
   {
-    "headline": "BSW set to play major role in German politics once more",
-    "headline_fi": "BSW:llä on jälleen tärkeä rooli Saksan politiikassa",
-    "link": "https://www.dw.com/en/bsw-set-to-play-major-role-in-german-politics-once-more/a-80074417?maca=en-rss-en-all-1573-rdf",
+    "headline": "The tiny BSW is a party in crisis, as it is set to hand the far-right AfD power in eastern Germany",
+    "headline_fi": "The tiny BSW is a party in crisis, as it is set to hand the far-right AfD power in eastern Germany",
+    "link": "https://www.dw.com/en/the-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-eastern-germany/a-80074417?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 14:45"
   },
   {
-    "headline": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
-    "headline_fi": "Ukrainalainen Heraskevych ylisti EU:n vastustamista venäläisiä urheilijoita vastaan",
-    "link": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-rdf",
+    "headline": "Russia sports ban: Ukraine's Heraskevych hails EU pushback",
+    "headline_fi": "Russia sports ban: Ukraine's Heraskevych hails EU pushback",
+    "link": "https://www.dw.com/en/russia-sports-ban-ukraine-s-heraskevych-hails-eu-pushback/a-80074375?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-27 14:37"
   },
@@ -175,27 +469,6 @@
     "pub": "2026-11-27 14:00"
   },
   {
-    "headline": "Ukraine: Residents brace for another difficult winter",
-    "headline_fi": "Ukraine: Residents brace for another difficult winter",
-    "link": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
-    "source": "France 24",
-    "pub": "2026-11-27 13:54"
-  },
-  {
-    "headline": "Spain election: Housing crisis and immigration dominate final campaign debate",
-    "headline_fi": "Spain election: Housing crisis and immigration dominate final campaign debate",
-    "link": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
-    "source": "France 24",
-    "pub": "2026-11-27 13:51"
-  },
-  {
-    "headline": "Kuwait: Two Italians killed in drone attack",
-    "headline_fi": "Kuwait: Two Italians killed in drone attack",
-    "link": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
-    "source": "France 24",
-    "pub": "2026-11-27 13:45"
-  },
-  {
     "headline": "Euronews Culture's Film of the Week: 'The Further Mis-Adventures of Cliff Booth' - Fincher with fries?",
     "headline_fi": "Euronews Culture's Film of the Week: 'The Further Mis-Adventures of Cliff Booth' - Fincher with fries?",
     "link": "https://www.euronews.com/2026/11/27/euronews-cultures-film-of-the-week-the-further-mis-adventures-of-cliff-booth-fincher-with-",
@@ -203,18 +476,11 @@
     "pub": "2026-11-27 13:44"
   },
   {
-    "headline": "EU: Leaders fail to reach agreement on next budget after tense summit",
-    "headline_fi": "EU: Leaders fail to reach agreement on next budget after tense summit",
-    "link": "https://www.france24.com/en/video/20261127-eu-leaders-fail-to-reach-agreement-on-next-budget-after-tense-summit",
-    "source": "France 24",
-    "pub": "2026-11-27 13:42"
-  },
-  {
-    "headline": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
-    "headline_fi": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
-    "link": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-reaches-deal-with-left-wing-faction-as-coalition-talks-gain-steam",
-    "source": "France 24",
-    "pub": "2026-11-27 13:36"
+    "headline": "Marseille face possible UEFA sanctions after violence at Europa League match",
+    "headline_fi": "Marseille face possible UEFA sanctions after violence at Europa League match",
+    "link": "https://www.euronews.com/2026/11/27/marseille-stadium-violence-escalates-into-diplomatic-affair-between-france-and-bulgaria",
+    "source": "Euronews",
+    "pub": "2026-11-27 13:32"
   },
   {
     "headline": "Does Europe have a cybersecurity problem? | Password",
@@ -287,13 +553,6 @@
     "pub": "2026-11-27 13:13"
   },
   {
-    "headline": "Immigration: South Africa no longer an El Dorado for foreigners",
-    "headline_fi": "Immigration: South Africa no longer an El Dorado for foreigners",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20261127-immigration-south-africa-no-longer-an-el-dorado-for-foreigners",
-    "source": "France 24",
-    "pub": "2026-11-27 13:02"
-  },
-  {
     "headline": "Spain’s conservative and far-right parties likely to ‘secure a majority’ in Sunday’s election, expert says",
     "headline_fi": "Spain’s conservative and far-right parties likely to ‘secure a majority’ in Sunday’s election, expert says",
     "link": "https://www.euronews.com/video/2026/11/27/spains-conservative-and-far-right-parties-likely-to-secure-a-majority-in-sundays-election-",
@@ -315,34 +574,6 @@
     "pub": "2026-11-27 13:00"
   },
   {
-    "headline": "Spain’s Pedro makes final campaign push to beat the right ahead of crunch vote",
-    "headline_fi": "Spain’s Pedro makes final campaign push to beat the right ahead of crunch vote",
-    "link": "https://www.france24.com/en/europe/20261127-sanchez-makes-last-bid-to-beat-the-right-ahead-of-spanish-vote",
-    "source": "France 24",
-    "pub": "2026-11-27 12:57"
-  },
-  {
-    "headline": "Israel's Eisenkot and left-wing party agree coalition deal",
-    "headline_fi": "Israel's Eisenkot and left-wing party agree coalition deal",
-    "link": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-and-left-wing-party-agree-coalition-deal",
-    "source": "France 24",
-    "pub": "2026-11-27 12:48"
-  },
-  {
-    "headline": "Spain general election 2026: Could Sánchez lose power?",
-    "headline_fi": "Spain general election 2026: Could Sánchez lose power?",
-    "link": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
-    "source": "France 24",
-    "pub": "2026-11-27 12:46"
-  },
-  {
-    "headline": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
-    "headline_fi": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
-    "link": "https://www.france24.com/en/video/20261127-eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine",
-    "source": "France 24",
-    "pub": "2026-11-27 12:45"
-  },
-  {
     "headline": "NATO jets scrambled after drone briefly enters Latvian airspace",
     "headline_fi": "NATO jets scrambled after drone briefly enters Latvian airspace",
     "link": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
@@ -355,13 +586,6 @@
     "link": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
     "source": "Euronews",
     "pub": "2026-11-27 12:37"
-  },
-  {
-    "headline": "Live: Trump calls on Putin to end all 'military aggression' against Europe",
-    "headline_fi": "Live: Trump calls on Putin to end all 'military aggression' against Europe",
-    "link": "https://www.france24.com/en/europe/20261127-live-trump-calls-on-putin-to-end-all-military-aggression-against-europe",
-    "source": "France 24",
-    "pub": "2026-11-27 12:22"
   },
   {
     "headline": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
@@ -378,39 +602,11 @@
     "pub": "2026-11-27 12:04"
   },
   {
-    "headline": "Why is India so afraid of Pakistan's new Netflix series?",
-    "headline_fi": "Why is India so afraid of Pakistan's new Netflix series?",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20261127-why-is-india-so-afraid-of-pakistan-s-new-netflix-series",
-    "source": "France 24",
-    "pub": "2026-11-27 11:56"
-  },
-  {
     "headline": "Trump’s latest tariffs attempt to revive old policy, trade expert says",
     "headline_fi": "Trump’s latest tariffs attempt to revive old policy, trade expert says",
     "link": "https://www.euronews.com/video/2026/11/27/trumps-latest-tariffs-attempt-to-revive-old-policy-trade-expert-says",
     "source": "Euronews",
     "pub": "2026-11-27 11:55"
-  },
-  {
-    "headline": "Five people hospitalised as Levski Sofia and Marseille fans clash ahead of Europa League game",
-    "headline_fi": "Five people hospitalised as Levski Sofia and Marseille fans clash ahead of Europa League game",
-    "link": "https://www.france24.com/en/france/20261127-five-people-hospitalised-as-levski-sofia-and-marseille-fans-clash-ahead-of-europa-league-game",
-    "source": "France 24",
-    "pub": "2026-11-27 11:36"
-  },
-  {
-    "headline": "France's inflation slows to 2.9% in November as energy prices fall",
-    "headline_fi": "France's inflation slows to 2.9% in November as energy prices fall",
-    "link": "https://www.euronews.com/2026/11/27/frances-inflation-slows-to-29-in-november-as-energy-prices-fall",
-    "source": "Euronews",
-    "pub": "2026-11-27 11:24"
-  },
-  {
-    "headline": "What the ECB’s new leadership could mean for interest rates",
-    "headline_fi": "What the ECB’s new leadership could mean for interest rates",
-    "link": "https://www.euronews.com/2026/11/27/what-the-ecbs-new-leadership-could-mean-for-interest-rates",
-    "source": "Euronews",
-    "pub": "2026-11-27 11:18"
   },
   {
     "headline": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
@@ -420,109 +616,11 @@
     "pub": "2026-11-27 10:59"
   },
   {
-    "headline": "Estonia prepares to close all five road border crossings with Russia",
-    "headline_fi": "Estonia prepares to close all five road border crossings with Russia",
-    "link": "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
-    "source": "Euronews",
-    "pub": "2026-11-27 10:57"
-  },
-  {
-    "headline": "Kim Jong Un watches Russian performers in Pyongyang",
-    "headline_fi": "Kim Jong Un watches Russian performers in Pyongyang",
-    "link": "https://www.euronews.com/video/2026/11/27/kim-jong-un-watches-russian-performers-in-pyongyang",
-    "source": "Euronews",
-    "pub": "2026-11-27 10:49"
-  },
-  {
-    "headline": "Germany and Austria push for European ownership of TikTok",
-    "headline_fi": "Germany and Austria push for European ownership of TikTok",
-    "link": "https://www.euronews.com/2026/11/27/germany-and-austria-push-for-european-ownership-of-tiktok",
-    "source": "Euronews",
-    "pub": "2026-11-27 10:25"
-  },
-  {
-    "headline": "Denmark arrests teenager over data breach affecting 11,000 people",
-    "headline_fi": "Denmark arrests teenager over data breach affecting 11,000 people",
-    "link": "https://www.euronews.com/2026/11/27/denmark-arrests-teenager-over-data-breach-affecting-11000-people",
-    "source": "Euronews",
-    "pub": "2026-11-27 10:18"
-  },
-  {
-    "headline": "France and Germany push for EU budget deal by year-end as far-right rise threatens Ukraine aid",
-    "headline_fi": "France and Germany push for EU budget deal by year-end as far-right rise threatens Ukraine aid",
-    "link": "https://www.france24.com/en/europe/20261127-france-and-germany-push-for-eu-budget-deal-by-year-end-as-far-right-rise-threatens-ukraine-aid",
-    "source": "France 24",
-    "pub": "2026-11-27 10:17"
-  },
-  {
-    "headline": "Russia: Moscow's iconic Soviet-era expo park opens its 20,000-square-metre outdoor ice rink",
-    "headline_fi": "Russia: Moscow's iconic Soviet-era expo park opens its 20,000-square-metre outdoor ice rink",
-    "link": "https://www.euronews.com/video/2026/11/27/russia-moscows-iconic-soviet-era-expo-park-opens-its-20000-square-metre-outdoor-ice-rink",
-    "source": "Euronews",
-    "pub": "2026-11-27 10:08"
-  },
-  {
-    "headline": "'Tribal loyalty' works on right: 'Heart on the left' sensitive to racism, anti-Semitism",
-    "headline_fi": "'Tribal loyalty' works on right: 'Heart on the left' sensitive to racism, anti-Semitism",
-    "link": "https://www.france24.com/en/tv-shows/spotlight/20261127-tribal-loyalty-works-on-right-heart-on-the-left-sensitive-to-racism-antisemitism-human-rights",
-    "source": "France 24",
-    "pub": "2026-11-27 10:07"
-  },
-  {
-    "headline": "The art of no deal: An EU summit of spectacular dysfunction",
-    "headline_fi": "The art of no deal: An EU summit of spectacular dysfunction",
-    "link": "https://www.euronews.com/2026/11/27/the-art-of-no-deal-an-eu-summit-of-spectacular-dysfunction",
-    "source": "Euronews",
-    "pub": "2026-11-27 09:27"
-  },
-  {
-    "headline": "India's Modi government calls special sitting of parliament",
-    "headline_fi": "India's Modi government calls special sitting of parliament",
-    "link": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-27 09:23"
-  },
-  {
-    "headline": "Clashes erupt at Besiktas Europa League match against Israeli club",
-    "headline_fi": "Clashes erupt at Besiktas Europa League match against Israeli club",
-    "link": "https://www.euronews.com/video/2026/11/27/clashes-erupt-at-besiktas-europa-league-match-against-israeli-club",
-    "source": "Euronews",
-    "pub": "2026-11-27 08:57"
-  },
-  {
-    "headline": "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
-    "headline_fi": "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
-    "link": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
-    "source": "France 24",
-    "pub": "2026-11-27 08:46"
-  },
-  {
-    "headline": "Mixing drugs is now the norm, EU drugs agency warns",
-    "headline_fi": "Mixing drugs is now the norm, EU drugs agency warns",
-    "link": "https://www.euronews.com/2026/11/27/mixing-drugs-is-now-the-norm-eu-drugs-agency-warns",
-    "source": "Euronews",
-    "pub": "2026-11-27 08:00"
-  },
-  {
-    "headline": "Latest news bulletin | November 27th, 2026 – Morning",
-    "headline_fi": "Latest news bulletin | November 27th, 2026 – Morning",
-    "link": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-morning",
-    "source": "Euronews",
-    "pub": "2026-11-27 08:00"
-  },
-  {
     "headline": "How Costa’s budget talks sparked a new crisis",
     "headline_fi": "How Costa’s budget talks sparked a new crisis",
     "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-costas-budget-talks-sparked-a-new-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
     "pub": "2026-11-27 05:45"
-  },
-  {
-    "headline": "New Zealand election ends in hung parliament",
-    "headline_fi": "New Zealand election ends in hung parliament",
-    "link": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-27 05:13"
   },
   {
     "headline": "Bank of England boss warns AI must benefit humans",
@@ -532,46 +630,11 @@
     "pub": "2026-11-27 05:00"
   },
   {
-    "headline": "Ukraine cajoles allies to keep Putin’s athletes out",
-    "headline_fi": "Ukraine cajoles allies to keep Putin’s athletes out",
-    "link": "https://www.politico.eu/article/ukraine-pushes-allies-keep-russian-athletes-out-putin-international-sport-restrictions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-27 05:00"
-  },
-  {
-    "headline": "Black Friday hype stems from a desire 'to be part of a collective event', expert says",
-    "headline_fi": "Black Friday hype stems from a desire 'to be part of a collective event', expert says",
-    "link": "https://www.france24.com/en/video/20261126-black-friday-hype-stems-from-a-desire-to-be-part-of-a-collective-event-expert-says",
-    "source": "France 24",
-    "pub": "2026-11-27 00:54"
-  },
-  {
-    "headline": "RN’s antisemitic past ‘coming back to haunt them’: Will Le Pen ‘distance herself’ from Bardella?",
-    "headline_fi": "RN’s antisemitic past ‘coming back to haunt them’: Will Le Pen ‘distance herself’ from Bardella?",
-    "link": "https://www.france24.com/en/rn-s-antisemitic-past-coming-back-to-haunt-them-will-le-pen-distance-herself-from-bardella",
-    "source": "France 24",
-    "pub": "2026-11-27 00:25"
-  },
-  {
-    "headline": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-    "headline_fi": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-    "link": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-all-1573-rdf",
+    "headline": "Albania's youth are protesting, no longer leaving the country",
+    "headline_fi": "Albania's youth are protesting, no longer leaving the country",
+    "link": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 22:44"
-  },
-  {
-    "headline": "Gerard Depardieu to stand trial in France for rape and sexual assault",
-    "headline_fi": "Gerard Depardieu to stand trial in France for rape and sexual assault",
-    "link": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-26 22:41"
-  },
-  {
-    "headline": "Guinea-Bissau junta delays presidential vote for 2 years",
-    "headline_fi": "Guinea-Bissau junta delays presidential vote for 2 years",
-    "link": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-26 22:09"
   },
   {
     "headline": "Trial of Berlin woman accused of spying for Russia begins after delay",
@@ -630,9 +693,9 @@
     "pub": "2026-11-26 11:37"
   },
   {
-    "headline": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-    "headline_fi": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-    "link": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
+    "headline": "Russia-Ukraine war extends to Baltic, Mediterranean",
+    "headline_fi": "Russia-Ukraine war extends to Baltic, Mediterranean",
+    "link": "https://www.dw.com/en/russia-ukraine-war-extends-to-baltic-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-26 11:27"
   },
@@ -987,13 +1050,6 @@
     "pub": "2026-11-17 22:40"
   },
   {
-    "headline": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
-    "headline_fi": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
-    "link": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-17 18:20"
-  },
-  {
     "headline": "Nvidia forms national security committee after Huang affair",
     "headline_fi": "Nvidia forms national security committee after Huang affair",
     "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-all-1573-rdf",
@@ -1181,20 +1237,6 @@
     "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-06 19:10"
-  },
-  {
-    "headline": "What to know about the IIHF Women's Ice Hockey World Championship",
-    "headline_fi": "What to know about the IIHF Women's Ice Hockey World Championship",
-    "link": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-06 15:26"
-  },
-  {
-    "headline": "What the Democrats' midterms win means for the US economy and Trump",
-    "headline_fi": "What the Democrats' midterms win means for the US economy and Trump",
-    "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-05 09:03"
   },
   {
     "headline": "Harry Potter films turns 25 ahead of new TV series' release",
