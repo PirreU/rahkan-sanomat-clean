@@ -1,5 +1,89 @@
 [
   {
+    "headline": "Russia says it downed hundreds of drones as Ukraine reports first laser interception of a jet drone",
+    "headline_fi": "Russia says it downed hundreds of drones as Ukraine reports first laser interception of a jet drone",
+    "link": "https://www.euronews.com/2026/11/28/russia-says-it-downed-hundreds-of-drones-as-ukraine-reports-first-laser-interception-of-a-",
+    "source": "Euronews",
+    "pub": "2026-11-28 09:35"
+  },
+  {
+    "headline": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+    "headline_fi": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+    "link": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+    "source": "France 24",
+    "pub": "2026-11-28 09:12"
+  },
+  {
+    "headline": "Ping pongonomics: Can table-tennis bring strangers together to talk about the art of play?",
+    "headline_fi": "Ping pongonomics: Can table-tennis bring strangers together to talk about the art of play?",
+    "link": "https://www.euronews.com/2026/11/28/ping-pongonomics-can-table-tennis-bring-strangers-together-to-talk-about-the-art-of-play",
+    "source": "Euronews",
+    "pub": "2026-11-28 09:10"
+  },
+  {
+    "headline": "How sifting through sewage could help scientists spot the next pandemic",
+    "headline_fi": "How sifting through sewage could help scientists spot the next pandemic",
+    "link": "https://www.euronews.com/2026/11/28/how-sifting-through-sewage-could-help-scientists-spot-the-next-pandemic",
+    "source": "Euronews",
+    "pub": "2026-11-28 09:00"
+  },
+  {
+    "headline": "Taiwan holds local elections under Beijing's watchful gaze",
+    "headline_fi": "Taiwan holds local elections under Beijing's watchful gaze",
+    "link": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+    "source": "France 24",
+    "pub": "2026-11-28 08:25"
+  },
+  {
+    "headline": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+    "headline_fi": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+    "link": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+    "source": "France 24",
+    "pub": "2026-11-28 08:04"
+  },
+  {
+    "headline": "Italy is turning into a solar powerhouse. But what happens when the sun goes down?",
+    "headline_fi": "Italy is turning into a solar powerhouse. But what happens when the sun goes down?",
+    "link": "https://www.euronews.com/2026/11/28/italy-is-turning-into-a-solar-powerhouse-but-what-happens-when-the-sun-goes-down",
+    "source": "Euronews",
+    "pub": "2026-11-28 08:02"
+  },
+  {
+    "headline": "Latest news bulletin | November 28th, 2026 – Morning",
+    "headline_fi": "Latest news bulletin | November 28th, 2026 – Morning",
+    "link": "https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-morning",
+    "source": "Euronews",
+    "pub": "2026-11-28 08:00"
+  },
+  {
+    "headline": "Russia charges air force deputy chief with taking large bribe",
+    "headline_fi": "Russia charges air force deputy chief with taking large bribe",
+    "link": "https://www.euronews.com/2026/11/28/russia-charges-air-force-deputy-chief-with-taking-large-bribe",
+    "source": "Euronews",
+    "pub": "2026-11-28 08:00"
+  },
+  {
+    "headline": "9 things you need to read ahead of the Spanish election",
+    "headline_fi": "9 things you need to read ahead of the Spanish election",
+    "link": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "pub": "2026-11-28 05:00"
+  },
+  {
+    "headline": "Polls open in Taiwan's closely watched local elections",
+    "headline_fi": "Polls open in Taiwan's closely watched local elections",
+    "link": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-28 04:37"
+  },
+  {
+    "headline": "Spain's Sanchez makes final appeal to voters before election",
+    "headline_fi": "Spain's Sanchez makes final appeal to voters before election",
+    "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-28 02:51"
+  },
+  {
     "headline": "US disables ship in Gulf of Oman under Iran blockade",
     "headline_fi": "US disables ship in Gulf of Oman under Iran blockade",
     "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
@@ -224,20 +308,6 @@
     "pub": "2026-11-27 18:30"
   },
   {
-    "headline": "With Spain’s far right on the cusp of power, can women bail Sanchez out once again?",
-    "headline_fi": "With Spain’s far right on the cusp of power, can women bail Sanchez out once again?",
-    "link": "https://www.france24.com/en/europe/20261127-spain-far-right-vox-at-the-gates-can-women-bail-out-sanchez-once-again",
-    "source": "France 24",
-    "pub": "2026-11-27 18:27"
-  },
-  {
-    "headline": "Nigeria: Political violence and attacks on candidates raise fears ahead of January elections",
-    "headline_fi": "Nigeria: Political violence and attacks on candidates raise fears ahead of January elections",
-    "link": "https://www.france24.com/en/video/20261127-nigeria-political-violence-and-attacks-on-candidates-raise-fears-ahead-of-january-elections",
-    "source": "France 24",
-    "pub": "2026-11-27 18:25"
-  },
-  {
     "headline": "German Bundestag approves record 2027 budget as borrowing hits €210bn",
     "headline_fi": "German Bundestag approves record 2027 budget as borrowing hits €210bn",
     "link": "https://www.euronews.com/2026/11/27/german-bundestag-approves-record-2027-budget-as-borrowing-hits-210bn",
@@ -257,13 +327,6 @@
     "link": "https://www.euronews.com/2026/11/27/smolensk-crash-experts-identify-landing-errors-rule-out-explosion",
     "source": "Euronews",
     "pub": "2026-11-27 18:08"
-  },
-  {
-    "headline": "French student protests: A 'very bizarre' government response",
-    "headline_fi": "French student protests: A 'very bizarre' government response",
-    "link": "https://www.france24.com/en/video/20261127-student-movement-in-france-the-situation-has-varied-greatly-from-one-school-to-another",
-    "source": "France 24",
-    "pub": "2026-11-27 18:04"
   },
   {
     "headline": "Spain election 2026: What are voters worried about?",
@@ -546,69 +609,6 @@
     "pub": "2026-11-27 13:19"
   },
   {
-    "headline": "Feijóo vows to quit if he loses Spanish election and dares Sánchez to do the same",
-    "headline_fi": "Feijóo vows to quit if he loses Spanish election and dares Sánchez to do the same",
-    "link": "https://www.euronews.com/2026/11/27/feijoo-vows-to-quit-if-he-loses-spanish-election-and-dares-sanchez-to-do-the-same",
-    "source": "Euronews",
-    "pub": "2026-11-27 13:13"
-  },
-  {
-    "headline": "Spain’s conservative and far-right parties likely to ‘secure a majority’ in Sunday’s election, expert says",
-    "headline_fi": "Spain’s conservative and far-right parties likely to ‘secure a majority’ in Sunday’s election, expert says",
-    "link": "https://www.euronews.com/video/2026/11/27/spains-conservative-and-far-right-parties-likely-to-secure-a-majority-in-sundays-election-",
-    "source": "Euronews",
-    "pub": "2026-11-27 13:00"
-  },
-  {
-    "headline": "A travel guide to Calvià – a 2027 European Capital of Tourism",
-    "headline_fi": "A travel guide to Calvià – a 2027 European Capital of Tourism",
-    "link": "https://www.euronews.com/2026/11/27/a-travel-guide-to-calvia-a-2027-european-capital-of-tourism",
-    "source": "Euronews",
-    "pub": "2026-11-27 13:00"
-  },
-  {
-    "headline": "Latest news bulletin | November 27th, 2026 – Midday",
-    "headline_fi": "Latest news bulletin | November 27th, 2026 – Midday",
-    "link": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-midday",
-    "source": "Euronews",
-    "pub": "2026-11-27 13:00"
-  },
-  {
-    "headline": "NATO jets scrambled after drone briefly enters Latvian airspace",
-    "headline_fi": "NATO jets scrambled after drone briefly enters Latvian airspace",
-    "link": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
-    "source": "Euronews",
-    "pub": "2026-11-27 12:41"
-  },
-  {
-    "headline": "German sofware giant SAP weighs at least 10,000 job cuts amid AI shift, reports say",
-    "headline_fi": "German sofware giant SAP weighs at least 10,000 job cuts amid AI shift, reports say",
-    "link": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
-    "source": "Euronews",
-    "pub": "2026-11-27 12:37"
-  },
-  {
-    "headline": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
-    "headline_fi": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
-    "link": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
-    "source": "Euronews",
-    "pub": "2026-11-27 12:20"
-  },
-  {
-    "headline": "Video shows Levski fan caught giving Nazi salute before Marseille match",
-    "headline_fi": "Video shows Levski fan caught giving Nazi salute before Marseille match",
-    "link": "https://www.euronews.com/video/2026/11/27/video-shows-levski-fan-caught-giving-nazi-salute-before-marseille-match",
-    "source": "Euronews",
-    "pub": "2026-11-27 12:04"
-  },
-  {
-    "headline": "Trump’s latest tariffs attempt to revive old policy, trade expert says",
-    "headline_fi": "Trump’s latest tariffs attempt to revive old policy, trade expert says",
-    "link": "https://www.euronews.com/video/2026/11/27/trumps-latest-tariffs-attempt-to-revive-old-policy-trade-expert-says",
-    "source": "Euronews",
-    "pub": "2026-11-27 11:55"
-  },
-  {
     "headline": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
     "headline_fi": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
     "link": "https://www.politico.eu/article/islam-sharia-germany-far-right-leader-alice-weidel-attacks-marine-le-pen-muslims-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -616,18 +616,11 @@
     "pub": "2026-11-27 10:59"
   },
   {
-    "headline": "How Costa’s budget talks sparked a new crisis",
-    "headline_fi": "How Costa’s budget talks sparked a new crisis",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-costas-budget-talks-sparked-a-new-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "headline": "EU dithering on packaging law threatens to hammer Christmas sales, businesses warn",
+    "headline_fi": "EU dithering on packaging law threatens to hammer Christmas sales, businesses warn",
+    "link": "https://www.politico.eu/article/eu-indecision-on-packaging-law-threatens-to-hammer-christmas-sales-businesses-warn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "source": "Politico Europe",
-    "pub": "2026-11-27 05:45"
-  },
-  {
-    "headline": "Bank of England boss warns AI must benefit humans",
-    "headline_fi": "Bank of England boss warns AI must benefit humans",
-    "link": "https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "source": "Politico Europe",
-    "pub": "2026-11-27 05:00"
+    "pub": "2026-11-27 07:00"
   },
   {
     "headline": "Albania's youth are protesting, no longer leaving the country",
@@ -1085,13 +1078,6 @@
     "pub": "2026-11-16 19:07"
   },
   {
-    "headline": "The AfD and neo-Nazi networks: How close are the connections?",
-    "headline_fi": "The AfD and neo-Nazi networks: How close are the connections?",
-    "link": "https://www.dw.com/en/the-afd-and-neo-nazi-networks-how-close-are-the-connections/a-79961920?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-16 18:23"
-  },
-  {
     "headline": "COP31 draft deal calls for 'immediate' shift away from fossil fuels",
     "headline_fi": "COP31 draft deal calls for 'immediate' shift away from fossil fuels",
     "link": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-all-1573-rdf",
@@ -1218,13 +1204,6 @@
     "pub": "2026-11-09 15:59"
   },
   {
-    "headline": "Germany hopes to host world ice hockey championship — without Russia",
-    "headline_fi": "Germany hopes to host world ice hockey championship — without Russia",
-    "link": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-11-07 13:06"
-  },
-  {
     "headline": "Amid protests, France's rising debt costs threaten stability",
     "headline_fi": "Amid protests, France's rising debt costs threaten stability",
     "link": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
@@ -1237,6 +1216,13 @@
     "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-11-06 19:10"
+  },
+  {
+    "headline": "What the Democrats' midterms win means for the US economy and Trump",
+    "headline_fi": "What the Democrats' midterms win means for the US economy and Trump",
+    "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "pub": "2026-11-05 09:03"
   },
   {
     "headline": "Harry Potter films turns 25 ahead of new TV series' release",
@@ -1272,12 +1258,5 @@
     "link": "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf",
     "source": "Deutsche Welle",
     "pub": "2026-10-30 09:57"
-  },
-  {
-    "headline": "'Star Trek' star Patrick Stewart dies age 86",
-    "headline_fi": "'Star Trek' star Patrick Stewart dies age 86",
-    "link": "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "pub": "2026-10-30 00:11"
   }
 ]
